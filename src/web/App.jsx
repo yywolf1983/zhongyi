@@ -4,6 +4,8 @@ import { AppProvider } from '../context/AppContext'
 import Header from '../components/common/Header'
 import Navigation from '../components/common/Navigation'
 import GlobalSearchBar from '../components/common/GlobalSearchBar'
+import ErrorBoundary from '../components/common/ErrorBoundary'
+import { DataManager } from '../services/DataManager'
 import SyndromeModule from '../components/syndrome/SyndromeModule'
 import AcupunctureModule from '../components/acupuncture/AcupunctureModule'
 import FormulaModule from '../components/formula/FormulaModule'
@@ -92,6 +94,97 @@ function useCapacitorNative() {
   }, [navigate, location.pathname])
 }
 
+// 应用启动时初始化数据，显示加载状态
+function DataLoader({ children }) {
+  const [dataState, setDataState] = useState('loading')
+  const [errorMsg, setErrorMsg] = useState('')
+
+  useEffect(() => {
+    // 如果数据已有状态（比如 other component 已经 init），直接使用
+    if (DataManager.isReady) {
+      setDataState('ready')
+      return
+    }
+    if (DataManager.state === 'ready' && DataManager.error) {
+      setDataState('degraded')
+      setErrorMsg(DataManager.error)
+      return
+    }
+
+    const unsub = DataManager.onStateChange((state, err) => {
+      if (state === 'ready') {
+        setDataState(err ? 'degraded' : 'ready')
+        setErrorMsg(err || '')
+      } else if (state === 'error') {
+        setDataState('error')
+        setErrorMsg(err || '未知错误')
+      }
+    })
+
+    // 延迟调用 init，避免阻塞首屏渲染
+    const timer = setTimeout(() => {
+      DataManager.init()
+    }, 0)
+
+    return () => {
+      clearTimeout(timer)
+      unsub()
+    }
+  }, [])
+
+  const handleRetry = useCallback(() => {
+    setDataState('loading')
+    setErrorMsg('')
+    DataManager.reload()
+  }, [])
+
+  if (dataState === 'loading') {
+    return (
+      <div style={{
+        display: 'flex', flexDirection: 'column', alignItems: 'center',
+        justifyContent: 'center', minHeight: '50vh', padding: '40px 20px'
+      }}>
+        <div className="loading-spinner" style={{
+          width: '40px', height: '40px', border: '3px solid #e8ece8',
+          borderTopColor: '#4a9c8c', borderRadius: '50%',
+          animation: 'spin 0.8s linear infinite', marginBottom: '16px'
+        }} />
+        <p style={{ color: '#888', fontSize: '0.95rem' }}>
+          {children.props?.loadingText || '正在加载数据...'}
+        </p>
+      </div>
+    )
+  }
+
+  if (dataState === 'error') {
+    return (
+      <div style={{
+        display: 'flex', flexDirection: 'column', alignItems: 'center',
+        justifyContent: 'center', minHeight: '50vh', padding: '40px 20px',
+        textAlign: 'center'
+      }}>
+        <div style={{ fontSize: '3rem', marginBottom: '16px' }}>⚠️</div>
+        <h2 style={{ marginBottom: '8px', color: '#333' }}>数据加载失败</h2>
+        <p style={{ color: '#888', maxWidth: '360px', marginBottom: '24px', fontSize: '0.9rem' }}>
+          应用数据未能成功加载，请重试。
+        </p>
+        <button
+          onClick={handleRetry}
+          style={{
+            padding: '10px 32px', background: '#4a9c8c', color: '#fff',
+            border: 'none', borderRadius: '8px', fontSize: '1rem', cursor: 'pointer'
+          }}
+        >
+          重试
+        </button>
+      </div>
+    )
+  }
+
+  // ready / degraded 状态都渲染子组件
+  return children
+}
+
 function Layout({ children }) {
   useCapacitorNative()
 
@@ -102,7 +195,9 @@ function Layout({ children }) {
       <main className="main-content">
         <Navigation />
         <div className="page-enter">
-          {children}
+          <ErrorBoundary>
+            <DataLoader>{children}</DataLoader>
+          </ErrorBoundary>
         </div>
       </main>
       <ScrollTopButton />

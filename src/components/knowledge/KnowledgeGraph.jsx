@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useRef, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
@@ -42,9 +42,19 @@ const NODE_ICONS = {
 
 export default function KnowledgeGraph() {
   const navigate = useNavigate()
+  const detailPanelRef = useRef(null)
   const [focusEntity, setFocusEntity] = useState(null)
   const [focusType, setFocusType] = useState(null)
   const [viewMode, setViewMode] = useState('syndrome')
+
+  // Auto-scroll to detail panel when a node is clicked
+  useEffect(() => {
+    if (focusEntity && detailPanelRef.current) {
+      setTimeout(() => {
+        detailPanelRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      }, 100)
+    }
+  }, [focusEntity])
 
   const syndromes = useMemo(() => DataManager.getAll(DATA_TYPES.SYNDROMES), [])
   const formulas = useMemo(() => DataManager.getAll(DATA_TYPES.FORMULAS), [])
@@ -332,48 +342,40 @@ export default function KnowledgeGraph() {
           })}
         </div>
 
-        {focusDetails && (
-          <div className="graph-detail-panel">
-            <h3 style={{ color: NODE_COLORS[focusDetails.entity.entityType] }}>
-              {NODE_LABELS[focusDetails.entity.entityType]}：{focusDetails.entity.name}
-            </h3>
-            <p className="section-content" style={{ fontSize: '0.9rem', color: '#888' }}>
-              {focusDetails.entity.pinyin}
-            </p>
-
-            {focusDetails.connections.length > 0 && (
-              <>
-                <h4 style={{ marginTop: '16px', marginBottom: '8px' }}>关联实体</h4>
-                <div className="graph-connections">
-                  {focusDetails.connections.map((conn, i) => (
-                    <div
-                      key={i}
-                      className="graph-connection-item"
-                      onClick={() => conn.target && handleNavigate(conn.target.id, conn.target.entityType)}
-                    >
-                      <span className="connection-label">{conn.label}</span>
-                      <span className="connection-arrow">→</span>
-                      <span className="connection-name">{conn.target?.name || '未知'}</span>
-                      <span className="connection-type" style={{ color: NODE_COLORS[conn.target?.entityType] }}>
-                        {NODE_LABELS[conn.target?.entityType]}
-                      </span>
-                    </div>
-                  ))}
-                </div>
-              </>
-            )}
-
-            <button
-              className="search-button"
-              style={{ marginTop: '16px', width: '100%' }}
-              onClick={() => handleNavigate(focusDetails.entity.id, focusDetails.entity.entityType)}
-            >
-              查看详情
-            </button>
-          </div>
-        )}
       </div>
 
+      {focusDetails && (
+        <div className="graph-detail-panel" ref={detailPanelRef}>
+          <h3 style={{ color: NODE_COLORS[focusDetails.entity.entityType] }}>
+            {NODE_LABELS[focusDetails.entity.entityType]}：{focusDetails.entity.name}
+          </h3>
+          <p className="section-content" style={{ fontSize: '0.9rem', color: '#888' }}>
+            {focusDetails.entity.pinyin}
+          </p>
+
+          {focusDetails.connections.length > 0 && (
+            <>
+              <h4 style={{ marginTop: '16px', marginBottom: '8px' }}>关联实体</h4>
+              <div className="graph-connections">
+                {focusDetails.connections.map((conn, i) => (
+                  <div
+                    key={i}
+                    className="graph-connection-item"
+                    onClick={() => conn.target && handleNavigate(conn.target.id, conn.target.entityType)}
+                  >
+                    <span className="connection-label">{conn.label}</span>
+                    <span className="connection-arrow">→</span>
+                    <span className="connection-name">{conn.target?.name || '未知'}</span>
+                    <span className="connection-type" style={{ color: NODE_COLORS[conn.target?.entityType] }}>
+                      {NODE_LABELS[conn.target?.entityType]}
+                    </span>
+                  </div>
+                ))}
+              </div>
+            </>
+          )}
+        </div>
+      )}
       {viewData.length === 0 && <EmptyState message="暂无数据" />}
     </div>
   )

@@ -22,7 +22,10 @@ export const DATA_TYPES = {
   MODERN_MAPPING: 'modern_mapping'
 }
 
-const dataStore = {
+// ============================================================
+// 数据源映射 & 校验
+// ============================================================
+const DATA_SOURCES = {
   [DATA_TYPES.SYNDROMES]: syndromesData,
   [DATA_TYPES.MEDICINES]: medicinesData,
   [DATA_TYPES.ACUPOINTS]: acupointsData,
@@ -35,12 +38,179 @@ const dataStore = {
   [DATA_TYPES.MODERN_MAPPING]: modernMappingData
 }
 
+// 运行时状态：loading / ready / error
+let _state = 'loading'
+let _errorMsg = ''
+const _listeners = []
+
+function _setState(state, errorMsg) {
+  _state = state
+  _errorMsg = errorMsg || ''
+  _listeners.forEach(fn => { try { fn(state, _errorMsg) } catch {} })
+}
+
+// 校验单个数据集的完整性
+function _validateDataset(type, data) {
+  const errors = []
+  if (!Array.isArray(data)) {
+    errors.push(`${type}: 不是数组格式`)
+    return errors
+  }
+  if (data.length === 0) {
+    errors.push(`${type}: 数据集为空`)
+    return errors
+  }
+  // 检查必要字段
+  const requiredFields = {
+    [DATA_TYPES.SYNDROMES]: ['id', 'name'],
+    [DATA_TYPES.MEDICINES]: ['id', 'name'],
+    [DATA_TYPES.ACUPOINTS]: ['id', 'name'],
+    [DATA_TYPES.FORMULAS]: ['id', 'name'],
+    [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: ['id', 'name'],
+    [DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS]: ['id', 'name'],
+    [DATA_TYPES.TREATMENTS]: ['id', 'name'],
+    [DATA_TYPES.MERIDIANS]: ['id', 'name'],
+    [DATA_TYPES.EFFECTS]: ['id', 'name'],
+    [DATA_TYPES.MODERN_MAPPING]: ['id']
+  }
+  const fields = requiredFields[type] || ['id', 'name']
+  const missingIds = []
+  const dupIds = new Set()
+  const seenIds = new Set()
+  for (let i = 0; i < data.length; i++) {
+    const item = data[i]
+    for (const f of fields) {
+      if (item[f] == null || item[f] === '') {
+        missingIds.push(`  [${i}] 缺少字段 "${f}"`)
+      }
+    }
+    if (item.id && seenIds.has(item.id)) {
+      dupIds.add(item.id)
+    }
+    if (item.id) seenIds.add(item.id)
+  }
+  if (missingIds.length > 0) {
+    errors.push(`${type}: ${missingIds.slice(0, 3).join('; ')}${missingIds.length > 3 ? ` ... 共${missingIds.length}处` : ''}`)
+  }
+  if (dupIds.size > 0) {
+    errors.push(`${type}: 存在重复 ID: ${[...dupIds].slice(0, 3).join(', ')}`)
+  }
+  return errors
+}
+
+const dataStore = { ...DATA_SOURCES }
+
+// ============================================================
+// DataManager
+// ============================================================
 export class DataManager {
+  // ---- 状态查询 ----
+  static get state() { return _state }
+  static get error() { return _errorMsg }
+  static get isReady() { return _state === 'ready' }
+  static get isLoading() { return _state === 'loading' }
+
+  /** 订阅状态变化 */
+  static onStateChange(fn) {
+    _listeners.push(fn)
+    // 如果已经 ready，立即回调
+    if (_state === 'ready') {
+      try { fn('ready', '') } catch {}
+    }
+    return () => {
+      const idx = _listeners.indexOf(fn)
+      if (idx >= 0) _listeners.splice(idx, 1)
+    }
+  }
+
+  // ---- 初始化 ----
+  static init() {
+    if (_state === 'ready') return { ok: true }
+
+    const allErrors = []
+    for (const [type, data] of Object.entries(DATA_SOURCES)) {
+      try {
+        const errs = _validateDataset(type, data)
+        if (errs.length > 0) {
+          allErrors.push(...errs)
+          // 错误的数据集用空数组兜底
+          if (!Array.isArray(data)) {
+            dataStore[type] = []
+          }
+        }
+      } catch (e) {
+        allErrors.push(`${type}: 校验异常 - ${e.message}`)
+      }
+    }
+
+    // 校验跨实体引用
+    try {
+      const allIds = {}
+      for (const [type, data] of Object.entries(dataStore)) {
+        if (Array.isArray(data)) {
+          for (const item of data) {
+            if (item.id) allIds[item.id] = true
+          }
+        }
+      }
+      const refFields = [
+        'related_formulas', 'related_needle', 'related_treatments', 'related_effects',
+        'related_syndromes', 'related_acupoints', 'related_medicines', 'related_meridians',
+        'related_acupoint', 'related_medicine', 'related_formula', 'related_syndrome',
+        'medicine_id', 'acupoint_id', 'meridian_id'
+      ]
+      let brokenRefs = 0
+      for (const [type, data] of Object.entries(dataStore)) {
+        if (!Array.isArray(data)) continue
+        for (const item of data) {
+          for (const field of refFields) {
+            const values = item[field]
+            if (values == null) continue
+            const list = Array.isArray(values) ? values : [values]
+            for (const refId of list) {
+              if (refId && !allIds[refId]) {
+                brokenRefs++
+                if (brokenRefs <= 3) {
+                  allErrors.push(`${item.id || '?'}.${field} → 无效引用: ${refId}`)
+                }
+              }
+            }
+          }
+        }
+      }
+      if (brokenRefs > 3) allErrors.push(`... 共 ${brokenRefs} 处无效引用`)
+    } catch (e) {
+      allErrors.push(`跨实体引用检查异常: ${e.message}`)
+    }
+
+    if (allErrors.length > 0) {
+      console.warn('[DataManager] 数据校验发现问题:', allErrors)
+    }
+
+    // 加载自定义数据（从 localStorage 合并，不覆盖原始数据）
+    for (const type of Object.keys(DATA_SOURCES)) {
+      try { this._safeLoad(type) } catch {}
+    }
+
+    if (allErrors.length > 0) {
+      // 不阻塞启动，降级运行
+      _setState('ready', allErrors.join('; '))
+      return { ok: false, errors: allErrors }
+    }
+
+    _setState('ready', '')
+    return { ok: true }
+  }
+
+  // ---- 数据访问 ----
   static getAll(type) {
+    // 惰性初始化：首次访问时自动 init
+    if (_state === 'loading') this.init()
     return dataStore[type] || []
   }
 
   static getById(type, id) {
+    if (_state === 'loading') this.init()
     const data = dataStore[type] || []
     return data.find(item => item.id === id)
   }
@@ -143,34 +313,89 @@ export class DataManager {
   }
 
   static add(type, data) {
-    const store = dataStore[type] || []
+    const store = dataStore[type]
+    if (!Array.isArray(store)) return null
     const newId = this.generateId(type)
     const newItem = { id: newId, ...data }
     store.push(newItem)
-    this.saveToLocalStorage(type, store)
+    this._safeSave(type)
     return newItem
   }
 
   static update(type, id, data) {
-    const store = dataStore[type] || []
+    const store = dataStore[type]
+    if (!Array.isArray(store)) return null
     const index = store.findIndex(item => item.id === id)
     if (index !== -1) {
       store[index] = { ...store[index], ...data }
-      this.saveToLocalStorage(type, store)
+      this._safeSave(type)
       return store[index]
     }
     return null
   }
 
   static delete(type, id) {
-    const store = dataStore[type] || []
+    const store = dataStore[type]
+    if (!Array.isArray(store)) return null
     const index = store.findIndex(item => item.id === id)
     if (index !== -1) {
       const deleted = store.splice(index, 1)[0]
-      this.saveToLocalStorage(type, store)
+      this._safeSave(type)
       return deleted
     }
     return null
+  }
+
+  /** 安全写入 localStorage，失败时仅 warn 不抛异常 */
+  static _safeSave(type) {
+    try {
+      const str = JSON.stringify(dataStore[type])
+      if (str && str.length > 0) {
+        localStorage.setItem(`custom_${type}`, str)
+      }
+    } catch (e) {
+      if (e.name === 'QuotaExceededError') {
+        console.warn(`[DataManager] localStorage 空间不足，无法保存 ${type}`)
+      } else {
+        console.warn(`[DataManager] 保存 ${type} 失败:`, e.message)
+      }
+    }
+  }
+
+  /** 安全加载自定义数据，只叠加不覆盖 */
+  static _safeLoad(type) {
+    try {
+      const raw = localStorage.getItem(`custom_${type}`)
+      if (!raw) return
+      const parsed = JSON.parse(raw)
+      if (!Array.isArray(parsed) || parsed.length === 0) return
+      const source = DATA_SOURCES[type]
+      const sourceIds = new Set((Array.isArray(source) ? source : []).map(item => item.id))
+      // 只合并 source 中不存在的自定义条目
+      let added = 0
+      for (const item of parsed) {
+        if (item.id && !sourceIds.has(item.id)) {
+          dataStore[type].push(item)
+          added++
+        }
+      }
+      if (added > 0) {
+        console.log(`[DataManager] 已加载 ${added} 条自定义 ${type} 数据`)
+      }
+    } catch (e) {
+      console.warn(`[DataManager] 加载自定义 ${type} 失败，已清除:`, e.message)
+      try { localStorage.removeItem(`custom_${type}`) } catch {}
+    }
+  }
+
+  /** 重新初始化：清空自定义数据，回到原始状态 */
+  static reload() {
+    for (const type of Object.keys(DATA_SOURCES)) {
+      dataStore[type] = [...DATA_SOURCES[type]]
+    }
+    _state = 'loading'
+    _errorMsg = ''
+    return this.init()
   }
 
   static generateId(type) {
@@ -194,26 +419,15 @@ export class DataManager {
     return `${prefix}_${String(maxId + 1).padStart(3, '0')}`
   }
 
+  /** @deprecated 使用 _safeSave */
   static saveToLocalStorage(type, data) {
-    try {
-      localStorage.setItem(`custom_${type}`, JSON.stringify(data))
-    } catch (e) {
-      console.warn('Failed to save to localStorage:', e)
-    }
+    dataStore[type] = data
+    this._safeSave(type)
   }
 
+  /** @deprecated 使用 _safeLoad（init 时自动调用） */
   static loadFromLocalStorage(type) {
-    try {
-      const customData = localStorage.getItem(`custom_${type}`)
-      if (customData) {
-        const parsed = JSON.parse(customData)
-        dataStore[type] = parsed
-        return parsed
-      }
-    } catch (e) {
-      console.warn('Failed to load from localStorage:', e)
-    }
-    return null
+    return this._safeLoad(type)
   }
 
   static getTypes() {

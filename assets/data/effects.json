@@ -757,5 +757,3910 @@
     "related_medicines": [],
     "related_formulas": [],
     "related_syndromes": []
+  },
+  {
+    "id": "effect_040",
+    "name": "交通心肾",
+    "description": "交通心肾的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥交通心肾的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [
+      "medicine_366"
+    ],
+    "related_formulas": [
+      "formula_127",
+      "formula_128"
+    ],
+    "related_syndromes": [
+      "syndrome_092"
+    ]
+  },
+  {
+    "id": "effect_041",
+    "name": "健脾养心",
+    "description": "健运脾胃的治疗作用",
+    "mechanism": "通过健脾药物，增强脾胃运化功能",
+    "indications": [
+      "倦怠",
+      "脾虚证",
+      "腹胀",
+      "食少便溏"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_033"
+    ],
+    "related_syndromes": [
+      "syndrome_097"
+    ]
+  },
+  {
+    "id": "effect_042",
+    "name": "健脾养血",
+    "description": "滋养血液的治疗作用；健运脾胃的治疗作用",
+    "mechanism": "通过滋阴养血药物，柔润滋养阴血；通过健脾药物，增强脾胃运化功能",
+    "indications": [
+      "倦怠",
+      "失眠",
+      "头晕",
+      "脾虚证",
+      "腹胀",
+      "血虚证",
+      "面色萎黄",
+      "食少便溏"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_021"
+    ],
+    "related_syndromes": [
+      "syndrome_004",
+      "syndrome_046",
+      "syndrome_058",
+      "syndrome_073",
+      "syndrome_077",
+      "syndrome_103"
+    ]
+  },
+  {
+    "id": "effect_043",
+    "name": "养血安神",
+    "description": "滋养血液的治疗作用；安定心神的治疗作用",
+    "mechanism": "通过滋阴养血药物，柔润滋养阴血；通过安神药物，使心神宁静",
+    "indications": [
+      "失眠",
+      "头晕",
+      "心悸",
+      "心神不宁",
+      "怔忡",
+      "血虚证",
+      "面色萎黄"
+    ],
+    "related_medicines": [
+      "medicine_214",
+      "medicine_246",
+      "medicine_372"
+    ],
+    "related_formulas": [
+      "formula_044",
+      "formula_121"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_044",
+    "name": "养血活血",
+    "description": "促进血液运行的治疗作用；滋养血液的治疗作用",
+    "mechanism": "通过活血化瘀药物，改善血液循环，消除血液瘀滞；通过滋阴养血药物，柔润滋养阴血",
+    "indications": [
+      "失眠",
+      "头晕",
+      "疼痛固定",
+      "癥瘕",
+      "经闭",
+      "血瘀证",
+      "血虚证",
+      "面色萎黄"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_081"
+    ],
+    "related_syndromes": [
+      "syndrome_015",
+      "syndrome_027",
+      "syndrome_035",
+      "syndrome_084"
+    ]
+  },
+  {
+    "id": "effect_045",
+    "name": "养血祛瘀",
+    "description": "滋养血液的治疗作用",
+    "mechanism": "通过滋阴养血药物，柔润滋养阴血",
+    "indications": [
+      "失眠",
+      "头晕",
+      "血虚证",
+      "面色萎黄"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_061",
+      "formula_062"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_046",
+    "name": "养血通脉",
+    "description": "滋养血液的治疗作用",
+    "mechanism": "通过滋阴养血药物，柔润滋养阴血",
+    "indications": [
+      "失眠",
+      "头晕",
+      "血虚证",
+      "面色萎黄"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_028",
+      "formula_117"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_047",
+    "name": "养阴清热",
+    "description": "清除热邪的治疗作用；滋养阴液的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过甘润养阴药物，填补体内阴液亏虚",
+    "indications": [
+      "发热",
+      "口干咽燥",
+      "口渴",
+      "形体消瘦",
+      "潮热盗汗",
+      "烦躁",
+      "热证",
+      "阴虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_071"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_048",
+    "name": "养阴益胃",
+    "description": "滋养阴液的治疗作用",
+    "mechanism": "通过甘润养阴药物，填补体内阴液亏虚",
+    "indications": [
+      "口干咽燥",
+      "形体消瘦",
+      "潮热盗汗",
+      "阴虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_138"
+    ],
+    "related_syndromes": [
+      "syndrome_107"
+    ]
+  },
+  {
+    "id": "effect_049",
+    "name": "养阴透热",
+    "description": "滋养阴液的治疗作用；透发郁热的治疗作用",
+    "mechanism": "通过甘润养阴药物，填补体内阴液亏虚；通过辛凉透热药物，将深伏之热引导外出",
+    "indications": [
+      "口干咽燥",
+      "夜热早凉",
+      "形体消瘦",
+      "潮热盗汗",
+      "热伏阴分",
+      "热退无汗",
+      "阴虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_013"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_050",
+    "name": "内泻热结",
+    "description": "内泻热结的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥内泻热结的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_020"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_051",
+    "name": "凉肝熄风",
+    "description": "清肝凉血的治疗作用；平息内风的治疗作用",
+    "mechanism": "通过清肝泻火、凉血解毒药物，平息肝经热盛；通过平肝熄风药物，制止内风扰动",
+    "indications": [
+      "中风",
+      "头痛",
+      "抽搐",
+      "烦躁",
+      "目赤",
+      "眩晕",
+      "肝热证",
+      "肝风内动"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_085"
+    ],
+    "related_syndromes": [
+      "syndrome_090"
+    ]
+  },
+  {
+    "id": "effect_052",
+    "name": "凉血散瘀",
+    "description": "凉血清热的治疗作用",
+    "mechanism": "通过药物的苦寒凉血作用，清除营分和血分之热邪",
+    "indications": [
+      "吐衄出血",
+      "斑疹",
+      "血热证"
+    ],
+    "related_medicines": [
+      "medicine_453"
+    ],
+    "related_formulas": [
+      "formula_102"
+    ],
+    "related_syndromes": [
+      "syndrome_116"
+    ]
+  },
+  {
+    "id": "effect_053",
+    "name": "凉血止痢",
+    "description": "凉血清热的治疗作用",
+    "mechanism": "通过药物的苦寒凉血作用，清除营分和血分之热邪",
+    "indications": [
+      "吐衄出血",
+      "斑疹",
+      "血热证"
+    ],
+    "related_medicines": [
+      "medicine_311",
+      "medicine_422"
+    ],
+    "related_formulas": [
+      "formula_012"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_054",
+    "name": "凉血止血",
+    "description": "凉血清热的治疗作用",
+    "mechanism": "通过药物的苦寒凉血作用，清除营分和血分之热邪",
+    "indications": [
+      "吐衄出血",
+      "斑疹",
+      "血热证"
+    ],
+    "related_medicines": [
+      "medicine_050",
+      "medicine_051",
+      "medicine_052",
+      "medicine_102",
+      "medicine_109",
+      "medicine_155",
+      "medicine_156",
+      "medicine_157",
+      "medicine_252",
+      "medicine_306",
+      "medicine_336",
+      "medicine_369",
+      "medicine_429",
+      "medicine_441",
+      "medicine_487",
+      "medicine_506"
+    ],
+    "related_formulas": [
+      "formula_147"
+    ],
+    "related_syndromes": [
+      "syndrome_116"
+    ]
+  },
+  {
+    "id": "effect_055",
+    "name": "利水通淋",
+    "description": "通利水道的治疗作用；通利淋证的治疗作用",
+    "mechanism": "通过利尿药物，使水湿从小便排出；通过清热利尿药物，治疗各种淋证",
+    "indications": [
+      "小便不利",
+      "小便涩痛",
+      "尿急",
+      "尿频",
+      "水湿内停",
+      "水肿",
+      "淋证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_075",
+      "formula_107"
+    ],
+    "related_syndromes": [
+      "syndrome_011",
+      "syndrome_047",
+      "syndrome_057",
+      "syndrome_078",
+      "syndrome_089",
+      "syndrome_113"
+    ]
+  },
+  {
+    "id": "effect_056",
+    "name": "利湿化浊",
+    "description": "利导湿邪的治疗作用",
+    "mechanism": "通过利湿药物，排出体内湿邪",
+    "indications": [
+      "湿证",
+      "脘痞",
+      "身体困重"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_105"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_057",
+    "name": "化湿止带",
+    "description": "芳化湿邪的治疗作用",
+    "mechanism": "通过芳香化湿药物，化解中焦湿浊",
+    "indications": [
+      "呕恶",
+      "湿浊中阻",
+      "纳呆",
+      "脘痞"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_088"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_058",
+    "name": "化痰止咳",
+    "description": "化解痰浊的治疗作用；制止咳嗽的治疗作用",
+    "mechanism": "通过化痰药物，溶解和排除病理痰浊；通过止咳药物，缓解咳嗽症状",
+    "indications": [
+      "咳嗽",
+      "咳嗽痰多",
+      "咳痰",
+      "咽痒",
+      "痰核",
+      "痰证",
+      "胸闷"
+    ],
+    "related_medicines": [
+      "medicine_063",
+      "medicine_156",
+      "medicine_283",
+      "medicine_348",
+      "medicine_403",
+      "medicine_411",
+      "medicine_414",
+      "medicine_429",
+      "medicine_435",
+      "medicine_460",
+      "medicine_478"
+    ],
+    "related_formulas": [
+      "formula_041"
+    ],
+    "related_syndromes": [
+      "syndrome_006",
+      "syndrome_067",
+      "syndrome_074",
+      "syndrome_102"
+    ]
+  },
+  {
+    "id": "effect_059",
+    "name": "化痰通络",
+    "description": "化解痰浊的治疗作用",
+    "mechanism": "通过化痰药物，溶解和排除病理痰浊",
+    "indications": [
+      "咳嗽痰多",
+      "痰核",
+      "痰证",
+      "胸闷"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_082"
+    ],
+    "related_syndromes": [
+      "syndrome_028",
+      "syndrome_076"
+    ]
+  },
+  {
+    "id": "effect_060",
+    "name": "升津舒筋",
+    "description": "升津舒筋的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥升津舒筋的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_090"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_061",
+    "name": "和胃利胆",
+    "description": "调和胃气的治疗作用",
+    "mechanism": "通过和胃药物，恢复胃的和降功能",
+    "indications": [
+      "嗳气",
+      "纳呆",
+      "胃气不和",
+      "脘痞"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_064"
+    ],
+    "related_syndromes": [
+      "syndrome_007"
+    ]
+  },
+  {
+    "id": "effect_062",
+    "name": "和血通痹",
+    "description": "和血通痹的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥和血通痹的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_029"
+    ],
+    "related_syndromes": [
+      "syndrome_040",
+      "syndrome_056"
+    ]
+  },
+  {
+    "id": "effect_063",
+    "name": "和里缓急",
+    "description": "和里缓急的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥和里缓急的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_025"
+    ],
+    "related_syndromes": [
+      "syndrome_021",
+      "syndrome_022",
+      "syndrome_065",
+      "syndrome_075"
+    ]
+  },
+  {
+    "id": "effect_064",
+    "name": "固冲摄血",
+    "description": "固冲摄血的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥固冲摄血的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_051"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_065",
+    "name": "填精止遗",
+    "description": "填补肾精的治疗作用",
+    "mechanism": "通过补肾填精药物，补益精髓",
+    "indications": [
+      "健忘",
+      "发育迟缓",
+      "肾精亏虚",
+      "腰膝酸软"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_110"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_066",
+    "name": "填精益髓",
+    "description": "填补肾精的治疗作用",
+    "mechanism": "通过补肾填精药物，补益精髓",
+    "indications": [
+      "健忘",
+      "发育迟缓",
+      "肾精亏虚",
+      "腰膝酸软"
+    ],
+    "related_medicines": [
+      "medicine_076"
+    ],
+    "related_formulas": [
+      "formula_038",
+      "formula_043",
+      "formula_109"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_100"
+    ]
+  },
+  {
+    "id": "effect_067",
+    "name": "填精补髓",
+    "description": "填补肾精的治疗作用",
+    "mechanism": "通过补肾填精药物，补益精髓",
+    "indications": [
+      "健忘",
+      "发育迟缓",
+      "肾精亏虚",
+      "腰膝酸软"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_134"
+    ],
+    "related_syndromes": [
+      "syndrome_100"
+    ]
+  },
+  {
+    "id": "effect_068",
+    "name": "增液润燥",
+    "description": "滋润干燥的治疗作用；增补津液的治疗作用",
+    "mechanism": "通过甘润药物，濡养干燥组织，缓解燥证；通过甘寒增液药物，增加体内津液",
+    "indications": [
+      "便秘",
+      "口干",
+      "干咳",
+      "津液亏虚",
+      "燥证",
+      "皮肤干燥"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_148"
+    ],
+    "related_syndromes": [
+      "syndrome_117"
+    ]
+  },
+  {
+    "id": "effect_069",
+    "name": "增液舒筋",
+    "description": "增补津液的治疗作用",
+    "mechanism": "通过甘寒增液药物，增加体内津液",
+    "indications": [
+      "便秘",
+      "口干",
+      "津液亏虚",
+      "皮肤干燥"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_085"
+    ],
+    "related_syndromes": [
+      "syndrome_090"
+    ]
+  },
+  {
+    "id": "effect_070",
+    "name": "宁心安神",
+    "description": "安定心神的治疗作用；宁静心神的治疗作用",
+    "mechanism": "通过安神药物，使心神宁静；通过宁心安神药物，使心神安定",
+    "indications": [
+      "失眠",
+      "心悸",
+      "心烦",
+      "心神不宁",
+      "怔忡"
+    ],
+    "related_medicines": [
+      "medicine_068",
+      "medicine_505"
+    ],
+    "related_formulas": [
+      "formula_139"
+    ],
+    "related_syndromes": [
+      "syndrome_108"
+    ]
+  },
+  {
+    "id": "effect_071",
+    "name": "安神定志",
+    "description": "安定心神的治疗作用",
+    "mechanism": "通过安神药物，使心神宁静",
+    "indications": [
+      "失眠",
+      "心悸",
+      "心神不宁",
+      "怔忡"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_133"
+    ],
+    "related_syndromes": [
+      "syndrome_099"
+    ]
+  },
+  {
+    "id": "effect_072",
+    "name": "宣利肺气",
+    "description": "宣利肺气的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥宣利肺气的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_067"
+    ],
+    "related_syndromes": [
+      "syndrome_033"
+    ]
+  },
+  {
+    "id": "effect_073",
+    "name": "宣肺止咳",
+    "description": "宣发肺气的治疗作用；制止咳嗽的治疗作用",
+    "mechanism": "通过宣散药物，恢复肺气的宣发肃降；通过止咳药物，缓解咳嗽症状",
+    "indications": [
+      "咳嗽",
+      "咳痰",
+      "咽痒",
+      "气喘",
+      "肺气不宣",
+      "胸闷"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_004",
+      "formula_123"
+    ],
+    "related_syndromes": [
+      "syndrome_002",
+      "syndrome_051",
+      "syndrome_069",
+      "syndrome_114"
+    ]
+  },
+  {
+    "id": "effect_074",
+    "name": "宣透郁热",
+    "description": "宣散透发的治疗作用",
+    "mechanism": "通过宣散药物，将邪气从内向外透发",
+    "indications": [
+      "外感表证",
+      "郁热内伏"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_092"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_075",
+    "name": "宽胸散结",
+    "description": "消散结块的治疗作用；宽展胸膈的治疗作用",
+    "mechanism": "通过软坚散结药物，消散各种结块肿物；通过行气化痰药物，调畅胸中气机",
+    "indications": [
+      "痈肿",
+      "痰浊阻肺",
+      "瘰疬",
+      "瘿瘤",
+      "癥瘕",
+      "胸痹",
+      "胸闷痛"
+    ],
+    "related_medicines": [
+      "medicine_188"
+    ],
+    "related_formulas": [
+      "formula_066"
+    ],
+    "related_syndromes": [
+      "syndrome_038"
+    ]
+  },
+  {
+    "id": "effect_076",
+    "name": "寒热平调",
+    "description": "寒热平调的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥寒热平调的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_023"
+    ],
+    "related_syndromes": [
+      "syndrome_014",
+      "syndrome_050"
+    ]
+  },
+  {
+    "id": "effect_077",
+    "name": "寒热并调",
+    "description": "寒热并调的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥寒热并调的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_098"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_078",
+    "name": "峻下热结",
+    "description": "峻下热结的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥峻下热结的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_014"
+    ],
+    "related_syndromes": [
+      "syndrome_019",
+      "syndrome_025",
+      "syndrome_041",
+      "syndrome_054"
+    ]
+  },
+  {
+    "id": "effect_079",
+    "name": "平肝息风",
+    "description": "平肝息风的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥平肝息风的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_083"
+    ],
+    "related_syndromes": [
+      "syndrome_012",
+      "syndrome_043",
+      "syndrome_090"
+    ]
+  },
+  {
+    "id": "effect_080",
+    "name": "开窍醒神",
+    "description": "开启清窍的治疗作用；苏醒神志的治疗作用",
+    "mechanism": "通过芳香开窍药物，苏醒神志；通过芳香药物，使神志清醒",
+    "indications": [
+      "中暑",
+      "中风",
+      "意识障碍",
+      "昏迷",
+      "癫痫",
+      "神昏"
+    ],
+    "related_medicines": [
+      "medicine_071",
+      "medicine_223",
+      "medicine_224",
+      "medicine_225",
+      "medicine_370",
+      "medicine_371"
+    ],
+    "related_formulas": [
+      "formula_046"
+    ],
+    "related_syndromes": [
+      "syndrome_023"
+    ]
+  },
+  {
+    "id": "effect_081",
+    "name": "敛阴止汗",
+    "description": "敛阴止汗的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥敛阴止汗的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [
+      "medicine_077"
+    ],
+    "related_formulas": [
+      "formula_034",
+      "formula_048"
+    ],
+    "related_syndromes": [
+      "syndrome_045",
+      "syndrome_086"
+    ]
+  },
+  {
+    "id": "effect_082",
+    "name": "散寒止痛",
+    "description": "驱散寒邪的治疗作用；缓解或消除疼痛的治疗作用",
+    "mechanism": "通过辛温发散药物，驱散体内寒邪；通过理气活血、祛风散寒等药物，缓解各种疼痛",
+    "indications": [
+      "冷痛",
+      "四肢不温",
+      "头痛",
+      "寒证",
+      "畏寒",
+      "疼痛",
+      "痹痛",
+      "腹痛"
+    ],
+    "related_medicines": [
+      "medicine_043",
+      "medicine_146",
+      "medicine_151",
+      "medicine_236",
+      "medicine_352"
+    ],
+    "related_formulas": [
+      "formula_054"
+    ],
+    "related_syndromes": [
+      "syndrome_029",
+      "syndrome_080"
+    ]
+  },
+  {
+    "id": "effect_083",
+    "name": "散结止痛",
+    "description": "消散结块的治疗作用；缓解或消除疼痛的治疗作用",
+    "mechanism": "通过软坚散结药物，消散各种结块肿物；通过理气活血、祛风散寒等药物，缓解各种疼痛",
+    "indications": [
+      "头痛",
+      "疼痛",
+      "痈肿",
+      "痹痛",
+      "瘰疬",
+      "瘿瘤",
+      "癥瘕",
+      "腹痛"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_059"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_084",
+    "name": "明目",
+    "description": "明目的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥明目的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [
+      "medicine_096",
+      "medicine_217"
+    ],
+    "related_formulas": [
+      "formula_129"
+    ],
+    "related_syndromes": [
+      "syndrome_093",
+      "syndrome_115"
+    ]
+  },
+  {
+    "id": "effect_085",
+    "name": "暖肝散寒",
+    "description": "驱散寒邪的治疗作用；温暖肝经的治疗作用",
+    "mechanism": "通过辛温发散药物，驱散体内寒邪；通过暖肝散寒药物，温暖肝经，驱散寒邪",
+    "indications": [
+      "冷痛",
+      "四肢不温",
+      "寒滞肝脉",
+      "寒证",
+      "少腹痛",
+      "畏寒",
+      "疝气"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_145"
+    ],
+    "related_syndromes": [
+      "syndrome_104"
+    ]
+  },
+  {
+    "id": "effect_086",
+    "name": "止汗御风",
+    "description": "止汗御风的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥止汗御风的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_119"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_087",
+    "name": "止痹痛",
+    "description": "止痹痛的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥止痹痛的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [
+      "medicine_338",
+      "medicine_341"
+    ],
+    "related_formulas": [
+      "formula_077",
+      "formula_115"
+    ],
+    "related_syndromes": [
+      "syndrome_027",
+      "syndrome_028",
+      "syndrome_044",
+      "syndrome_064",
+      "syndrome_076",
+      "syndrome_084"
+    ]
+  },
+  {
+    "id": "effect_088",
+    "name": "泻下焦湿热",
+    "description": "攻下通便的治疗作用",
+    "mechanism": "通过攻下药物，通利大便",
+    "indications": [
+      "大便秘结",
+      "腹胀",
+      "阳明腑实"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_008"
+    ],
+    "related_syndromes": [
+      "syndrome_011",
+      "syndrome_078",
+      "syndrome_091"
+    ]
+  },
+  {
+    "id": "effect_089",
+    "name": "泻火解毒",
+    "description": "泻除火热的治疗作用；解除毒邪的治疗作用",
+    "mechanism": "通过苦寒药物的清泻作用，降泻亢盛之火邪；通过清热解毒药物，中和和消除毒邪",
+    "indications": [
+      "口苦",
+      "咽喉肿痛",
+      "火证",
+      "热毒证",
+      "疮疡肿毒",
+      "面赤",
+      "高热"
+    ],
+    "related_medicines": [
+      "medicine_017",
+      "medicine_018",
+      "medicine_019"
+    ],
+    "related_formulas": [
+      "formula_007"
+    ],
+    "related_syndromes": [
+      "syndrome_013",
+      "syndrome_063",
+      "syndrome_072",
+      "syndrome_077",
+      "syndrome_082"
+    ]
+  },
+  {
+    "id": "effect_090",
+    "name": "泻火逐痰",
+    "description": "泻除火热的治疗作用",
+    "mechanism": "通过苦寒药物的清泻作用，降泻亢盛之火邪",
+    "indications": [
+      "口苦",
+      "火证",
+      "面赤",
+      "高热"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_151"
+    ],
+    "related_syndromes": [
+      "syndrome_120"
+    ]
+  },
+  {
+    "id": "effect_091",
+    "name": "活血止痛",
+    "description": "促进血液运行的治疗作用；缓解或消除疼痛的治疗作用",
+    "mechanism": "通过活血化瘀药物，改善血液循环，消除血液瘀滞；通过理气活血、祛风散寒等药物，缓解各种疼痛",
+    "indications": [
+      "头痛",
+      "疼痛",
+      "疼痛固定",
+      "痹痛",
+      "癥瘕",
+      "经闭",
+      "腹痛",
+      "血瘀证"
+    ],
+    "related_medicines": [
+      "medicine_164",
+      "medicine_167",
+      "medicine_356",
+      "medicine_361",
+      "medicine_413"
+    ],
+    "related_formulas": [
+      "formula_082",
+      "formula_124"
+    ],
+    "related_syndromes": [
+      "syndrome_028",
+      "syndrome_076"
+    ]
+  },
+  {
+    "id": "effect_092",
+    "name": "活血祛瘀",
+    "description": "促进血液运行的治疗作用",
+    "mechanism": "通过活血化瘀药物，改善血液循环，消除血液瘀滞",
+    "indications": [
+      "疼痛固定",
+      "癥瘕",
+      "经闭",
+      "血瘀证"
+    ],
+    "related_medicines": [
+      "medicine_058",
+      "medicine_060",
+      "medicine_440"
+    ],
+    "related_formulas": [
+      "formula_058",
+      "formula_059",
+      "formula_112"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_093",
+    "name": "活血通窍",
+    "description": "促进血液运行的治疗作用",
+    "mechanism": "通过活血化瘀药物，改善血液循环，消除血液瘀滞",
+    "indications": [
+      "疼痛固定",
+      "癥瘕",
+      "经闭",
+      "血瘀证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_111"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_094",
+    "name": "消痞散结",
+    "description": "消散结块的治疗作用",
+    "mechanism": "通过软坚散结药物，消散各种结块肿物",
+    "indications": [
+      "痈肿",
+      "瘰疬",
+      "瘿瘤",
+      "癥瘕"
+    ],
+    "related_medicines": [
+      "medicine_062"
+    ],
+    "related_formulas": [
+      "formula_023"
+    ],
+    "related_syndromes": [
+      "syndrome_014",
+      "syndrome_050"
+    ]
+  },
+  {
+    "id": "effect_095",
+    "name": "消肿溃坚",
+    "description": "消除肿胀的治疗作用",
+    "mechanism": "通过活血消肿或利水消肿药物，减轻局部肿胀",
+    "indications": [
+      "局部肿胀",
+      "水肿",
+      "痈肿"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_124"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_096",
+    "name": "涤痰开窍",
+    "description": "荡涤顽痰的治疗作用；开启清窍的治疗作用",
+    "mechanism": "通过猛烈的化痰药物，清除顽固痰浊；通过芳香开窍药物，苏醒神志",
+    "indications": [
+      "中暑",
+      "中风",
+      "中风昏迷",
+      "癫痫",
+      "神昏",
+      "顽痰胶结"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_132"
+    ],
+    "related_syndromes": [
+      "syndrome_098"
+    ]
+  },
+  {
+    "id": "effect_097",
+    "name": "润肠泄热",
+    "description": "滋润肠道的治疗作用",
+    "mechanism": "通过润滑肠道药物，缓解肠燥便秘",
+    "indications": [
+      "大便干结",
+      "排便困难",
+      "肠燥便秘"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_017"
+    ],
+    "related_syndromes": [
+      "syndrome_041",
+      "syndrome_062"
+    ]
+  },
+  {
+    "id": "effect_098",
+    "name": "润肠通便",
+    "description": "滋润肠道的治疗作用；通导大便的治疗作用",
+    "mechanism": "通过润滑肠道药物，缓解肠燥便秘；通过润肠或泻下药物，治疗便秘",
+    "indications": [
+      "便秘",
+      "大便干结",
+      "排便困难",
+      "肠燥便秘"
+    ],
+    "related_medicines": [
+      "medicine_031",
+      "medicine_060",
+      "medicine_065",
+      "medicine_118",
+      "medicine_119",
+      "medicine_188",
+      "medicine_194",
+      "medicine_201",
+      "medicine_211",
+      "medicine_265",
+      "medicine_266",
+      "medicine_321",
+      "medicine_363",
+      "medicine_378",
+      "medicine_391"
+    ],
+    "related_formulas": [
+      "formula_018"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_099",
+    "name": "润肺止咳",
+    "description": "制止咳嗽的治疗作用",
+    "mechanism": "通过止咳药物，缓解咳嗽症状",
+    "indications": [
+      "咳嗽",
+      "咳痰",
+      "咽痒"
+    ],
+    "related_medicines": [
+      "medicine_119",
+      "medicine_242",
+      "medicine_391"
+    ],
+    "related_formulas": [
+      "formula_136"
+    ],
+    "related_syndromes": [
+      "syndrome_105"
+    ]
+  },
+  {
+    "id": "effect_100",
+    "name": "涩精止遗",
+    "description": "固涩精关的治疗作用",
+    "mechanism": "通过收涩药物，防止精气滑脱",
+    "indications": [
+      "早泄",
+      "滑精",
+      "遗精"
+    ],
+    "related_medicines": [
+      "medicine_049"
+    ],
+    "related_formulas": [
+      "formula_087"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_101",
+    "name": "清利湿热",
+    "description": "利导湿邪的治疗作用",
+    "mechanism": "通过利湿药物，排出体内湿邪",
+    "indications": [
+      "湿证",
+      "脘痞",
+      "身体困重"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_076"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_102",
+    "name": "清宣温燥",
+    "description": "清宣温燥的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥清宣温燥的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_136"
+    ],
+    "related_syndromes": [
+      "syndrome_105"
+    ]
+  },
+  {
+    "id": "effect_103",
+    "name": "清暑利湿",
+    "description": "利导湿邪的治疗作用",
+    "mechanism": "通过利湿药物，排出体内湿邪",
+    "indications": [
+      "湿证",
+      "脘痞",
+      "身体困重"
+    ],
+    "related_medicines": [
+      "medicine_506"
+    ],
+    "related_formulas": [
+      "formula_144"
+    ],
+    "related_syndromes": [
+      "syndrome_110",
+      "syndrome_112"
+    ]
+  },
+  {
+    "id": "effect_104",
+    "name": "清泻肝胆实火",
+    "description": "清泻肝胆实火的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥清泻肝胆实火的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_126"
+    ],
+    "related_syndromes": [
+      "syndrome_091"
+    ]
+  },
+  {
+    "id": "effect_105",
+    "name": "清火安神",
+    "description": "安定心神的治疗作用",
+    "mechanism": "通过安神药物，使心神宁静",
+    "indications": [
+      "失眠",
+      "心悸",
+      "心神不宁",
+      "怔忡"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_128"
+    ],
+    "related_syndromes": [
+      "syndrome_092"
+    ]
+  },
+  {
+    "id": "effect_106",
+    "name": "清热养血",
+    "description": "清除热邪的治疗作用；滋养血液的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过滋阴养血药物，柔润滋养阴血",
+    "indications": [
+      "发热",
+      "口渴",
+      "失眠",
+      "头晕",
+      "烦躁",
+      "热证",
+      "血虚证",
+      "面色萎黄"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_079"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_107",
+    "name": "清热化痰",
+    "description": "清除热邪的治疗作用；化解痰浊的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过化痰药物，溶解和排除病理痰浊",
+    "indications": [
+      "发热",
+      "口渴",
+      "咳嗽痰多",
+      "烦躁",
+      "热证",
+      "痰核",
+      "痰证",
+      "胸闷"
+    ],
+    "related_medicines": [
+      "medicine_064",
+      "medicine_188",
+      "medicine_189",
+      "medicine_191",
+      "medicine_434"
+    ],
+    "related_formulas": [
+      "formula_065",
+      "formula_066"
+    ],
+    "related_syndromes": [
+      "syndrome_037",
+      "syndrome_038"
+    ]
+  },
+  {
+    "id": "effect_108",
+    "name": "清热开窍",
+    "description": "清除热邪的治疗作用；开启清窍的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过芳香开窍药物，苏醒神志",
+    "indications": [
+      "中暑",
+      "中风",
+      "发热",
+      "口渴",
+      "烦躁",
+      "热证",
+      "癫痫",
+      "神昏"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_125"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_109",
+    "name": "清热泻火",
+    "description": "清除热邪的治疗作用；泻除火热的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过苦寒药物的清泻作用，降泻亢盛之火邪",
+    "indications": [
+      "发热",
+      "口渴",
+      "口苦",
+      "火证",
+      "烦躁",
+      "热证",
+      "面赤",
+      "高热"
+    ],
+    "related_medicines": [
+      "medicine_014",
+      "medicine_015",
+      "medicine_030",
+      "medicine_324",
+      "medicine_325",
+      "medicine_326"
+    ],
+    "related_formulas": [
+      "formula_075",
+      "formula_107"
+    ],
+    "related_syndromes": [
+      "syndrome_011",
+      "syndrome_047",
+      "syndrome_057",
+      "syndrome_078",
+      "syndrome_089",
+      "syndrome_113"
+    ]
+  },
+  {
+    "id": "effect_110",
+    "name": "清热活血",
+    "description": "清除热邪的治疗作用；促进血液运行的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过活血化瘀药物，改善血液循环，消除血液瘀滞",
+    "indications": [
+      "发热",
+      "口渴",
+      "烦躁",
+      "热证",
+      "疼痛固定",
+      "癥瘕",
+      "经闭",
+      "血瘀证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_083"
+    ],
+    "related_syndromes": [
+      "syndrome_012",
+      "syndrome_043",
+      "syndrome_090"
+    ]
+  },
+  {
+    "id": "effect_111",
+    "name": "清热燥湿",
+    "description": "清除热邪的治疗作用；干燥湿邪的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过苦温燥湿药物，燥化体内湿浊",
+    "indications": [
+      "发热",
+      "口渴",
+      "呕恶",
+      "泄泻",
+      "湿浊中阻",
+      "烦躁",
+      "热证",
+      "脘痞"
+    ],
+    "related_medicines": [
+      "medicine_017",
+      "medicine_018",
+      "medicine_019",
+      "medicine_094",
+      "medicine_095",
+      "medicine_096",
+      "medicine_097",
+      "medicine_466"
+    ],
+    "related_formulas": [
+      "formula_011"
+    ],
+    "related_syndromes": [
+      "syndrome_119"
+    ]
+  },
+  {
+    "id": "effect_112",
+    "name": "清热燥湿止泻",
+    "description": "清除热邪的治疗作用；干燥湿邪的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过苦温燥湿药物，燥化体内湿浊",
+    "indications": [
+      "发热",
+      "口渴",
+      "呕恶",
+      "泄泻",
+      "湿浊中阻",
+      "烦躁",
+      "热证",
+      "脘痞"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_150"
+    ],
+    "related_syndromes": [
+      "syndrome_119"
+    ]
+  },
+  {
+    "id": "effect_113",
+    "name": "清热生津",
+    "description": "清除热邪的治疗作用；生成津液的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过甘润药物，促进津液生成，缓解口渴咽干",
+    "indications": [
+      "发热",
+      "口渴",
+      "咽干",
+      "津伤证",
+      "烦躁",
+      "热证"
+    ],
+    "related_medicines": [
+      "medicine_239",
+      "medicine_322",
+      "medicine_323"
+    ],
+    "related_formulas": [
+      "formula_006",
+      "formula_093",
+      "formula_094"
+    ],
+    "related_syndromes": [
+      "syndrome_018",
+      "syndrome_034",
+      "syndrome_052",
+      "syndrome_063",
+      "syndrome_072",
+      "syndrome_082"
+    ]
+  },
+  {
+    "id": "effect_114",
+    "name": "清热除烦",
+    "description": "清除热邪的治疗作用；消除烦热不适的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过清热除烦药物，清解胸中烦热，安定心神",
+    "indications": [
+      "发热",
+      "口渴",
+      "心烦",
+      "烦躁",
+      "热证",
+      "胸中懊憹",
+      "躁扰不宁"
+    ],
+    "related_medicines": [
+      "medicine_327",
+      "medicine_510"
+    ],
+    "related_formulas": [
+      "formula_044",
+      "formula_092",
+      "formula_121"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_115",
+    "name": "清燥润肺",
+    "description": "清燥润肺的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥清燥润肺的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_137"
+    ],
+    "related_syndromes": [
+      "syndrome_105"
+    ]
+  },
+  {
+    "id": "effect_116",
+    "name": "清肝胆实火",
+    "description": "清肝胆实火的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥清肝胆实火的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_008"
+    ],
+    "related_syndromes": [
+      "syndrome_011",
+      "syndrome_078",
+      "syndrome_091"
+    ]
+  },
+  {
+    "id": "effect_117",
+    "name": "清肺平喘",
+    "description": "平息喘促的治疗作用",
+    "mechanism": "通过降气平喘药物，缓解呼吸困难",
+    "indications": [
+      "呼吸困难",
+      "气喘",
+      "胸闷"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_005"
+    ],
+    "related_syndromes": [
+      "syndrome_037",
+      "syndrome_038",
+      "syndrome_049",
+      "syndrome_052",
+      "syndrome_061",
+      "syndrome_083"
+    ]
+  },
+  {
+    "id": "effect_118",
+    "name": "清胃凉血",
+    "description": "凉血清热的治疗作用",
+    "mechanism": "通过药物的苦寒凉血作用，清除营分和血分之热邪",
+    "indications": [
+      "吐衄出血",
+      "斑疹",
+      "血热证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_009"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_119",
+    "name": "清胃泻火",
+    "description": "泻除火热的治疗作用",
+    "mechanism": "通过苦寒药物的清泻作用，降泻亢盛之火邪",
+    "indications": [
+      "口苦",
+      "火证",
+      "面赤",
+      "高热"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_108"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_120",
+    "name": "清胃热",
+    "description": "清胃热的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥清胃热的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_010"
+    ],
+    "related_syndromes": [
+      "syndrome_009",
+      "syndrome_079"
+    ]
+  },
+  {
+    "id": "effect_121",
+    "name": "清胆和胃",
+    "description": "调和胃气的治疗作用",
+    "mechanism": "通过和胃药物，恢复胃的和降功能",
+    "indications": [
+      "嗳气",
+      "纳呆",
+      "胃气不和",
+      "脘痞"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_116"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_122",
+    "name": "清营解毒",
+    "description": "解除毒邪的治疗作用",
+    "mechanism": "通过清热解毒药物，中和和消除毒邪",
+    "indications": [
+      "咽喉肿痛",
+      "热毒证",
+      "疮疡肿毒"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_101"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_123",
+    "name": "渗湿止泻",
+    "description": "渗利湿邪的治疗作用",
+    "mechanism": "通过淡渗利湿药物，缓慢渗利水湿",
+    "indications": [
+      "小便不利",
+      "泄泻",
+      "湿浊"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_032"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_124",
+    "name": "温中健脾",
+    "description": "健运脾胃的治疗作用；温补中焦的治疗作用",
+    "mechanism": "通过健脾药物，增强脾胃运化功能；通过辛温药物，温暖中焦脾胃，驱散寒邪",
+    "indications": [
+      "中焦虚寒",
+      "倦怠",
+      "呕吐",
+      "泄泻",
+      "脾虚证",
+      "腹痛",
+      "腹胀",
+      "食少便溏"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_024"
+    ],
+    "related_syndromes": [
+      "syndrome_014",
+      "syndrome_050",
+      "syndrome_095"
+    ]
+  },
+  {
+    "id": "effect_125",
+    "name": "温中祛寒",
+    "description": "温补中焦的治疗作用；祛除寒邪的治疗作用",
+    "mechanism": "通过辛温药物，温暖中焦脾胃，驱散寒邪；通过温里祛寒药物，消除体内的寒邪",
+    "indications": [
+      "中焦虚寒",
+      "呕吐",
+      "呕吐泄泻",
+      "泄泻",
+      "脘腹冷痛",
+      "腹痛",
+      "里寒证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_096"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_126",
+    "name": "温中补虚",
+    "description": "温补中焦的治疗作用",
+    "mechanism": "通过辛温药物，温暖中焦脾胃，驱散寒邪",
+    "indications": [
+      "中焦虚寒",
+      "呕吐",
+      "泄泻",
+      "腹痛"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_025",
+      "formula_026"
+    ],
+    "related_syndromes": [
+      "syndrome_021",
+      "syndrome_022",
+      "syndrome_065",
+      "syndrome_075"
+    ]
+  },
+  {
+    "id": "effect_127",
+    "name": "温经散寒",
+    "description": "温通经脉的治疗作用；驱散寒邪的治疗作用",
+    "mechanism": "通过辛温走窜药物，温散经脉中的寒邪；通过辛温发散药物，驱散体内寒邪",
+    "indications": [
+      "冷痛",
+      "四肢不温",
+      "四肢厥冷",
+      "寒痹",
+      "寒证",
+      "畏寒",
+      "痛经"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_028",
+      "formula_062",
+      "formula_117"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_128",
+    "name": "温经止痛",
+    "description": "温通经脉的治疗作用；缓解或消除疼痛的治疗作用",
+    "mechanism": "通过辛温走窜药物，温散经脉中的寒邪；通过理气活血、祛风散寒等药物，缓解各种疼痛",
+    "indications": [
+      "四肢厥冷",
+      "头痛",
+      "寒痹",
+      "疼痛",
+      "痛经",
+      "痹痛",
+      "腹痛"
+    ],
+    "related_medicines": [
+      "medicine_120",
+      "medicine_121"
+    ],
+    "related_formulas": [
+      "formula_061"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_129",
+    "name": "温肝暖胃",
+    "description": "温肝暖胃的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥温肝暖胃的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_097"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_130",
+    "name": "温肺化饮",
+    "description": "温化肺中寒饮的治疗作用",
+    "mechanism": "通过辛温药物，温化肺中寒饮痰浊",
+    "indications": [
+      "咳喘",
+      "寒饮伏肺",
+      "痰白清稀"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_089"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_131",
+    "name": "温肾益精",
+    "description": "温补肾阳的治疗作用",
+    "mechanism": "通过温补药物，温热肾阳",
+    "indications": [
+      "畏寒",
+      "肾阳虚",
+      "腰膝冷痛",
+      "阳痿"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_018"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_132",
+    "name": "温肾祛寒",
+    "description": "温补肾阳的治疗作用；祛除寒邪的治疗作用",
+    "mechanism": "通过温补药物，温热肾阳；通过温里祛寒药物，消除体内的寒邪",
+    "indications": [
+      "呕吐泄泻",
+      "畏寒",
+      "肾阳虚",
+      "脘腹冷痛",
+      "腰膝冷痛",
+      "里寒证",
+      "阳痿"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_050"
+    ],
+    "related_syndromes": [
+      "syndrome_101"
+    ]
+  },
+  {
+    "id": "effect_133",
+    "name": "温肾纳气",
+    "description": "温补肾阳的治疗作用；摄纳肾气的治疗作用",
+    "mechanism": "通过温补药物，温热肾阳；通过补肾纳气药物，使肾气摄纳，气归丹田",
+    "indications": [
+      "呼多吸少",
+      "畏寒",
+      "肾不纳气",
+      "肾阳虚",
+      "腰膝冷痛",
+      "虚喘",
+      "阳痿"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_146"
+    ],
+    "related_syndromes": [
+      "syndrome_106"
+    ]
+  },
+  {
+    "id": "effect_134",
+    "name": "温补气血",
+    "description": "补益元气的治疗作用",
+    "mechanism": "通过甘温补气药物，补充人体元气",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "神疲乏力"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_142"
+    ],
+    "related_syndromes": [
+      "syndrome_111"
+    ]
+  },
+  {
+    "id": "effect_135",
+    "name": "温阳利水",
+    "description": "温补阳气的治疗作用；通利水道的治疗作用",
+    "mechanism": "通过温补药物，恢复和增强阳气；通过利尿药物，使水湿从小便排出",
+    "indications": [
+      "小便不利",
+      "水湿内停",
+      "水肿",
+      "畏寒肢冷",
+      "腰膝酸软",
+      "阳虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_069"
+    ],
+    "related_syndromes": [
+      "syndrome_032"
+    ]
+  },
+  {
+    "id": "effect_136",
+    "name": "温阳化气",
+    "description": "温补阳气的治疗作用",
+    "mechanism": "通过温补药物，恢复和增强阳气",
+    "indications": [
+      "畏寒肢冷",
+      "腰膝酸软",
+      "阳虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_070"
+    ],
+    "related_syndromes": [
+      "syndrome_031"
+    ]
+  },
+  {
+    "id": "effect_137",
+    "name": "温阳祛寒",
+    "description": "温补阳气的治疗作用；祛除寒邪的治疗作用",
+    "mechanism": "通过温补药物，恢复和增强阳气；通过温里祛寒药物，消除体内的寒邪",
+    "indications": [
+      "呕吐泄泻",
+      "畏寒肢冷",
+      "脘腹冷痛",
+      "腰膝酸软",
+      "里寒证",
+      "阳虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_131"
+    ],
+    "related_syndromes": [
+      "syndrome_095"
+    ]
+  },
+  {
+    "id": "effect_138",
+    "name": "滋养肺胃",
+    "description": "滋养肺胃的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥滋养肺胃的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_100"
+    ],
+    "related_syndromes": [
+      "syndrome_107"
+    ]
+  },
+  {
+    "id": "effect_139",
+    "name": "滋肾养肝",
+    "description": "滋肾养肝的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥滋肾养肝的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_129"
+    ],
+    "related_syndromes": [
+      "syndrome_093",
+      "syndrome_115"
+    ]
+  },
+  {
+    "id": "effect_140",
+    "name": "滋肾养肺",
+    "description": "滋肾养肺的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥滋肾养肺的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_135"
+    ],
+    "related_syndromes": [
+      "syndrome_102"
+    ]
+  },
+  {
+    "id": "effect_141",
+    "name": "滋肾阴",
+    "description": "滋肾阴的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥滋肾阴的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_010"
+    ],
+    "related_syndromes": [
+      "syndrome_009",
+      "syndrome_079"
+    ]
+  },
+  {
+    "id": "effect_142",
+    "name": "滋阴养血",
+    "description": "滋补阴液的治疗作用；滋养血液的治疗作用",
+    "mechanism": "通过甘寒滋阴药物，深层次填补阴液；通过滋阴养血药物，柔润滋养阴血",
+    "indications": [
+      "五心烦热",
+      "口干咽燥",
+      "失眠",
+      "头晕",
+      "潮热盗汗",
+      "血虚证",
+      "阴虚证",
+      "面色萎黄"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_045",
+      "formula_120"
+    ],
+    "related_syndromes": [
+      "syndrome_013"
+    ]
+  },
+  {
+    "id": "effect_143",
+    "name": "滋阴增液",
+    "description": "滋补阴液的治疗作用；增补津液的治疗作用",
+    "mechanism": "通过甘寒滋阴药物，深层次填补阴液；通过甘寒增液药物，增加体内津液",
+    "indications": [
+      "五心烦热",
+      "便秘",
+      "口干",
+      "口干咽燥",
+      "津液亏虚",
+      "潮热盗汗",
+      "皮肤干燥",
+      "阴虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_108"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_144",
+    "name": "滋阴清热",
+    "description": "清除热邪的治疗作用；滋补阴液的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪；通过甘寒滋阴药物，深层次填补阴液",
+    "indications": [
+      "五心烦热",
+      "发热",
+      "口干咽燥",
+      "口渴",
+      "潮热盗汗",
+      "烦躁",
+      "热证",
+      "阴虚证"
+    ],
+    "related_medicines": [
+      "medicine_249"
+    ],
+    "related_formulas": [
+      "formula_134"
+    ],
+    "related_syndromes": [
+      "syndrome_100"
+    ]
+  },
+  {
+    "id": "effect_145",
+    "name": "滋阴潜阳",
+    "description": "滋补阴液的治疗作用",
+    "mechanism": "通过甘寒滋阴药物，深层次填补阴液",
+    "indications": [
+      "五心烦热",
+      "口干咽燥",
+      "潮热盗汗",
+      "阴虚证"
+    ],
+    "related_medicines": [
+      "medicine_253",
+      "medicine_501"
+    ],
+    "related_formulas": [
+      "formula_084",
+      "formula_114"
+    ],
+    "related_syndromes": [
+      "syndrome_012",
+      "syndrome_043"
+    ]
+  },
+  {
+    "id": "effect_146",
+    "name": "滋阴疏肝",
+    "description": "滋补阴液的治疗作用；疏泄肝气的治疗作用",
+    "mechanism": "通过甘寒滋阴药物，深层次填补阴液；通过疏肝理气药物，缓解肝气郁结",
+    "indications": [
+      "五心烦热",
+      "口干咽燥",
+      "潮热盗汗",
+      "烦躁易怒",
+      "肝郁证",
+      "胸胁胀痛",
+      "阴虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_040"
+    ],
+    "related_syndromes": [
+      "syndrome_093",
+      "syndrome_115"
+    ]
+  },
+  {
+    "id": "effect_147",
+    "name": "滋阴补肾",
+    "description": "滋补阴液的治疗作用；补益肾脏的治疗作用",
+    "mechanism": "通过甘寒滋阴药物，深层次填补阴液；通过补肾药物，增强肾脏精气功能",
+    "indications": [
+      "五心烦热",
+      "口干咽燥",
+      "潮热盗汗",
+      "耳鸣",
+      "肾虚证",
+      "腰膝酸软",
+      "遗精",
+      "阴虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_037",
+      "formula_038",
+      "formula_109"
+    ],
+    "related_syndromes": [
+      "syndrome_006",
+      "syndrome_100"
+    ]
+  },
+  {
+    "id": "effect_148",
+    "name": "燥湿运脾",
+    "description": "干燥湿邪的治疗作用",
+    "mechanism": "通过苦温燥湿药物，燥化体内湿浊",
+    "indications": [
+      "呕恶",
+      "泄泻",
+      "湿浊中阻",
+      "脘痞"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_072"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_149",
+    "name": "理气化痰",
+    "description": "化解痰浊的治疗作用",
+    "mechanism": "通过化痰药物，溶解和排除病理痰浊",
+    "indications": [
+      "咳嗽痰多",
+      "痰核",
+      "痰证",
+      "胸闷"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_064",
+      "formula_116"
+    ],
+    "related_syndromes": [
+      "syndrome_007"
+    ]
+  },
+  {
+    "id": "effect_150",
+    "name": "理气和中",
+    "description": "理气和中的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥理气和中的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_063",
+      "formula_073",
+      "formula_106",
+      "formula_132"
+    ],
+    "related_syndromes": [
+      "syndrome_007",
+      "syndrome_040",
+      "syndrome_056",
+      "syndrome_098",
+      "syndrome_106"
+    ]
+  },
+  {
+    "id": "effect_151",
+    "name": "理气止咳",
+    "description": "制止咳嗽的治疗作用",
+    "mechanism": "通过止咳药物，缓解咳嗽症状",
+    "indications": [
+      "咳嗽",
+      "咳痰",
+      "咽痒"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_065"
+    ],
+    "related_syndromes": [
+      "syndrome_037"
+    ]
+  },
+  {
+    "id": "effect_152",
+    "name": "生津润燥",
+    "description": "生成津液的治疗作用；滋润干燥的治疗作用",
+    "mechanism": "通过甘润药物，促进津液生成，缓解口渴咽干；通过甘润药物，濡养干燥组织，缓解燥证",
+    "indications": [
+      "口干",
+      "口渴",
+      "咽干",
+      "干咳",
+      "津伤证",
+      "燥证",
+      "皮肤干燥"
+    ],
+    "related_medicines": [
+      "medicine_376"
+    ],
+    "related_formulas": [
+      "formula_138"
+    ],
+    "related_syndromes": [
+      "syndrome_107"
+    ]
+  },
+  {
+    "id": "effect_153",
+    "name": "疏肝通络",
+    "description": "疏泄肝气的治疗作用",
+    "mechanism": "通过疏肝理气药物，缓解肝气郁结",
+    "indications": [
+      "烦躁易怒",
+      "肝郁证",
+      "胸胁胀痛"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_058"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_154",
+    "name": "疏风止咳",
+    "description": "制止咳嗽的治疗作用",
+    "mechanism": "通过止咳药物，缓解咳嗽症状",
+    "indications": [
+      "咳嗽",
+      "咳痰",
+      "咽痒"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_067"
+    ],
+    "related_syndromes": [
+      "syndrome_033"
+    ]
+  },
+  {
+    "id": "effect_155",
+    "name": "疏风止痛",
+    "description": "缓解或消除疼痛的治疗作用",
+    "mechanism": "通过理气活血、祛风散寒等药物，缓解各种疼痛",
+    "indications": [
+      "头痛",
+      "疼痛",
+      "痹痛",
+      "腹痛"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_080"
+    ],
+    "related_syndromes": [
+      "syndrome_042"
+    ]
+  },
+  {
+    "id": "effect_156",
+    "name": "疏风清热",
+    "description": "清除热邪的治疗作用",
+    "mechanism": "通过药物的寒凉性质，清除体内的热邪",
+    "indications": [
+      "发热",
+      "口渴",
+      "烦躁",
+      "热证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_004",
+      "formula_081",
+      "formula_123"
+    ],
+    "related_syndromes": [
+      "syndrome_002",
+      "syndrome_015",
+      "syndrome_027",
+      "syndrome_035",
+      "syndrome_051",
+      "syndrome_069",
+      "syndrome_084",
+      "syndrome_114"
+    ]
+  },
+  {
+    "id": "effect_157",
+    "name": "疏风除湿",
+    "description": "疏风除湿的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥疏风除湿的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_079"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_158",
+    "name": "益气养血",
+    "description": "补益正气的治疗作用；滋养血液的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能；通过滋阴养血药物，柔润滋养阴血",
+    "indications": [
+      "失眠",
+      "头晕",
+      "少气懒言",
+      "气虚证",
+      "神疲乏力",
+      "自汗",
+      "血虚证",
+      "面色萎黄"
+    ],
+    "related_medicines": [
+      "medicine_264",
+      "medicine_462"
+    ],
+    "related_formulas": [
+      "formula_139"
+    ],
+    "related_syndromes": [
+      "syndrome_108"
+    ]
+  },
+  {
+    "id": "effect_159",
+    "name": "益气养阴",
+    "description": "滋养阴液的治疗作用；补益正气的治疗作用",
+    "mechanism": "通过甘润养阴药物，填补体内阴液亏虚；通过补气药物，增强人体的元气和脏腑功能",
+    "indications": [
+      "口干咽燥",
+      "少气懒言",
+      "形体消瘦",
+      "气虚证",
+      "潮热盗汗",
+      "神疲乏力",
+      "自汗",
+      "阴虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_093",
+      "formula_137"
+    ],
+    "related_syndromes": [
+      "syndrome_105"
+    ]
+  },
+  {
+    "id": "effect_160",
+    "name": "益气升提",
+    "description": "补益正气的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "神疲乏力",
+      "自汗"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_140"
+    ],
+    "related_syndromes": [
+      "syndrome_096",
+      "syndrome_109"
+    ]
+  },
+  {
+    "id": "effect_161",
+    "name": "益气升陷",
+    "description": "补益正气的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "神疲乏力",
+      "自汗"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_113"
+    ],
+    "related_syndromes": [
+      "syndrome_096"
+    ]
+  },
+  {
+    "id": "effect_162",
+    "name": "益气和胃",
+    "description": "补益正气的治疗作用；调和胃气的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能；通过和胃药物，恢复胃的和降功能",
+    "indications": [
+      "嗳气",
+      "少气懒言",
+      "气虚证",
+      "神疲乏力",
+      "纳呆",
+      "胃气不和",
+      "脘痞",
+      "自汗"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_094",
+      "formula_095"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_163",
+    "name": "益气固表止汗",
+    "description": "补益正气的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "神疲乏力",
+      "自汗"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_086"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_164",
+    "name": "益气温经",
+    "description": "补益正气的治疗作用；温通经脉的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能；通过辛温走窜药物，温散经脉中的寒邪",
+    "indications": [
+      "四肢厥冷",
+      "寒痹",
+      "少气懒言",
+      "气虚证",
+      "痛经",
+      "神疲乏力",
+      "自汗"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_029"
+    ],
+    "related_syndromes": [
+      "syndrome_040",
+      "syndrome_056"
+    ]
+  },
+  {
+    "id": "effect_165",
+    "name": "益气生津",
+    "description": "生成津液的治疗作用；补益正气的治疗作用",
+    "mechanism": "通过甘润药物，促进津液生成，缓解口渴咽干；通过补气药物，增强人体的元气和脏腑功能",
+    "indications": [
+      "口渴",
+      "咽干",
+      "少气懒言",
+      "气虚证",
+      "津伤证",
+      "神疲乏力",
+      "自汗"
+    ],
+    "related_medicines": [
+      "medicine_084"
+    ],
+    "related_formulas": [
+      "formula_034"
+    ],
+    "related_syndromes": [
+      "syndrome_045",
+      "syndrome_086"
+    ]
+  },
+  {
+    "id": "effect_166",
+    "name": "益气补血",
+    "description": "补益正气的治疗作用；补充血液的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能；通过补血药物，改善血虚状态",
+    "indications": [
+      "头晕眼花",
+      "少气懒言",
+      "心悸",
+      "气虚证",
+      "神疲乏力",
+      "自汗",
+      "血虚证",
+      "面色苍白"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_033",
+      "formula_141"
+    ],
+    "related_syndromes": [
+      "syndrome_097",
+      "syndrome_111"
+    ]
+  },
+  {
+    "id": "effect_167",
+    "name": "益气通络",
+    "description": "补益正气的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "神疲乏力",
+      "自汗"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_099"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_168",
+    "name": "益气镇惊",
+    "description": "补益正气的治疗作用；镇静止惊的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能；通过重镇安神药物，平复惊悸",
+    "indications": [
+      "小儿惊风",
+      "少气懒言",
+      "惊悸怔忡",
+      "气虚证",
+      "癫痫",
+      "神疲乏力",
+      "自汗"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_133"
+    ],
+    "related_syndromes": [
+      "syndrome_099"
+    ]
+  },
+  {
+    "id": "effect_169",
+    "name": "益肝肾",
+    "description": "益肝肾的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥益肝肾的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_077",
+      "formula_115"
+    ],
+    "related_syndromes": [
+      "syndrome_027",
+      "syndrome_028",
+      "syndrome_044",
+      "syndrome_064",
+      "syndrome_076",
+      "syndrome_084"
+    ]
+  },
+  {
+    "id": "effect_170",
+    "name": "破血下瘀",
+    "description": "破除瘀血的强力治疗作用",
+    "mechanism": "通过破血逐瘀药物，强力破除顽固瘀血",
+    "indications": [
+      "癥瘕痞块",
+      "经闭不通",
+      "顽瘀重证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_091"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_171",
+    "name": "祛暑解表",
+    "description": "解除表邪的治疗作用",
+    "mechanism": "通过辛散药物，将外邪从体表发散出去",
+    "indications": [
+      "头痛",
+      "恶寒发热",
+      "脉浮",
+      "表证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_143"
+    ],
+    "related_syndromes": [
+      "syndrome_110",
+      "syndrome_112"
+    ]
+  },
+  {
+    "id": "effect_172",
+    "name": "祛湿止泻",
+    "description": "祛除湿邪的治疗作用",
+    "mechanism": "通过化湿利湿药物，消除体内湿邪",
+    "indications": [
+      "泄泻",
+      "湿证",
+      "脘痞",
+      "身体困重"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_022"
+    ],
+    "related_syndromes": [
+      "syndrome_026",
+      "syndrome_073",
+      "syndrome_103"
+    ]
+  },
+  {
+    "id": "effect_173",
+    "name": "祛痰下气",
+    "description": "祛除痰浊的治疗作用",
+    "mechanism": "通过祛痰药物，使痰液排出体外",
+    "indications": [
+      "咳嗽痰多",
+      "气喘",
+      "痰浊内阻"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_053"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_174",
+    "name": "祛痰止咳",
+    "description": "制止咳嗽的治疗作用；祛除痰浊的治疗作用",
+    "mechanism": "通过止咳药物，缓解咳嗽症状；通过祛痰药物，使痰液排出体外",
+    "indications": [
+      "咳嗽",
+      "咳嗽痰多",
+      "咳痰",
+      "咽痒",
+      "气喘",
+      "痰浊内阻"
+    ],
+    "related_medicines": [
+      "medicine_270",
+      "medicine_437"
+    ],
+    "related_formulas": [
+      "formula_146"
+    ],
+    "related_syndromes": [
+      "syndrome_106"
+    ]
+  },
+  {
+    "id": "effect_175",
+    "name": "祛风化痰",
+    "description": "化解痰浊的治疗作用；祛除外风的治疗作用",
+    "mechanism": "通过化痰药物，溶解和排除病理痰浊；通过辛散祛风药物，驱散侵入体内的风邪",
+    "indications": [
+      "咳嗽痰多",
+      "头痛",
+      "痰核",
+      "痰证",
+      "痹痛",
+      "胸闷",
+      "风疹",
+      "风证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_149"
+    ],
+    "related_syndromes": [
+      "syndrome_118"
+    ]
+  },
+  {
+    "id": "effect_176",
+    "name": "祛风湿",
+    "description": "祛除外风的治疗作用",
+    "mechanism": "通过辛散祛风药物，驱散侵入体内的风邪",
+    "indications": [
+      "头痛",
+      "痹痛",
+      "风疹",
+      "风证"
+    ],
+    "related_medicines": [
+      "medicine_032",
+      "medicine_033",
+      "medicine_090",
+      "medicine_120",
+      "medicine_121",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
+      "medicine_315",
+      "medicine_338",
+      "medicine_339",
+      "medicine_341",
+      "medicine_344",
+      "medicine_345",
+      "medicine_402",
+      "medicine_405",
+      "medicine_486"
+    ],
+    "related_formulas": [
+      "formula_077",
+      "formula_115"
+    ],
+    "related_syndromes": [
+      "syndrome_027",
+      "syndrome_028",
+      "syndrome_044",
+      "syndrome_064",
+      "syndrome_076",
+      "syndrome_084"
+    ]
+  },
+  {
+    "id": "effect_177",
+    "name": "祛风胜湿止痛",
+    "description": "祛除外风的治疗作用；缓解或消除疼痛的治疗作用",
+    "mechanism": "通过辛散祛风药物，驱散侵入体内的风邪；通过理气活血、祛风散寒等药物，缓解各种疼痛",
+    "indications": [
+      "头痛",
+      "疼痛",
+      "痹痛",
+      "腹痛",
+      "风疹",
+      "风证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_078"
+    ],
+    "related_syndromes": [
+      "syndrome_044",
+      "syndrome_064"
+    ]
+  },
+  {
+    "id": "effect_178",
+    "name": "纳气平喘",
+    "description": "平息喘促的治疗作用；摄纳肾气的治疗作用",
+    "mechanism": "通过降气平喘药物，缓解呼吸困难；通过补肾纳气药物，使肾气摄纳，气归丹田",
+    "indications": [
+      "呼吸困难",
+      "呼多吸少",
+      "气喘",
+      "肾不纳气",
+      "胸闷",
+      "虚喘"
+    ],
+    "related_medicines": [
+      "medicine_148"
+    ],
+    "related_formulas": [
+      "formula_135"
+    ],
+    "related_syndromes": [
+      "syndrome_102"
+    ]
+  },
+  {
+    "id": "effect_179",
+    "name": "缓下热结",
+    "description": "缓下热结的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥缓下热结的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_016"
+    ],
+    "related_syndromes": [
+      "syndrome_057",
+      "syndrome_089"
+    ]
+  },
+  {
+    "id": "effect_180",
+    "name": "缓消癥块",
+    "description": "缓消癥块的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥缓消癥块的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_060",
+      "formula_118"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_181",
+    "name": "缩尿止遗",
+    "description": "缩尿止遗的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥缩尿止遗的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_050"
+    ],
+    "related_syndromes": [
+      "syndrome_101"
+    ]
+  },
+  {
+    "id": "effect_182",
+    "name": "芳香开窍",
+    "description": "开启清窍的治疗作用",
+    "mechanism": "通过芳香开窍药物，苏醒神志",
+    "indications": [
+      "中暑",
+      "中风",
+      "癫痫",
+      "神昏"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_047"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_183",
+    "name": "行气化滞",
+    "description": "疏通运行气机的治疗作用",
+    "mechanism": "通过辛香行气药物，促进气机运行",
+    "indications": [
+      "气滞证",
+      "胸胁胀痛",
+      "脘腹胀满"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_130"
+    ],
+    "related_syndromes": [
+      "syndrome_094"
+    ]
+  },
+  {
+    "id": "effect_184",
+    "name": "行气和胃",
+    "description": "疏通运行气机的治疗作用；调和胃气的治疗作用",
+    "mechanism": "通过辛香行气药物，促进气机运行；通过和胃药物，恢复胃的和降功能",
+    "indications": [
+      "嗳气",
+      "气滞证",
+      "纳呆",
+      "胃气不和",
+      "胸胁胀痛",
+      "脘痞",
+      "脘腹胀满"
+    ],
+    "related_medicines": [
+      "medicine_003"
+    ],
+    "related_formulas": [
+      "formula_072"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_185",
+    "name": "行气散结",
+    "description": "消散结块的治疗作用；疏通运行气机的治疗作用",
+    "mechanism": "通过软坚散结药物，消散各种结块肿物；通过辛香行气药物，促进气机运行",
+    "indications": [
+      "气滞证",
+      "痈肿",
+      "瘰疬",
+      "瘿瘤",
+      "癥瘕",
+      "胸胁胀痛",
+      "脘腹胀满"
+    ],
+    "related_medicines": [
+      "medicine_151"
+    ],
+    "related_formulas": [
+      "formula_052"
+    ],
+    "related_syndromes": [
+      "syndrome_046",
+      "syndrome_058"
+    ]
+  },
+  {
+    "id": "effect_186",
+    "name": "行气止痛",
+    "description": "疏通运行气机的治疗作用；缓解或消除疼痛的治疗作用",
+    "mechanism": "通过辛香行气药物，促进气机运行；通过理气活血、祛风散寒等药物，缓解各种疼痛",
+    "indications": [
+      "头痛",
+      "气滞证",
+      "疼痛",
+      "痹痛",
+      "胸胁胀痛",
+      "脘腹胀满",
+      "腹痛"
+    ],
+    "related_medicines": [
+      "medicine_045",
+      "medicine_148",
+      "medicine_149",
+      "medicine_150",
+      "medicine_152",
+      "medicine_238",
+      "medicine_408",
+      "medicine_444",
+      "medicine_493"
+    ],
+    "related_formulas": [
+      "formula_047",
+      "formula_055",
+      "formula_112",
+      "formula_145"
+    ],
+    "related_syndromes": [
+      "syndrome_008",
+      "syndrome_060",
+      "syndrome_068",
+      "syndrome_080",
+      "syndrome_085",
+      "syndrome_104"
+    ]
+  },
+  {
+    "id": "effect_187",
+    "name": "行气疏肝",
+    "description": "疏通运行气机的治疗作用；疏泄肝气的治疗作用",
+    "mechanism": "通过辛香行气药物，促进气机运行；通过疏肝理气药物，缓解肝气郁结",
+    "indications": [
+      "气滞证",
+      "烦躁易怒",
+      "肝郁证",
+      "胸胁胀痛",
+      "脘腹胀满"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_054"
+    ],
+    "related_syndromes": [
+      "syndrome_029",
+      "syndrome_080"
+    ]
+  },
+  {
+    "id": "effect_188",
+    "name": "行气通便",
+    "description": "疏通运行气机的治疗作用；通导大便的治疗作用",
+    "mechanism": "通过辛香行气药物，促进气机运行；通过润肠或泻下药物，治疗便秘",
+    "indications": [
+      "便秘",
+      "大便干结",
+      "排便困难",
+      "气滞证",
+      "胸胁胀痛",
+      "脘腹胀满"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_017"
+    ],
+    "related_syndromes": [
+      "syndrome_041",
+      "syndrome_062"
+    ]
+  },
+  {
+    "id": "effect_189",
+    "name": "补中益气",
+    "description": "补益正气的治疗作用",
+    "mechanism": "通过补气药物，增强人体的元气和脏腑功能",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "神疲乏力",
+      "自汗"
+    ],
+    "related_medicines": [
+      "medicine_242",
+      "medicine_372"
+    ],
+    "related_formulas": [
+      "formula_031"
+    ],
+    "related_syndromes": [
+      "syndrome_003",
+      "syndrome_059",
+      "syndrome_096",
+      "syndrome_109"
+    ]
+  },
+  {
+    "id": "effect_190",
+    "name": "补心安神",
+    "description": "安定心神的治疗作用",
+    "mechanism": "通过安神药物，使心神宁静",
+    "indications": [
+      "失眠",
+      "心悸",
+      "心神不宁",
+      "怔忡"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_045",
+      "formula_120"
+    ],
+    "related_syndromes": [
+      "syndrome_013"
+    ]
+  },
+  {
+    "id": "effect_191",
+    "name": "补气健脾",
+    "description": "补益元气的治疗作用；健运脾胃的治疗作用",
+    "mechanism": "通过甘温补气药物，补充人体元气；通过健脾药物，增强脾胃运化功能",
+    "indications": [
+      "倦怠",
+      "少气懒言",
+      "气虚证",
+      "神疲乏力",
+      "脾虚证",
+      "腹胀",
+      "食少便溏"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_096"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_192",
+    "name": "补气活血通络",
+    "description": "促进血液运行的治疗作用；补益元气的治疗作用",
+    "mechanism": "通过活血化瘀药物，改善血液循环，消除血液瘀滞；通过甘温补气药物，补充人体元气",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "疼痛固定",
+      "癥瘕",
+      "神疲乏力",
+      "经闭",
+      "血瘀证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_056"
+    ],
+    "related_syndromes": [
+      "syndrome_008",
+      "syndrome_015",
+      "syndrome_035",
+      "syndrome_048",
+      "syndrome_060",
+      "syndrome_068",
+      "syndrome_085"
+    ]
+  },
+  {
+    "id": "effect_193",
+    "name": "补气生血",
+    "description": "补益元气的治疗作用",
+    "mechanism": "通过甘温补气药物，补充人体元气",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "神疲乏力"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_036"
+    ],
+    "related_syndromes": [
+      "syndrome_010",
+      "syndrome_066",
+      "syndrome_087"
+    ]
+  },
+  {
+    "id": "effect_194",
+    "name": "补气血",
+    "description": "补益元气的治疗作用",
+    "mechanism": "通过甘温补气药物，补充人体元气",
+    "indications": [
+      "少气懒言",
+      "气虚证",
+      "神疲乏力"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_077",
+      "formula_115"
+    ],
+    "related_syndromes": [
+      "syndrome_027",
+      "syndrome_028",
+      "syndrome_044",
+      "syndrome_064",
+      "syndrome_076",
+      "syndrome_084"
+    ]
+  },
+  {
+    "id": "effect_195",
+    "name": "补益肝肾",
+    "description": "补益肝肾的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥补益肝肾的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [
+      "medicine_085"
+    ],
+    "related_formulas": [
+      "formula_083"
+    ],
+    "related_syndromes": [
+      "syndrome_012",
+      "syndrome_043",
+      "syndrome_090"
+    ]
+  },
+  {
+    "id": "effect_196",
+    "name": "补肺纳肾",
+    "description": "补益肺气的治疗作用",
+    "mechanism": "通过补肺药物，增强肺气功能",
+    "indications": [
+      "咳喘无力",
+      "气短",
+      "肺虚证",
+      "自汗"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_068"
+    ],
+    "related_syndromes": [
+      "syndrome_032"
+    ]
+  },
+  {
+    "id": "effect_197",
+    "name": "补肾助阳",
+    "description": "补益肾脏的治疗作用",
+    "mechanism": "通过补肾药物，增强肾脏精气功能",
+    "indications": [
+      "耳鸣",
+      "肾虚证",
+      "腰膝酸软",
+      "遗精"
+    ],
+    "related_medicines": [
+      "medicine_234",
+      "medicine_256",
+      "medicine_265",
+      "medicine_266"
+    ],
+    "related_formulas": [
+      "formula_042"
+    ],
+    "related_syndromes": [
+      "syndrome_005"
+    ]
+  },
+  {
+    "id": "effect_198",
+    "name": "补肾涩精",
+    "description": "补益肾脏的治疗作用；固涩精关的治疗作用",
+    "mechanism": "通过补肾药物，增强肾脏精气功能；通过收涩药物，防止精气滑脱",
+    "indications": [
+      "早泄",
+      "滑精",
+      "耳鸣",
+      "肾虚证",
+      "腰膝酸软",
+      "遗精"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_049"
+    ],
+    "related_syndromes": [
+      "syndrome_101"
+    ]
+  },
+  {
+    "id": "effect_199",
+    "name": "补脾柔肝",
+    "description": "补益脾胃的治疗作用",
+    "mechanism": "通过甘温补脾药物，补益脾胃之气",
+    "indications": [
+      "乏力",
+      "便溏",
+      "脾虚证",
+      "食少"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_022"
+    ],
+    "related_syndromes": [
+      "syndrome_026",
+      "syndrome_073",
+      "syndrome_103"
+    ]
+  },
+  {
+    "id": "effect_200",
+    "name": "补脾疏肝",
+    "description": "补益脾胃的治疗作用；疏泄肝气的治疗作用",
+    "mechanism": "通过甘温补脾药物，补益脾胃之气；通过疏肝理气药物，缓解肝气郁结",
+    "indications": [
+      "乏力",
+      "便溏",
+      "烦躁易怒",
+      "肝郁证",
+      "胸胁胀痛",
+      "脾虚证",
+      "食少"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_088"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_201",
+    "name": "补血活血",
+    "description": "促进血液运行的治疗作用；补充血液的治疗作用",
+    "mechanism": "通过活血化瘀药物，改善血液循环，消除血液瘀滞；通过补血药物，改善血虚状态",
+    "indications": [
+      "头晕眼花",
+      "心悸",
+      "疼痛固定",
+      "癥瘕",
+      "经闭",
+      "血瘀证",
+      "血虚证",
+      "面色苍白"
+    ],
+    "related_medicines": [
+      "medicine_075"
+    ],
+    "related_formulas": [
+      "formula_035"
+    ],
+    "related_syndromes": [
+      "syndrome_010",
+      "syndrome_066",
+      "syndrome_086",
+      "syndrome_087"
+    ]
+  },
+  {
+    "id": "effect_202",
+    "name": "解表化湿",
+    "description": "芳化湿邪的治疗作用；解除表邪的治疗作用",
+    "mechanism": "通过芳香化湿药物，化解中焦湿浊；通过辛散药物，将外邪从体表发散出去",
+    "indications": [
+      "呕恶",
+      "头痛",
+      "恶寒发热",
+      "湿浊中阻",
+      "纳呆",
+      "脉浮",
+      "脘痞",
+      "表证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_073",
+      "formula_106"
+    ],
+    "related_syndromes": [
+      "syndrome_040",
+      "syndrome_056"
+    ]
+  },
+  {
+    "id": "effect_203",
+    "name": "解表散寒",
+    "description": "驱散寒邪的治疗作用；解除表邪的治疗作用",
+    "mechanism": "通过辛温发散药物，驱散体内寒邪；通过辛散药物，将外邪从体表发散出去",
+    "indications": [
+      "冷痛",
+      "四肢不温",
+      "头痛",
+      "寒证",
+      "恶寒发热",
+      "畏寒",
+      "脉浮",
+      "表证"
+    ],
+    "related_medicines": [
+      "medicine_003",
+      "medicine_087",
+      "medicine_088",
+      "medicine_318"
+    ],
+    "related_formulas": [
+      "formula_089"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_204",
+    "name": "解表清里",
+    "description": "解除表邪的治疗作用",
+    "mechanism": "通过辛散药物，将外邪从体表发散出去",
+    "indications": [
+      "头痛",
+      "恶寒发热",
+      "脉浮",
+      "表证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_150"
+    ],
+    "related_syndromes": [
+      "syndrome_119"
+    ]
+  },
+  {
+    "id": "effect_205",
+    "name": "调和营卫",
+    "description": "调和人体机能和关系的治疗作用",
+    "mechanism": "通过药物配伍，协调脏腑、气血、阴阳的关系",
+    "indications": [
+      "气血不和",
+      "脏腑功能失调",
+      "阴阳失调"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_002",
+      "formula_099"
+    ],
+    "related_syndromes": [
+      "syndrome_001",
+      "syndrome_016",
+      "syndrome_039",
+      "syndrome_088"
+    ]
+  },
+  {
+    "id": "effect_206",
+    "name": "调气和血",
+    "description": "调气和血的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥调气和血的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_011"
+    ],
+    "related_syndromes": [
+      "syndrome_119"
+    ]
+  },
+  {
+    "id": "effect_207",
+    "name": "调补心肾",
+    "description": "调补心肾的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥调补心肾的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_087"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_208",
+    "name": "轻下热结",
+    "description": "轻下热结的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥轻下热结的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_015"
+    ],
+    "related_syndromes": [
+      "syndrome_019"
+    ]
+  },
+  {
+    "id": "effect_209",
+    "name": "辛凉宣泄",
+    "description": "辛凉宣泄的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥辛凉宣泄的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_005"
+    ],
+    "related_syndromes": [
+      "syndrome_037",
+      "syndrome_038",
+      "syndrome_049",
+      "syndrome_052",
+      "syndrome_061",
+      "syndrome_083"
+    ]
+  },
+  {
+    "id": "effect_210",
+    "name": "辛凉透表",
+    "description": "辛凉透表的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥辛凉透表的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_003"
+    ],
+    "related_syndromes": [
+      "syndrome_002",
+      "syndrome_051",
+      "syndrome_053",
+      "syndrome_055",
+      "syndrome_062",
+      "syndrome_069",
+      "syndrome_081",
+      "syndrome_083",
+      "syndrome_088",
+      "syndrome_114"
+    ]
+  },
+  {
+    "id": "effect_211",
+    "name": "退黄",
+    "description": "消退黄疸的治疗作用",
+    "mechanism": "通过清热利湿药物，利胆退黄，使黄疸消退",
+    "indications": [
+      "小便黄",
+      "目黄",
+      "身黄",
+      "黄疸"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_074"
+    ],
+    "related_syndromes": [
+      "syndrome_030",
+      "syndrome_070",
+      "syndrome_071",
+      "syndrome_081"
+    ]
+  },
+  {
+    "id": "effect_212",
+    "name": "透热养阴",
+    "description": "滋养阴液的治疗作用；透发郁热的治疗作用",
+    "mechanism": "通过甘润养阴药物，填补体内阴液亏虚；通过辛凉透热药物，将深伏之热引导外出",
+    "indications": [
+      "口干咽燥",
+      "夜热早凉",
+      "形体消瘦",
+      "潮热盗汗",
+      "热伏阴分",
+      "热退无汗",
+      "阴虚证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_101"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_213",
+    "name": "逐瘀泻热",
+    "description": "攻逐瘀血的治疗作用",
+    "mechanism": "通过活血逐瘀药物，驱逐体内瘀滞之血",
+    "indications": [
+      "少腹急结",
+      "瘀血内停",
+      "蓄血证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_057"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_214",
+    "name": "通便泻热",
+    "description": "通导大便的治疗作用",
+    "mechanism": "通过润肠或泻下药物，治疗便秘",
+    "indications": [
+      "便秘",
+      "大便干结",
+      "排便困难"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_091"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_215",
+    "name": "通络止痉",
+    "description": "通络止痉的治疗作用",
+    "mechanism": "通过相关药物的配伍，发挥通络止痉的作用",
+    "indications": [
+      "适应证"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_149"
+    ],
+    "related_syndromes": [
+      "syndrome_118"
+    ]
+  },
+  {
+    "id": "effect_216",
+    "name": "通阳散结",
+    "description": "消散结块的治疗作用",
+    "mechanism": "通过软坚散结药物，消散各种结块肿物",
+    "indications": [
+      "痈肿",
+      "瘰疬",
+      "瘿瘤",
+      "癥瘕"
+    ],
+    "related_medicines": [
+      "medicine_354"
+    ],
+    "related_formulas": [
+      "formula_053"
+    ],
+    "related_syndromes": []
+  },
+  {
+    "id": "effect_217",
+    "name": "镇惊安神",
+    "description": "安定心神的治疗作用；镇静止惊的治疗作用",
+    "mechanism": "通过安神药物，使心神宁静；通过重镇安神药物，平复惊悸",
+    "indications": [
+      "失眠",
+      "小儿惊风",
+      "心悸",
+      "心神不宁",
+      "怔忡",
+      "惊悸怔忡",
+      "癫痫"
+    ],
+    "related_medicines": [
+      "medicine_209",
+      "medicine_210",
+      "medicine_365",
+      "medicine_510"
+    ],
+    "related_formulas": [
+      "formula_151"
+    ],
+    "related_syndromes": [
+      "syndrome_120"
+    ]
+  },
+  {
+    "id": "effect_218",
+    "name": "降气化痰",
+    "description": "降逆下气的治疗作用；化解痰浊的治疗作用",
+    "mechanism": "通过降气药物，使上逆之气下行；通过化痰药物，溶解和排除病理痰浊",
+    "indications": [
+      "呕吐",
+      "咳喘",
+      "咳嗽痰多",
+      "痰核",
+      "痰证",
+      "肺气上逆",
+      "胃气上逆",
+      "胸闷"
+    ],
+    "related_medicines": [
+      "medicine_187",
+      "medicine_192",
+      "medicine_201",
+      "medicine_282",
+      "medicine_362"
+    ],
+    "related_formulas": [
+      "formula_068"
+    ],
+    "related_syndromes": [
+      "syndrome_032"
+    ]
+  },
+  {
+    "id": "effect_219",
+    "name": "降气平喘",
+    "description": "降逆下气的治疗作用；平息喘促的治疗作用",
+    "mechanism": "通过降气药物，使上逆之气下行；通过降气平喘药物，缓解呼吸困难",
+    "indications": [
+      "呕吐",
+      "呼吸困难",
+      "咳喘",
+      "气喘",
+      "肺气上逆",
+      "胃气上逆",
+      "胸闷"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_146"
+    ],
+    "related_syndromes": [
+      "syndrome_106"
+    ]
+  },
+  {
+    "id": "effect_220",
+    "name": "降逆下气",
+    "description": "降上逆之气的治疗作用",
+    "mechanism": "通过沉降降逆药物，平降上逆之气",
+    "indications": [
+      "呃逆",
+      "呕吐",
+      "咳喘",
+      "嗳气"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_100"
+    ],
+    "related_syndromes": [
+      "syndrome_107"
+    ]
+  },
+  {
+    "id": "effect_221",
+    "name": "降逆化痰",
+    "description": "降上逆之气的治疗作用；化解痰浊的治疗作用",
+    "mechanism": "通过沉降降逆药物，平降上逆之气；通过化痰药物，溶解和排除病理痰浊",
+    "indications": [
+      "呃逆",
+      "呕吐",
+      "咳喘",
+      "咳嗽痰多",
+      "嗳气",
+      "痰核",
+      "痰证",
+      "胸闷"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_052",
+      "formula_095"
+    ],
+    "related_syndromes": [
+      "syndrome_046",
+      "syndrome_058"
+    ]
+  },
+  {
+    "id": "effect_222",
+    "name": "降逆止呕",
+    "description": "降上逆之气的治疗作用",
+    "mechanism": "通过沉降降逆药物，平降上逆之气",
+    "indications": [
+      "呃逆",
+      "呕吐",
+      "咳喘",
+      "嗳气"
+    ],
+    "related_medicines": [
+      "medicine_062",
+      "medicine_187",
+      "medicine_205",
+      "medicine_352"
+    ],
+    "related_formulas": [
+      "formula_026",
+      "formula_097"
+    ],
+    "related_syndromes": [
+      "syndrome_022",
+      "syndrome_065",
+      "syndrome_075"
+    ]
+  },
+  {
+    "id": "effect_223",
+    "name": "除烦安神",
+    "description": "消除烦热不适的治疗作用；安定心神的治疗作用",
+    "mechanism": "通过清热除烦药物，清解胸中烦热，安定心神；通过安神药物，使心神宁静",
+    "indications": [
+      "失眠",
+      "心悸",
+      "心烦",
+      "心神不宁",
+      "怔忡",
+      "胸中懊憹",
+      "躁扰不宁"
+    ],
+    "related_medicines": [],
+    "related_formulas": [
+      "formula_127"
+    ],
+    "related_syndromes": [
+      "syndrome_092"
+    ]
   }
 ]

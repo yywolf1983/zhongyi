@@ -205,6 +205,9 @@ button:not(.allow-context) {
   0%   { transform: scale(0); opacity: 0.3; }
   100% { transform: scale(4); opacity: 0; }
 }
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
 
 /* ===== Skeleton Loading ===== */
 .skeleton {
@@ -998,14 +1001,8 @@ mark,
 
 /* ===== Knowledge Graph ===== */
 .graph-container {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--space-xl);
-}
-@media (min-width: 900px) {
-  .graph-container {
-    grid-template-columns: 2fr 1fr;
-  }
+  display: block;
+  margin-bottom: var(--space-xl);
 }
 .graph-nodes {
   display: flex;
@@ -1063,11 +1060,10 @@ mark,
   padding: var(--space-xl);
   box-shadow: var(--shadow-md);
   border: 1px solid var(--color-border);
-  position: sticky;
-  top: calc(var(--safe-top) + var(--space-xl));
   max-height: 80vh;
   overflow-y: auto;
   animation: fadeIn 0.3s var(--transition-slow);
+  margin-top: var(--space-xl);
 }
 .graph-connections {
   display: flex;
