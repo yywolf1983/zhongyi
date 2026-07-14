@@ -57,19 +57,47 @@ export class RelationService {
     return mappings.filter(m => m.related_syndrome === syndromeId)
   }
 
-  static getModernMappingByAcupoint(acupointId) {
+  // 按多个中文关键词搜索中西对照（取并集、去重）
+  static getModernMappingByKeywords(terms) {
+    if (!terms || terms.length === 0) return []
     const mappings = DataManager.getAll(DATA_TYPES.MODERN_MAPPING)
-    return mappings.filter(m => m.related_acupoint === acupointId)
+    const seen = new Set()
+    const result = []
+    for (const term of terms) {
+      const matched = mappings.filter(m =>
+        m.chinese_term.includes(term) || m.modern_term.includes(term)
+      )
+      for (const m of matched) {
+        if (!seen.has(m.id)) {
+          seen.add(m.id)
+          result.push(m)
+        }
+      }
+    }
+    return result
+  }
+
+  static getModernMappingByAcupoint(acupointId) {
+    const acupoint = DataManager.getById(DATA_TYPES.ACUPOINTS, acupointId)
+    if (!acupoint) return []
+    const terms = [acupoint.name]
+    if (acupoint.indications) terms.push(...acupoint.indications.slice(0, 5))
+    return this.getModernMappingByKeywords(terms)
   }
 
   static getModernMappingByMedicine(medicineId) {
-    const mappings = DataManager.getAll(DATA_TYPES.MODERN_MAPPING)
-    return mappings.filter(m => m.related_medicine === medicineId)
+    const medicine = DataManager.getById(DATA_TYPES.MEDICINES, medicineId)
+    if (!medicine) return []
+    const terms = [medicine.name]
+    return this.getModernMappingByKeywords(terms)
   }
 
   static getModernMappingByFormula(formulaId) {
-    const mappings = DataManager.getAll(DATA_TYPES.MODERN_MAPPING)
-    return mappings.filter(m => m.related_formula === formulaId)
+    const formula = DataManager.getById(DATA_TYPES.FORMULAS, formulaId)
+    if (!formula) return []
+    const terms = [formula.name]
+    if (formula.indications) terms.push(...formula.indications.slice(0, 5))
+    return this.getModernMappingByKeywords(terms)
   }
 
   static getTreatmentBySyndrome(syndromeId) {

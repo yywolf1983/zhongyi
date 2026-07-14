@@ -190,8 +190,16 @@ export default function KnowledgeGraph() {
       medicine: (id) => navigate(`/formulas/medicine/${id}`),
       acupoint: (id) => navigate(`/acupuncture/${id}`),
       needle: (id) => navigate(`/acupuncture/needle/${id}`),
-      meridian: (id) => navigate(`/acupuncture`),
-      treatment: (id) => navigate(`/syndromes`),
+      meridian: (id) => navigate(`/acupuncture?meridian=${id}`),
+      treatment: (id) => {
+        const t = treatments.find(x => x.id === id)
+        const firstSyndrome = t?.related_syndromes?.[0]
+        if (firstSyndrome) {
+          navigate(`/syndromes/${firstSyndrome}?treatment=${id}`)
+        } else {
+          navigate('/syndromes')
+        }
+      },
       modern: (id) => navigate(`/modern-mapping`)
     }
     if (routes[entityType]) routes[entityType](entityId)
@@ -279,9 +287,9 @@ export default function KnowledgeGraph() {
             key={stat.type}
             className={`graph-category-item ${viewMode === stat.type ? 'active' : ''}`}
             style={{ 
-              borderColor: viewMode === stat.type ? NODE_COLORS[stat.type] : '#e8ece8',
-              color: viewMode === stat.type ? NODE_COLORS[stat.type] : '#555',
-              background: viewMode === stat.type ? `${NODE_COLORS[stat.type]}10` : '#fff'
+              borderColor: viewMode === stat.type ? NODE_COLORS[stat.type] : 'var(--color-border)',
+              color: viewMode === stat.type ? NODE_COLORS[stat.type] : 'var(--color-text-secondary)',
+              background: viewMode === stat.type ? `${NODE_COLORS[stat.type]}10` : 'var(--color-surface-warm)'
             }}
             onClick={() => handleViewModeChange(stat.type)}
           >
@@ -298,6 +306,7 @@ export default function KnowledgeGraph() {
           <button
             className={`tag-filter-btn ${innerCatFilter === 'all' ? 'active' : ''}`}
             onClick={() => setInnerCatFilter('all')}
+            style={innerCatFilter !== 'all' ? { background: 'var(--color-filter-inactive)' } : {}}
           >
             全部分类（{viewData.length}）
           </button>
@@ -306,6 +315,7 @@ export default function KnowledgeGraph() {
               key={cat}
               className={`tag-filter-btn ${innerCatFilter === cat ? 'active' : ''}`}
               onClick={() => setInnerCatFilter(cat)}
+              style={innerCatFilter !== cat ? { background: 'var(--color-filter-inactive)' } : {}}
             >
               {cat}
             </button>
@@ -333,7 +343,7 @@ export default function KnowledgeGraph() {
                 </span>
                 <span className="graph-node-name">{item.name}</span>
                 {item.category && item.category !== '未分类' && (
-                  <span className="graph-node-category" style={{ fontSize: '0.7rem', color: '#999', marginTop: '2px' }}>
+                  <span className="graph-node-category" style={{ fontSize: '0.7rem', color: 'var(--color-text-hint)', marginTop: '2px' }}>
                     {item.category}
                   </span>
                 )}
@@ -346,12 +356,44 @@ export default function KnowledgeGraph() {
 
       {focusDetails && (
         <div className="graph-detail-panel" ref={detailPanelRef}>
-          <h3 style={{ color: NODE_COLORS[focusDetails.entity.entityType] }}>
+          <h3
+            style={{
+              color: NODE_COLORS[focusDetails.entity.entityType],
+              cursor: 'pointer',
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '6px',
+              transition: 'opacity 0.15s'
+            }}
+            onClick={() => handleNavigate(focusDetails.entity.id, focusDetails.entity.entityType)}
+            title="点击进入详情"
+          >
             {NODE_LABELS[focusDetails.entity.entityType]}：{focusDetails.entity.name}
+            <span style={{ fontSize: '0.75rem', opacity: 0.5, fontWeight: 400 }}>↗</span>
           </h3>
-          <p className="section-content" style={{ fontSize: '0.9rem', color: '#888' }}>
+          <p className="section-content" style={{ fontSize: '0.9rem', color: 'var(--color-text-hint)' }}>
             {focusDetails.entity.pinyin}
           </p>
+
+          {/* 经络类型补充详情 */}
+          {focusDetails.entity.entityType === 'meridian' && (
+            <div style={{ marginTop: '12px', padding: '12px', background: 'var(--color-surface-warm)', borderRadius: '10px', fontSize: '0.9rem', color: 'var(--color-text-secondary)', lineHeight: 1.8 }}>
+              {focusDetails.entity.category && <div><strong>类别：</strong>{focusDetails.entity.category}{focusDetails.entity.subcategory ? ` · ${focusDetails.entity.subcategory}` : ''}</div>}
+              {focusDetails.entity.yin_yang && <div><strong>阴阳：</strong>{focusDetails.entity.yin_yang}</div>}
+              {focusDetails.entity.element && <div><strong>五行：</strong>{focusDetails.entity.element}</div>}
+              {focusDetails.entity.path && <div style={{ marginTop: '6px' }}><strong>循行路线：</strong>{focusDetails.entity.path}</div>}
+              {focusDetails.entity.indications && focusDetails.entity.indications.length > 0 && (
+                <div style={{ marginTop: '6px' }}>
+                  <strong>主治概要：</strong>
+                  <div className="tag-list" style={{ marginTop: '4px' }}>
+                    {focusDetails.entity.indications.map((ind, i) => (
+                      <span key={i} className="tag-item" style={{ fontSize: '0.82rem' }}>{ind}</span>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
 
           {focusDetails.connections.length > 0 && (
             <>

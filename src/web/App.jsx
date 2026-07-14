@@ -145,11 +145,11 @@ function DataLoader({ children }) {
         justifyContent: 'center', minHeight: '50vh', padding: '40px 20px'
       }}>
         <div className="loading-spinner" style={{
-          width: '40px', height: '40px', border: '3px solid #e8ece8',
-          borderTopColor: '#4a9c8c', borderRadius: '50%',
+          width: '40px', height: '40px', border: '3px solid var(--color-border)',
+          borderTopColor: 'var(--color-primary)', borderRadius: '50%',
           animation: 'spin 0.8s linear infinite', marginBottom: '16px'
         }} />
-        <p style={{ color: '#888', fontSize: '0.95rem' }}>
+        <p style={{ color: 'var(--color-text-hint)', fontSize: '0.95rem' }}>
           {children.props?.loadingText || '正在加载数据...'}
         </p>
       </div>
@@ -164,14 +164,14 @@ function DataLoader({ children }) {
         textAlign: 'center'
       }}>
         <div style={{ fontSize: '3rem', marginBottom: '16px' }}>⚠️</div>
-        <h2 style={{ marginBottom: '8px', color: '#333' }}>数据加载失败</h2>
-        <p style={{ color: '#888', maxWidth: '360px', marginBottom: '24px', fontSize: '0.9rem' }}>
+        <h2 style={{ marginBottom: '8px', color: 'var(--color-text-primary)' }}>数据加载失败</h2>
+        <p style={{ color: 'var(--color-text-hint)', maxWidth: '360px', marginBottom: '24px', fontSize: '0.9rem' }}>
           应用数据未能成功加载，请重试。
         </p>
         <button
           onClick={handleRetry}
           style={{
-            padding: '10px 32px', background: '#4a9c8c', color: '#fff',
+            padding: '10px 32px', background: 'var(--color-primary)', color: 'var(--color-text-on-primary)',
             border: 'none', borderRadius: '8px', fontSize: '1rem', cursor: 'pointer'
           }}
         >

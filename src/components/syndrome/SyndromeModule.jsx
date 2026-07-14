@@ -141,7 +141,7 @@ export default function SyndromeModule() {
               <span key={i} className="tag-item clickable-tag" onClick={() => handleSearchClick(point)}>{point}</span>
             ))}
             {(!syndrome.diagnosis_points || syndrome.diagnosis_points.length === 0) && (
-              <span className="section-content" style={{ color: '#999' }}>暂无数据</span>
+              <span className="section-content" style={{ color: 'var(--color-text-hint)' }}>暂无数据</span>
             )}
           </div>
         </div>
@@ -355,7 +355,7 @@ export default function SyndromeModule() {
               <div className="list-item-title">
                 {syndrome.name}
                 {syndrome.category && syndrome.category.length > 0 && (
-                  <span style={{ fontSize: '0.85rem', color: '#4a9c8c', marginLeft: '8px', fontWeight: 'normal' }}>
+                  <span style={{ fontSize: '0.85rem', color: 'var(--color-primary)', marginLeft: '8px', fontWeight: 'normal' }}>
                     {syndrome.category.slice(0, 2).join('·')}
                   </span>
                 )}

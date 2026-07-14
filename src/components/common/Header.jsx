@@ -5,11 +5,11 @@ export default function Header() {
 
   return (
     <header className="header-container" onClick={() => navigate('/')}>
-      <div className="header-logo">
-        <span className="header-icon">🌿</span>
+      <span className="header-icon">🌿</span>
+      <div>
+        <div className="header-title">中医辨证论治</div>
+        <div className="header-subtitle">传承经典 · 辨证施治</div>
       </div>
-      <div className="header-title">中医辨证论治</div>
-      <div className="header-subtitle">传承经典 · 辨证施治</div>
     </header>
   )
 }

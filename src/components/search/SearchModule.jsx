@@ -249,10 +249,10 @@ export default function SearchModule() {
               </div>
             )}
             <div className="result-sub">
-              <span style={{ fontWeight: 500, color: '#ea6b52' }}>🀄 中医：</span>
+              <span style={{ fontWeight: 500, color: 'var(--color-danger-light)' }}>🀄 中医：</span>
               {ctx.chinese_term}
-              <span style={{ margin: '0 6px', color: '#999' }}>↔</span>
-              <span style={{ fontWeight: 500, color: '#4a7fb5' }}>🏥 西医：</span>
+              <span style={{ margin: '0 6px', color: 'var(--color-text-hint)' }}>↔</span>
+              <span style={{ fontWeight: 500, color: 'var(--color-info)' }}>🏥 西医：</span>
               {ctx.modern_term}
             </div>
             {ctx.comparison && ctx.comparison.length > 0 && (
@@ -268,6 +268,14 @@ export default function SearchModule() {
         )
       default:
         return null
+    }
+  }
+
+  const handleBack = () => {
+    if (window.history.length > 1) {
+      navigate(-1)
+    } else {
+      navigate('/')
     }
   }
 
@@ -311,6 +319,8 @@ export default function SearchModule() {
   // Results loaded
   return (
     <div>
+      <button className="back-button" onClick={handleBack} style={{ marginBottom: '12px' }}>← 返回</button>
+
       <div className="search-results-header">
         搜索 "<strong>{searchResults.keyword}</strong>" 共找到 <strong>{searchResults.total}</strong> 条结果
       </div>

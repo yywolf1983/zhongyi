@@ -19,19 +19,28 @@ export default function FormulaModule() {
   const [formulaCatFilter, setFormulaCatFilter] = useState('all')
   const [medicineCatFilter, setMedicineCatFilter] = useState('all')
 
-  // Formula category options
+  // ---- 分类统计：category → count ----
   const formulaCategories = useMemo(() => {
-    const set = new Set()
+    const map = {}
     allFormulas.forEach(f => {
-      if (f.category) set.add(f.category)
-      if (f.subcategory) set.add(f.subcategory)
+      if (!f.category) return
+      map[f.category] = (map[f.category] || 0) + 1
     })
-    return ['all', ...Array.from(set).sort()]
+    return ['all', ...Object.keys(map).sort()]
+  }, [allFormulas])
+
+  const formulaCategoryCount = useMemo(() => {
+    const map = {}
+    allFormulas.forEach(f => {
+      if (!f.category) return
+      map[f.category] = (map[f.category] || 0) + 1
+    })
+    return map
   }, [allFormulas])
 
   const formulas = useMemo(() => {
     if (formulaCatFilter === 'all') return allFormulas
-    return allFormulas.filter(f => f.category === formulaCatFilter || f.subcategory === formulaCatFilter)
+    return allFormulas.filter(f => f.category === formulaCatFilter)
   }, [allFormulas, formulaCatFilter])
 
   // Medicine category options
@@ -503,7 +512,7 @@ export default function FormulaModule() {
               className={`tag-filter-btn ${formulaCatFilter === cat ? 'active' : ''}`}
               onClick={() => setFormulaCatFilter(cat)}
             >
-              {cat === 'all' ? `全部分类（${allFormulas.length}）` : cat}
+              {cat === 'all' ? `全部（${allFormulas.length}）` : `${cat}（${formulaCategoryCount[cat] || 0}）`}
             </button>
           ))}
         </div>
