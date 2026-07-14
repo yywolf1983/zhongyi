@@ -1,0 +1,2119 @@
+[
+  {
+    "id": "prescription_001",
+    "name": "感冒方",
+    "pinyin": "Gan Mao Fang",
+    "category": "内科",
+    "subcategory": "感冒",
+    "syndrome": "外感风寒",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "疏风解表"
+    ],
+    "indications": [
+      "恶寒发热，头痛鼻塞"
+    ],
+    "method": "大椎、风池用泻法，合谷、列缺用平补平泻法",
+    "modern_applications": [
+      "普通感冒",
+      "流感"
+    ],
+    "beginner_note": "初学者：感冒常用穴位组合，大椎解表退热效果好。",
+    "advanced_clinical_note": "高级要点：风寒感冒可加风门、肺俞；风热感冒可加曲池、尺泽。"
+  },
+  {
+    "id": "prescription_002",
+    "name": "咳嗽方",
+    "pinyin": "Ke Sou Fang",
+    "category": "内科",
+    "subcategory": "咳嗽",
+    "syndrome": "肺热咳嗽",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_009",
+        "name": "太渊",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "宣肺止咳"
+    ],
+    "indications": [
+      "咳嗽频繁，痰少黏稠"
+    ],
+    "method": "肺俞用泻法，其余用平补平泻法",
+    "modern_applications": [
+      "急性支气管炎",
+      "上呼吸道感染"
+    ],
+    "beginner_note": "初学者：咳嗽基本方，肺俞是治疗肺部疾病的要穴。",
+    "advanced_clinical_note": "高级要点：痰湿咳嗽加丰隆、足三里；干咳加太溪、照海。"
+  },
+  {
+    "id": "prescription_003",
+    "name": "哮喘方",
+    "pinyin": "Xiao Chuan Fang",
+    "category": "内科",
+    "subcategory": "哮喘",
+    "syndrome": "肺肾两虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_382",
+        "name": "定喘",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "补肺益肾，平喘止咳"
+    ],
+    "indications": [
+      "哮喘反复发作，呼多吸少"
+    ],
+    "method": "肺俞、肾俞用补法，定喘用泻法",
+    "modern_applications": [
+      "支气管哮喘",
+      "慢性阻塞性肺疾病"
+    ],
+    "beginner_note": "初学者：哮喘常用方，定喘是平喘特效穴。",
+    "advanced_clinical_note": "高级要点：发作期加膻中、天突；缓解期重在调理肺肾。"
+  },
+  {
+    "id": "prescription_004",
+    "name": "胃痛方",
+    "pinyin": "Wei Tong Fang",
+    "category": "内科",
+    "subcategory": "胃痛",
+    "syndrome": "脾胃虚寒",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_080",
+        "name": "公孙",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "温中健脾，和胃止痛"
+    ],
+    "indications": [
+      "胃脘隐痛，喜温喜按"
+    ],
+    "method": "中脘、足三里用补法，内关、公孙用平补平泻法",
+    "modern_applications": [
+      "慢性胃炎",
+      "消化性溃疡"
+    ],
+    "beginner_note": "初学者：胃痛基本方，足三里是胃经合穴。",
+    "advanced_clinical_note": "高级要点：寒证加胃俞、神阙；热证加内庭、行间。"
+  },
+  {
+    "id": "prescription_005",
+    "name": "便秘方",
+    "pinyin": "Bian Mi Fang",
+    "category": "内科",
+    "subcategory": "便秘",
+    "syndrome": "热秘",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_068",
+        "name": "上巨虚",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_234",
+        "name": "支沟",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_150",
+        "name": "大肠俞",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热通便"
+    ],
+    "indications": [
+      "大便干结，腹胀腹痛"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "便秘",
+      "肠梗阻"
+    ],
+    "beginner_note": "初学者：便秘常用方，支沟是治疗便秘的特效穴。",
+    "advanced_clinical_note": "高级要点：气虚便秘加足三里、气海；阳虚便秘加关元、命门。"
+  },
+  {
+    "id": "prescription_006",
+    "name": "失眠方",
+    "pinyin": "Shi Mian Fang",
+    "category": "内科",
+    "subcategory": "失眠",
+    "syndrome": "心脾两虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_377",
+        "name": "安眠",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "养心安神"
+    ],
+    "indications": [
+      "失眠多梦，心悸健忘"
+    ],
+    "method": "神门、三阴交用补法，百会、安眠用平补平泻法",
+    "modern_applications": [
+      "神经衰弱",
+      "失眠症"
+    ],
+    "beginner_note": "初学者：失眠基本方，神门是心经原穴。",
+    "advanced_clinical_note": "高级要点：肝火扰心加行间、太冲；痰热内扰加丰隆、内庭。"
+  },
+  {
+    "id": "prescription_007",
+    "name": "头痛方",
+    "pinyin": "Tou Tong Fang",
+    "category": "内科",
+    "subcategory": "头痛",
+    "syndrome": "偏头痛",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_367",
+        "name": "太阳",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_259",
+        "name": "率谷",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "疏风止痛"
+    ],
+    "indications": [
+      "一侧头痛，反复发作"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "偏头痛",
+      "紧张性头痛"
+    ],
+    "beginner_note": "初学者：头痛常用方，太阳是经外奇穴。",
+    "advanced_clinical_note": "高级要点：前头痛加印堂、合谷；后头痛加天柱、昆仑。"
+  },
+  {
+    "id": "prescription_008",
+    "name": "眩晕方",
+    "pinyin": "Xuan Yun Fang",
+    "category": "内科",
+    "subcategory": "眩晕",
+    "syndrome": "肝阳上亢",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "平肝潜阳"
+    ],
+    "indications": [
+      "头晕目眩，急躁易怒"
+    ],
+    "method": "风池、肝俞、太冲用泻法，足三里用补法",
+    "modern_applications": [
+      "高血压",
+      "梅尼埃病"
+    ],
+    "beginner_note": "初学者：眩晕基本方，太冲是肝经原穴。",
+    "advanced_clinical_note": "高级要点：痰湿眩晕加丰隆、中脘；气血亏虚加气海、血海。"
+  },
+  {
+    "id": "prescription_009",
+    "name": "面瘫方",
+    "pinyin": "Mian Tan Fang",
+    "category": "内科",
+    "subcategory": "面瘫",
+    "syndrome": "风邪入络",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_037",
+        "name": "颊车",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_035",
+        "name": "地仓",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "祛风通络"
+    ],
+    "indications": [
+      "口眼歪斜，面部麻木"
+    ],
+    "method": "颊车、地仓用平补平泻法，合谷、足三里用泻法",
+    "modern_applications": [
+      "面神经麻痹"
+    ],
+    "beginner_note": "初学者：面瘫常用方，地仓透颊车效果好。",
+    "advanced_clinical_note": "高级要点：急性期浅刺，恢复期可加电针。"
+  },
+  {
+    "id": "prescription_010",
+    "name": "中风方",
+    "pinyin": "Zhong Feng Fang",
+    "category": "内科",
+    "subcategory": "中风",
+    "syndrome": "气虚血瘀",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_026",
+        "name": "肩髃",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_233",
+        "name": "外关",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "疏通经络"
+    ],
+    "indications": [
+      "半身不遂，肢体麻木"
+    ],
+    "method": "上肢穴位用泻法",
+    "modern_applications": [
+      "脑梗死",
+      "脑出血后遗症"
+    ],
+    "beginner_note": "初学者：中风后遗症常用方，上肢取阳明经穴位。",
+    "advanced_clinical_note": "高级要点：下肢取足三里、阳陵泉、解溪；语言障碍加廉泉、哑门。"
+  },
+  {
+    "id": "prescription_011",
+    "name": "高血压方",
+    "pinyin": "Gao Xue Ya Fang",
+    "category": "内科",
+    "subcategory": "高血压",
+    "syndrome": "肝阳上亢",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "平肝降压"
+    ],
+    "indications": [
+      "血压升高，头痛头晕"
+    ],
+    "method": "风池、太冲、肝俞用泻法，足三里用补法",
+    "modern_applications": [
+      "原发性高血压"
+    ],
+    "beginner_note": "初学者：高血压常用方，太冲平肝效果好。",
+    "advanced_clinical_note": "高级要点：痰湿加丰隆；阴虚加太溪、肾俞。"
+  },
+  {
+    "id": "prescription_012",
+    "name": "糖尿病方",
+    "pinyin": "Tang Niao Bing Fang",
+    "category": "内科",
+    "subcategory": "糖尿病",
+    "syndrome": "阴虚燥热",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_146",
+        "name": "胃俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "滋阴润燥"
+    ],
+    "indications": [
+      "多饮多食多尿"
+    ],
+    "method": "肺俞、胃俞用泻法，肾俞、足三里用补法",
+    "modern_applications": [
+      "糖尿病"
+    ],
+    "beginner_note": "初学者：糖尿病常用方，三俞穴调理脏腑。",
+    "advanced_clinical_note": "高级要点：口渴加少商、金津、玉液；饥饿加内庭。"
+  },
+  {
+    "id": "prescription_013",
+    "name": "痛经方",
+    "pinyin": "Tong Jing Fang",
+    "category": "妇科",
+    "subcategory": "痛经",
+    "syndrome": "气滞血瘀",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_157",
+        "name": "次髎",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_084",
+        "name": "地机",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "活血化瘀止痛"
+    ],
+    "indications": [
+      "经行腹痛，拒按"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "痛经"
+    ],
+    "beginner_note": "初学者：痛经常用方，次髎是治疗痛经的要穴。",
+    "advanced_clinical_note": "高级要点：寒凝血瘀加关元、归来；气血虚弱加足三里、气海。"
+  },
+  {
+    "id": "prescription_014",
+    "name": "月经不调方",
+    "pinyin": "Yue Jing Bu Tiao Fang",
+    "category": "妇科",
+    "subcategory": "月经不调",
+    "syndrome": "气血不足",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "益气养血调经"
+    ],
+    "indications": [
+      "月经推迟，量少色淡"
+    ],
+    "method": "均用补法",
+    "modern_applications": [
+      "月经不调"
+    ],
+    "beginner_note": "初学者：月经不调常用方，三阴交是妇科要穴。",
+    "advanced_clinical_note": "高级要点：肝郁气滞加太冲、行间；宫寒加命门、神阙。"
+  },
+  {
+    "id": "prescription_015",
+    "name": "盆腔炎方",
+    "pinyin": "Pei Qian Yan Fang",
+    "category": "妇科",
+    "subcategory": "盆腔炎",
+    "syndrome": "湿热下注",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_380",
+        "name": "子宫",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_297",
+        "name": "行间",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热利湿"
+    ],
+    "indications": [
+      "下腹疼痛，带下量多"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "盆腔炎"
+    ],
+    "beginner_note": "初学者：盆腔炎常用方，阴陵泉利湿效果好。",
+    "advanced_clinical_note": "高级要点：寒凝加关元、归来；气滞加太冲。"
+  },
+  {
+    "id": "prescription_016",
+    "name": "不孕症方",
+    "pinyin": "Bu Yun Zheng Fang",
+    "category": "妇科",
+    "subcategory": "不孕症",
+    "syndrome": "肾虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_313",
+        "name": "命门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "补肾调经"
+    ],
+    "indications": [
+      "婚后不孕，腰膝酸软"
+    ],
+    "method": "均用补法",
+    "modern_applications": [
+      "不孕症"
+    ],
+    "beginner_note": "初学者：不孕症常用方，肾俞、命门补肾效果好。",
+    "advanced_clinical_note": "高级要点：气血不足加足三里、血海；肝郁加太冲、期门。"
+  },
+  {
+    "id": "prescription_017",
+    "name": "小儿感冒方",
+    "pinyin": "Xiao Er Gan Mao Fang",
+    "category": "儿科",
+    "subcategory": "感冒",
+    "syndrome": "小儿外感",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_137",
+        "name": "风门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "疏风解表"
+    ],
+    "indications": [
+      "小儿发热，咳嗽流涕"
+    ],
+    "method": "大椎、风门用泻法，合谷、足三里用平补平泻法",
+    "modern_applications": [
+      "小儿感冒"
+    ],
+    "beginner_note": "初学者：小儿感冒常用方，注意针刺深度。",
+    "advanced_clinical_note": "高级要点：发热高加大椎放血；咳嗽重加肺俞。"
+  },
+  {
+    "id": "prescription_018",
+    "name": "小儿腹泻方",
+    "pinyin": "Xiao Er Fu Xie Fang",
+    "category": "儿科",
+    "subcategory": "腹泻",
+    "syndrome": "脾虚泻",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "健脾止泻"
+    ],
+    "indications": [
+      "小儿腹泻，大便稀溏"
+    ],
+    "method": "均用补法",
+    "modern_applications": [
+      "小儿腹泻"
+    ],
+    "beginner_note": "初学者：小儿腹泻常用方，足三里健脾效果好。",
+    "advanced_clinical_note": "高级要点：寒湿泻加神阙艾灸；湿热泻加内庭。"
+  },
+  {
+    "id": "prescription_019",
+    "name": "小儿遗尿方",
+    "pinyin": "Xiao Er Yi Niao Fang",
+    "category": "儿科",
+    "subcategory": "遗尿",
+    "syndrome": "肾气不足",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_313",
+        "name": "命门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "温肾固涩"
+    ],
+    "indications": [
+      "小儿夜间遗尿"
+    ],
+    "method": "均用补法，关元、中极可加艾灸",
+    "modern_applications": [
+      "小儿遗尿"
+    ],
+    "beginner_note": "初学者：小儿遗尿常用方，关元、中极是膀胱募穴。",
+    "advanced_clinical_note": "高级要点：脾虚加足三里、脾俞；肺虚加肺俞、气海。"
+  },
+  {
+    "id": "prescription_020",
+    "name": "小儿脑瘫方",
+    "pinyin": "Xiao Er Nao Tan Fang",
+    "category": "儿科",
+    "subcategory": "脑瘫",
+    "syndrome": "肝肾不足",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "补益肝肾，疏通经络"
+    ],
+    "indications": [
+      "小儿肢体瘫痪，智力低下"
+    ],
+    "method": "百会、肾俞、足三里用补法，曲池用平补平泻法",
+    "modern_applications": [
+      "小儿脑瘫"
+    ],
+    "beginner_note": "初学者：小儿脑瘫常用方，百会健脑益智。",
+    "advanced_clinical_note": "高级要点：上肢加肩髃、外关；下肢加阳陵泉、解溪。"
+  },
+  {
+    "id": "prescription_021",
+    "name": "牙痛方",
+    "pinyin": "Ya Tong Fang",
+    "category": "五官科",
+    "subcategory": "牙痛",
+    "syndrome": "胃火牙痛",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_037",
+        "name": "颊车",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_038",
+        "name": "下关",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_075",
+        "name": "内庭",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热止痛"
+    ],
+    "indications": [
+      "牙痛剧烈，牙龈红肿"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "牙周炎",
+      "牙髓炎"
+    ],
+    "beginner_note": "初学者：牙痛常用方，合谷是治疗牙痛的要穴。",
+    "advanced_clinical_note": "高级要点：风火牙痛加风池、外关；虚火牙痛加太溪、照海。"
+  },
+  {
+    "id": "prescription_022",
+    "name": "咽喉肿痛方",
+    "pinyin": "Yan Hou Zhong Tong Fang",
+    "category": "五官科",
+    "subcategory": "咽喉肿痛",
+    "syndrome": "风热",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_011",
+        "name": "少商",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_012",
+        "name": "商阳",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_005",
+        "name": "尺泽",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热解毒"
+    ],
+    "indications": [
+      "咽喉肿痛，吞咽困难"
+    ],
+    "method": "少商、商阳点刺放血，合谷、尺泽用泻法",
+    "modern_applications": [
+      "急性扁桃体炎",
+      "咽喉炎"
+    ],
+    "beginner_note": "初学者：咽喉肿痛常用方，少商放血效果好。",
+    "advanced_clinical_note": "高级要点：肺热加肺俞；胃热加内庭。"
+  },
+  {
+    "id": "prescription_023",
+    "name": "近视方",
+    "pinyin": "Jin Shi Fang",
+    "category": "五官科",
+    "subcategory": "近视",
+    "syndrome": "肝肾不足",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_126",
+        "name": "睛明",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_032",
+        "name": "承泣",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_288",
+        "name": "光明",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "养肝明目"
+    ],
+    "indications": [
+      "视力下降，视物模糊"
+    ],
+    "method": "睛明、承泣轻刺，风池、光明用平补平泻法",
+    "modern_applications": [
+      "近视"
+    ],
+    "beginner_note": "初学者：近视常用方，睛明是治疗眼病的要穴。",
+    "advanced_clinical_note": "高级要点：加太阳穴按摩；配合眼保健操效果更好。"
+  },
+  {
+    "id": "prescription_024",
+    "name": "耳鸣方",
+    "pinyin": "Er Ming Fang",
+    "category": "五官科",
+    "subcategory": "耳鸣",
+    "syndrome": "肝肾阴虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_249",
+        "name": "耳门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_125",
+        "name": "听宫",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_253",
+        "name": "听会",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "滋阴补肾，开窍聪耳"
+    ],
+    "indications": [
+      "耳鸣耳聋，听力下降"
+    ],
+    "method": "耳门、听宫、听会用平补平泻法，太溪用补法",
+    "modern_applications": [
+      "神经性耳鸣",
+      "耳聋"
+    ],
+    "beginner_note": "初学者：耳鸣常用方，耳门、听宫、听会是治疗耳病的要穴。",
+    "advanced_clinical_note": "高级要点：肝火加太冲、翳风；痰火加丰隆、内庭。"
+  },
+  {
+    "id": "prescription_025",
+    "name": "鼻炎方",
+    "pinyin": "Bi Yan Fang",
+    "category": "五官科",
+    "subcategory": "鼻炎",
+    "syndrome": "肺脾气虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_031",
+        "name": "迎香",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_363",
+        "name": "印堂",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "益气固表，通利鼻窍"
+    ],
+    "indications": [
+      "鼻塞流涕，嗅觉减退"
+    ],
+    "method": "迎香、印堂用平补平泻法，合谷用泻法，足三里用补法",
+    "modern_applications": [
+      "过敏性鼻炎",
+      "慢性鼻炎"
+    ],
+    "beginner_note": "初学者：鼻炎常用方，迎香是治疗鼻病的要穴。",
+    "advanced_clinical_note": "高级要点：肺虚加肺俞；脾虚加脾俞；鼻塞重加通天。"
+  },
+  {
+    "id": "prescription_026",
+    "name": "肩周炎方",
+    "pinyin": "Jian Zhou Yan Fang",
+    "category": "骨科",
+    "subcategory": "肩周炎",
+    "syndrome": "风寒湿痹",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_026",
+        "name": "肩髃",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_115",
+        "name": "肩贞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_390",
+        "name": "肩前",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "祛风散寒，疏通经络"
+    ],
+    "indications": [
+      "肩关节疼痛，活动受限"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "肩周炎"
+    ],
+    "beginner_note": "初学者：肩周炎常用方，肩三针（肩髃、肩贞、肩前）效果好。",
+    "advanced_clinical_note": "高级要点：配合推拿按摩；加强功能锻炼。"
+  },
+  {
+    "id": "prescription_027",
+    "name": "颈椎病方",
+    "pinyin": "Jing Zhui Bing Fang",
+    "category": "骨科",
+    "subcategory": "颈椎病",
+    "syndrome": "气滞血瘀",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_135",
+        "name": "天柱",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "颈夹脊",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "活血化瘀，疏通经络"
+    ],
+    "indications": [
+      "颈部疼痛，上肢麻木"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "颈椎病"
+    ],
+    "beginner_note": "初学者：颈椎病常用方，颈夹脊是治疗颈椎疾病的要穴。",
+    "advanced_clinical_note": "高级要点：上肢麻木加曲池、合谷；头晕加百会。"
+  },
+  {
+    "id": "prescription_028",
+    "name": "腰椎间盘突出方",
+    "pinyin": "Yao Zhui Jian Pan Tu Chu Fang",
+    "category": "骨科",
+    "subcategory": "腰椎间盘突出",
+    "syndrome": "寒湿腰痛",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_150",
+        "name": "大肠俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_165",
+        "name": "委中",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_090",
+        "name": "阿是穴",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "散寒除湿，通络止痛"
+    ],
+    "indications": [
+      "腰痛放射至下肢"
+    ],
+    "method": "肾俞、大肠俞用补法，委中、阿是穴用泻法",
+    "modern_applications": [
+      "腰椎间盘突出"
+    ],
+    "beginner_note": "初学者：腰痛常用方，委中是治疗腰痛的要穴。",
+    "advanced_clinical_note": "高级要点：血瘀加膈俞；肾虚加命门；配合牵引效果更好。"
+  },
+  {
+    "id": "prescription_029",
+    "name": "膝关节炎方",
+    "pinyin": "Xi Guan Jie Yan Fang",
+    "category": "骨科",
+    "subcategory": "膝关节炎",
+    "syndrome": "肝肾亏虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_066",
+        "name": "犊鼻",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "补益肝肾，通络止痛"
+    ],
+    "indications": [
+      "膝关节疼痛，活动受限"
+    ],
+    "method": "犊鼻、阳陵泉用平补平泻法，足三里、阴陵泉用补法",
+    "modern_applications": [
+      "骨关节炎",
+      "类风湿关节炎"
+    ],
+    "beginner_note": "初学者：膝关节炎常用方，犊鼻是治疗膝关节疾病的要穴。",
+    "advanced_clinical_note": "高级要点：寒湿加关元艾灸；湿热加内庭；配合中药外敷。"
+  },
+  {
+    "id": "prescription_030",
+    "name": "坐骨神经痛方",
+    "pinyin": "Zuo Gu Shen Jing Tong Fang",
+    "category": "骨科",
+    "subcategory": "坐骨神经痛",
+    "syndrome": "瘀血阻滞",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_281",
+        "name": "环跳",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_165",
+        "name": "委中",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_185",
+        "name": "昆仑",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "活血化瘀，通络止痛"
+    ],
+    "indications": [
+      "臀部及下肢放射性疼痛"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "坐骨神经痛"
+    ],
+    "beginner_note": "初学者：坐骨神经痛常用方，环跳是治疗坐骨神经痛的要穴。",
+    "advanced_clinical_note": "高级要点：加电针增强疗效；配合拔罐效果更好。"
+  },
+  {
+    "id": "prescription_031",
+    "name": "荨麻疹方",
+    "pinyin": "Xun Ma Zhen Fang",
+    "category": "皮肤科",
+    "subcategory": "荨麻疹",
+    "syndrome": "风热犯表",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_142",
+        "name": "膈俞",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "疏风清热，养血润燥"
+    ],
+    "indications": [
+      "皮肤瘙痒，风团此起彼伏"
+    ],
+    "method": "曲池用泻法，血海、足三里、膈俞用平补平泻法",
+    "modern_applications": [
+      "荨麻疹"
+    ],
+    "beginner_note": "初学者：荨麻疹常用方，曲池清热效果好。",
+    "advanced_clinical_note": "高级要点：风寒加风门、肺俞；血虚加三阴交、肝俞。"
+  },
+  {
+    "id": "prescription_032",
+    "name": "湿疹方",
+    "pinyin": "Shi Zhen Fang",
+    "category": "皮肤科",
+    "subcategory": "湿疹",
+    "syndrome": "湿热蕴结",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热利湿"
+    ],
+    "indications": [
+      "皮肤红斑，水疱渗出"
+    ],
+    "method": "曲池、阴陵泉用泻法，足三里、脾俞用平补平泻法",
+    "modern_applications": [
+      "湿疹"
+    ],
+    "beginner_note": "初学者：湿疹常用方，阴陵泉利湿效果好。",
+    "advanced_clinical_note": "高级要点：湿热重加大椎放血；脾虚加胃俞；配合中药外洗。"
+  },
+  {
+    "id": "prescription_033",
+    "name": "痤疮方",
+    "pinyin": "Cuo Chuang Fang",
+    "category": "皮肤科",
+    "subcategory": "痤疮",
+    "syndrome": "肺胃蕴热",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_146",
+        "name": "胃俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热泻火"
+    ],
+    "indications": [
+      "面部痤疮，红肿疼痛"
+    ],
+    "method": "大椎、肺俞、胃俞用泻法，合谷用平补平泻法",
+    "modern_applications": [
+      "痤疮"
+    ],
+    "beginner_note": "初学者：痤疮常用方，大椎放血效果好。",
+    "advanced_clinical_note": "高级要点：肺热加尺泽；胃热加内庭；配合面部刮痧。"
+  },
+  {
+    "id": "prescription_034",
+    "name": "带状疱疹方",
+    "pinyin": "Dai Zhuang Bao Zhen Fang",
+    "category": "皮肤科",
+    "subcategory": "带状疱疹",
+    "syndrome": "肝胆湿热",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_111",
+        "name": "局部围刺",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_112",
+        "name": "肝经",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_113",
+        "name": "胆经",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热解毒，利湿止痛"
+    ],
+    "indications": [
+      "皮肤疱疹，疼痛剧烈"
+    ],
+    "method": "局部围刺用泻法，肝经、胆经穴位用泻法",
+    "modern_applications": [
+      "带状疱疹"
+    ],
+    "beginner_note": "初学者：带状疱疹常用方，局部围刺效果好。",
+    "advanced_clinical_note": "高级要点：加电针止痛；配合中药内服外用。"
+  },
+  {
+    "id": "prescription_035",
+    "name": "抑郁症方",
+    "pinyin": "Yi Yu Zheng Fang",
+    "category": "精神科",
+    "subcategory": "抑郁症",
+    "syndrome": "肝郁气滞",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_363",
+        "name": "印堂",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "疏肝解郁"
+    ],
+    "indications": [
+      "情绪低落，兴趣减退"
+    ],
+    "method": "百会、印堂用平补平泻法，太冲用泻法，足三里用补法",
+    "modern_applications": [
+      "抑郁症",
+      "焦虑症"
+    ],
+    "beginner_note": "初学者：抑郁症常用方，百会安神效果好。",
+    "advanced_clinical_note": "高级要点：心脾两虚加神门、三阴交；配合心理疏导。"
+  },
+  {
+    "id": "prescription_036",
+    "name": "焦虑症方",
+    "pinyin": "Jiao Lv Zheng Fang",
+    "category": "精神科",
+    "subcategory": "焦虑症",
+    "syndrome": "心胆气虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_144",
+        "name": "胆俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "益气镇惊，安神定志"
+    ],
+    "indications": [
+      "焦虑不安，心悸失眠"
+    ],
+    "method": "神门、内关、胆俞用平补平泻法，足三里用补法",
+    "modern_applications": [
+      "焦虑症",
+      "惊恐障碍"
+    ],
+    "beginner_note": "初学者：焦虑症常用方，神门、内关安神效果好。",
+    "advanced_clinical_note": "高级要点：阴虚火旺加太溪、照海；配合放松训练。"
+  },
+  {
+    "id": "prescription_037",
+    "name": "戒烟方",
+    "pinyin": "Jie Yan Fang",
+    "category": "其他",
+    "subcategory": "戒烟",
+    "syndrome": "尼古丁依赖",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "安神醒脑"
+    ],
+    "indications": [
+      "吸烟成瘾，难以戒除"
+    ],
+    "method": "百会、神门、内关用平补平泻法，足三里用补法",
+    "modern_applications": [
+      "戒烟"
+    ],
+    "beginner_note": "初学者：戒烟常用方，内关可减轻戒断症状。",
+    "advanced_clinical_note": "高级要点：耳穴贴压配合效果更好；加强意志力训练。"
+  },
+  {
+    "id": "prescription_038",
+    "name": "减肥方",
+    "pinyin": "Jian Fei Fang",
+    "category": "其他",
+    "subcategory": "减肥",
+    "syndrome": "痰湿肥胖",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "健脾祛湿"
+    ],
+    "indications": [
+      "体型肥胖，腹部胀满"
+    ],
+    "method": "中脘、天枢用平补平泻法，足三里用补法，丰隆用泻法",
+    "modern_applications": [
+      "肥胖症"
+    ],
+    "beginner_note": "初学者：减肥常用方，丰隆利湿效果好。",
+    "advanced_clinical_note": "高级要点：配合饮食控制和运动；加电针刺激。"
+  },
+  {
+    "id": "prescription_039",
+    "name": "亚健康调理方",
+    "pinyin": "Ya Jian Kang Tiao Li Fang",
+    "category": "其他",
+    "subcategory": "亚健康",
+    "syndrome": "气血不足",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "益气养血"
+    ],
+    "indications": [
+      "疲劳乏力，精神不振"
+    ],
+    "method": "均用补法",
+    "modern_applications": [
+      "亚健康"
+    ],
+    "beginner_note": "初学者：亚健康调理常用方，足三里是保健要穴。",
+    "advanced_clinical_note": "高级要点：根据体质辨证加减；配合艾灸效果更好。"
+  },
+  {
+    "id": "prescription_040",
+    "name": "痛经方2",
+    "pinyin": "Tong Jing Fang 2",
+    "category": "妇科",
+    "subcategory": "痛经",
+    "syndrome": "寒凝血瘀",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_060",
+        "name": "归来",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_084",
+        "name": "地机",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "温经散寒止痛"
+    ],
+    "indications": [
+      "经行腹痛，得热则减"
+    ],
+    "method": "关元、归来用补法加艾灸，足三里、地机用平补平泻法",
+    "modern_applications": [
+      "痛经"
+    ],
+    "beginner_note": "初学者：寒凝血瘀痛经常用方，关元艾灸效果好。",
+    "advanced_clinical_note": "高级要点：加神阙艾灸；配合中药热敷。"
+  },
+  {
+    "id": "prescription_041",
+    "name": "更年期综合征方",
+    "pinyin": "Geng Nian Qi Zong He Zheng Fang",
+    "category": "妇科",
+    "subcategory": "更年期综合征",
+    "syndrome": "肝肾阴虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "滋补肝肾"
+    ],
+    "indications": [
+      "潮热盗汗，心烦易怒"
+    ],
+    "method": "均用补法",
+    "modern_applications": [
+      "更年期综合征"
+    ],
+    "beginner_note": "初学者：更年期综合征常用方，太溪补肾效果好。",
+    "advanced_clinical_note": "高级要点：加百会安神；配合中药调理。"
+  },
+  {
+    "id": "prescription_042",
+    "name": "乳腺炎方",
+    "pinyin": "Ru Xian Yan Fang",
+    "category": "妇科",
+    "subcategory": "乳腺炎",
+    "syndrome": "肝郁气滞",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_354",
+        "name": "膻中",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_309",
+        "name": "期门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "疏肝理气，清热解毒"
+    ],
+    "indications": [
+      "乳房胀痛，红肿发热"
+    ],
+    "method": "膻中、期门、太冲用泻法，足三里用补法",
+    "modern_applications": [
+      "乳腺炎"
+    ],
+    "beginner_note": "初学者：乳腺炎常用方，膻中是治疗乳腺疾病的要穴。",
+    "advanced_clinical_note": "高级要点：加局部阿是穴；配合中药外敷。"
+  },
+  {
+    "id": "prescription_043",
+    "name": "急性胃肠炎方",
+    "pinyin": "Ji Xing Wei Chang Yan Fang",
+    "category": "内科",
+    "subcategory": "急性胃肠炎",
+    "syndrome": "湿热下注",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_075",
+        "name": "内庭",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热利湿"
+    ],
+    "indications": [
+      "腹痛腹泻，大便黏腻"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "急性胃肠炎"
+    ],
+    "beginner_note": "初学者：急性胃肠炎常用方，天枢是大肠募穴。",
+    "advanced_clinical_note": "高级要点：呕吐加内关；发热加大椎放血。"
+  },
+  {
+    "id": "prescription_044",
+    "name": "胆囊炎方",
+    "pinyin": "Dan Nang Yan Fang",
+    "category": "内科",
+    "subcategory": "胆囊炎",
+    "syndrome": "肝胆湿热",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_144",
+        "name": "胆俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_309",
+        "name": "期门",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清肝利胆"
+    ],
+    "indications": [
+      "右上腹疼痛，口苦"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "胆囊炎",
+      "胆结石"
+    ],
+    "beginner_note": "初学者：胆囊炎常用方，阳陵泉是胆经合穴。",
+    "advanced_clinical_note": "高级要点：发热加大椎；配合中药利胆。"
+  },
+  {
+    "id": "prescription_045",
+    "name": "肾结石方",
+    "pinyin": "Shen Jie Shi Fang",
+    "category": "内科",
+    "subcategory": "肾结石",
+    "syndrome": "湿热蕴结",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_153",
+        "name": "膀胱俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_165",
+        "name": "委中",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热利湿，通淋排石"
+    ],
+    "indications": [
+      "腰腹疼痛，尿频尿急"
+    ],
+    "method": "肾俞、膀胱俞用平补平泻法，委中、足三里用泻法",
+    "modern_applications": [
+      "肾结石"
+    ],
+    "beginner_note": "初学者：肾结石常用方，委中是治疗腰痛的要穴。",
+    "advanced_clinical_note": "高级要点：血尿加血海；绞痛加电针。"
+  },
+  {
+    "id": "prescription_046",
+    "name": "慢性支气管炎方",
+    "pinyin": "Man Xing Zhi Qi Guan Yan Fang",
+    "category": "内科",
+    "subcategory": "慢性支气管炎",
+    "syndrome": "肺肾两虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_382",
+        "name": "定喘",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "补肺益肾"
+    ],
+    "indications": [
+      "咳嗽喘息，反复发作"
+    ],
+    "method": "肺俞、肾俞、足三里用补法，定喘用平补平泻法",
+    "modern_applications": [
+      "慢性支气管炎"
+    ],
+    "beginner_note": "初学者：慢性支气管炎常用方，定喘是平喘特效穴。",
+    "advanced_clinical_note": "高级要点：冬季加重加膏肓俞；配合冬病夏治。"
+  },
+  {
+    "id": "prescription_047",
+    "name": "偏头痛方",
+    "pinyin": "Pian Tou Tong Fang",
+    "category": "内科",
+    "subcategory": "偏头痛",
+    "syndrome": "肝阳上亢",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_259",
+        "name": "率谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "平肝息风"
+    ],
+    "indications": [
+      "一侧头痛，胀痛"
+    ],
+    "method": "率谷、风池、太冲用泻法，足三里用补法",
+    "modern_applications": [
+      "偏头痛"
+    ],
+    "beginner_note": "初学者：偏头痛常用方，率谷是治疗偏头痛的要穴。",
+    "advanced_clinical_note": "高级要点：经期头痛加三阴交；配合耳穴贴压。"
+  },
+  {
+    "id": "prescription_048",
+    "name": "三叉神经痛方",
+    "pinyin": "San Cha Shen Jing Tong Fang",
+    "category": "内科",
+    "subcategory": "三叉神经痛",
+    "syndrome": "风寒阻络",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_038",
+        "name": "下关",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_037",
+        "name": "颊车",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_075",
+        "name": "内庭",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "祛风散寒止痛"
+    ],
+    "indications": [
+      "面部阵发性疼痛"
+    ],
+    "method": "均用泻法",
+    "modern_applications": [
+      "三叉神经痛"
+    ],
+    "beginner_note": "初学者：三叉神经痛常用方，下关是治疗面痛的要穴。",
+    "advanced_clinical_note": "高级要点：加电针止痛；配合中药祛风。"
+  },
+  {
+    "id": "prescription_049",
+    "name": "帕金森病方",
+    "pinyin": "Pa Jin Sen Bing Fang",
+    "category": "内科",
+    "subcategory": "帕金森病",
+    "syndrome": "肝肾阴虚",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "滋补肝肾，息风止颤"
+    ],
+    "indications": [
+      "肢体震颤，动作迟缓"
+    ],
+    "method": "百会、肝俞、太溪用补法，风池用平补平泻法",
+    "modern_applications": [
+      "帕金森病"
+    ],
+    "beginner_note": "初学者：帕金森病常用方，百会健脑效果好。",
+    "advanced_clinical_note": "高级要点：加电针刺激；配合康复训练。"
+  },
+  {
+    "id": "prescription_050",
+    "name": "痛风方",
+    "pinyin": "Tong Feng Fang",
+    "category": "内科",
+    "subcategory": "痛风",
+    "syndrome": "湿热痹阻",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "针刺"
+      },
+      {
+        "acupoint_id": "acupoint_178",
+        "name": "局部阿是穴",
+        "method": "针刺"
+      }
+    ],
+    "effects": [
+      "清热利湿，通络止痛"
+    ],
+    "indications": [
+      "关节红肿热痛"
+    ],
+    "method": "足三里、三阴交用平补平泻法，阴陵泉、阿是穴用泻法",
+    "modern_applications": [
+      "痛风"
+    ],
+    "beginner_note": "初学者：痛风常用方，阴陵泉利湿效果好。",
+    "advanced_clinical_note": "高级要点：加刺血拔罐；配合饮食调理。"
+  }
+]

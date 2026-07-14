@@ -1,0 +1,9 @@
+{
+  "appId": "com.zhongyi.app",
+  "appName": "中医辨证论治系统",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

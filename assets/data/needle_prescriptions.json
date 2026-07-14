@@ -1,0 +1,8620 @@
+[
+  {
+    "id": "needle_001",
+    "name": "风寒感冒针方",
+    "category": "解表",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "疏风解表",
+      "宣肺通窍"
+    ],
+    "indications": [
+      "风寒感冒",
+      "头痛",
+      "鼻塞",
+      "恶寒发热"
+    ],
+    "modern_applications": [
+      "上呼吸道感染",
+      "过敏性鼻炎",
+      "鼻窦炎"
+    ],
+    "related_syndromes": [
+      "syndrome_001"
+    ],
+    "source": "常用经验方"
+  },
+  {
+    "id": "needle_002",
+    "name": "风热感冒针方",
+    "category": "解表",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "放血疗法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "疏风清热",
+      "利咽解毒"
+    ],
+    "indications": [
+      "风热感冒",
+      "咽喉肿痛",
+      "发热",
+      "头痛"
+    ],
+    "modern_applications": [
+      "急性扁桃体炎",
+      "急性咽喉炎",
+      "流行性感冒"
+    ],
+    "related_syndromes": [
+      "syndrome_002"
+    ],
+    "source": "常用经验方"
+  },
+  {
+    "id": "needle_003",
+    "name": "脾胃虚弱针方",
+    "category": "补益",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "健脾益气",
+      "和胃止痛"
+    ],
+    "indications": [
+      "脾胃虚弱",
+      "胃痛",
+      "腹胀",
+      "消化不良",
+      "泄泻"
+    ],
+    "modern_applications": [
+      "慢性胃炎",
+      "消化性溃疡",
+      "功能性消化不良"
+    ],
+    "related_syndromes": [
+      "syndrome_003"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_004",
+    "name": "肝郁气滞针方",
+    "category": "疏肝",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "疏肝解郁",
+      "理气止痛"
+    ],
+    "indications": [
+      "肝郁气滞",
+      "胸闷胁痛",
+      "烦躁易怒",
+      "失眠",
+      "月经不调"
+    ],
+    "modern_applications": [
+      "抑郁症",
+      "焦虑症",
+      "更年期综合征",
+      "乳腺增生"
+    ],
+    "related_syndromes": [
+      "syndrome_004"
+    ],
+    "source": "《针灸大成》"
+  },
+  {
+    "id": "needle_005",
+    "name": "肾阳虚针方",
+    "category": "补阳",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_193",
+        "name": "涌泉",
+        "method": "灸法"
+      }
+    ],
+    "effects": [
+      "温补肾阳",
+      "益气健脾"
+    ],
+    "indications": [
+      "肾阳虚",
+      "畏寒怕冷",
+      "腰膝酸软",
+      "夜尿多",
+      "阳痿"
+    ],
+    "modern_applications": [
+      "慢性肾炎",
+      "性功能障碍",
+      "甲状腺功能减退"
+    ],
+    "related_syndromes": [
+      "syndrome_005"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_006",
+    "name": "肺阴虚针方",
+    "category": "补阴",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "养阴润肺",
+      "益气健脾"
+    ],
+    "indications": [
+      "肺阴虚",
+      "干咳无痰",
+      "咽干声嘶",
+      "手足心热"
+    ],
+    "modern_applications": [
+      "慢性支气管炎",
+      "肺结核",
+      "慢性咽炎"
+    ],
+    "related_syndromes": [
+      "syndrome_006"
+    ],
+    "source": "常用经验方"
+  },
+  {
+    "id": "needle_007",
+    "name": "痰湿内阻针方",
+    "category": "祛湿",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "燥湿化痰",
+      "理气健脾"
+    ],
+    "indications": [
+      "痰湿内阻",
+      "咳嗽痰多",
+      "胸闷气喘",
+      "肢体沉重"
+    ],
+    "modern_applications": [
+      "慢性支气管炎",
+      "哮喘",
+      "肺气肿"
+    ],
+    "related_syndromes": [
+      "syndrome_007"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_008",
+    "name": "气滞血瘀针方",
+    "category": "活血",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "活血化瘀",
+      "行气止痛"
+    ],
+    "indications": [
+      "气滞血瘀",
+      "疼痛固定",
+      "面色晦暗",
+      "月经不调"
+    ],
+    "modern_applications": [
+      "冠心病",
+      "脑血管疾病",
+      "痛经",
+      "慢性肝炎"
+    ],
+    "related_syndromes": [
+      "syndrome_008"
+    ],
+    "source": "《针灸大成》"
+  },
+  {
+    "id": "needle_009",
+    "name": "阴虚火旺针方",
+    "category": "补阴",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺补法"
+      },
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "滋阴降火",
+      "安神定志"
+    ],
+    "indications": [
+      "阴虚火旺",
+      "潮热盗汗",
+      "头晕耳鸣",
+      "心烦失眠"
+    ],
+    "modern_applications": [
+      "更年期综合征",
+      "甲状腺功能亢进",
+      "糖尿病"
+    ],
+    "related_syndromes": [
+      "syndrome_009"
+    ],
+    "source": "《针灸大成》"
+  },
+  {
+    "id": "needle_010",
+    "name": "血虚针方",
+    "category": "补血",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "补血养血",
+      "健脾益气"
+    ],
+    "indications": [
+      "血虚",
+      "面色苍白",
+      "头晕眼花",
+      "心悸失眠"
+    ],
+    "modern_applications": [
+      "贫血",
+      "低血压",
+      "神经衰弱"
+    ],
+    "related_syndromes": [
+      "syndrome_010"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_011",
+    "name": "湿热下注针方",
+    "category": "清热",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "通淋止痛"
+    ],
+    "indications": [
+      "湿热下注",
+      "小便短赤",
+      "灼热疼痛",
+      "口苦口黏"
+    ],
+    "modern_applications": [
+      "尿路感染",
+      "前列腺炎",
+      "阴道炎"
+    ],
+    "related_syndromes": [
+      "syndrome_011"
+    ],
+    "source": "常用经验方"
+  },
+  {
+    "id": "needle_012",
+    "name": "肝阳上亢针方",
+    "category": "平肝",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      }
+    ],
+    "effects": [
+      "平肝潜阳",
+      "清热熄风"
+    ],
+    "indications": [
+      "肝阳上亢",
+      "头痛眩晕",
+      "面红目赤",
+      "烦躁易怒"
+    ],
+    "modern_applications": [
+      "高血压",
+      "偏头痛",
+      "神经衰弱"
+    ],
+    "related_syndromes": [
+      "syndrome_012"
+    ],
+    "source": "《针灸大成》"
+  },
+  {
+    "id": "needle_013",
+    "name": "心火亢盛针方",
+    "category": "清心",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "清心泻火",
+      "安神定志"
+    ],
+    "indications": [
+      "心火亢盛",
+      "心烦失眠",
+      "口舌生疮",
+      "舌尖红赤"
+    ],
+    "modern_applications": [
+      "口腔溃疡",
+      "神经衰弱",
+      "尿道炎"
+    ],
+    "related_syndromes": [
+      "syndrome_013"
+    ],
+    "source": "常用经验方"
+  },
+  {
+    "id": "needle_014",
+    "name": "食积停滞针方",
+    "category": "消导",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "消食化积",
+      "理气和胃"
+    ],
+    "indications": [
+      "食积停滞",
+      "脘腹胀满",
+      "嗳腐吞酸",
+      "不思饮食"
+    ],
+    "modern_applications": [
+      "消化不良",
+      "急性胃肠炎",
+      "积食"
+    ],
+    "related_syndromes": [
+      "syndrome_014"
+    ],
+    "source": "常用经验方"
+  },
+  {
+    "id": "needle_015",
+    "name": "气虚血瘀针方",
+    "category": "补益",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "补气活血",
+      "通络止痛"
+    ],
+    "indications": [
+      "气虚血瘀",
+      "半身不遂",
+      "肢体麻木",
+      "神疲乏力"
+    ],
+    "modern_applications": [
+      "脑梗死",
+      "冠心病",
+      "下肢静脉曲张"
+    ],
+    "related_syndromes": [
+      "syndrome_015"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_016",
+    "name": "少阳病针方",
+    "category": "和解",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "和解少阳",
+      "疏利气机"
+    ],
+    "indications": [
+      "少阳病",
+      "寒热往来",
+      "胸胁苦满",
+      "口苦咽干"
+    ],
+    "modern_applications": [
+      "感冒",
+      "疟疾",
+      "肋间神经痛"
+    ],
+    "related_syndromes": [
+      "syndrome_016",
+      "syndrome_020"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_017",
+    "name": "太阴病针方",
+    "category": "温里",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      }
+    ],
+    "effects": [
+      "温中散寒",
+      "健脾益气"
+    ],
+    "indications": [
+      "太阴病",
+      "腹满时痛",
+      "呕吐泄泻",
+      "食欲不振"
+    ],
+    "modern_applications": [
+      "慢性胃肠炎",
+      "功能性消化不良",
+      "肠易激综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_021",
+      "syndrome_024",
+      "syndrome_039",
+      "syndrome_040"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_018",
+    "name": "少阴病针方",
+    "category": "回阳",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "回阳救逆",
+      "温补肾阳"
+    ],
+    "indications": [
+      "少阴寒化",
+      "四肢厥冷",
+      "脉微细",
+      "但欲寐"
+    ],
+    "modern_applications": [
+      "休克",
+      "心力衰竭",
+      "慢性肾上腺皮质功能减退"
+    ],
+    "related_syndromes": [
+      "syndrome_022"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_019",
+    "name": "阳明病针方",
+    "category": "清热",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "放血疗法"
+      }
+    ],
+    "effects": [
+      "通腑泻热",
+      "清热生津"
+    ],
+    "indications": [
+      "阳明热证",
+      "大热",
+      "大汗",
+      "大渴"
+    ],
+    "modern_applications": [
+      "高热",
+      "中暑",
+      "感染性疾病"
+    ],
+    "related_syndromes": [
+      "syndrome_018",
+      "syndrome_019",
+      "syndrome_025",
+      "syndrome_041"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_020",
+    "name": "胸痹针方",
+    "category": "理气",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "宽胸化痰",
+      "理气止痛"
+    ],
+    "indications": [
+      "胸痹",
+      "胸闷痛",
+      "心悸"
+    ],
+    "modern_applications": [
+      "冠心病",
+      "心绞痛",
+      "心律失常"
+    ],
+    "related_syndromes": [
+      "syndrome_029",
+      "syndrome_032"
+    ],
+    "source": "《针灸甲乙经》"
+  },
+  {
+    "id": "needle_021",
+    "name": "外感发热针方（甲乙经）",
+    "category": "解表",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热解表",
+      "调和营卫"
+    ],
+    "indications": [
+      "外感发热",
+      "恶寒发热",
+      "头痛身痛",
+      "无汗"
+    ],
+    "modern_applications": [
+      "上呼吸道感染",
+      "流行性感冒",
+      "急性发热"
+    ],
+    "related_syndromes": [
+      "syndrome_001",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_022",
+    "name": "咳嗽针方（甲乙经）",
+    "category": "止咳",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "宣肺止咳",
+      "降气化痰"
+    ],
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸闷",
+      "咯痰不爽"
+    ],
+    "modern_applications": [
+      "急慢性支气管炎",
+      "上呼吸道感染",
+      "咳嗽变异性哮喘"
+    ],
+    "related_syndromes": [
+      "syndrome_006",
+      "syndrome_007",
+      "syndrome_036"
+    ]
+  },
+  {
+    "id": "needle_023",
+    "name": "胃痛针方（甲乙经）",
+    "category": "理气",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺补法"
+      }
+    ],
+    "effects": [
+      "和胃止痛",
+      "降逆止呕"
+    ],
+    "indications": [
+      "胃脘痛",
+      "恶心呕吐",
+      "嗳气反酸",
+      "食欲不振"
+    ],
+    "modern_applications": [
+      "急慢性胃炎",
+      "消化性溃疡",
+      "功能性消化不良"
+    ],
+    "related_syndromes": [
+      "syndrome_003",
+      "syndrome_014",
+      "syndrome_050"
+    ]
+  },
+  {
+    "id": "needle_024",
+    "name": "头痛针方（甲乙经）",
+    "category": "祛风",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "祛风止痛",
+      "通络清窍"
+    ],
+    "indications": [
+      "头痛",
+      "偏头痛",
+      "眩晕",
+      "目眩"
+    ],
+    "modern_applications": [
+      "偏头痛",
+      "紧张性头痛",
+      "颈椎病头痛",
+      "高血压头痛"
+    ],
+    "related_syndromes": [
+      "syndrome_012",
+      "syndrome_042",
+      "syndrome_043"
+    ]
+  },
+  {
+    "id": "needle_025",
+    "name": "面瘫针方（甲乙经）",
+    "category": "祛风",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_020",
+        "name": "颊车",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_019",
+        "name": "地仓",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "祛风通络",
+      "活血牵正"
+    ],
+    "indications": [
+      "口眼歪斜",
+      "面肌麻木",
+      "眼睑闭合不全",
+      "口角流涎"
+    ],
+    "modern_applications": [
+      "面神经麻痹",
+      "面神经炎",
+      "中风后遗症面瘫"
+    ],
+    "related_syndromes": [
+      "syndrome_035"
+    ]
+  },
+  {
+    "id": "needle_026",
+    "name": "腰痛针方（甲乙经）",
+    "category": "祛湿",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      },
+      {
+        "acupoint_id": "acupoint_186",
+        "name": "委中",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_122",
+        "name": "大肠俞",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "强腰壮肾",
+      "通络止痛"
+    ],
+    "indications": [
+      "腰痛",
+      "腰膝酸软",
+      "转侧不利",
+      "腰部冷痛"
+    ],
+    "modern_applications": [
+      "腰椎间盘突出",
+      "腰肌劳损",
+      "腰椎骨关节炎",
+      "肾结石绞痛"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_044"
+    ]
+  },
+  {
+    "id": "needle_027",
+    "name": "痹证针方（甲乙经）",
+    "category": "祛风",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "祛风散寒",
+      "蠲痹通络"
+    ],
+    "indications": [
+      "关节疼痛",
+      "屈伸不利",
+      "肢体沉重",
+      "筋脉拘挛"
+    ],
+    "modern_applications": [
+      "风湿性关节炎",
+      "类风湿关节炎",
+      "痛风性关节炎",
+      "骨关节炎"
+    ],
+    "related_syndromes": [
+      "syndrome_027",
+      "syndrome_028",
+      "syndrome_048"
+    ]
+  },
+  {
+    "id": "needle_028",
+    "name": "心悸怔忡针方（甲乙经）",
+    "category": "安神",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_154",
+        "name": "心俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "宁心安神",
+      "定悸止惊"
+    ],
+    "indications": [
+      "心悸",
+      "怔忡",
+      "惊悸不安",
+      "胸闷气短"
+    ],
+    "modern_applications": [
+      "心律失常",
+      "心脏神经官能症",
+      "焦虑症",
+      "心脏瓣膜病"
+    ],
+    "related_syndromes": [
+      "syndrome_029",
+      "syndrome_032",
+      "syndrome_004"
+    ]
+  },
+  {
+    "id": "needle_029",
+    "name": "泄泻痢疾针方（甲乙经）",
+    "category": "祛湿",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_036",
+        "name": "天枢",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "健脾止泻",
+      "清热利湿"
+    ],
+    "indications": [
+      "泄泻",
+      "痢疾",
+      "腹痛",
+      "里急后重"
+    ],
+    "modern_applications": [
+      "急慢性肠炎",
+      "肠易激综合征",
+      "细菌性痢疾",
+      "溃疡性结肠炎"
+    ],
+    "related_syndromes": [
+      "syndrome_003",
+      "syndrome_021",
+      "syndrome_040"
+    ]
+  },
+  {
+    "id": "needle_030",
+    "name": "黄疸针方（甲乙经）",
+    "category": "清热",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "疏肝退黄"
+    ],
+    "indications": [
+      "黄疸",
+      "身目俱黄",
+      "小便黄赤",
+      "胁痛口苦"
+    ],
+    "modern_applications": [
+      "急性黄疸型肝炎",
+      "胆囊炎",
+      "胆结石",
+      "溶血性黄疸"
+    ],
+    "related_syndromes": [
+      "syndrome_030",
+      "syndrome_004",
+      "syndrome_011"
+    ]
+  },
+  {
+    "id": "needle_031",
+    "name": "中风七穴针方（针灸大成）",
+    "category": "祛风",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "醒脑开窍",
+      "通经活络"
+    ],
+    "indications": [
+      "中风",
+      "半身不遂",
+      "口眼歪斜",
+      "言语不利"
+    ],
+    "modern_applications": [
+      "脑梗死",
+      "脑出血后遗症",
+      "中风恢复期",
+      "面神经麻痹"
+    ],
+    "related_syndromes": [
+      "syndrome_015",
+      "syndrome_035"
+    ]
+  },
+  {
+    "id": "needle_032",
+    "name": "不寐安神针方（针灸大成）",
+    "category": "安神",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺补法"
+      }
+    ],
+    "effects": [
+      "宁心安神",
+      "调和阴阳"
+    ],
+    "indications": [
+      "失眠",
+      "多梦",
+      "心烦不寐",
+      "健忘"
+    ],
+    "modern_applications": [
+      "失眠症",
+      "神经衰弱",
+      "焦虑症",
+      "更年期综合征失眠"
+    ],
+    "related_syndromes": [
+      "syndrome_009",
+      "syndrome_013",
+      "syndrome_023",
+      "syndrome_045"
+    ]
+  },
+  {
+    "id": "needle_033",
+    "name": "眩晕平肝针方（针灸大成）",
+    "category": "平肝",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "平肝潜阳",
+      "熄风定眩"
+    ],
+    "indications": [
+      "眩晕",
+      "头重脚轻",
+      "耳鸣",
+      "恶心呕吐"
+    ],
+    "modern_applications": [
+      "梅尼埃病",
+      "高血压眩晕",
+      "椎基底动脉供血不足",
+      "前庭功能障碍"
+    ],
+    "related_syndromes": [
+      "syndrome_012",
+      "syndrome_033",
+      "syndrome_043"
+    ]
+  },
+  {
+    "id": "needle_034",
+    "name": "呕吐降逆针方（针灸大成）",
+    "category": "理气",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_149",
+        "name": "胃俞",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "和胃降逆",
+      "止呕安中"
+    ],
+    "indications": [
+      "呕吐",
+      "恶心",
+      "呃逆",
+      "嗳气"
+    ],
+    "modern_applications": [
+      "急慢性胃炎",
+      "神经性呕吐",
+      "化疗后呕吐",
+      "妊娠反应",
+      "手术后呕吐"
+    ],
+    "related_syndromes": [
+      "syndrome_003",
+      "syndrome_014",
+      "syndrome_039"
+    ]
+  },
+  {
+    "id": "needle_035",
+    "name": "胁痛理气针方（针灸大成）",
+    "category": "理气",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_263",
+        "name": "期门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "疏肝理气",
+      "活血止痛"
+    ],
+    "indications": [
+      "胁痛",
+      "胸胁胀满",
+      "嗳气",
+      "口苦"
+    ],
+    "modern_applications": [
+      "肋间神经痛",
+      "胆囊炎",
+      "慢性肝炎",
+      "胸膜炎"
+    ],
+    "related_syndromes": [
+      "syndrome_004",
+      "syndrome_020",
+      "syndrome_046"
+    ]
+  },
+  {
+    "id": "needle_036",
+    "name": "水肿利水针方（针灸大成）",
+    "category": "祛湿",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "健脾利水",
+      "温阳化气"
+    ],
+    "indications": [
+      "水肿",
+      "小便不利",
+      "腹胀如鼓",
+      "下肢浮肿"
+    ],
+    "modern_applications": [
+      "肾病综合征",
+      "心力衰竭水肿",
+      "肝硬化腹水",
+      "慢性肾炎"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_031",
+      "syndrome_032"
+    ]
+  },
+  {
+    "id": "needle_037",
+    "name": "疝气止痛针方（针灸大成）",
+    "category": "理气",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "温经散寒",
+      "行气止痛"
+    ],
+    "indications": [
+      "疝气疼痛",
+      "少腹坠胀",
+      "睾丸疼痛",
+      "引及腰部"
+    ],
+    "modern_applications": [
+      "腹股沟疝",
+      "睾丸炎",
+      "附睾炎",
+      "精索静脉曲张"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_008"
+    ]
+  },
+  {
+    "id": "needle_038",
+    "name": "痢疾调中针方（针灸大成）",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_036",
+        "name": "天枢",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热化湿",
+      "调气和血"
+    ],
+    "indications": [
+      "痢疾",
+      "腹痛",
+      "里急后重",
+      "下利赤白"
+    ],
+    "modern_applications": [
+      "细菌性痢疾",
+      "急性肠炎",
+      "溃疡性结肠炎"
+    ],
+    "related_syndromes": [
+      "syndrome_011",
+      "syndrome_018"
+    ]
+  },
+  {
+    "id": "needle_039",
+    "name": "五更泄针方（针灸大成）",
+    "category": "温里",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "温肾暖脾",
+      "固肠止泻"
+    ],
+    "indications": [
+      "五更泄",
+      "黎明腹泻",
+      "腹痛喜按",
+      "畏寒肢冷"
+    ],
+    "modern_applications": [
+      "肠易激综合征腹泻型",
+      "慢性肠炎",
+      "慢性结肠炎"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_021",
+      "syndrome_022"
+    ]
+  },
+  {
+    "id": "needle_040",
+    "name": "耳聋耳鸣针方",
+    "category": "祛风",
+    "source": "《针灸甲乙经》《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_304",
+        "name": "听会",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_305",
+        "name": "翳风",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "通窍聪耳",
+      "疏风清热"
+    ],
+    "indications": [
+      "耳鸣",
+      "耳聋",
+      "头晕",
+      "耳内如蝉鸣"
+    ],
+    "modern_applications": [
+      "神经性耳鸣",
+      "突发性耳聋",
+      "梅尼埃病",
+      "中耳炎后遗症"
+    ],
+    "related_syndromes": [
+      "syndrome_009",
+      "syndrome_012",
+      "syndrome_033"
+    ]
+  },
+  {
+    "id": "needle_041",
+    "name": "目赤肿痛针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清肝明目",
+      "疏风散热"
+    ],
+    "indications": [
+      "目赤肿痛",
+      "畏光流泪",
+      "视物模糊",
+      "目涩干痒"
+    ],
+    "modern_applications": [
+      "急性结膜炎",
+      "角膜炎",
+      "干眼症",
+      "视疲劳"
+    ],
+    "related_syndromes": [
+      "syndrome_002",
+      "syndrome_004",
+      "syndrome_012"
+    ]
+  },
+  {
+    "id": "needle_042",
+    "name": "喉痹咽痛针方",
+    "category": "清热",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "放血疗法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清利咽喉",
+      "消肿止痛"
+    ],
+    "indications": [
+      "咽喉肿痛",
+      "声音嘶哑",
+      "喉痹",
+      "吞咽困难"
+    ],
+    "modern_applications": [
+      "急性扁桃体炎",
+      "急性咽喉炎",
+      "声带小结",
+      "慢性咽炎"
+    ],
+    "related_syndromes": [
+      "syndrome_002",
+      "syndrome_006"
+    ]
+  },
+  {
+    "id": "needle_043",
+    "name": "癃闭通利针方",
+    "category": "祛湿",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "通利小便",
+      "温阳化气"
+    ],
+    "indications": [
+      "小便不通",
+      "排尿困难",
+      "小腹胀满",
+      "点滴而下"
+    ],
+    "modern_applications": [
+      "前列腺增生",
+      "术后尿潴留",
+      "产后尿潴留",
+      "神经性排尿障碍"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_011",
+      "syndrome_047"
+    ]
+  },
+  {
+    "id": "needle_044",
+    "name": "遗尿固摄针方",
+    "category": "固涩",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "温肾固摄",
+      "缩尿止遗"
+    ],
+    "indications": [
+      "遗尿",
+      "夜尿频多",
+      "小便失禁",
+      "尿后余沥"
+    ],
+    "modern_applications": [
+      "小儿遗尿",
+      "老年性尿失禁",
+      "神经源性膀胱"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_048"
+    ]
+  },
+  {
+    "id": "needle_045",
+    "name": "月经不调针方",
+    "category": "理气",
+    "source": "《针灸甲乙经》《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "调经养血",
+      "理气和血"
+    ],
+    "indications": [
+      "月经不调",
+      "经期先后不定",
+      "经量异常",
+      "经色异常"
+    ],
+    "modern_applications": [
+      "月经紊乱",
+      "多囊卵巢综合征",
+      "功能性子宫出血",
+      "围绝经期综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_004",
+      "syndrome_008",
+      "syndrome_010"
+    ]
+  },
+  {
+    "id": "needle_046",
+    "name": "带下病针方",
+    "category": "祛湿",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "健脾止带"
+    ],
+    "indications": [
+      "带下过多",
+      "色黄气臭",
+      "外阴瘙痒",
+      "小腹胀痛"
+    ],
+    "modern_applications": [
+      "细菌性阴道炎",
+      "霉菌性阴道炎",
+      "盆腔炎",
+      "宫颈炎"
+    ],
+    "related_syndromes": [
+      "syndrome_011",
+      "syndrome_003"
+    ]
+  },
+  {
+    "id": "needle_047",
+    "name": "小儿惊风针方",
+    "category": "安神",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      }
+    ],
+    "effects": [
+      "镇惊安神",
+      "熄风定志"
+    ],
+    "indications": [
+      "小儿惊风",
+      "抽搐",
+      "高热惊厥",
+      "夜啼"
+    ],
+    "modern_applications": [
+      "小儿高热惊厥",
+      "小儿癫痫",
+      "小儿夜惊症"
+    ],
+    "related_syndromes": [
+      "syndrome_002",
+      "syndrome_018"
+    ]
+  },
+  {
+    "id": "needle_048",
+    "name": "瘰疬散结针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_363",
+        "name": "百劳",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热解毒",
+      "化痰散结"
+    ],
+    "indications": [
+      "瘰疬",
+      "颈部淋巴结肿大",
+      "皮下结节",
+      "按之可移"
+    ],
+    "modern_applications": [
+      "颈部淋巴结结核",
+      "淋巴结炎",
+      "甲状腺结节"
+    ],
+    "related_syndromes": [
+      "syndrome_007"
+    ]
+  },
+  {
+    "id": "needle_049",
+    "name": "痫证定痫针方",
+    "category": "安神",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "豁痰开窍",
+      "熄风定痫"
+    ],
+    "indications": [
+      "痫证",
+      "突然昏倒",
+      "口吐涎沫",
+      "四肢抽搐"
+    ],
+    "modern_applications": [
+      "癫痫",
+      "癔病性发作",
+      "晕厥"
+    ],
+    "related_syndromes": [
+      "syndrome_007",
+      "syndrome_012",
+      "syndrome_033"
+    ]
+  },
+  {
+    "id": "needle_050",
+    "name": "郁证解郁针方",
+    "category": "理气",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺补法"
+      }
+    ],
+    "effects": [
+      "疏肝解郁",
+      "宁心安神"
+    ],
+    "indications": [
+      "郁证",
+      "情绪低落",
+      "善太息",
+      "胸胁胀闷"
+    ],
+    "modern_applications": [
+      "抑郁症",
+      "焦虑症",
+      "植物神经功能紊乱",
+      "慢性疲劳综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_004",
+      "syndrome_046"
+    ]
+  },
+  {
+    "id": "needle_051",
+    "name": "哮病平喘针方",
+    "category": "止咳",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "宣肺平喘",
+      "降气化痰"
+    ],
+    "indications": [
+      "哮病",
+      "喘促气急",
+      "喉中哮鸣",
+      "胸闷憋气"
+    ],
+    "modern_applications": [
+      "支气管哮喘",
+      "喘息性支气管炎",
+      "过敏性哮喘"
+    ],
+    "related_syndromes": [
+      "syndrome_007",
+      "syndrome_038",
+      "syndrome_049"
+    ]
+  },
+  {
+    "id": "needle_052",
+    "name": "消渴降糖针方",
+    "category": "补阴",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "滋阴清热",
+      "生津止渴"
+    ],
+    "indications": [
+      "消渴",
+      "口干多饮",
+      "多食易饥",
+      "小便频多"
+    ],
+    "modern_applications": [
+      "2型糖尿病辅助治疗",
+      "糖尿病前期",
+      "代谢综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_009",
+      "syndrome_034"
+    ]
+  },
+  {
+    "id": "needle_053",
+    "name": "肩痹通络针方",
+    "category": "祛风",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_304",
+        "name": "肩髃",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "祛风通络",
+      "舒筋止痛"
+    ],
+    "indications": [
+      "肩关节疼痛",
+      "活动受限",
+      "手臂上举困难",
+      "夜间痛甚"
+    ],
+    "modern_applications": [
+      "肩周炎",
+      "肩袖损伤",
+      "肱二头肌长头腱鞘炎"
+    ],
+    "related_syndromes": [
+      "syndrome_027",
+      "syndrome_028"
+    ]
+  },
+  {
+    "id": "needle_054",
+    "name": "汗证敛汗针方",
+    "category": "固涩",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "益气固表",
+      "敛阴止汗"
+    ],
+    "indications": [
+      "自汗",
+      "盗汗",
+      "动则汗出",
+      "手足心汗"
+    ],
+    "modern_applications": [
+      "多汗症",
+      "更年期综合征潮热汗出",
+      "甲亢多汗"
+    ],
+    "related_syndromes": [
+      "syndrome_009",
+      "syndrome_015",
+      "syndrome_034"
+    ]
+  },
+  {
+    "id": "needle_055",
+    "name": "痿证强壮针方",
+    "category": "补益",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      }
+    ],
+    "effects": [
+      "健脾益气",
+      "强筋健骨"
+    ],
+    "indications": [
+      "肢体萎软",
+      "肌肉萎缩",
+      "行走无力",
+      "神疲乏力"
+    ],
+    "modern_applications": [
+      "重症肌无力",
+      "运动神经元病",
+      "多发性肌炎",
+      "脊髓损伤康复"
+    ],
+    "related_syndromes": [
+      "syndrome_003",
+      "syndrome_005",
+      "syndrome_048"
+    ]
+  },
+  {
+    "id": "needle_056",
+    "name": "积聚消癥针方",
+    "category": "活血",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "活血化瘀",
+      "软坚散结"
+    ],
+    "indications": [
+      "腹部肿块",
+      "痞块",
+      "肝脾肿大",
+      "刺痛拒按"
+    ],
+    "modern_applications": [
+      "肝脾肿大",
+      "肝硬化",
+      "子宫肌瘤",
+      "腹腔肿瘤辅助"
+    ],
+    "related_syndromes": [
+      "syndrome_008",
+      "syndrome_015"
+    ]
+  },
+  {
+    "id": "needle_057",
+    "name": "鼻渊通窍针方",
+    "category": "祛风",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "宣肺通窍",
+      "清热化浊"
+    ],
+    "indications": [
+      "鼻塞",
+      "流涕",
+      "嗅觉减退",
+      "头痛"
+    ],
+    "modern_applications": [
+      "慢性鼻炎",
+      "鼻窦炎",
+      "过敏性鼻炎"
+    ],
+    "related_syndromes": [
+      "syndrome_001",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_058",
+    "name": "遗精固肾针方",
+    "category": "固涩",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "补肾固精",
+      "安神定志"
+    ],
+    "indications": [
+      "遗精",
+      "滑精",
+      "夜梦纷纭",
+      "腰膝酸软"
+    ],
+    "modern_applications": [
+      "前列腺炎",
+      "性神经官能症",
+      "男性功能障碍"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_009"
+    ]
+  },
+  {
+    "id": "needle_059",
+    "name": "疟疾截疟针方",
+    "category": "和解",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "和解少阳",
+      "截疟祛邪"
+    ],
+    "indications": [
+      "疟疾",
+      "寒战高热",
+      "定时发作",
+      "头痛欲裂"
+    ],
+    "modern_applications": [
+      "疟疾辅助治疗",
+      "不明原因周期性发热"
+    ],
+    "related_syndromes": [
+      "syndrome_020"
+    ]
+  },
+  {
+    "id": "needle_060",
+    "name": "狂证安神针方",
+    "category": "安神",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清心泻火",
+      "镇静安神"
+    ],
+    "indications": [
+      "狂证",
+      "躁扰不宁",
+      "胡言乱语",
+      "哭笑无常"
+    ],
+    "modern_applications": [
+      "躁狂发作",
+      "精神分裂症躁动",
+      "急性应激障碍"
+    ],
+    "related_syndromes": [
+      "syndrome_013",
+      "syndrome_018"
+    ]
+  },
+  {
+    "id": "needle_061",
+    "name": "胆囊炎针方",
+    "category": "清热",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_275",
+        "name": "日月",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_144",
+        "name": "胆俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_291",
+        "name": "丘墟",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "疏肝利胆",
+      "清热利湿",
+      "通腑止痛"
+    ],
+    "indications": [
+      "胆囊炎",
+      "胆石症",
+      "胁痛",
+      "黄疸",
+      "口苦咽干"
+    ],
+    "modern_applications": [
+      "急性胆囊炎",
+      "慢性胆囊炎急性发作",
+      "胆绞痛",
+      "胆汁淤积"
+    ],
+    "related_syndromes": [
+      "syndrome_070",
+      "syndrome_020",
+      "syndrome_025"
+    ]
+  },
+  {
+    "id": "needle_062",
+    "name": "胆结石排石针方",
+    "category": "清热",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_144",
+        "name": "胆俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_275",
+        "name": "日月",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_234",
+        "name": "支沟",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "疏肝利胆",
+      "化石排石",
+      "理气止痛"
+    ],
+    "indications": [
+      "胆结石",
+      "胁腹绞痛",
+      "黄疸",
+      "恶心呕吐"
+    ],
+    "modern_applications": [
+      "胆囊结石",
+      "胆总管结石(<1cm)",
+      "肝内胆管结石辅助"
+    ],
+    "related_syndromes": [
+      "syndrome_071",
+      "syndrome_070",
+      "syndrome_030"
+    ]
+  },
+  {
+    "id": "needle_063",
+    "name": "高血压平肝针方",
+    "category": "平肝",
+    "source": "《针灸大成》加减",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "平肝潜阳",
+      "熄风降压",
+      "安神定志"
+    ],
+    "indications": [
+      "高血压",
+      "头痛眩晕",
+      "面红目赤",
+      "烦躁易怒"
+    ],
+    "modern_applications": [
+      "原发性高血压",
+      "高血压性头痛",
+      "高血压眩晕"
+    ],
+    "related_syndromes": [
+      "syndrome_012",
+      "syndrome_043",
+      "syndrome_033"
+    ]
+  },
+  {
+    "id": "needle_064",
+    "name": "糖尿病调理针方",
+    "category": "补阴",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "滋阴清热",
+      "益气生津",
+      "调理三消"
+    ],
+    "indications": [
+      "消渴",
+      "口干多饮",
+      "多食易饥",
+      "小便频多"
+    ],
+    "modern_applications": [
+      "2型糖尿病辅助治疗",
+      "糖尿病前期",
+      "代谢综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_034",
+      "syndrome_074",
+      "syndrome_009"
+    ]
+  },
+  {
+    "id": "needle_065",
+    "name": "冠心病通痹针方",
+    "category": "理气",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_154",
+        "name": "心俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_142",
+        "name": "膈俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "宽胸理气",
+      "活血通脉",
+      "化痰散结"
+    ],
+    "indications": [
+      "胸痹",
+      "心悸",
+      "胸闷痛",
+      "气短"
+    ],
+    "modern_applications": [
+      "冠心病心绞痛",
+      "冠脉支架术后",
+      "心肌缺血",
+      "心律失常"
+    ],
+    "related_syndromes": [
+      "syndrome_029",
+      "syndrome_072",
+      "syndrome_008"
+    ]
+  },
+  {
+    "id": "needle_066",
+    "name": "慢性胃炎调中针方",
+    "category": "理气",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "健脾和胃",
+      "理气止痛",
+      "降逆止呕"
+    ],
+    "indications": [
+      "胃痛",
+      "胃脘胀满",
+      "嗳气反酸",
+      "食欲不振"
+    ],
+    "modern_applications": [
+      "慢性胃炎",
+      "消化性溃疡",
+      "胃食管反流",
+      "功能性消化不良"
+    ],
+    "related_syndromes": [
+      "syndrome_003",
+      "syndrome_072",
+      "syndrome_073"
+    ]
+  },
+  {
+    "id": "needle_067",
+    "name": "哮喘定喘针方",
+    "category": "止咳",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_009",
+        "name": "太渊",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "宣肺平喘",
+      "化痰降气",
+      "培土生金"
+    ],
+    "indications": [
+      "哮病",
+      "喘证",
+      "喉中哮鸣",
+      "胸闷憋气"
+    ],
+    "modern_applications": [
+      "支气管哮喘",
+      "喘息性支气管炎",
+      "过敏性哮喘",
+      "COPD稳定期"
+    ],
+    "related_syndromes": [
+      "syndrome_049",
+      "syndrome_038",
+      "syndrome_007"
+    ]
+  },
+  {
+    "id": "needle_068",
+    "name": "类风湿关节炎针方",
+    "category": "祛风",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_290",
+        "name": "悬钟",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "祛风除湿",
+      "通络止痛",
+      "清热解毒"
+    ],
+    "indications": [
+      "痹证",
+      "关节红肿疼痛",
+      "晨僵",
+      "屈伸不利"
+    ],
+    "modern_applications": [
+      "类风湿关节炎",
+      "风湿性关节炎",
+      "反应性关节炎"
+    ],
+    "related_syndromes": [
+      "syndrome_076",
+      "syndrome_027",
+      "syndrome_028"
+    ]
+  },
+  {
+    "id": "needle_069",
+    "name": "痛风清利针方",
+    "category": "清热",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "通络止痛",
+      "泄浊化瘀"
+    ],
+    "indications": [
+      "痛风",
+      "足大趾红肿热痛",
+      "关节肿胀"
+    ],
+    "modern_applications": [
+      "痛风性关节炎急性发作",
+      "高尿酸血症"
+    ],
+    "related_syndromes": [
+      "syndrome_076",
+      "syndrome_011"
+    ]
+  },
+  {
+    "id": "needle_070",
+    "name": "偏头痛针方",
+    "category": "祛风",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_233",
+        "name": "外关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_290",
+        "name": "悬钟",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "平肝熄风",
+      "通络止痛",
+      "调和气血"
+    ],
+    "indications": [
+      "偏头痛",
+      "单侧头跳痛",
+      "恶心呕吐",
+      "畏光畏声"
+    ],
+    "modern_applications": [
+      "偏头痛(有/无先兆)",
+      "丛集性头痛",
+      "紧张性头痛伴血管搏动"
+    ],
+    "related_syndromes": [
+      "syndrome_012",
+      "syndrome_043",
+      "syndrome_004"
+    ]
+  },
+  {
+    "id": "needle_071",
+    "name": "失眠安神针方",
+    "category": "安神",
+    "source": "《针灸大成》加减",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺补法"
+      },
+      {
+        "acupoint_id": "acupoint_198",
+        "name": "照海",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "宁心安神",
+      "调和阴阳",
+      "交通心肾"
+    ],
+    "indications": [
+      "不寐",
+      "入睡困难",
+      "多梦易醒",
+      "心悸健忘"
+    ],
+    "modern_applications": [
+      "失眠症",
+      "焦虑症伴失眠",
+      "更年期失眠",
+      "慢性疲劳综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_078",
+      "syndrome_045",
+      "syndrome_009"
+    ]
+  },
+  {
+    "id": "needle_072",
+    "name": "便秘通腑针方",
+    "category": "消导",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_036",
+        "name": "天枢",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_234",
+        "name": "支沟",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_150",
+        "name": "大肠俞",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "通腑导滞",
+      "润肠通便",
+      "行气导滞"
+    ],
+    "indications": [
+      "便秘",
+      "大便干结",
+      "腹胀腹痛",
+      "排便困难"
+    ],
+    "modern_applications": [
+      "功能性便秘",
+      "老年性便秘",
+      "药物性便秘",
+      "肠易激综合征便秘型"
+    ],
+    "related_syndromes": [
+      "syndrome_041",
+      "syndrome_003"
+    ]
+  },
+  {
+    "id": "needle_073",
+    "name": "颈椎病通络针方",
+    "category": "祛风",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_272",
+        "name": "肩井",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_109",
+        "name": "后溪",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_233",
+        "name": "外关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_117",
+        "name": "天宗",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "舒筋通络",
+      "活血止痛",
+      "祛风散寒"
+    ],
+    "indications": [
+      "颈项僵痛",
+      "肩背酸痛",
+      "手指麻木",
+      "头晕"
+    ],
+    "modern_applications": [
+      "颈椎病",
+      "颈肩综合征",
+      "落枕",
+      "颈源性头痛"
+    ],
+    "related_syndromes": [
+      "syndrome_077",
+      "syndrome_064",
+      "syndrome_028"
+    ]
+  },
+  {
+    "id": "needle_074",
+    "name": "腰椎间盘突出针方",
+    "category": "祛风",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_150",
+        "name": "大肠俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_186",
+        "name": "委中",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_182",
+        "name": "承山",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "补肾壮腰",
+      "通络止痛",
+      "舒筋活络"
+    ],
+    "indications": [
+      "腰痛连及下肢",
+      "转侧困难",
+      "行走不利",
+      "下肢麻木"
+    ],
+    "modern_applications": [
+      "腰椎间盘突出症",
+      "腰椎管狭窄",
+      "坐骨神经痛",
+      "腰肌劳损"
+    ],
+    "related_syndromes": [
+      "syndrome_077",
+      "syndrome_044",
+      "syndrome_005"
+    ]
+  },
+  {
+    "id": "needle_075",
+    "name": "前列腺炎通淋针方",
+    "category": "清热",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_153",
+        "name": "膀胱俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_157",
+        "name": "次髎",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "通淋止痛",
+      "活血化瘀"
+    ],
+    "indications": [
+      "淋证",
+      "小便频数涩痛",
+      "小腹会阴坠胀",
+      "尿道灼热"
+    ],
+    "modern_applications": [
+      "慢性前列腺炎",
+      "前列腺增生",
+      "慢性盆腔疼痛综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_011",
+      "syndrome_047",
+      "syndrome_057"
+    ]
+  },
+  {
+    "id": "needle_076",
+    "name": "过敏性鼻炎针方",
+    "category": "解表",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "宣肺通窍",
+      "益气固表",
+      "祛风散寒"
+    ],
+    "indications": [
+      "鼻鼽",
+      "鼻塞鼻痒",
+      "喷嚏连连",
+      "清涕不止"
+    ],
+    "modern_applications": [
+      "过敏性鼻炎",
+      "血管运动性鼻炎",
+      "花粉症"
+    ],
+    "related_syndromes": [
+      "syndrome_001",
+      "syndrome_016",
+      "syndrome_067"
+    ]
+  },
+  {
+    "id": "needle_077",
+    "name": "面瘫恢复期针方",
+    "category": "祛风",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_020",
+        "name": "颊车",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_019",
+        "name": "地仓",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "益气养血",
+      "祛风通络",
+      "牵正止痉"
+    ],
+    "indications": [
+      "面瘫恢复期",
+      "口眼歪斜日久",
+      "面肌无力",
+      "联动征"
+    ],
+    "modern_applications": [
+      "面神经麻痹恢复期",
+      "面肌痉挛辅助",
+      "亨特综合征恢复期"
+    ],
+    "related_syndromes": [
+      "syndrome_035",
+      "syndrome_048"
+    ]
+  },
+  {
+    "id": "needle_078",
+    "name": "带状疱疹清肝针方",
+    "category": "清热",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "清肝泻火",
+      "解毒止痛",
+      "活血通络"
+    ],
+    "indications": [
+      "蛇串疮",
+      "胸胁簇集水疱",
+      "灼热刺痛",
+      "烦躁口苦"
+    ],
+    "modern_applications": [
+      "带状疱疹急性期",
+      "带状疱疹后遗神经痛"
+    ],
+    "related_syndromes": [
+      "syndrome_075",
+      "syndrome_004",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_079",
+    "name": "湿疹清热利湿针方",
+    "category": "清热",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "祛风止痒",
+      "凉血解毒"
+    ],
+    "indications": [
+      "湿疹",
+      "风疹",
+      "皮肤瘙痒",
+      "糜烂渗出"
+    ],
+    "modern_applications": [
+      "急性湿疹",
+      "荨麻疹",
+      "接触性皮炎",
+      "皮肤瘙痒症"
+    ],
+    "related_syndromes": [
+      "syndrome_077",
+      "syndrome_080",
+      "syndrome_011"
+    ]
+  },
+  {
+    "id": "needle_080",
+    "name": "痤疮清肺针方",
+    "category": "清热",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_075",
+        "name": "内庭",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清肺泄热",
+      "凉血解毒",
+      "散结消痈"
+    ],
+    "indications": [
+      "痤疮",
+      "粉刺丘疹",
+      "脓疱结节",
+      "皮肤油腻"
+    ],
+    "modern_applications": [
+      "寻常性痤疮",
+      "毛囊炎",
+      "脂溢性皮炎"
+    ],
+    "related_syndromes": [
+      "syndrome_075",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_081",
+    "name": "痔疮消肿针方",
+    "category": "清热",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_310",
+        "name": "长强",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_150",
+        "name": "大肠俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_182",
+        "name": "承山",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "消肿止痛",
+      "活血化瘀"
+    ],
+    "indications": [
+      "痔疮肿痛",
+      "便血",
+      "脱肛",
+      "肛门灼热"
+    ],
+    "modern_applications": [
+      "内痔/外痔急性发作",
+      "混合痔",
+      "肛裂疼痛"
+    ],
+    "related_syndromes": [
+      "syndrome_080",
+      "syndrome_011",
+      "syndrome_057"
+    ]
+  },
+  {
+    "id": "needle_082",
+    "name": "甲亢滋阴针方",
+    "category": "补阴",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "滋阴降火",
+      "平肝潜阳",
+      "宁心安神"
+    ],
+    "indications": [
+      "瘿病",
+      "心悸手抖",
+      "多食消瘦",
+      "烦躁易怒"
+    ],
+    "modern_applications": [
+      "甲状腺功能亢进",
+      "亚急性甲状腺炎亢进期"
+    ],
+    "related_syndromes": [
+      "syndrome_009",
+      "syndrome_079",
+      "syndrome_012"
+    ]
+  },
+  {
+    "id": "needle_083",
+    "name": "慢性肾炎调理针方",
+    "category": "补益",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      }
+    ],
+    "effects": [
+      "健脾补肾",
+      "利水消肿",
+      "固摄精微"
+    ],
+    "indications": [
+      "水肿",
+      "蛋白尿",
+      "腰膝酸软",
+      "小便不利"
+    ],
+    "modern_applications": [
+      "慢性肾小球肾炎",
+      "肾病综合征缓解期",
+      "糖尿病肾病早期"
+    ],
+    "related_syndromes": [
+      "syndrome_074",
+      "syndrome_005",
+      "syndrome_031"
+    ]
+  },
+  {
+    "id": "needle_084",
+    "name": "子宫肌瘤消癥针方",
+    "category": "活血",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_060",
+        "name": "归来",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "活血化瘀",
+      "软坚散结",
+      "调经止痛"
+    ],
+    "indications": [
+      "癥瘕",
+      "月经量多",
+      "经期腹痛",
+      "少腹包块"
+    ],
+    "modern_applications": [
+      "子宫肌瘤(<5cm)",
+      "卵巢囊肿",
+      "子宫内膜异位症"
+    ],
+    "related_syndromes": [
+      "syndrome_008",
+      "syndrome_015"
+    ]
+  },
+  {
+    "id": "needle_085",
+    "name": "膝关节炎通痹针方",
+    "category": "祛风",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_290",
+        "name": "悬钟",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "强筋壮骨",
+      "通络止痛",
+      "祛风除湿"
+    ],
+    "indications": [
+      "膝部疼痛",
+      "屈伸不利",
+      "上下楼痛甚",
+      "肿胀"
+    ],
+    "modern_applications": [
+      "膝关节骨关节炎",
+      "髌骨软化症",
+      "膝关节滑膜炎"
+    ],
+    "related_syndromes": [
+      "syndrome_076",
+      "syndrome_077",
+      "syndrome_028"
+    ]
+  },
+  {
+    "id": "needle_086",
+    "name": "崩漏针方（甲乙经）",
+    "category": "妇科",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_084",
+        "name": "地机",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_157",
+        "name": "次髎",
+        "method": "捻转平补平泻"
+      }
+    ],
+    "effects": [
+      "固摄冲任",
+      "止血调经"
+    ],
+    "indications": [
+      "崩漏不止",
+      "月经过多",
+      "经期延长",
+      "血色淡红质稀"
+    ],
+    "modern_applications": [
+      "功能失调性子宫出血",
+      "排卵期出血",
+      "月经过多"
+    ],
+    "related_syndromes": [
+      "syndrome_096",
+      "syndrome_078"
+    ]
+  },
+  {
+    "id": "needle_087",
+    "name": "闭经针方（甲乙经）",
+    "category": "妇科",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_060",
+        "name": "归来",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转平补平泻"
+      },
+      {
+        "acupoint_id": "acupoint_313",
+        "name": "命门",
+        "method": "捻转补法加灸"
+      }
+    ],
+    "effects": [
+      "行气活血",
+      "通调冲任"
+    ],
+    "indications": [
+      "闭经不行",
+      "月经后期",
+      "月经量少",
+      "经色暗夹血块"
+    ],
+    "modern_applications": [
+      "闭经",
+      "月经稀发",
+      "多囊卵巢综合征之闭经"
+    ],
+    "related_syndromes": [
+      "syndrome_008",
+      "syndrome_078"
+    ]
+  },
+  {
+    "id": "needle_088",
+    "name": "不孕针方（甲乙经）",
+    "category": "妇科",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "调补冲任",
+      "益精助孕"
+    ],
+    "indications": [
+      "婚后不孕",
+      "月经不调",
+      "腰膝酸软",
+      "形寒肢冷"
+    ],
+    "modern_applications": [
+      "女性不孕症",
+      "排卵障碍",
+      "黄体功能不全"
+    ],
+    "related_syndromes": [
+      "syndrome_094",
+      "syndrome_078"
+    ]
+  },
+  {
+    "id": "needle_089",
+    "name": "痰饮针方（甲乙经）",
+    "category": "内科",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "捻转泻法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "捻转平补平泻"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "健脾化痰",
+      "蠲除水饮"
+    ],
+    "indications": [
+      "痰饮内停",
+      "胸胁支满",
+      "头晕目眩",
+      "呕吐痰涎",
+      "肠间水声漉漉"
+    ],
+    "modern_applications": [
+      "慢性支气管炎",
+      "胸腔积液",
+      "腹水",
+      "梅尼埃病"
+    ],
+    "related_syndromes": [
+      "syndrome_107",
+      "syndrome_106"
+    ]
+  },
+  {
+    "id": "needle_090",
+    "name": "脚气针方（甲乙经）",
+    "category": "内科",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_182",
+        "name": "承山",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转平补平泻"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "祛湿通络",
+      "舒筋健腿"
+    ],
+    "indications": [
+      "脚气肿痛",
+      "下肢沉困无力",
+      "足胫肿胀",
+      "麻木不仁"
+    ],
+    "modern_applications": [
+      "维生素B1缺乏症",
+      "下肢淋巴水肿",
+      "周围神经病变"
+    ],
+    "related_syndromes": [
+      "syndrome_007",
+      "syndrome_011"
+    ]
+  },
+  {
+    "id": "needle_091",
+    "name": "脊背强痛针方（甲乙经）",
+    "category": "骨科",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_165",
+        "name": "委中",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_185",
+        "name": "昆仑",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_312",
+        "name": "腰阳关",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "通调督脉",
+      "舒筋活络"
+    ],
+    "indications": [
+      "脊背强痛",
+      "腰背拘急",
+      "转侧不利",
+      "遇寒加重"
+    ],
+    "modern_applications": [
+      "腰背肌筋膜炎",
+      "强直性脊柱炎",
+      "腰椎小关节紊乱"
+    ],
+    "related_syndromes": [
+      "syndrome_083",
+      "syndrome_008"
+    ]
+  },
+  {
+    "id": "needle_092",
+    "name": "热病针方（甲乙经）",
+    "category": "清热",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_009",
+        "name": "太渊",
+        "method": "捻转平补平泻"
+      },
+      {
+        "acupoint_id": "acupoint_005",
+        "name": "尺泽",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热泻火",
+      "凉血解毒"
+    ],
+    "indications": [
+      "高热不退",
+      "面赤口渴",
+      "烦躁不安",
+      "脉洪数"
+    ],
+    "modern_applications": [
+      "各种急性感染性发热",
+      "中暑高热",
+      "败血症"
+    ],
+    "related_syndromes": [
+      "syndrome_093",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_093",
+    "name": "崩漏固冲针方（针灸大成）",
+    "category": "妇科",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      }
+    ],
+    "effects": [
+      "益气固冲",
+      "止血调经"
+    ],
+    "indications": [
+      "崩漏不止",
+      "月经过多",
+      "经色淡红",
+      "气短乏力",
+      "面色㿠白"
+    ],
+    "modern_applications": [
+      "功能失调性子宫出血",
+      "子宫肌瘤引起之月经过多"
+    ],
+    "related_syndromes": [
+      "syndrome_078",
+      "syndrome_096"
+    ]
+  },
+  {
+    "id": "needle_094",
+    "name": "产后缺乳针方（针灸大成）",
+    "category": "妇科",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_049",
+        "name": "乳根",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_354",
+        "name": "膻中",
+        "method": "捻转平补平泻"
+      },
+      {
+        "acupoint_id": "acupoint_107",
+        "name": "少泽",
+        "method": "点刺出血"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "通经催乳",
+      "补气养血"
+    ],
+    "indications": [
+      "产后缺乳",
+      "乳汁清稀",
+      "乳房柔软",
+      "面色萎黄",
+      "纳差乏力"
+    ],
+    "modern_applications": [
+      "产后泌乳不足",
+      "产后乳汁分泌迟滞"
+    ],
+    "related_syndromes": [
+      "syndrome_086",
+      "syndrome_095"
+    ]
+  },
+  {
+    "id": "needle_095",
+    "name": "乳痈针方（针灸大成）",
+    "category": "外科",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_309",
+        "name": "期门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_272",
+        "name": "肩井",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_049",
+        "name": "乳根",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "疏肝清热",
+      "散结通乳"
+    ],
+    "indications": [
+      "乳房红肿热痛",
+      "乳汁淤积",
+      "恶寒发热",
+      "脉弦数"
+    ],
+    "modern_applications": [
+      "急性乳腺炎",
+      "哺乳期乳腺炎",
+      "乳腺脓肿早期"
+    ],
+    "related_syndromes": [
+      "syndrome_004",
+      "syndrome_089"
+    ]
+  },
+  {
+    "id": "needle_096",
+    "name": "牙痛针方（针灸大成）",
+    "category": "五官科",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_294",
+        "name": "下关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_293",
+        "name": "颊车",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "清胃泻火",
+      "滋阴止痛"
+    ],
+    "indications": [
+      "牙痛剧烈",
+      "牙龈红肿",
+      "口臭口渴",
+      "大便秘结"
+    ],
+    "modern_applications": [
+      "急性牙髓炎",
+      "急性根尖周炎",
+      "智齿冠周炎"
+    ],
+    "related_syndromes": [
+      "syndrome_089",
+      "syndrome_009"
+    ]
+  },
+  {
+    "id": "needle_097",
+    "name": "喉痈针方（针灸大成）",
+    "category": "五官科",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_005",
+        "name": "尺泽",
+        "method": "捻转泻法或点刺出血"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_193",
+        "name": "涌泉",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热解毒",
+      "利咽消肿"
+    ],
+    "indications": [
+      "咽喉肿痛",
+      "吞咽困难",
+      "发热恶寒",
+      "声音嘶哑"
+    ],
+    "modern_applications": [
+      "急性咽炎",
+      "急性扁桃体炎",
+      "扁桃体周围脓肿"
+    ],
+    "related_syndromes": [
+      "syndrome_114",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_098",
+    "name": "奔豚针方（针灸大成）",
+    "category": "内科",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_309",
+        "name": "期门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转平补平泻"
+      }
+    ],
+    "effects": [
+      "平冲降逆",
+      "温阳散寒"
+    ],
+    "indications": [
+      "气从少腹上冲胸咽",
+      "胸闷气促",
+      "心悸不安",
+      "发作欲死"
+    ],
+    "modern_applications": [
+      "胃肠神经官能症",
+      "心脏神经官能症",
+      "焦虑症之躯体化症状"
+    ],
+    "related_syndromes": [
+      "syndrome_004",
+      "syndrome_070"
+    ]
+  },
+  {
+    "id": "needle_099",
+    "name": "鼓胀针方（针灸大成）",
+    "category": "内科",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_199",
+        "name": "复溜",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "健脾利水",
+      "行气消胀"
+    ],
+    "indications": [
+      "腹胀如鼓",
+      "腹壁青筋暴露",
+      "纳差尿少",
+      "下肢浮肿"
+    ],
+    "modern_applications": [
+      "肝硬化腹水",
+      "结核性腹膜炎",
+      "恶性肿瘤腹水"
+    ],
+    "related_syndromes": [
+      "syndrome_039",
+      "syndrome_007"
+    ]
+  },
+  {
+    "id": "needle_100",
+    "name": "痞满针方（针灸大成）",
+    "category": "内科",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_309",
+        "name": "期门",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "消痞除满",
+      "行气降逆"
+    ],
+    "indications": [
+      "胃脘痞塞",
+      "胀满不舒",
+      "按之柔软",
+      "食后加重"
+    ],
+    "modern_applications": [
+      "功能性消化不良",
+      "慢性胃炎",
+      "胃食管反流"
+    ],
+    "related_syndromes": [
+      "syndrome_104",
+      "syndrome_093"
+    ]
+  },
+  {
+    "id": "needle_101",
+    "name": "肝风内动针方",
+    "category": "平肝",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_297",
+        "name": "行间",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "平肝熄风",
+      "潜阳安神"
+    ],
+    "indications": [
+      "肝风内动",
+      "眩晕欲仆",
+      "头摇肢颤",
+      "言语不利",
+      "半身麻木"
+    ],
+    "modern_applications": [
+      "高血压脑病",
+      "帕金森病",
+      "脑血管痉挛",
+      "椎动脉型颈椎病"
+    ],
+    "related_syndromes": [
+      "syndrome_090",
+      "syndrome_012"
+    ]
+  },
+  {
+    "id": "needle_102",
+    "name": "肝火上炎针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_297",
+        "name": "行间",
+        "method": "放血泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_414",
+        "name": "太阳",
+        "method": "放血泻法"
+      }
+    ],
+    "effects": [
+      "清肝泻火",
+      "降逆止痛"
+    ],
+    "indications": [
+      "肝火上炎",
+      "头痛如劈",
+      "面红目赤",
+      "烦躁易怒",
+      "耳鸣耳聋"
+    ],
+    "modern_applications": [
+      "紧张性头痛",
+      "急性结膜炎",
+      "突发性耳聋",
+      "高血压危象"
+    ],
+    "related_syndromes": [
+      "syndrome_091",
+      "syndrome_043"
+    ]
+  },
+  {
+    "id": "needle_103",
+    "name": "心肾不交针方",
+    "category": "安神",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_140",
+        "name": "心俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "交通心肾",
+      "滋阴安神"
+    ],
+    "indications": [
+      "心肾不交",
+      "心烦不寐",
+      "心悸怔忡",
+      "腰膝酸软",
+      "潮热盗汗"
+    ],
+    "modern_applications": [
+      "失眠症",
+      "神经衰弱",
+      "围绝经期综合征",
+      "心脏神经官能症"
+    ],
+    "related_syndromes": [
+      "syndrome_092",
+      "syndrome_009"
+    ]
+  },
+  {
+    "id": "needle_104",
+    "name": "肝肾阴虚针方",
+    "category": "补阴",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "滋补肝肾",
+      "养阴填精"
+    ],
+    "indications": [
+      "肝肾阴虚",
+      "头晕目眩",
+      "目涩视昏",
+      "腰酸胁痛",
+      "五心烦热"
+    ],
+    "modern_applications": [
+      "慢性肝炎",
+      "早期肝硬化",
+      "干眼症",
+      "视疲劳"
+    ],
+    "related_syndromes": [
+      "syndrome_093",
+      "syndrome_006"
+    ]
+  },
+  {
+    "id": "needle_105",
+    "name": "脾气虚针方",
+    "category": "补益",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "益气健脾",
+      "和胃助运"
+    ],
+    "indications": [
+      "脾气虚弱",
+      "食少纳呆",
+      "腹胀便溏",
+      "神疲乏力",
+      "面色萎黄"
+    ],
+    "modern_applications": [
+      "功能性消化不良",
+      "慢性胃炎",
+      "小儿厌食",
+      "吸收不良综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_094",
+      "syndrome_003"
+    ]
+  },
+  {
+    "id": "needle_106",
+    "name": "脾阳虚针方",
+    "category": "温里",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "捻转补法加灸"
+      }
+    ],
+    "effects": [
+      "温中健脾",
+      "散寒止痛"
+    ],
+    "indications": [
+      "脾阳虚衰",
+      "脘腹冷痛",
+      "喜温喜按",
+      "便溏清稀",
+      "形寒肢冷"
+    ],
+    "modern_applications": [
+      "慢性结肠炎",
+      "肠易激综合征",
+      "功能性腹泻",
+      "消化性溃疡"
+    ],
+    "related_syndromes": [
+      "syndrome_095",
+      "syndrome_021"
+    ]
+  },
+  {
+    "id": "needle_107",
+    "name": "中气下陷针方",
+    "category": "补益",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "灸法悬灸"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "补中益气",
+      "升阳举陷"
+    ],
+    "indications": [
+      "中气下陷",
+      "内脏下垂",
+      "久泻脱肛",
+      "少气懒言",
+      "头晕眼花"
+    ],
+    "modern_applications": [
+      "胃下垂",
+      "子宫脱垂",
+      "脱肛",
+      "重症肌无力"
+    ],
+    "related_syndromes": [
+      "syndrome_096",
+      "syndrome_059"
+    ]
+  },
+  {
+    "id": "needle_108",
+    "name": "脾不统血针方",
+    "category": "补益",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_077",
+        "name": "隐白",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      }
+    ],
+    "effects": [
+      "健脾益气",
+      "统血摄血"
+    ],
+    "indications": [
+      "脾不统血",
+      "便血崩漏",
+      "皮下出血",
+      "月经过多",
+      "血色淡红质稀"
+    ],
+    "modern_applications": [
+      "功能失调性子宫出血",
+      "血小板减少性紫癜",
+      "消化道出血",
+      "缺铁性贫血"
+    ],
+    "related_syndromes": [
+      "syndrome_097",
+      "syndrome_094"
+    ]
+  },
+  {
+    "id": "needle_109",
+    "name": "痰蒙心窍针方",
+    "category": "安神",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_335",
+        "name": "水沟",
+        "method": "雀啄泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      }
+    ],
+    "effects": [
+      "豁痰开窍",
+      "醒脑安神"
+    ],
+    "indications": [
+      "痰蒙心窍",
+      "神志昏蒙",
+      "言语错乱",
+      "喉中痰鸣",
+      "表情淡漠"
+    ],
+    "modern_applications": [
+      "癔病性精神障碍",
+      "癫痫",
+      "老年痴呆",
+      "脑血管病后精神障碍"
+    ],
+    "related_syndromes": [
+      "syndrome_098",
+      "syndrome_007"
+    ]
+  },
+  {
+    "id": "needle_110",
+    "name": "心虚胆怯针方",
+    "category": "安神",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_140",
+        "name": "心俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_144",
+        "name": "胆俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "补心壮胆",
+      "安神定志"
+    ],
+    "indications": [
+      "心虚胆怯",
+      "心悸易惊",
+      "坐卧不安",
+      "失眠多梦",
+      "闻声则恐"
+    ],
+    "modern_applications": [
+      "焦虑症",
+      "恐惧症",
+      "惊恐发作",
+      "心脏神经官能症"
+    ],
+    "related_syndromes": [
+      "syndrome_099",
+      "syndrome_108"
+    ]
+  },
+  {
+    "id": "needle_111",
+    "name": "肾精不足针方",
+    "category": "补阳",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_313",
+        "name": "命门",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_290",
+        "name": "悬钟",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "补肾填精",
+      "益髓健脑"
+    ],
+    "indications": [
+      "肾精不足",
+      "头晕健忘",
+      "腰膝酸软",
+      "发脱齿摇",
+      "耳鸣耳聋"
+    ],
+    "modern_applications": [
+      "老年性痴呆",
+      "神经衰弱",
+      "脱发",
+      "骨质疏松症"
+    ],
+    "related_syndromes": [
+      "syndrome_100",
+      "syndrome_005"
+    ]
+  },
+  {
+    "id": "needle_112",
+    "name": "肾气不固针方",
+    "category": "固涩",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_313",
+        "name": "命门",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      }
+    ],
+    "effects": [
+      "补肾固摄",
+      "纳气缩尿"
+    ],
+    "indications": [
+      "肾气不固",
+      "小便频数",
+      "遗尿滑精",
+      "带下清稀",
+      "夜尿增多"
+    ],
+    "modern_applications": [
+      "小儿遗尿",
+      "前列腺增生之尿频",
+      "早泄",
+      "压力性尿失禁"
+    ],
+    "related_syndromes": [
+      "syndrome_101",
+      "syndrome_005"
+    ]
+  },
+  {
+    "id": "needle_113",
+    "name": "肺肾阴虚针方",
+    "category": "补阴",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_009",
+        "name": "太渊",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "滋肺补肾",
+      "养阴润燥"
+    ],
+    "indications": [
+      "肺肾阴虚",
+      "干咳少痰",
+      "咽干口燥",
+      "腰膝酸软",
+      "骨蒸潮热"
+    ],
+    "modern_applications": [
+      "慢性支气管炎",
+      "肺结核",
+      "干燥综合征",
+      "慢性咽喉炎"
+    ],
+    "related_syndromes": [
+      "syndrome_102",
+      "syndrome_006"
+    ]
+  },
+  {
+    "id": "needle_114",
+    "name": "肝脾不和针方",
+    "category": "理气",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插平补平泻"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_309",
+        "name": "期门",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "疏肝健脾",
+      "理气和胃"
+    ],
+    "indications": [
+      "肝脾不和",
+      "胸胁胀痛",
+      "腹胀便溏",
+      "纳呆嗳气",
+      "痛泻交作"
+    ],
+    "modern_applications": [
+      "肠易激综合征",
+      "功能性消化不良",
+      "慢性肝炎",
+      "胃食管反流"
+    ],
+    "related_syndromes": [
+      "syndrome_103",
+      "syndrome_004"
+    ]
+  },
+  {
+    "id": "needle_115",
+    "name": "寒滞肝脉针方",
+    "category": "温里",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法重灸"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_296",
+        "name": "大敦",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转补法加灸"
+      }
+    ],
+    "effects": [
+      "暖肝散寒",
+      "通络止痛"
+    ],
+    "indications": [
+      "寒滞肝脉",
+      "少腹冷痛",
+      "睾丸坠胀",
+      "遇寒加重",
+      "得热痛减"
+    ],
+    "modern_applications": [
+      "疝气",
+      "慢性前列腺炎",
+      "睾丸炎",
+      "精索静脉曲张"
+    ],
+    "related_syndromes": [
+      "syndrome_104",
+      "syndrome_022"
+    ]
+  },
+  {
+    "id": "needle_116",
+    "name": "燥邪伤肺针方",
+    "category": "止咳",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_005",
+        "name": "尺泽",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_009",
+        "name": "太渊",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_198",
+        "name": "照海",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "清肺润燥",
+      "生津止咳"
+    ],
+    "indications": [
+      "燥邪伤肺",
+      "干咳无痰",
+      "咽干喉痒",
+      "鼻燥衄血",
+      "声音嘶哑"
+    ],
+    "modern_applications": [
+      "上呼吸道感染",
+      "过敏性咳嗽",
+      "空调病",
+      "急性咽炎"
+    ],
+    "related_syndromes": [
+      "syndrome_105",
+      "syndrome_036"
+    ]
+  },
+  {
+    "id": "needle_117",
+    "name": "痰湿阻肺针方",
+    "category": "止咳",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      }
+    ],
+    "effects": [
+      "健脾化痰",
+      "宣肺降气"
+    ],
+    "indications": [
+      "痰湿阻肺",
+      "咳嗽痰多",
+      "痰白清稀",
+      "胸闷气短",
+      "苔白腻"
+    ],
+    "modern_applications": [
+      "慢性支气管炎",
+      "慢性阻塞性肺疾病",
+      "支气管扩张",
+      "肺源性心脏病"
+    ],
+    "related_syndromes": [
+      "syndrome_106",
+      "syndrome_007"
+    ]
+  },
+  {
+    "id": "needle_118",
+    "name": "胃阴虚针方",
+    "category": "补阴",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "养阴和胃",
+      "生津润燥"
+    ],
+    "indications": [
+      "胃阴不足",
+      "胃脘灼痛",
+      "饥不欲食",
+      "口干咽燥",
+      "大便干结"
+    ],
+    "modern_applications": [
+      "慢性萎缩性胃炎",
+      "功能性消化不良",
+      "反流性食管炎",
+      "糖尿病胃轻瘫"
+    ],
+    "related_syndromes": [
+      "syndrome_107",
+      "syndrome_003"
+    ]
+  },
+  {
+    "id": "needle_119",
+    "name": "心气虚针方",
+    "category": "补益",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_140",
+        "name": "心俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_354",
+        "name": "膻中",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      }
+    ],
+    "effects": [
+      "补心益气",
+      "宁心安神"
+    ],
+    "indications": [
+      "心气不足",
+      "心悸怔忡",
+      "胸闷气短",
+      "神疲乏力",
+      "自汗"
+    ],
+    "modern_applications": [
+      "心律失常",
+      "心力衰竭早期",
+      "冠心病",
+      "病毒性心肌炎恢复期"
+    ],
+    "related_syndromes": [
+      "syndrome_108",
+      "syndrome_065"
+    ]
+  },
+  {
+    "id": "needle_120",
+    "name": "气陷证针方",
+    "category": "补益",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "灸法悬灸"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "益气升提",
+      "举陷固脱"
+    ],
+    "indications": [
+      "气虚下陷",
+      "脱肛",
+      "子宫脱垂",
+      "久泻久痢",
+      "少腹坠胀"
+    ],
+    "modern_applications": [
+      "内脏下垂",
+      "重症肌无力",
+      "慢性腹泻",
+      "盆腔器官脱垂"
+    ],
+    "related_syndromes": [
+      "syndrome_109",
+      "syndrome_096"
+    ]
+  },
+  {
+    "id": "needle_121",
+    "name": "暑热证针方",
+    "category": "清热",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "放血泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_432",
+        "name": "十宣",
+        "method": "放血"
+      }
+    ],
+    "effects": [
+      "清暑泄热",
+      "开窍醒神"
+    ],
+    "indications": [
+      "暑热内盛",
+      "高热烦渴",
+      "大汗出",
+      "头痛头晕",
+      "甚至神昏"
+    ],
+    "modern_applications": [
+      "中暑",
+      "热射病",
+      "高热惊厥",
+      "日射病"
+    ],
+    "related_syndromes": [
+      "syndrome_110",
+      "syndrome_018"
+    ]
+  },
+  {
+    "id": "needle_122",
+    "name": "气血两虚针方",
+    "category": "补益",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "益气养血",
+      "双补气血"
+    ],
+    "indications": [
+      "气血两虛",
+      "面色苍白",
+      "头晕眼花",
+      "心悸气短",
+      "神疲乏力"
+    ],
+    "modern_applications": [
+      "缺铁性贫血",
+      "再生障碍性贫血",
+      "营养不良",
+      "术后恢复期"
+    ],
+    "related_syndromes": [
+      "syndrome_111",
+      "syndrome_010"
+    ]
+  },
+  {
+    "id": "needle_123",
+    "name": "暑湿证针方",
+    "category": "祛湿",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清暑化湿",
+      "和中降逆"
+    ],
+    "indications": [
+      "暑湿内蕴",
+      "身热不扬",
+      "胸闷脘痞",
+      "恶心呕吐",
+      "大便溏泻"
+    ],
+    "modern_applications": [
+      "夏季感冒",
+      "急性胃肠炎",
+      "中暑",
+      "空调病"
+    ],
+    "related_syndromes": [
+      "syndrome_112",
+      "syndrome_069"
+    ]
+  },
+  {
+    "id": "needle_124",
+    "name": "膀胱湿热针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_153",
+        "name": "膀胱俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_165",
+        "name": "委中",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "利尿通淋"
+    ],
+    "indications": [
+      "膀胱湿热",
+      "小便频急",
+      "灼热涩痛",
+      "尿色黄赤",
+      "小腹胀痛"
+    ],
+    "modern_applications": [
+      "尿路感染",
+      "急性膀胱炎",
+      "急性前列腺炎",
+      "泌尿系结石"
+    ],
+    "related_syndromes": [
+      "syndrome_113",
+      "syndrome_011"
+    ]
+  },
+  {
+    "id": "needle_125",
+    "name": "风热犯肺针方",
+    "category": "解表",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "放血泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_005",
+        "name": "尺泽",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "疏风清热",
+      "宣肺止咳"
+    ],
+    "indications": [
+      "风热犯肺",
+      "发热微恶风",
+      "咳嗽咽痛",
+      "鼻塞黄涕",
+      "口干渴"
+    ],
+    "modern_applications": [
+      "急性支气管炎",
+      "上呼吸道感染",
+      "急性扁桃体炎",
+      "流行性感冒"
+    ],
+    "related_syndromes": [
+      "syndrome_114",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_126",
+    "name": "肝阴虚针方",
+    "category": "补阴",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "养肝柔肝",
+      "滋阴明目"
+    ],
+    "indications": [
+      "肝阴不足",
+      "两目干涩",
+      "头晕耳鸣",
+      "胁肋隐痛",
+      "手足麻木"
+    ],
+    "modern_applications": [
+      "慢性肝炎",
+      "干眼症",
+      "神经性头痛",
+      "植物神经功能紊乱"
+    ],
+    "related_syndromes": [
+      "syndrome_115",
+      "syndrome_093"
+    ]
+  },
+  {
+    "id": "needle_127",
+    "name": "血热妄行针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "放血泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_142",
+        "name": "膈俞",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热凉血",
+      "止血化瘀"
+    ],
+    "indications": [
+      "血热妄行",
+      "吐血衄血",
+      "皮肤紫斑",
+      "牙龈出血",
+      "血色鲜红"
+    ],
+    "modern_applications": [
+      "过敏性紫癜",
+      "血小板减少症",
+      "鼻出血",
+      "牙龈出血"
+    ],
+    "related_syndromes": [
+      "syndrome_116",
+      "syndrome_013"
+    ]
+  },
+  {
+    "id": "needle_128",
+    "name": "津液亏虚针方",
+    "category": "补阴",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_360",
+        "name": "廉泉",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "生津润燥",
+      "滋养阴液"
+    ],
+    "indications": [
+      "津液亏虚",
+      "口燥咽干",
+      "皮肤干枯",
+      "小便短少",
+      "大便干结"
+    ],
+    "modern_applications": [
+      "脱水",
+      "干燥综合征",
+      "糖尿病",
+      "老年性便秘"
+    ],
+    "related_syndromes": [
+      "syndrome_117",
+      "syndrome_009"
+    ]
+  },
+  {
+    "id": "needle_129",
+    "name": "风痰阻络针方",
+    "category": "祛风",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      }
+    ],
+    "effects": [
+      "祛风化痰",
+      "通络止痉"
+    ],
+    "indications": [
+      "风痰阻络",
+      "口眼歪斜",
+      "言语謇涩",
+      "半身不遂",
+      "肢体麻木"
+    ],
+    "modern_applications": [
+      "面神经麻痹",
+      "脑卒中后遗症",
+      "短暂性脑缺血发作",
+      "偏头痛"
+    ],
+    "related_syndromes": [
+      "syndrome_118",
+      "syndrome_035"
+    ]
+  },
+  {
+    "id": "needle_130",
+    "name": "大肠湿热针方",
+    "category": "清热",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_068",
+        "name": "上巨虚",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "调肠止泻"
+    ],
+    "indications": [
+      "大肠湿热",
+      "腹痛腹泻",
+      "里急后重",
+      "下利赤白",
+      "肛门灼热"
+    ],
+    "modern_applications": [
+      "细菌性痢疾",
+      "急性肠炎",
+      "溃疡性结肠炎发作期",
+      "抗生素相关腹泻"
+    ],
+    "related_syndromes": [
+      "syndrome_119",
+      "syndrome_011"
+    ]
+  },
+  {
+    "id": "needle_131",
+    "name": "痰火扰心针方",
+    "category": "安神",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热化痰",
+      "宁心安神"
+    ],
+    "indications": [
+      "痰火扰心",
+      "心烦不寐",
+      "神志不宁",
+      "躁扰谵妄",
+      "面赤气粗"
+    ],
+    "modern_applications": [
+      "躁狂症",
+      "睡眠障碍",
+      "精神分裂症急性期",
+      "酒精戒断综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_120",
+      "syndrome_098"
+    ]
+  },
+  {
+    "id": "needle_132",
+    "name": "中风急救针方",
+    "category": "解表",
+    "source": "《神应经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_335",
+        "name": "水沟",
+        "method": "雀啄泻法"
+      },
+      {
+        "acupoint_id": "acupoint_432",
+        "name": "十宣",
+        "method": "放血"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "醒脑开窍",
+      "通络救逆"
+    ],
+    "indications": [
+      "中风闭证",
+      "突然昏仆",
+      "不省人事",
+      "牙关紧闭",
+      "两手握固"
+    ],
+    "modern_applications": [
+      "脑卒中急性期",
+      "短暂性脑缺血发作",
+      "高血压脑病"
+    ],
+    "related_syndromes": [
+      "syndrome_035",
+      "syndrome_090"
+    ]
+  },
+  {
+    "id": "needle_133",
+    "name": "暑厥救逆针方",
+    "category": "清热",
+    "source": "《神应经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_335",
+        "name": "水沟",
+        "method": "雀啄泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "平刺泻法"
+      },
+      {
+        "acupoint_id": "acupoint_193",
+        "name": "涌泉",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_165",
+        "name": "委中",
+        "method": "放血"
+      }
+    ],
+    "effects": [
+      "清暑开窍",
+      "益气救逆"
+    ],
+    "indications": [
+      "暑厥",
+      "突然昏倒",
+      "身热肢冷",
+      "面色苍白",
+      "大汗淋漓"
+    ],
+    "modern_applications": [
+      "中暑休克",
+      "热射病",
+      "晕厥",
+      "低血容量性休克"
+    ],
+    "related_syndromes": [
+      "syndrome_110",
+      "syndrome_022"
+    ]
+  },
+  {
+    "id": "needle_134",
+    "name": "目赤肿痛针方",
+    "category": "五官科",
+    "source": "《神应经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_126",
+        "name": "睛明",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_414",
+        "name": "太阳",
+        "method": "放血"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热明目",
+      "消肿止痛"
+    ],
+    "indications": [
+      "目赤肿痛",
+      "畏光流泪",
+      "眵多粘结",
+      "眼睑红肿"
+    ],
+    "modern_applications": [
+      "急性结膜炎",
+      "角膜炎",
+      "睑腺炎",
+      "青光眼急性发作"
+    ],
+    "related_syndromes": [
+      "syndrome_091",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_135",
+    "name": "中风脱证救逆针方",
+    "category": "回阳",
+    "source": "《扁鹊心书》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "大艾炷灸"
+      },
+      {
+        "acupoint_id": "acupoint_345",
+        "name": "神阙",
+        "method": "隔盐灸"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "大艾炷灸"
+      },
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "悬灸"
+      }
+    ],
+    "effects": [
+      "回阳固脱",
+      "益气救逆"
+    ],
+    "indications": [
+      "中风脱证",
+      "目合口开",
+      "手撒遗尿",
+      "四肢逆冷",
+      "脉微欲绝"
+    ],
+    "modern_applications": [
+      "脑卒中休克期",
+      "心源性休克",
+      "低血压危象"
+    ],
+    "related_syndromes": [
+      "syndrome_035",
+      "syndrome_005"
+    ]
+  },
+  {
+    "id": "needle_136",
+    "name": "虚劳保健灸方",
+    "category": "补益",
+    "source": "《扁鹊心书》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "保健灸（艾条灸）"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "保健灸"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "保健灸"
+      },
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "保健灸"
+      }
+    ],
+    "effects": [
+      "温阳益气",
+      "扶正固本"
+    ],
+    "indications": [
+      "虚劳",
+      "久病体虚",
+      "术后康复",
+      "神疲乏力",
+      "免疫力低下"
+    ],
+    "modern_applications": [
+      "慢性疲劳综合征",
+      "免疫功能低下",
+      "肿瘤术后调理",
+      "放化疗后辅助"
+    ],
+    "related_syndromes": [
+      "syndrome_111",
+      "syndrome_059"
+    ]
+  },
+  {
+    "id": "needle_137",
+    "name": "寒凝腹痛灸方",
+    "category": "温里",
+    "source": "《扁鹊心书》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_345",
+        "name": "神阙",
+        "method": "隔姜灸"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "艾炷灸"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "隔姜灸"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "隔姜灸"
+      }
+    ],
+    "effects": [
+      "温中散寒",
+      "通腑止痛"
+    ],
+    "indications": [
+      "寒凝腹痛",
+      "腹部冷痛",
+      "喜温喜按",
+      "得热痛减",
+      "便溏"
+    ],
+    "modern_applications": [
+      "肠痉挛",
+      "结肠炎",
+      "消化性溃疡",
+      "肠易激综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_095",
+      "syndrome_021"
+    ]
+  },
+  {
+    "id": "needle_138",
+    "name": "疝气针方",
+    "category": "理气",
+    "source": "《类经图翼》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_296",
+        "name": "大敦",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_060",
+        "name": "归来",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "温经散寒",
+      "行气消疝"
+    ],
+    "indications": [
+      "疝气",
+      "少腹坠胀",
+      "睾丸疼痛",
+      "遇劳加重"
+    ],
+    "modern_applications": [
+      "腹股沟疝",
+      "精索静脉曲张",
+      "睾丸炎",
+      "附睾炎"
+    ],
+    "related_syndromes": [
+      "syndrome_104",
+      "syndrome_008"
+    ]
+  },
+  {
+    "id": "needle_139",
+    "name": "胸痹通阳针方",
+    "category": "理气",
+    "source": "《类经图翼》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_354",
+        "name": "膻中",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_140",
+        "name": "心俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_139",
+        "name": "厥阴俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_223",
+        "name": "郄门",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "宣痹通阳",
+      "活血止痛"
+    ],
+    "indications": [
+      "胸痹心痛",
+      "胸闷如窒",
+      "心痛彻背",
+      "气短喘息",
+      "遇寒加重"
+    ],
+    "modern_applications": [
+      "冠心病心绞痛",
+      "心肌梗死恢复期",
+      "心脏神经官能症"
+    ],
+    "related_syndromes": [
+      "syndrome_029",
+      "syndrome_065"
+    ]
+  },
+  {
+    "id": "needle_140",
+    "name": "脚气冲心急救针方",
+    "category": "内科",
+    "source": "《类经图翼》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_193",
+        "name": "涌泉",
+        "method": "艾灸"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      }
+    ],
+    "effects": [
+      "温阳化气",
+      "利水救逆"
+    ],
+    "indications": [
+      "脚气冲心",
+      "心悸喘促",
+      "下肢浮肿",
+      "呕恶不食",
+      "神志恍惚"
+    ],
+    "modern_applications": [
+      "维生素B1缺乏性心脏病",
+      "心力衰竭",
+      "水肿"
+    ],
+    "related_syndromes": [
+      "syndrome_032",
+      "syndrome_005"
+    ]
+  },
+  {
+    "id": "needle_141",
+    "name": "鼻渊通窍针方",
+    "category": "五官科",
+    "source": "《针灸聚英》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_031",
+        "name": "迎香",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_413",
+        "name": "印堂",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_332",
+        "name": "上星",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热通窍",
+      "宣肺利鼻"
+    ],
+    "indications": [
+      "鼻渊",
+      "鼻塞不通",
+      "流黄稠涕",
+      "前额头痛",
+      "嗅觉减退"
+    ],
+    "modern_applications": [
+      "慢性鼻窦炎",
+      "过敏性鼻炎合并感染",
+      "肥厚性鼻炎"
+    ],
+    "related_syndromes": [
+      "syndrome_105",
+      "syndrome_083"
+    ]
+  },
+  {
+    "id": "needle_142",
+    "name": "癫证安神针方",
+    "category": "安神",
+    "source": "《针灸聚英》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_140",
+        "name": "心俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "宁心安神",
+      "化痰开窍"
+    ],
+    "indications": [
+      "癫证",
+      "精神抑郁",
+      "表情淡漠",
+      "沉默痴呆",
+      "喃喃自语"
+    ],
+    "modern_applications": [
+      "抑郁症",
+      "精神分裂症阴性症状",
+      "精神发育迟滞"
+    ],
+    "related_syndromes": [
+      "syndrome_098",
+      "syndrome_046"
+    ]
+  },
+  {
+    "id": "needle_143",
+    "name": "癃闭通利针方",
+    "category": "内科",
+    "source": "《针灸聚英》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_340",
+        "name": "中极",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_153",
+        "name": "膀胱俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_164",
+        "name": "委阳",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "通利小便"
+    ],
+    "indications": [
+      "癃闭",
+      "小便点滴不通",
+      "小腹胀痛",
+      "坐卧不安"
+    ],
+    "modern_applications": [
+      "急性尿潴留",
+      "前列腺增生",
+      "神经源性膀胱",
+      "麻醉后尿潴留"
+    ],
+    "related_syndromes": [
+      "syndrome_113",
+      "syndrome_047"
+    ]
+  },
+  {
+    "name": "清晨升阳保健针方",
+    "category": "补阳",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_329",
+        "name": "百会",
+        "method": "悬灸3-5分钟"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "灸法3-5壮"
+      },
+      {
+        "acupoint_id": "acupoint_313",
+        "name": "命门",
+        "method": "悬灸3-5分钟"
+      }
+    ],
+    "effects": [
+      "升提阳气",
+      "振奋精神"
+    ],
+    "indications": [
+      "清晨困倦",
+      "精神不振",
+      "阳气不足"
+    ],
+    "modern_applications": [
+      "慢性疲劳",
+      "亚健康调理",
+      "免疫力低下"
+    ],
+    "related_syndromes": [
+      "syndrome_059",
+      "syndrome_005"
+    ],
+    "id": "needle_144"
+  },
+  {
+    "name": "考前安神定志针方",
+    "category": "安神",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_412",
+        "name": "四神聪",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "安神定志",
+      "益智健脑"
+    ],
+    "indications": [
+      "考前紧张",
+      "失眠健忘",
+      "注意力不集中"
+    ],
+    "modern_applications": [
+      "考试焦虑",
+      "失眠",
+      "记忆力减退"
+    ],
+    "related_syndromes": [
+      "syndrome_099",
+      "syndrome_100"
+    ],
+    "id": "needle_145"
+  },
+  {
+    "name": "久坐腰痛舒缓针方",
+    "category": "祛风",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_165",
+        "name": "委中",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_312",
+        "name": "腰阳关",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_281",
+        "name": "环跳",
+        "method": "提插泻法"
+      }
+    ],
+    "effects": [
+      "舒筋活络",
+      "强腰壮肾"
+    ],
+    "indications": [
+      "久坐腰痛",
+      "腰肌劳损",
+      "腰部僵硬"
+    ],
+    "modern_applications": [
+      "腰肌劳损",
+      "腰椎间盘突出症",
+      "坐骨神经痛"
+    ],
+    "related_syndromes": [
+      "syndrome_044",
+      "syndrome_005"
+    ],
+    "id": "needle_146"
+  },
+  {
+    "name": "畏寒怕冷温阳针方",
+    "category": "补阳",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_341",
+        "name": "关元",
+        "method": "艾条灸15分钟"
+      },
+      {
+        "acupoint_id": "acupoint_313",
+        "name": "命门",
+        "method": "艾条灸15分钟"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "艾条灸10分钟"
+      }
+    ],
+    "effects": [
+      "温阳散寒",
+      "补火助阳"
+    ],
+    "indications": [
+      "畏寒怕冷",
+      "四肢不温",
+      "精神萎靡"
+    ],
+    "modern_applications": [
+      "甲状腺功能减退",
+      "肾上腺皮质功能减退",
+      "阳虚体质调理"
+    ],
+    "related_syndromes": [
+      "syndrome_005",
+      "syndrome_095"
+    ],
+    "id": "needle_147"
+  },
+  {
+    "id": "needle_148",
+    "name": "太阳伤寒针方",
+    "category": "解表",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_137",
+        "name": "风门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "辛温发汗",
+      "宣肺散寒"
+    ],
+    "indications": [
+      "太阳伤寒",
+      "恶寒无汗",
+      "发热身痛",
+      "脉浮紧"
+    ],
+    "modern_applications": [
+      "感冒风寒型",
+      "流行性感冒初期",
+      "急性上呼吸道感染"
+    ],
+    "related_syndromes": [
+      "syndrome_017",
+      "syndrome_001"
+    ]
+  },
+  {
+    "id": "needle_149",
+    "name": "痞证消痞针方",
+    "category": "理气",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_080",
+        "name": "公孙",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "消痞散结",
+      "降逆和胃"
+    ],
+    "indications": [
+      "痞证",
+      "心下痞满",
+      "按之柔软",
+      "嗳气不除"
+    ],
+    "modern_applications": [
+      "功能性消化不良",
+      "慢性胃炎",
+      "胃食管反流病"
+    ],
+    "related_syndromes": [
+      "syndrome_026",
+      "syndrome_003"
+    ]
+  },
+  {
+    "id": "needle_150",
+    "name": "痰热壅肺针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_005",
+        "name": "尺泽",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_071",
+        "name": "丰隆",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热化痰",
+      "宣肺止咳"
+    ],
+    "indications": [
+      "痰热壅肺",
+      "咳嗽痰黄",
+      "黏稠难咯",
+      "胸痛发热"
+    ],
+    "modern_applications": [
+      "急性支气管炎",
+      "肺炎",
+      "支气管扩张"
+    ],
+    "related_syndromes": [
+      "syndrome_037",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_151",
+    "name": "卫分证针方",
+    "category": "解表",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_233",
+        "name": "外关",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "辛凉解表",
+      "透卫泄热"
+    ],
+    "indications": [
+      "卫分证",
+      "发热微恶寒",
+      "口微渴",
+      "脉浮数"
+    ],
+    "modern_applications": [
+      "上呼吸道感染",
+      "感冒初期",
+      "流行性感冒"
+    ],
+    "related_syndromes": [
+      "syndrome_051",
+      "syndrome_002"
+    ]
+  },
+  {
+    "id": "needle_152",
+    "name": "气分证针方",
+    "category": "清热",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_075",
+        "name": "内庭",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_199",
+        "name": "复溜",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "清气泄热",
+      "生津止渴"
+    ],
+    "indications": [
+      "气分热盛",
+      "大热大渴",
+      "大汗出",
+      "脉洪大"
+    ],
+    "modern_applications": [
+      "高热",
+      "糖尿病",
+      "甲状腺功能亢进"
+    ],
+    "related_syndromes": [
+      "syndrome_052",
+      "syndrome_018"
+    ]
+  },
+  {
+    "id": "needle_153",
+    "name": "营分证针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_104",
+        "name": "神门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_195",
+        "name": "太溪",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "清营透热",
+      "养阴安神"
+    ],
+    "indications": [
+      "营分证",
+      "身热夜甚",
+      "心烦不寐",
+      "斑疹隐隐",
+      "舌绛"
+    ],
+    "modern_applications": [
+      "败血症",
+      "感染性发热",
+      "药疹"
+    ],
+    "related_syndromes": [
+      "syndrome_053",
+      "syndrome_009"
+    ]
+  },
+  {
+    "id": "needle_154",
+    "name": "血分证针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "放血泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_142",
+        "name": "膈俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "凉血解毒",
+      "化瘀止血"
+    ],
+    "indications": [
+      "血分证",
+      "身热躁扰",
+      "斑疹紫黑",
+      "吐衄便血",
+      "舌紫绛"
+    ],
+    "modern_applications": [
+      "败血症",
+      "弥散性血管内凝血",
+      "过敏性紫癜"
+    ],
+    "related_syndromes": [
+      "syndrome_054",
+      "syndrome_116"
+    ]
+  },
+  {
+    "id": "needle_155",
+    "name": "上焦湿热针方",
+    "category": "祛湿",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_005",
+        "name": "尺泽",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "宣气化湿",
+      "清热透表"
+    ],
+    "indications": [
+      "上焦湿热",
+      "身热不扬",
+      "胸闷脘痞",
+      "头重如裹"
+    ],
+    "modern_applications": [
+      "夏季感冒",
+      "中暑",
+      "流感"
+    ],
+    "related_syndromes": [
+      "syndrome_055",
+      "syndrome_051"
+    ]
+  },
+  {
+    "id": "needle_156",
+    "name": "中焦湿热针方",
+    "category": "祛湿",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_085",
+        "name": "阴陵泉",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清热利湿",
+      "理气和中"
+    ],
+    "indications": [
+      "中焦湿热",
+      "脘腹胀满",
+      "恶心呕吐",
+      "大便溏而不爽"
+    ],
+    "modern_applications": [
+      "急性胃肠炎",
+      "慢性胃炎",
+      "肠易激综合征"
+    ],
+    "related_syndromes": [
+      "syndrome_056",
+      "syndrome_011"
+    ]
+  },
+  {
+    "id": "needle_157",
+    "name": "气滞证针方",
+    "category": "理气",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_354",
+        "name": "膻中",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_225",
+        "name": "内关",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_309",
+        "name": "期门",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "行气理气",
+      "散结消胀"
+    ],
+    "indications": [
+      "气滞证",
+      "胸胁胀满",
+      "嗳气叹息",
+      "疼痛走窜"
+    ],
+    "modern_applications": [
+      "胃肠功能紊乱",
+      "肋间神经痛",
+      "功能性消化不良"
+    ],
+    "related_syndromes": [
+      "syndrome_058",
+      "syndrome_004"
+    ]
+  },
+  {
+    "id": "needle_158",
+    "name": "血瘀证针方",
+    "category": "活血",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_142",
+        "name": "膈俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "活血化瘀",
+      "通络止痛"
+    ],
+    "indications": [
+      "血瘀证",
+      "刺痛固定",
+      "肿块癥积",
+      "舌紫暗有瘀斑"
+    ],
+    "modern_applications": [
+      "微循环障碍",
+      "血栓性疾病",
+      "痛经",
+      "心绞痛"
+    ],
+    "related_syndromes": [
+      "syndrome_060",
+      "syndrome_008"
+    ]
+  },
+  {
+    "id": "needle_159",
+    "name": "手太阴肺经病证针方",
+    "category": "解表",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_007",
+        "name": "列缺",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_009",
+        "name": "太渊",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_005",
+        "name": "尺泽",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_001",
+        "name": "中府",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "宣肺利气",
+      "通调经络"
+    ],
+    "indications": [
+      "手太阴肺经病证",
+      "咳嗽喘促",
+      "胸部胀满",
+      "缺盆中痛",
+      "肩背痛"
+    ],
+    "modern_applications": [
+      "支气管炎",
+      "肩周炎",
+      "肋间神经痛"
+    ],
+    "related_syndromes": [
+      "syndrome_061",
+      "syndrome_036"
+    ]
+  },
+  {
+    "id": "needle_160",
+    "name": "手阳明大肠经病证针方",
+    "category": "调和",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_022",
+        "name": "曲池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_068",
+        "name": "上巨虚",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_031",
+        "name": "迎香",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "通调大肠",
+      "清热利窍"
+    ],
+    "indications": [
+      "手阳明大肠经病证",
+      "齿痛颈肿",
+      "鼻衄喉痹",
+      "泄泻便秘"
+    ],
+    "modern_applications": [
+      "牙周炎",
+      "鼻炎",
+      "肩周炎",
+      "便秘"
+    ],
+    "related_syndromes": [
+      "syndrome_062",
+      "syndrome_041"
+    ]
+  },
+  {
+    "id": "needle_161",
+    "name": "足阳明胃经病证针方",
+    "category": "调和",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_075",
+        "name": "内庭",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_056",
+        "name": "天枢",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_037",
+        "name": "颊车",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "和胃降逆",
+      "清热通络"
+    ],
+    "indications": [
+      "足阳明胃经病证",
+      "胃痛腹胀",
+      "齿痛面瘫",
+      "下肢前缘疼痛"
+    ],
+    "modern_applications": [
+      "胃炎",
+      "面神经麻痹",
+      "下肢神经痛"
+    ],
+    "related_syndromes": [
+      "syndrome_063",
+      "syndrome_050"
+    ]
+  },
+  {
+    "id": "needle_162",
+    "name": "肝血虚针方",
+    "category": "补血",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "养血柔肝",
+      "补血明目"
+    ],
+    "indications": [
+      "肝血不足",
+      "头晕目眩",
+      "视物模糊",
+      "肢体麻木",
+      "月经量少"
+    ],
+    "modern_applications": [
+      "缺铁性贫血",
+      "维生素A缺乏症",
+      "月经不调"
+    ],
+    "related_syndromes": [
+      "syndrome_066",
+      "syndrome_010"
+    ]
+  },
+  {
+    "id": "needle_163",
+    "name": "跌打损伤针方",
+    "category": "活血",
+    "source": "常用经验方",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_142",
+        "name": "膈俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_165",
+        "name": "委中",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_290",
+        "name": "悬钟",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "活血化瘀",
+      "消肿止痛"
+    ],
+    "indications": [
+      "跌打损伤",
+      "局部肿痛",
+      "皮下瘀斑",
+      "活动受限"
+    ],
+    "modern_applications": [
+      "软组织挫伤",
+      "扭伤",
+      "骨折后期康复"
+    ],
+    "related_syndromes": [
+      "syndrome_068",
+      "syndrome_060"
+    ]
+  },
+  {
+    "id": "needle_164",
+    "name": "肝经郁热针方",
+    "category": "清热",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_297",
+        "name": "行间",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_143",
+        "name": "肝俞",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_309",
+        "name": "期门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "疏肝清热",
+      "解郁散火"
+    ],
+    "indications": [
+      "肝经郁热",
+      "胁肋灼痛",
+      "烦躁口苦",
+      "小便黄赤"
+    ],
+    "modern_applications": [
+      "肋间神经痛",
+      "慢性肝炎",
+      "植物神经功能紊乱"
+    ],
+    "related_syndromes": [
+      "syndrome_081",
+      "syndrome_091"
+    ]
+  },
+  {
+    "id": "needle_165",
+    "name": "中消降糖针方",
+    "category": "补阴",
+    "source": "《针灸大成》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_146",
+        "name": "胃俞",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_349",
+        "name": "中脘",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      },
+      {
+        "acupoint_id": "acupoint_075",
+        "name": "内庭",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "清胃泻火",
+      "养阴生津"
+    ],
+    "indications": [
+      "消渴中消",
+      "多食易饥",
+      "形体消瘦",
+      "口渴多饮"
+    ],
+    "modern_applications": [
+      "2型糖尿病",
+      "代谢综合征",
+      "肥胖症"
+    ],
+    "related_syndromes": [
+      "syndrome_082",
+      "syndrome_009"
+    ]
+  },
+  {
+    "id": "needle_166",
+    "name": "风寒湿痹针方",
+    "category": "祛风",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_137",
+        "name": "风门",
+        "method": "捻转泻法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_148",
+        "name": "肾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_285",
+        "name": "阳陵泉",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      }
+    ],
+    "effects": [
+      "祛风散寒",
+      "除湿通痹"
+    ],
+    "indications": [
+      "风寒湿痹",
+      "关节冷痛",
+      "遇寒加重",
+      "屈伸不利"
+    ],
+    "modern_applications": [
+      "风湿性关节炎",
+      "骨关节炎",
+      "类风湿性关节炎"
+    ],
+    "related_syndromes": [
+      "syndrome_084",
+      "syndrome_028"
+    ]
+  },
+  {
+    "id": "needle_167",
+    "name": "瘀血阻络针方",
+    "category": "活血",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_142",
+        "name": "膈俞",
+        "method": "捻转泻法放血"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "提插泻法"
+      },
+      {
+        "acupoint_id": "acupoint_298",
+        "name": "太冲",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法"
+      }
+    ],
+    "effects": [
+      "活血化瘀",
+      "通络止痛"
+    ],
+    "indications": [
+      "瘀血阻络",
+      "肢体麻木刺痛",
+      "皮肤瘀斑",
+      "舌紫暗"
+    ],
+    "modern_applications": [
+      "末梢神经炎",
+      "糖尿病周围神经病变",
+      "雷诺氏病"
+    ],
+    "related_syndromes": [
+      "syndrome_085",
+      "syndrome_008"
+    ]
+  },
+  {
+    "id": "needle_168",
+    "name": "气虚血弱针方",
+    "category": "补益",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_343",
+        "name": "气海",
+        "method": "灸法"
+      },
+      {
+        "acupoint_id": "acupoint_086",
+        "name": "血海",
+        "method": "捻转补法"
+      },
+      {
+        "acupoint_id": "acupoint_067",
+        "name": "足三里",
+        "method": "提插补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_145",
+        "name": "脾俞",
+        "method": "捻转补法加灸"
+      },
+      {
+        "acupoint_id": "acupoint_082",
+        "name": "三阴交",
+        "method": "捻转补法"
+      }
+    ],
+    "effects": [
+      "益气生血",
+      "补虚扶弱"
+    ],
+    "indications": [
+      "气虚血弱",
+      "面色无华",
+      "气短自汗",
+      "心悸健忘"
+    ],
+    "modern_applications": [
+      "贫血",
+      "产后体虚",
+      "术后恢复期"
+    ],
+    "related_syndromes": [
+      "syndrome_087",
+      "syndrome_111"
+    ]
+  },
+  {
+    "id": "needle_169",
+    "name": "风邪犯表针方",
+    "category": "解表",
+    "source": "《针灸甲乙经》",
+    "acupoints": [
+      {
+        "acupoint_id": "acupoint_271",
+        "name": "风池",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_323",
+        "name": "大椎",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_015",
+        "name": "合谷",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_137",
+        "name": "风门",
+        "method": "捻转泻法"
+      },
+      {
+        "acupoint_id": "acupoint_138",
+        "name": "肺俞",
+        "method": "捻转泻法"
+      }
+    ],
+    "effects": [
+      "疏风散邪",
+      "解表透疹"
+    ],
+    "indications": [
+      "风邪犯表",
+      "恶风发热",
+      "皮肤瘙痒",
+      "皮疹时隐时现"
+    ],
+    "modern_applications": [
+      "荨麻疹",
+      "过敏性皮炎",
+      "感冒"
+    ],
+    "related_syndromes": [
+      "syndrome_088",
+      "syndrome_001"
+    ]
+  }
+]

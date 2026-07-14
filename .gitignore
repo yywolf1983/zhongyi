@@ -1,0 +1,60 @@
+# ========================
+# 依赖
+# ========================
+node_modules/
+
+# ========================
+# Vite 构建产物
+# ========================
+dist/
+.vite/
+
+# ========================
+# Android / Capacitor
+# ========================
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/captures/
+android/*.apk
+android/*.aab
+android/capacitor-cordova-android-plugins/build/
+
+# Android Studio
+android/.idea/
+android/*.iml
+
+# Gradle
+android/.gradle/
+android/gradle/wrapper/gradle-wrapper.jar
+
+# ========================
+# IDE
+# ========================
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# ========================
+# 操作系统
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# 环境变量
+# ========================
+.env
+.env.local
+.env.*.local
+
+# ========================
+# 日志 & 缓存
+# ========================
+*.log
+npm-debug.log*
+.cache/
