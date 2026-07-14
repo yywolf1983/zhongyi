@@ -407,7 +407,7 @@ button:not(.allow-context) {
 /* ===== Navigation ===== */
 .nav-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: var(--space-sm);
   background: var(--color-surface);
   border-radius: var(--radius-lg);
@@ -637,6 +637,8 @@ button:not(.allow-context) {
 }
 .list-item-header .list-item-title {
   margin-bottom: 0;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 .list-item-header .list-item-pinyin {
   margin-bottom: 0;
@@ -692,9 +694,10 @@ mark,
 
 /* ===== List ===== */
 .list-container {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 10px;
+  align-items: start;
 }
 .list-item {
   background: var(--color-surface);
@@ -734,9 +737,9 @@ mark,
   font-weight: 600;
   color: var(--color-text-primary);
   margin-bottom: var(--space-xs);
-  display: flex;
-  align-items: center;
-  gap: var(--space-sm);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .list-item-pinyin {
   font-size: var(--font-size-sm);
@@ -1426,6 +1429,7 @@ mark,
   cursor: pointer;
   transition: all var(--transition-fast);
   white-space: nowrap;
+  flex-shrink: 0;
   min-height: 38px;
   -webkit-appearance: none;
 }
@@ -1447,11 +1451,13 @@ mark,
   flex-wrap: wrap;
   gap: var(--space-sm);
   margin-bottom: var(--space-xl);
+  padding-bottom: var(--space-xs);
 }
 .graph-category-item {
   display: flex;
   align-items: center;
   gap: var(--space-xs);
+  flex-shrink: 0;
   padding: var(--space-sm) 16px;
   border-radius: var(--radius-md);
   font-size: var(--font-size-sm);
