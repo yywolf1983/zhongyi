@@ -7657,5 +7657,34 @@
     "method": "艾炷灸5-7壮",
     "anatomy": "在腹直肌中",
     "subcategory": "头颈部奇穴"
+  },
+  {
+    "id": "acupoint_442",
+    "name": "阿是穴",
+    "pinyin": "A Shi Xue",
+    "meridian": "不定穴",
+    "meridian_id": "extra_point",
+    "location": "以压痛点或其他反应点作为穴位",
+    "indications": [
+      "局部疼痛",
+      "各科痛证"
+    ],
+    "method": "直刺或围刺",
+    "anatomy": "不定"
+  },
+  {
+    "id": "acupoint_443",
+    "name": "落枕穴",
+    "pinyin": "Lao Zhen Xue",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "location": "手背第二三掌骨间，掌指关节后约0.5寸",
+    "indications": [
+      "落枕",
+      "颈项强痛",
+      "手指麻木"
+    ],
+    "method": "直刺0.5-1寸，嘱患者活动颈部",
+    "anatomy": "骨间背侧肌"
   }
 ]
