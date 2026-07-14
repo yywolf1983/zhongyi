@@ -37,7 +37,8 @@
       "treatment_001"
     ],
     "related_effects": [
-      "effect_001"
+      "effect_001",
+      "effect_006"
     ],
     "comparison": [
       {
@@ -95,7 +96,8 @@
       "treatment_002"
     ],
     "related_effects": [
-      "effect_002"
+      "effect_002",
+      "effect_006"
     ],
     "comparison": [
       {
@@ -426,7 +428,8 @@
       "treatment_008"
     ],
     "related_effects": [
-      "effect_009"
+      "effect_009",
+      "effect_016"
     ],
     "comparison": [
       {
@@ -484,6 +487,7 @@
       "treatment_009"
     ],
     "related_effects": [
+      "effect_007",
       "effect_010"
     ],
     "comparison": [
@@ -583,6 +587,7 @@
       "treatment_011"
     ],
     "related_effects": [
+      "effect_002",
       "effect_012"
     ]
   },
@@ -622,6 +627,7 @@
       "treatment_012"
     ],
     "related_effects": [
+      "effect_004",
       "effect_013"
     ]
   },
@@ -660,6 +666,7 @@
       "treatment_013"
     ],
     "related_effects": [
+      "effect_002",
       "effect_014"
     ]
   },
@@ -699,6 +706,7 @@
       "treatment_014"
     ],
     "related_effects": [
+      "effect_003",
       "effect_015"
     ]
   },
@@ -777,8 +785,8 @@
       "treatment_016"
     ],
     "related_effects": [
-      "effect_021",
-      "effect_001"
+      "effect_001",
+      "effect_021"
     ]
   },
   {
@@ -814,8 +822,9 @@
       "treatment_001"
     ],
     "related_effects": [
-      "effect_021",
-      "effect_001"
+      "effect_001",
+      "effect_006",
+      "effect_021"
     ]
   },
   {
@@ -854,8 +863,8 @@
       "treatment_019"
     ],
     "related_effects": [
-      "effect_020",
-      "effect_002"
+      "effect_002",
+      "effect_020"
     ]
   },
   {
@@ -896,6 +905,7 @@
       "treatment_019"
     ],
     "related_effects": [
+      "effect_016",
       "effect_020"
     ],
     "comparison": [
@@ -953,6 +963,7 @@
       "treatment_016"
     ],
     "related_effects": [
+      "effect_004",
       "effect_017"
     ]
   },
@@ -992,6 +1003,7 @@
       "treatment_017"
     ],
     "related_effects": [
+      "effect_003",
       "effect_018"
     ]
   },
@@ -1032,6 +1044,7 @@
       "treatment_018"
     ],
     "related_effects": [
+      "effect_003",
       "effect_019"
     ]
   },
@@ -1069,6 +1082,7 @@
       "treatment_009"
     ],
     "related_effects": [
+      "effect_002",
       "effect_010"
     ]
   },
@@ -1108,6 +1122,7 @@
       "treatment_016"
     ],
     "related_effects": [
+      "effect_004",
       "effect_026"
     ]
   },
@@ -1148,6 +1163,7 @@
       "treatment_019"
     ],
     "related_effects": [
+      "effect_016",
       "effect_020"
     ]
   },
@@ -1224,6 +1240,8 @@
       "treatment_021"
     ],
     "related_effects": [
+      "effect_013",
+      "effect_016",
       "effect_023"
     ]
   },
@@ -1265,6 +1283,7 @@
       "treatment_021"
     ],
     "related_effects": [
+      "effect_013",
       "effect_023"
     ]
   },
@@ -1302,6 +1321,7 @@
       "treatment_023"
     ],
     "related_effects": [
+      "effect_004",
       "effect_025"
     ],
     "comparison": [
@@ -1360,6 +1380,7 @@
       "treatment_022"
     ],
     "related_effects": [
+      "effect_012",
       "effect_024"
     ],
     "comparison": [
@@ -1416,6 +1437,7 @@
       "treatment_020"
     ],
     "related_effects": [
+      "effect_008",
       "effect_022"
     ]
   },
@@ -1455,6 +1477,8 @@
       "treatment_020"
     ],
     "related_effects": [
+      "effect_005",
+      "effect_006",
       "effect_022",
       "effect_025"
     ]
@@ -1494,6 +1518,7 @@
       "treatment_007"
     ],
     "related_effects": [
+      "effect_006",
       "effect_008"
     ],
     "comparison": [
@@ -1585,8 +1610,8 @@
       "treatment_015"
     ],
     "related_effects": [
-      "effect_016",
-      "effect_009"
+      "effect_009",
+      "effect_016"
     ]
   },
   {
@@ -1625,7 +1650,8 @@
       "treatment_001"
     ],
     "related_effects": [
-      "effect_001"
+      "effect_001",
+      "effect_006"
     ]
   },
   {
@@ -1665,6 +1691,7 @@
       "treatment_007"
     ],
     "related_effects": [
+      "effect_006",
       "effect_008"
     ]
   },
@@ -1741,6 +1768,7 @@
       "treatment_017"
     ],
     "related_effects": [
+      "effect_001",
       "effect_018"
     ]
   },
@@ -1780,6 +1808,8 @@
       "treatment_017"
     ],
     "related_effects": [
+      "effect_003",
+      "effect_008",
       "effect_018"
     ]
   },
@@ -1819,6 +1849,7 @@
       "treatment_019"
     ],
     "related_effects": [
+      "effect_016",
       "effect_020"
     ]
   },
@@ -1897,6 +1928,7 @@
       "treatment_012"
     ],
     "related_effects": [
+      "effect_004",
       "effect_013"
     ]
   },
@@ -1938,6 +1970,7 @@
       "treatment_021"
     ],
     "related_effects": [
+      "effect_013",
       "effect_023"
     ]
   },
@@ -1977,8 +2010,9 @@
       "treatment_010"
     ],
     "related_effects": [
-      "effect_011",
-      "effect_003"
+      "effect_003",
+      "effect_007",
+      "effect_011"
     ]
   },
   {
@@ -2174,6 +2208,7 @@
       "treatment_014"
     ],
     "related_effects": [
+      "effect_003",
       "effect_015"
     ]
   },
@@ -2215,7 +2250,8 @@
       "treatment_002"
     ],
     "related_effects": [
-      "effect_002"
+      "effect_002",
+      "effect_006"
     ]
   },
   {
@@ -2255,6 +2291,8 @@
       "treatment_019"
     ],
     "related_effects": [
+      "effect_002",
+      "effect_006",
       "effect_020"
     ]
   },
@@ -2336,8 +2374,9 @@
       "treatment_019"
     ],
     "related_effects": [
-      "effect_020",
-      "effect_009"
+      "effect_009",
+      "effect_016",
+      "effect_020"
     ]
   },
   {
@@ -2380,6 +2419,8 @@
     ],
     "related_effects": [
       "effect_001",
+      "effect_002",
+      "effect_004",
       "effect_012"
     ]
   },
@@ -2422,8 +2463,9 @@
       "treatment_003"
     ],
     "related_effects": [
-      "effect_012",
-      "effect_003"
+      "effect_003",
+      "effect_008",
+      "effect_012"
     ]
   },
   {
@@ -2466,7 +2508,8 @@
       "treatment_011"
     ],
     "related_effects": [
-      "effect_012"
+      "effect_012",
+      "effect_016"
     ]
   },
   {
@@ -2591,7 +2634,8 @@
       "treatment_008"
     ],
     "related_effects": [
-      "effect_009"
+      "effect_009",
+      "effect_016"
     ]
   },
   {
@@ -2632,6 +2676,7 @@
       "treatment_001"
     ],
     "related_effects": [
+      "effect_001",
       "effect_006"
     ]
   },
@@ -2671,7 +2716,8 @@
       "treatment_002"
     ],
     "related_effects": [
-      "effect_002"
+      "effect_002",
+      "effect_016"
     ]
   },
   {
@@ -2712,6 +2758,7 @@
       "treatment_019"
     ],
     "related_effects": [
+      "effect_002",
       "effect_020"
     ]
   },
@@ -2753,6 +2800,7 @@
       "treatment_007"
     ],
     "related_effects": [
+      "effect_013",
       "effect_023"
     ]
   },
@@ -2796,6 +2844,7 @@
       "treatment_018"
     ],
     "related_effects": [
+      "effect_003",
       "effect_019"
     ]
   },
@@ -2881,6 +2930,7 @@
       "treatment_006"
     ],
     "related_effects": [
+      "effect_003",
       "effect_007"
     ]
   },
@@ -2919,7 +2969,8 @@
       "treatment_008"
     ],
     "related_effects": [
-      "effect_009"
+      "effect_009",
+      "effect_016"
     ]
   },
   {
@@ -2962,7 +3013,8 @@
       "treatment_002"
     ],
     "related_effects": [
-      "effect_002"
+      "effect_002",
+      "effect_006"
     ]
   },
   {
@@ -3128,8 +3180,8 @@
       "treatment_019"
     ],
     "related_effects": [
-      "effect_020",
-      "effect_002"
+      "effect_002",
+      "effect_020"
     ],
     "comparison": [
       {
@@ -3251,6 +3303,7 @@
     ],
     "related_effects": [
       "effect_003",
+      "effect_007",
       "effect_011"
     ],
     "comparison": [
@@ -3313,6 +3366,7 @@
       "treatment_018"
     ],
     "related_effects": [
+      "effect_003",
       "effect_019",
       "effect_022"
     ],
@@ -3374,6 +3428,7 @@
       "treatment_021"
     ],
     "related_effects": [
+      "effect_013",
       "effect_023"
     ],
     "comparison": [
@@ -3434,6 +3489,7 @@
       "treatment_004"
     ],
     "related_effects": [
+      "effect_002",
       "effect_004",
       "effect_020"
     ],
@@ -3496,6 +3552,7 @@
       "treatment_011"
     ],
     "related_effects": [
+      "effect_002",
       "effect_012"
     ],
     "comparison": [
@@ -3559,6 +3616,7 @@
       "treatment_009"
     ],
     "related_effects": [
+      "effect_007",
       "effect_010"
     ],
     "comparison": [
@@ -3619,8 +3677,9 @@
       "treatment_023"
     ],
     "related_effects": [
-      "effect_025",
-      "effect_009"
+      "effect_004",
+      "effect_009",
+      "effect_025"
     ],
     "comparison": [
       {
@@ -3681,7 +3740,8 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_004"
+      "effect_004",
+      "effect_012"
     ],
     "comparison": [
       {
@@ -3800,7 +3860,8 @@
       "treatment_002"
     ],
     "related_effects": [
-      "effect_002"
+      "effect_002",
+      "effect_006"
     ],
     "comparison": [
       {
@@ -3861,6 +3922,8 @@
       "treatment_021"
     ],
     "related_effects": [
+      "effect_013",
+      "effect_016",
       "effect_023"
     ],
     "comparison": [
@@ -3922,7 +3985,8 @@
       "treatment_008"
     ],
     "related_effects": [
-      "effect_009"
+      "effect_009",
+      "effect_016"
     ],
     "comparison": [
       {
@@ -3983,8 +4047,9 @@
       "treatment_010"
     ],
     "related_effects": [
-      "effect_011",
-      "effect_003"
+      "effect_003",
+      "effect_007",
+      "effect_011"
     ],
     "comparison": [
       {
@@ -4103,7 +4168,8 @@
       "treatment_001"
     ],
     "related_effects": [
-      "effect_001"
+      "effect_001",
+      "effect_002"
     ],
     "comparison": [
       {
@@ -4163,8 +4229,9 @@
       "treatment_011"
     ],
     "related_effects": [
+      "effect_009",
       "effect_012",
-      "effect_009"
+      "effect_016"
     ],
     "comparison": [
       {
@@ -4215,7 +4282,10 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_002",
+      "effect_004"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4267,7 +4337,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_002"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4370,7 +4442,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_007"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4422,7 +4496,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_003"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4474,7 +4550,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_003"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4528,7 +4606,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_003"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4579,7 +4659,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_003"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4733,7 +4815,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_007"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4784,7 +4868,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_005"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4835,7 +4921,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_007"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -4886,7 +4974,10 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_003",
+      "effect_004"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -5035,7 +5126,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_008"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -5085,7 +5178,10 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_003",
+      "effect_007"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -5186,7 +5282,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_003"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -5390,7 +5488,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_012"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -5442,7 +5542,10 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_002",
+      "effect_006"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -5493,7 +5596,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_007"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -5692,7 +5797,9 @@
     ],
     "related_needle": [],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_012"
+    ],
     "comparison": [
       {
         "aspect": "病因",

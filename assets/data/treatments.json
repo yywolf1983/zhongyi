@@ -28,10 +28,23 @@
     ],
     "related_formulas": [
       "formula_001",
-      "formula_002"
+      "formula_002",
+      "formula_003",
+      "formula_005",
+      "formula_030",
+      "formula_031",
+      "formula_077",
+      "formula_078",
+      "formula_080"
     ],
     "related_needle": [
-      "needle_001"
+      "needle_001",
+      "needle_003",
+      "needle_005",
+      "needle_006",
+      "needle_015",
+      "needle_016",
+      "needle_079"
     ]
   },
   {
@@ -59,10 +72,16 @@
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004"
+      "formula_004",
+      "formula_005",
+      "formula_030",
+      "formula_031",
+      "formula_065"
     ],
     "related_needle": [
-      "needle_002"
+      "needle_002",
+      "needle_003",
+      "needle_080"
     ]
   },
   {
@@ -94,10 +113,23 @@
     ],
     "related_formulas": [
       "formula_005",
-      "formula_006"
+      "formula_006",
+      "formula_007",
+      "formula_030",
+      "formula_031",
+      "formula_034",
+      "formula_035",
+      "formula_036",
+      "formula_041",
+      "formula_056"
     ],
     "related_needle": [
-      "needle_003"
+      "needle_003",
+      "needle_006",
+      "needle_010",
+      "needle_015",
+      "needle_019",
+      "needle_071"
     ]
   },
   {
@@ -125,11 +157,19 @@
       "syndrome_081"
     ],
     "related_formulas": [
+      "formula_003",
       "formula_007",
-      "formula_008"
+      "formula_008",
+      "formula_019",
+      "formula_021",
+      "formula_022",
+      "formula_052",
+      "formula_074"
     ],
     "related_needle": [
-      "needle_004"
+      "needle_004",
+      "needle_066",
+      "needle_078"
     ]
   },
   {
@@ -160,10 +200,23 @@
     ],
     "related_formulas": [
       "formula_009",
-      "formula_010"
+      "formula_010",
+      "formula_021",
+      "formula_025",
+      "formula_026",
+      "formula_042",
+      "formula_043",
+      "formula_052",
+      "formula_054",
+      "formula_055",
+      "formula_056"
     ],
     "related_needle": [
-      "needle_005"
+      "needle_004",
+      "needle_005",
+      "needle_008",
+      "needle_020",
+      "needle_036"
     ]
   },
   {
@@ -189,10 +242,14 @@
       "syndrome_074"
     ],
     "related_formulas": [
-      "formula_011"
+      "formula_011",
+      "formula_030",
+      "formula_037",
+      "formula_041"
     ],
     "related_needle": [
-      "needle_006"
+      "needle_006",
+      "needle_064"
     ]
   },
   {
@@ -219,10 +276,16 @@
       "syndrome_049"
     ],
     "related_formulas": [
-      "formula_012"
+      "formula_005",
+      "formula_012",
+      "formula_063",
+      "formula_064",
+      "formula_066",
+      "formula_067"
     ],
     "related_needle": [
-      "needle_007"
+      "needle_007",
+      "needle_012"
     ]
   },
   {
@@ -250,10 +313,17 @@
       "syndrome_085"
     ],
     "related_formulas": [
-      "formula_013"
+      "formula_013",
+      "formula_030",
+      "formula_054",
+      "formula_055",
+      "formula_056"
     ],
     "related_needle": [
-      "needle_008"
+      "needle_003",
+      "needle_008",
+      "needle_020",
+      "needle_073"
     ]
   },
   {
@@ -285,10 +355,28 @@
       "syndrome_082"
     ],
     "related_formulas": [
-      "formula_014"
+      "formula_003",
+      "formula_006",
+      "formula_007",
+      "formula_010",
+      "formula_014",
+      "formula_016",
+      "formula_019",
+      "formula_029",
+      "formula_039",
+      "formula_045",
+      "formula_046",
+      "formula_073",
+      "formula_075"
     ],
     "related_needle": [
-      "needle_009"
+      "needle_002",
+      "needle_003",
+      "needle_007",
+      "needle_009",
+      "needle_011",
+      "needle_013",
+      "needle_052"
     ]
   },
   {
@@ -318,10 +406,19 @@
       "syndrome_087"
     ],
     "related_formulas": [
-      "formula_015"
+      "formula_015",
+      "formula_034",
+      "formula_035",
+      "formula_036",
+      "formula_068",
+      "formula_069",
+      "formula_070"
     ],
     "related_needle": [
-      "needle_010"
+      "needle_005",
+      "needle_010",
+      "needle_020",
+      "needle_071"
     ]
   },
   {
@@ -353,10 +450,25 @@
       "syndrome_089"
     ],
     "related_formulas": [
-      "formula_016"
+      "formula_003",
+      "formula_004",
+      "formula_008",
+      "formula_016",
+      "formula_019",
+      "formula_029",
+      "formula_073",
+      "formula_074",
+      "formula_075"
     ],
     "related_needle": [
-      "needle_011"
+      "needle_002",
+      "needle_003",
+      "needle_007",
+      "needle_011",
+      "needle_019",
+      "needle_061",
+      "needle_079",
+      "needle_081"
     ]
   },
   {
@@ -383,10 +495,18 @@
       "syndrome_076"
     ],
     "related_formulas": [
-      "formula_017"
+      "formula_017",
+      "formula_056",
+      "formula_077",
+      "formula_081",
+      "formula_082",
+      "formula_083",
+      "formula_084"
     ],
     "related_needle": [
-      "needle_012"
+      "needle_012",
+      "needle_015",
+      "needle_068"
     ]
   },
   {
@@ -414,10 +534,20 @@
       "syndrome_072"
     ],
     "related_formulas": [
-      "formula_018"
+      "formula_006",
+      "formula_007",
+      "formula_014",
+      "formula_017",
+      "formula_018",
+      "formula_023",
+      "formula_024",
+      "formula_045"
     ],
     "related_needle": [
-      "needle_013"
+      "needle_013",
+      "needle_014",
+      "needle_019",
+      "needle_066"
     ]
   },
   {
@@ -442,7 +572,9 @@
       "syndrome_050"
     ],
     "related_formulas": [
-      "formula_019"
+      "formula_019",
+      "formula_023",
+      "formula_024"
     ],
     "related_needle": [
       "needle_014"
@@ -470,9 +602,13 @@
       "syndrome_068"
     ],
     "related_formulas": [
-      "formula_020"
+      "formula_020",
+      "formula_055",
+      "formula_056",
+      "formula_081"
     ],
     "related_needle": [
+      "needle_008",
       "needle_015"
     ]
   },
@@ -499,10 +635,16 @@
       "syndrome_026"
     ],
     "related_formulas": [
+      "formula_002",
       "formula_019",
-      "formula_020"
+      "formula_020",
+      "formula_022"
     ],
-    "related_needle": []
+    "related_needle": [
+      "needle_003",
+      "needle_016",
+      "needle_017"
+    ]
   },
   {
     "id": "treatment_017",
@@ -531,9 +673,22 @@
       "syndrome_065"
     ],
     "related_formulas": [
-      "formula_025"
+      "formula_001",
+      "formula_002",
+      "formula_019",
+      "formula_025",
+      "formula_026",
+      "formula_029",
+      "formula_068",
+      "formula_069",
+      "formula_073"
     ],
-    "related_needle": []
+    "related_needle": [
+      "needle_001",
+      "needle_017",
+      "needle_018",
+      "needle_020"
+    ]
   },
   {
     "id": "treatment_018",
@@ -556,9 +711,14 @@
     ],
     "related_formulas": [
       "formula_025",
-      "formula_026"
+      "formula_026",
+      "formula_077",
+      "formula_081"
     ],
-    "related_needle": []
+    "related_needle": [
+      "needle_008",
+      "needle_018"
+    ]
   },
   {
     "id": "treatment_019",
@@ -583,10 +743,16 @@
       "syndrome_062"
     ],
     "related_formulas": [
+      "formula_003",
+      "formula_006",
       "formula_014",
-      "formula_015"
+      "formula_015",
+      "formula_017"
     ],
-    "related_needle": []
+    "related_needle": [
+      "needle_002",
+      "needle_019"
+    ]
   },
   {
     "id": "treatment_020",
@@ -609,10 +775,19 @@
       "syndrome_057"
     ],
     "related_formulas": [
+      "formula_016",
+      "formula_068",
+      "formula_069",
       "formula_070",
-      "formula_071"
+      "formula_071",
+      "formula_075"
     ],
-    "related_needle": []
+    "related_needle": [
+      "needle_003",
+      "needle_005",
+      "needle_011",
+      "needle_020"
+    ]
   },
   {
     "id": "treatment_021",
@@ -638,10 +813,18 @@
       "syndrome_084"
     ],
     "related_formulas": [
+      "formula_070",
       "formula_077",
-      "formula_078"
+      "formula_078",
+      "formula_081",
+      "formula_082"
     ],
-    "related_needle": []
+    "related_needle": [
+      "needle_005",
+      "needle_008",
+      "needle_027",
+      "needle_068"
+    ]
   },
   {
     "id": "treatment_022",
@@ -665,9 +848,16 @@
       "syndrome_077"
     ],
     "related_formulas": [
+      "formula_007",
+      "formula_021",
       "formula_074"
     ],
-    "related_needle": []
+    "related_needle": [
+      "needle_011",
+      "needle_061",
+      "needle_062",
+      "needle_066"
+    ]
   },
   {
     "id": "treatment_023",
@@ -690,9 +880,16 @@
       "syndrome_038"
     ],
     "related_formulas": [
-      "formula_054"
+      "formula_005",
+      "formula_014",
+      "formula_054",
+      "formula_066"
     ],
-    "related_needle": []
+    "related_needle": [
+      "needle_007",
+      "needle_019",
+      "needle_020"
+    ]
   },
   {
     "id": "treatment_024",
@@ -716,8 +913,18 @@
       "syndrome_053",
       "syndrome_054"
     ],
-    "related_formulas": [],
-    "related_needle": []
+    "related_formulas": [
+      "formula_003",
+      "formula_004",
+      "formula_005",
+      "formula_006",
+      "formula_014"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_012",
+      "needle_019"
+    ]
   },
   {
     "id": "treatment_025",
@@ -741,8 +948,19 @@
       "syndrome_067",
       "syndrome_087"
     ],
-    "related_formulas": [],
-    "related_needle": []
+    "related_formulas": [
+      "formula_030",
+      "formula_031",
+      "formula_035",
+      "formula_036",
+      "formula_041"
+    ],
+    "related_needle": [
+      "needle_003",
+      "needle_006",
+      "needle_010",
+      "needle_015"
+    ]
   },
   {
     "id": "treatment_026",
@@ -765,8 +983,16 @@
       "syndrome_035",
       "syndrome_043"
     ],
-    "related_formulas": [],
-    "related_needle": []
+    "related_formulas": [
+      "formula_056",
+      "formula_081",
+      "formula_083",
+      "formula_084"
+    ],
+    "related_needle": [
+      "needle_012",
+      "needle_015"
+    ]
   },
   {
     "id": "treatment_027",
@@ -789,8 +1015,17 @@
       "syndrome_044",
       "syndrome_084"
     ],
-    "related_formulas": [],
-    "related_needle": []
+    "related_formulas": [
+      "formula_077",
+      "formula_078",
+      "formula_081",
+      "formula_082"
+    ],
+    "related_needle": [
+      "needle_005",
+      "needle_008",
+      "needle_027"
+    ]
   },
   {
     "id": "treatment_028",
@@ -812,8 +1047,16 @@
       "syndrome_035",
       "syndrome_053"
     ],
-    "related_formulas": [],
-    "related_needle": []
+    "related_formulas": [
+      "formula_003",
+      "formula_056",
+      "formula_081"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_015",
+      "needle_019"
+    ]
   },
   {
     "id": "treatment_029",
@@ -836,8 +1079,18 @@
       "syndrome_032",
       "syndrome_040"
     ],
-    "related_formulas": [],
-    "related_needle": []
+    "related_formulas": [
+      "formula_029",
+      "formula_068",
+      "formula_069",
+      "formula_070",
+      "formula_073"
+    ],
+    "related_needle": [
+      "needle_005",
+      "needle_017",
+      "needle_020"
+    ]
   },
   {
     "id": "treatment_030",
@@ -861,7 +1114,16 @@
       "syndrome_080",
       "syndrome_085"
     ],
-    "related_formulas": [],
-    "related_needle": []
+    "related_formulas": [
+      "formula_054",
+      "formula_055",
+      "formula_056"
+    ],
+    "related_needle": [
+      "needle_008",
+      "needle_020",
+      "needle_065",
+      "needle_073"
+    ]
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "effect_001",
     "name": "发汗解表",
-    "description": "发散表邪，解除表证的治疗作用",
+    "description": "通过辛温发散药物促进汗腺分泌，使汗液排出以发散表邪，解除表证的治疗作用",
     "mechanism": "通过药物的辛温发散作用，促进人体汗腺分泌，使汗液排出，从而发散表邪",
     "indications": [
       "风寒感冒",
@@ -11,20 +11,52 @@
     ],
     "related_medicines": [
       "medicine_001",
-      "medicine_002"
+      "medicine_002",
+      "medicine_003",
+      "medicine_004",
+      "medicine_007",
+      "medicine_008",
+      "medicine_009",
+      "medicine_010",
+      "medicine_011",
+      "medicine_020",
+      "medicine_021",
+      "medicine_086",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_090",
+      "medicine_091",
+      "medicine_092",
+      "medicine_093",
+      "medicine_102",
+      "medicine_192",
+      "medicine_316",
+      "medicine_318",
+      "medicine_319",
+      "medicine_325",
+      "medicine_330",
+      "medicine_468",
+      "medicine_475"
     ],
     "related_formulas": [
       "formula_001",
       "formula_002"
     ],
     "related_syndromes": [
-      "syndrome_001"
+      "syndrome_001",
+      "syndrome_016",
+      "syndrome_017",
+      "syndrome_036",
+      "syndrome_042",
+      "syndrome_055",
+      "syndrome_088"
     ]
   },
   {
     "id": "effect_002",
     "name": "清热解毒",
-    "description": "清除热毒，解除热证的治疗作用",
+    "description": "通过苦寒清热药物清除热毒，抗菌抗炎、增强免疫功能的治疗作用",
     "mechanism": "通过药物的寒凉性质，清除体内的热毒，减轻炎症反应",
     "indications": [
       "风热感冒",
@@ -34,14 +66,104 @@
     ],
     "related_medicines": [
       "medicine_005",
-      "medicine_006"
+      "medicine_006",
+      "medicine_007",
+      "medicine_008",
+      "medicine_009",
+      "medicine_010",
+      "medicine_011",
+      "medicine_020",
+      "medicine_021",
+      "medicine_022",
+      "medicine_023",
+      "medicine_024",
+      "medicine_055",
+      "medicine_091",
+      "medicine_093",
+      "medicine_098",
+      "medicine_099",
+      "medicine_100",
+      "medicine_101",
+      "medicine_102",
+      "medicine_103",
+      "medicine_104",
+      "medicine_105",
+      "medicine_106",
+      "medicine_107",
+      "medicine_108",
+      "medicine_109",
+      "medicine_110",
+      "medicine_192",
+      "medicine_197",
+      "medicine_283",
+      "medicine_304",
+      "medicine_306",
+      "medicine_311",
+      "medicine_312",
+      "medicine_325",
+      "medicine_330",
+      "medicine_331",
+      "medicine_332",
+      "medicine_333",
+      "medicine_334",
+      "medicine_335",
+      "medicine_336",
+      "medicine_337",
+      "medicine_348",
+      "medicine_350",
+      "medicine_360",
+      "medicine_398",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
+      "medicine_406",
+      "medicine_414",
+      "medicine_422",
+      "medicine_423",
+      "medicine_424",
+      "medicine_425",
+      "medicine_426",
+      "medicine_428",
+      "medicine_429",
+      "medicine_430",
+      "medicine_431",
+      "medicine_437",
+      "medicine_451",
+      "medicine_455",
+      "medicine_470",
+      "medicine_475",
+      "medicine_477",
+      "medicine_483",
+      "medicine_484",
+      "medicine_485",
+      "medicine_487",
+      "medicine_494",
+      "medicine_496",
+      "medicine_498",
+      "medicine_500"
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004"
+      "formula_004",
+      "formula_012",
+      "formula_046",
+      "formula_102",
+      "formula_103",
+      "formula_105",
+      "formula_124"
     ],
     "related_syndromes": [
-      "syndrome_002"
+      "syndrome_002",
+      "syndrome_018",
+      "syndrome_034",
+      "syndrome_051",
+      "syndrome_053",
+      "syndrome_062",
+      "syndrome_069",
+      "syndrome_072",
+      "syndrome_081",
+      "syndrome_082",
+      "syndrome_083"
     ]
   },
   {
@@ -55,23 +177,41 @@
       "神疲乏力"
     ],
     "related_medicines": [
+      "medicine_004",
       "medicine_007",
       "medicine_008",
-      "medicine_004",
-      "medicine_022"
+      "medicine_022",
+      "medicine_073",
+      "medicine_240",
+      "medicine_373",
+      "medicine_414",
+      "medicine_499"
     ],
     "related_formulas": [
       "formula_005",
-      "formula_006"
+      "formula_006",
+      "formula_030",
+      "formula_032",
+      "formula_051",
+      "formula_130",
+      "formula_131"
     ],
     "related_syndromes": [
-      "syndrome_003"
+      "syndrome_003",
+      "syndrome_026",
+      "syndrome_045",
+      "syndrome_048",
+      "syndrome_056",
+      "syndrome_059",
+      "syndrome_073",
+      "syndrome_074",
+      "syndrome_086"
     ]
   },
   {
     "id": "effect_004",
     "name": "疏肝解郁",
-    "description": "疏解肝郁，调和气机的治疗作用",
+    "description": "通过疏肝理气药物缓解肝气郁结，调和气血运行，改善情绪和躯体症状的治疗作用",
     "mechanism": "通过药物的疏泄作用，缓解肝气郁结，调和气血运行",
     "indications": [
       "肝郁气滞",
@@ -79,14 +219,24 @@
       "烦躁易怒"
     ],
     "related_medicines": [
-      "medicine_009"
+      "medicine_009",
+      "medicine_012",
+      "medicine_046",
+      "medicine_048",
+      "medicine_147"
     ],
     "related_formulas": [
       "formula_007",
-      "formula_008"
+      "formula_008",
+      "formula_021"
     ],
     "related_syndromes": [
-      "syndrome_004"
+      "syndrome_004",
+      "syndrome_046",
+      "syndrome_058",
+      "syndrome_073",
+      "syndrome_077",
+      "syndrome_081"
     ]
   },
   {
@@ -100,11 +250,29 @@
       "腰膝酸软"
     ],
     "related_medicines": [
-      "medicine_010"
+      "medicine_010",
+      "medicine_082",
+      "medicine_131",
+      "medicine_132",
+      "medicine_169",
+      "medicine_253",
+      "medicine_257",
+      "medicine_260",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_373",
+      "medicine_378",
+      "medicine_380",
+      "medicine_383",
+      "medicine_456",
+      "medicine_501"
     ],
     "related_formulas": [
       "formula_009",
-      "formula_010"
+      "formula_010",
+      "formula_043",
+      "formula_110"
     ],
     "related_syndromes": [
       "syndrome_005"
@@ -113,7 +281,7 @@
   {
     "id": "effect_006",
     "name": "宣肺平喘",
-    "description": "宣发肺气，平定喘息的治疗作用",
+    "description": "通过宣散药物恢复肺气宣发肃降，配合平喘药物缓解咳喘的治疗作用",
     "mechanism": "通过药物的宣散作用，恢复肺气的宣发功能，缓解咳嗽气喘",
     "indications": [
       "咳嗽气喘",
@@ -121,20 +289,26 @@
     ],
     "related_medicines": [
       "medicine_001",
-      "medicine_003"
+      "medicine_003",
+      "medicine_065",
+      "medicine_203",
+      "medicine_403"
     ],
     "related_formulas": [
       "formula_001",
       "formula_004"
     ],
     "related_syndromes": [
-      "syndrome_001"
+      "syndrome_001",
+      "syndrome_038",
+      "syndrome_049",
+      "syndrome_061"
     ]
   },
   {
     "id": "effect_007",
     "name": "养阴润肺",
-    "description": "滋养肺阴，润燥止咳的治疗作用",
+    "description": "通过甘润药物滋养肺阴，清除虚热，缓解燥咳，改善呼吸道黏膜功能的治疗作用",
     "mechanism": "通过药物的甘润性质，滋养肺阴，清除虚热，缓解燥咳",
     "indications": [
       "肺阴虚",
@@ -143,19 +317,23 @@
     ],
     "related_medicines": [
       "medicine_011",
-      "medicine_012"
+      "medicine_012",
+      "medicine_247",
+      "medicine_476"
     ],
     "related_formulas": [
-      "formula_011"
+      "formula_011",
+      "formula_041"
     ],
     "related_syndromes": [
-      "syndrome_006"
+      "syndrome_006",
+      "syndrome_067"
     ]
   },
   {
     "id": "effect_008",
     "name": "燥湿化痰",
-    "description": "干燥湿邪，化解痰饮的治疗作用",
+    "description": "通过温热燥湿药物燥化体内湿浊，配合化痰药物溶解排除痰饮，恢复脾胃运化的治疗作用",
     "mechanism": "通过药物的温热燥湿作用，消除体内痰湿，恢复脾胃运化功能",
     "indications": [
       "痰湿内阻",
@@ -163,14 +341,33 @@
       "胸闷气喘"
     ],
     "related_medicines": [
+      "medicine_003",
       "medicine_013",
-      "medicine_014"
+      "medicine_014",
+      "medicine_044",
+      "medicine_062",
+      "medicine_183",
+      "medicine_187",
+      "medicine_193",
+      "medicine_282",
+      "medicine_362",
+      "medicine_375",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_435",
+      "medicine_437",
+      "medicine_478"
     ],
     "related_formulas": [
-      "formula_012"
+      "formula_012",
+      "formula_063"
     ],
     "related_syndromes": [
-      "syndrome_007"
+      "syndrome_007",
+      "syndrome_033",
+      "syndrome_037",
+      "syndrome_038"
     ]
   },
   {
@@ -185,20 +382,36 @@
     ],
     "related_medicines": [
       "medicine_015",
-      "medicine_023"
+      "medicine_023",
+      "medicine_027",
+      "medicine_047",
+      "medicine_163",
+      "medicine_375",
+      "medicine_411",
+      "medicine_439"
     ],
     "related_formulas": [
       "formula_013",
-      "formula_020"
+      "formula_020",
+      "formula_055",
+      "formula_060",
+      "formula_118"
     ],
     "related_syndromes": [
-      "syndrome_008"
+      "syndrome_008",
+      "syndrome_035",
+      "syndrome_054",
+      "syndrome_060",
+      "syndrome_068",
+      "syndrome_080",
+      "syndrome_085",
+      "syndrome_089"
     ]
   },
   {
     "id": "effect_010",
     "name": "滋阴降火",
-    "description": "滋养阴液，清除虚火的治疗作用",
+    "description": "通过甘寒滋阴药物深层次填补阴液，配合清降药物抑制虚火亢盛，达到阴阳平衡的治疗作用",
     "mechanism": "通过药物的甘寒滋阴作用，补充阴液，抑制虚火亢盛",
     "indications": [
       "阴虚火旺",
@@ -206,19 +419,25 @@
       "口干咽燥"
     ],
     "related_medicines": [
-      "medicine_017"
+      "medicine_017",
+      "medicine_026"
     ],
     "related_formulas": [
-      "formula_014"
+      "formula_014",
+      "formula_039",
+      "formula_127"
     ],
     "related_syndromes": [
-      "syndrome_009"
+      "syndrome_009",
+      "syndrome_023",
+      "syndrome_053",
+      "syndrome_079"
     ]
   },
   {
     "id": "effect_011",
     "name": "补血养血",
-    "description": "补充血液，滋养脏腑的治疗作用",
+    "description": "通过补血药物促进造血功能，改善微循环，调节营养代谢的治疗作用",
     "mechanism": "通过药物的补益作用，促进血液生成，改善血虚状态",
     "indications": [
       "血虚",
@@ -227,19 +446,31 @@
     ],
     "related_medicines": [
       "medicine_016",
-      "medicine_024"
+      "medicine_024",
+      "medicine_075",
+      "medicine_076",
+      "medicine_077",
+      "medicine_214",
+      "medicine_244",
+      "medicine_245",
+      "medicine_372"
     ],
     "related_formulas": [
       "formula_015"
     ],
     "related_syndromes": [
-      "syndrome_010"
+      "syndrome_010",
+      "syndrome_045",
+      "syndrome_066",
+      "syndrome_074",
+      "syndrome_086",
+      "syndrome_087"
     ]
   },
   {
     "id": "effect_012",
     "name": "清热利湿",
-    "description": "清除湿热，利尿通淋的治疗作用",
+    "description": "通过苦寒清热药物配合利湿药物，抗菌抗炎、促进尿液排出的治疗作用",
     "mechanism": "通过药物的苦寒清热和利湿作用，清除体内湿热之邪",
     "indications": [
       "湿热下注",
@@ -247,13 +478,37 @@
       "灼热疼痛"
     ],
     "related_medicines": [
-      "medicine_018"
+      "medicine_016",
+      "medicine_018",
+      "medicine_276",
+      "medicine_347",
+      "medicine_392",
+      "medicine_411",
+      "medicine_440",
+      "medicine_453",
+      "medicine_481",
+      "medicine_482",
+      "medicine_487",
+      "medicine_488",
+      "medicine_495",
+      "medicine_497",
+      "medicine_504"
     ],
     "related_formulas": [
-      "formula_016"
+      "formula_016",
+      "formula_074",
+      "formula_104"
     ],
     "related_syndromes": [
-      "syndrome_011"
+      "syndrome_011",
+      "syndrome_047",
+      "syndrome_055",
+      "syndrome_056",
+      "syndrome_057",
+      "syndrome_070",
+      "syndrome_071",
+      "syndrome_078",
+      "syndrome_089"
     ]
   },
   {
@@ -267,13 +522,23 @@
       "烦躁易怒"
     ],
     "related_medicines": [
-      "medicine_019"
+      "medicine_011",
+      "medicine_019",
+      "medicine_070",
+      "medicine_091",
+      "medicine_127",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_321",
+      "medicine_469"
     ],
     "related_formulas": [
       "formula_017"
     ],
     "related_syndromes": [
-      "syndrome_012"
+      "syndrome_012",
+      "syndrome_043"
     ]
   },
   {
@@ -287,7 +552,11 @@
       "口舌生疮"
     ],
     "related_medicines": [
-      "medicine_020"
+      "medicine_020",
+      "medicine_079",
+      "medicine_247",
+      "medicine_304",
+      "medicine_324"
     ],
     "related_formulas": [
       "formula_018"
@@ -299,7 +568,7 @@
   {
     "id": "effect_015",
     "name": "消食化积",
-    "description": "促进消化，消除积滞的治疗作用",
+    "description": "通过消导药物促进消化酶活性、增强胃肠蠕动、调节肠道菌群来消除食积的治疗作用",
     "mechanism": "通过药物的消食作用，促进脾胃运化，消除食积停滞",
     "indications": [
       "食积停滞",
@@ -307,19 +576,28 @@
       "嗳腐吞酸"
     ],
     "related_medicines": [
-      "medicine_021"
+      "medicine_021",
+      "medicine_036",
+      "medicine_047",
+      "medicine_048",
+      "medicine_153",
+      "medicine_279",
+      "medicine_390",
+      "medicine_404",
+      "medicine_495"
     ],
     "related_formulas": [
       "formula_019"
     ],
     "related_syndromes": [
-      "syndrome_014"
+      "syndrome_014",
+      "syndrome_050"
     ]
   },
   {
     "id": "effect_016",
     "name": "补气活血",
-    "description": "补益正气，活血化瘀的治疗作用",
+    "description": "通过补气药物增强元气推动力，配合活血化瘀药物改善血液循环，标本兼顾的治疗作用",
     "mechanism": "通过药物的补气作用增强推动血液运行的力量，同时活血化瘀",
     "indications": [
       "气虚血瘀",
@@ -327,14 +605,19 @@
       "肢体麻木"
     ],
     "related_medicines": [
+      "medicine_015",
       "medicine_022",
-      "medicine_015"
+      "medicine_069",
+      "medicine_222",
+      "medicine_374"
     ],
     "related_formulas": [
       "formula_020"
     ],
     "related_syndromes": [
-      "syndrome_015"
+      "syndrome_015",
+      "syndrome_035",
+      "syndrome_048"
     ]
   },
   {
@@ -349,7 +632,8 @@
       "口苦咽干"
     ],
     "related_medicines": [
-      "medicine_009"
+      "medicine_009",
+      "medicine_012"
     ],
     "related_formulas": [
       "formula_019",
@@ -371,11 +655,20 @@
       "呕吐泄泻"
     ],
     "related_medicines": [
-      "medicine_010"
+      "medicine_010",
+      "medicine_042",
+      "medicine_134",
+      "medicine_237",
+      "medicine_238",
+      "medicine_242",
+      "medicine_308",
+      "medicine_351",
+      "medicine_353",
+      "medicine_432"
     ],
     "related_formulas": [
-      "formula_025",
-      "formula_004"
+      "formula_004",
+      "formula_025"
     ],
     "related_syndromes": [
       "syndrome_021",
@@ -386,7 +679,7 @@
   {
     "id": "effect_019",
     "name": "回阳救逆",
-    "description": "挽回阳气，救治厥脱的急救作用",
+    "description": "通过大辛大热药物强力温补，挽回衰微阳气，强心升压改善休克的急救治疗作用",
     "mechanism": "通过大辛大热药物的强力温补，挽回衰微的阳气，救治危重厥脱",
     "indications": [
       "少阴寒化",
@@ -395,20 +688,24 @@
       "大汗亡阳"
     ],
     "related_medicines": [
-      "medicine_010"
+      "medicine_010",
+      "medicine_041"
     ],
     "related_formulas": [
       "formula_025",
-      "formula_026"
+      "formula_026",
+      "formula_027"
     ],
     "related_syndromes": [
-      "syndrome_022"
+      "syndrome_022",
+      "syndrome_065",
+      "syndrome_075"
     ]
   },
   {
     "id": "effect_020",
     "name": "通腑泻热",
-    "description": "通利肠道，泻除热结的治疗作用",
+    "description": "通过攻下药物通利肠道、排除热结燥屎，促进肠蠕动，治疗肠梗阻和发热的治疗作用",
     "mechanism": "通过药物的攻下作用，通利大便，排除热结燥屎",
     "indications": [
       "阳明腑实",
@@ -417,7 +714,8 @@
       "潮热谵语"
     ],
     "related_medicines": [
-      "medicine_016"
+      "medicine_016",
+      "medicine_508"
     ],
     "related_formulas": [
       "formula_014",
@@ -427,7 +725,13 @@
       "syndrome_018",
       "syndrome_019",
       "syndrome_025",
-      "syndrome_041"
+      "syndrome_041",
+      "syndrome_052",
+      "syndrome_054",
+      "syndrome_063",
+      "syndrome_072",
+      "syndrome_077",
+      "syndrome_082"
     ]
   },
   {
@@ -447,7 +751,8 @@
     ],
     "related_formulas": [
       "formula_001",
-      "formula_002"
+      "formula_002",
+      "formula_090"
     ],
     "related_syndromes": [
       "syndrome_016",
@@ -457,7 +762,7 @@
   {
     "id": "effect_022",
     "name": "利水渗湿",
-    "description": "通利小便，渗除水湿的治疗作用",
+    "description": "通过渗利药物使水湿从小便排出，促进肾脏排尿、调节水盐代谢的治疗作用",
     "mechanism": "通过药物的渗利作用，使水湿之邪从小便排出",
     "indications": [
       "水肿",
@@ -466,7 +771,49 @@
       "痰饮"
     ],
     "related_medicines": [
-      "medicine_013"
+      "medicine_013",
+      "medicine_034",
+      "medicine_038",
+      "medicine_039",
+      "medicine_040",
+      "medicine_061",
+      "medicine_116",
+      "medicine_118",
+      "medicine_124",
+      "medicine_138",
+      "medicine_161",
+      "medicine_168",
+      "medicine_195",
+      "medicine_196",
+      "medicine_206",
+      "medicine_207",
+      "medicine_218",
+      "medicine_268",
+      "medicine_269",
+      "medicine_272",
+      "medicine_273",
+      "medicine_279",
+      "medicine_286",
+      "medicine_291",
+      "medicine_302",
+      "medicine_315",
+      "medicine_316",
+      "medicine_331",
+      "medicine_342",
+      "medicine_346",
+      "medicine_349",
+      "medicine_383",
+      "medicine_402",
+      "medicine_405",
+      "medicine_407",
+      "medicine_409",
+      "medicine_452",
+      "medicine_454",
+      "medicine_484",
+      "medicine_485",
+      "medicine_489",
+      "medicine_500",
+      "medicine_505"
     ],
     "related_formulas": [
       "formula_070",
@@ -474,7 +821,8 @@
     ],
     "related_syndromes": [
       "syndrome_031",
-      "syndrome_032"
+      "syndrome_032",
+      "syndrome_075"
     ]
   },
   {
@@ -489,22 +837,41 @@
       "屈伸不利"
     ],
     "related_medicines": [
-      "medicine_012"
+      "medicine_012",
+      "medicine_082",
+      "medicine_130",
+      "medicine_256",
+      "medicine_314",
+      "medicine_318",
+      "medicine_340",
+      "medicine_397",
+      "medicine_403",
+      "medicine_408",
+      "medicine_421",
+      "medicine_431",
+      "medicine_443",
+      "medicine_445",
+      "medicine_456",
+      "medicine_492"
     ],
     "related_formulas": [
       "formula_077",
-      "formula_078"
+      "formula_078",
+      "formula_082"
     ],
     "related_syndromes": [
       "syndrome_027",
       "syndrome_028",
-      "syndrome_044"
+      "syndrome_044",
+      "syndrome_064",
+      "syndrome_076",
+      "syndrome_084"
     ]
   },
   {
     "id": "effect_024",
     "name": "清热退黄",
-    "description": "清利湿热，消退黄疸的治疗作用",
+    "description": "通过苦寒清热与利湿药物，疏利肝胆，促进胆红素排泄，治疗黄疸性肝炎的治疗作用",
     "mechanism": "通过药物的苦寒清热作用，疏利肝胆，使湿热从二便排出以退黄",
     "indications": [
       "黄疸",
@@ -512,19 +879,40 @@
       "小便黄"
     ],
     "related_medicines": [
-      "medicine_018"
+      "medicine_016",
+      "medicine_018",
+      "medicine_144",
+      "medicine_336",
+      "medicine_338",
+      "medicine_347",
+      "medicine_348",
+      "medicine_349",
+      "medicine_350",
+      "medicine_406",
+      "medicine_411",
+      "medicine_440",
+      "medicine_450",
+      "medicine_451",
+      "medicine_453",
+      "medicine_455",
+      "medicine_481",
+      "medicine_482",
+      "medicine_488",
+      "medicine_495"
     ],
     "related_formulas": [
       "formula_074"
     ],
     "related_syndromes": [
-      "syndrome_030"
+      "syndrome_030",
+      "syndrome_070",
+      "syndrome_071"
     ]
   },
   {
     "id": "effect_025",
     "name": "宽胸化痰",
-    "description": "宽展胸膈，化解痰浊的治疗作用",
+    "description": "通过辛开苦降药物调畅胸中气机，化散痰浊，扩张冠脉、改善心肌供血的治疗作用",
     "mechanism": "通过药物的辛开苦降作用，调畅胸中气机，化散痰浊痹阻",
     "indications": [
       "胸痹",
@@ -533,15 +921,27 @@
       "咳喘"
     ],
     "related_medicines": [
-      "medicine_014"
+      "medicine_014",
+      "medicine_106",
+      "medicine_188",
+      "medicine_190",
+      "medicine_206",
+      "medicine_207",
+      "medicine_213",
+      "medicine_354",
+      "medicine_374",
+      "medicine_433",
+      "medicine_458",
+      "medicine_462"
     ],
     "related_formulas": [
-      "formula_054",
-      "formula_053"
+      "formula_053",
+      "formula_054"
     ],
     "related_syndromes": [
       "syndrome_029",
-      "syndrome_032"
+      "syndrome_032",
+      "syndrome_080"
     ]
   },
   {
@@ -555,9 +955,12 @@
       "呕吐蛔虫"
     ],
     "related_medicines": [
-      "medicine_003"
+      "medicine_003",
+      "medicine_226"
     ],
-    "related_formulas": [],
+    "related_formulas": [
+      "formula_098"
+    ],
     "related_syndromes": [
       "syndrome_024"
     ]
@@ -573,7 +976,16 @@
       "邪热迫血",
       "舌绛脉数"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_025",
+      "medicine_026",
+      "medicine_027",
+      "medicine_100",
+      "medicine_111",
+      "medicine_112",
+      "medicine_113",
+      "medicine_313"
+    ],
     "related_formulas": [],
     "related_syndromes": []
   },
@@ -588,8 +1000,16 @@
       "反复感冒",
       "恶风"
     ],
-    "related_medicines": [],
-    "related_formulas": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
+    "related_formulas": [
+      "formula_048",
+      "formula_119"
+    ],
     "related_syndromes": []
   },
   {
@@ -603,8 +1023,22 @@
       "头痛眩晕",
       "中风先兆"
     ],
-    "related_medicines": [],
-    "related_formulas": [],
+    "related_medicines": [
+      "medicine_011",
+      "medicine_070",
+      "medicine_091",
+      "medicine_127",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_321",
+      "medicine_469",
+      "medicine_479"
+    ],
+    "related_formulas": [
+      "formula_084",
+      "formula_114"
+    ],
     "related_syndromes": []
   },
   {
@@ -618,14 +1052,16 @@
       "肢体麻木",
       "屈伸不利"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_069"
+    ],
     "related_formulas": [],
     "related_syndromes": []
   },
   {
     "id": "effect_031",
     "name": "养心安神",
-    "description": "滋养心血、安定心神的治疗作用",
+    "description": "通过滋养心血、安定心神的药物，调节中枢神经系统功能，改善睡眠质量的治疗作用",
     "mechanism": "通过药物的甘润滋养作用，补养心血，安定神志",
     "indications": [
       "心悸失眠",
@@ -633,14 +1069,26 @@
       "多梦易醒",
       "健忘"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_068",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_370",
+      "medicine_505"
+    ],
     "related_formulas": [],
     "related_syndromes": []
   },
   {
     "id": "effect_032",
     "name": "固肾涩精",
-    "description": "固摄肾气，收涩精关的治疗作用",
+    "description": "通过收涩药物增强肾气封藏功能，固摄精关，防止精气滑脱的治疗作用",
     "mechanism": "通过收涩药物的固摄作用，增强肾气封藏功能，防止精液滑泄",
     "indications": [
       "遗精滑泄",
@@ -648,8 +1096,20 @@
       "带下过多",
       "遗尿"
     ],
-    "related_medicines": [],
-    "related_formulas": [],
+    "related_medicines": [
+      "medicine_150",
+      "medicine_208",
+      "medicine_233",
+      "medicine_234",
+      "medicine_235",
+      "medicine_258",
+      "medicine_259",
+      "medicine_418",
+      "medicine_503"
+    ],
+    "related_formulas": [
+      "formula_122"
+    ],
     "related_syndromes": []
   },
   {
@@ -664,13 +1124,16 @@
       "呕恶不食"
     ],
     "related_medicines": [],
-    "related_formulas": [],
+    "related_formulas": [
+      "formula_076",
+      "formula_104"
+    ],
     "related_syndromes": []
   },
   {
     "id": "effect_034",
     "name": "消痈散结",
-    "description": "消除痈肿，消散结块的治疗作用",
+    "description": "通过清热解毒与活血散结药物，消除痈肿、消散结块，抗菌抗炎的治疗作用",
     "mechanism": "通过药物的清热解毒和活血散结作用，使痈肿消散",
     "indications": [
       "痈疡肿毒",
@@ -678,14 +1141,27 @@
       "瘰疬",
       "乳腺炎"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_063",
+      "medicine_219",
+      "medicine_303",
+      "medicine_320",
+      "medicine_332",
+      "medicine_334",
+      "medicine_368",
+      "medicine_395",
+      "medicine_424",
+      "medicine_473",
+      "medicine_477",
+      "medicine_489"
+    ],
     "related_formulas": [],
     "related_syndromes": []
   },
   {
     "id": "effect_035",
     "name": "豁痰开窍",
-    "description": "化散痰浊，开窍醒神的治疗作用",
+    "description": "通过化痰与芳香开窍药物，清除痰浊蒙蔽，保护脑细胞、抗惊厥的治疗作用",
     "mechanism": "通过药物的化痰和芳香开窍作用，清除痰浊蒙蔽，恢复神志清醒",
     "indications": [
       "痰蒙心窍",
@@ -693,14 +1169,21 @@
       "癫痫",
       "中风昏迷"
     ],
-    "related_medicines": [],
-    "related_formulas": [],
+    "related_medicines": [
+      "medicine_184",
+      "medicine_293",
+      "medicine_365",
+      "medicine_370"
+    ],
+    "related_formulas": [
+      "formula_103"
+    ],
     "related_syndromes": []
   },
   {
     "id": "effect_036",
     "name": "升阳举陷",
-    "description": "升举阳气，提振下陷的脏腑之气",
+    "description": "通过补气兼升提药物，将下陷之气提升复位，治疗内脏下垂的治疗作用",
     "mechanism": "通过补气兼升提的药物，将下陷之气提升复位",
     "indications": [
       "中气下陷",
@@ -709,8 +1192,23 @@
       "胃下垂",
       "久泻"
     ],
-    "related_medicines": [],
-    "related_formulas": [],
+    "related_medicines": [
+      "medicine_226",
+      "medicine_227",
+      "medicine_228",
+      "medicine_229",
+      "medicine_231",
+      "medicine_233",
+      "medicine_296",
+      "medicine_386",
+      "medicine_387",
+      "medicine_388",
+      "medicine_417",
+      "medicine_465"
+    ],
+    "related_formulas": [
+      "formula_031"
+    ],
     "related_syndromes": []
   },
   {
@@ -724,14 +1222,16 @@
       "痛经",
       "冻疮"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_493"
+    ],
     "related_formulas": [],
     "related_syndromes": []
   },
   {
     "id": "effect_038",
     "name": "熄风止痉",
-    "description": "平息内风、制止抽搐的治疗作用",
+    "description": "通过平肝息风药物镇静安神，制止肝风内动所致的抽搐痉挛的治疗作用",
     "mechanism": "通过平肝息风药物的镇静作用，制止肝风内动所致的抽搐痉挛",
     "indications": [
       "痉厥抽搐",
@@ -739,8 +1239,17 @@
       "癫痫",
       "高热惊厥"
     ],
-    "related_medicines": [],
-    "related_formulas": [],
+    "related_medicines": [
+      "medicine_122",
+      "medicine_184",
+      "medicine_191",
+      "medicine_293",
+      "medicine_365",
+      "medicine_370"
+    ],
+    "related_formulas": [
+      "formula_125"
+    ],
     "related_syndromes": []
   },
   {
@@ -755,16 +1264,24 @@
       "脘痞呕恶"
     ],
     "related_medicines": [],
-    "related_formulas": [],
+    "related_formulas": [
+      "formula_143"
+    ],
     "related_syndromes": []
   },
   {
     "id": "effect_040",
     "name": "交通心肾",
-    "description": "交通心肾的治疗作用",
-    "mechanism": "通过相关药物的配伍，发挥交通心肾的作用",
+    "description": "通过药物配伍调和心肾功能，使心火下温肾水、肾水上济心火的治疗作用",
+    "mechanism": "通过药物配伍调和心肾功能，使心火下温肾水、肾水上济心火的治疗作用",
     "indications": [
-      "适应证"
+      "交通心肾",
+      "健忘",
+      "心神不宁",
+      "惊悸失眠",
+      "清火安神",
+      "滋阴降火",
+      "除烦安神"
     ],
     "related_medicines": [
       "medicine_366"
@@ -788,7 +1305,22 @@
       "腹胀",
       "食少便溏"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_036",
+      "medicine_045",
+      "medicine_073",
+      "medicine_074",
+      "medicine_148",
+      "medicine_228",
+      "medicine_236",
+      "medicine_279",
+      "medicine_357",
+      "medicine_404",
+      "medicine_414",
+      "medicine_449",
+      "medicine_495",
+      "medicine_499"
+    ],
     "related_formulas": [
       "formula_033"
     ],
@@ -811,7 +1343,44 @@
       "面色萎黄",
       "食少便溏"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_036",
+      "medicine_045",
+      "medicine_067",
+      "medicine_068",
+      "medicine_073",
+      "medicine_074",
+      "medicine_079",
+      "medicine_148",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_214",
+      "medicine_216",
+      "medicine_218",
+      "medicine_228",
+      "medicine_230",
+      "medicine_236",
+      "medicine_246",
+      "medicine_279",
+      "medicine_357",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_404",
+      "medicine_414",
+      "medicine_449",
+      "medicine_467",
+      "medicine_479",
+      "medicine_495",
+      "medicine_499",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_021"
     ],
@@ -839,9 +1408,29 @@
       "面色萎黄"
     ],
     "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_213",
       "medicine_214",
+      "medicine_216",
+      "medicine_218",
+      "medicine_230",
       "medicine_246",
-      "medicine_372"
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
     ],
     "related_formulas": [
       "formula_044",
@@ -864,7 +1453,47 @@
       "血虚证",
       "面色萎黄"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_054",
+      "medicine_059",
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_171",
+      "medicine_173",
+      "medicine_175",
+      "medicine_179",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_200",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_214",
+      "medicine_216",
+      "medicine_218",
+      "medicine_230",
+      "medicine_246",
+      "medicine_310",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_375",
+      "medicine_382",
+      "medicine_390",
+      "medicine_438",
+      "medicine_439",
+      "medicine_440",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_081"
     ],
@@ -886,7 +1515,30 @@
       "血虚证",
       "面色萎黄"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_214",
+      "medicine_216",
+      "medicine_218",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_061",
       "formula_062"
@@ -904,7 +1556,30 @@
       "血虚证",
       "面色萎黄"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_214",
+      "medicine_216",
+      "medicine_218",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_028",
       "formula_117"
@@ -926,7 +1601,20 @@
       "热证",
       "阴虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_249",
+      "medicine_254",
+      "medicine_415",
+      "medicine_464",
+      "medicine_494",
+      "medicine_496"
+    ],
     "related_formulas": [
       "formula_071"
     ],
@@ -965,7 +1653,9 @@
       "热退无汗",
       "阴虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_028"
+    ],
     "related_formulas": [
       "formula_013"
     ],
@@ -977,7 +1667,8 @@
     "description": "内泻热结的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥内泻热结的作用",
     "indications": [
-      "适应证"
+      "内泻热结",
+      "和解少阳"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1000,7 +1691,64 @@
       "肝热证",
       "肝风内动"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_026",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_085",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_094",
+      "medicine_096",
+      "medicine_099",
+      "medicine_117",
+      "medicine_127",
+      "medicine_155",
+      "medicine_183",
+      "medicine_184",
+      "medicine_190",
+      "medicine_191",
+      "medicine_210",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_220",
+      "medicine_221",
+      "medicine_223",
+      "medicine_293",
+      "medicine_305",
+      "medicine_317",
+      "medicine_320",
+      "medicine_321",
+      "medicine_328",
+      "medicine_329",
+      "medicine_337",
+      "medicine_352",
+      "medicine_367",
+      "medicine_368",
+      "medicine_369",
+      "medicine_374",
+      "medicine_376",
+      "medicine_408",
+      "medicine_425",
+      "medicine_434",
+      "medicine_463",
+      "medicine_464",
+      "medicine_469",
+      "medicine_470",
+      "medicine_481",
+      "medicine_497",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_085"
     ],
@@ -1096,7 +1844,51 @@
       "水肿",
       "淋证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_034",
+      "medicine_038",
+      "medicine_039",
+      "medicine_040",
+      "medicine_061",
+      "medicine_116",
+      "medicine_118",
+      "medicine_124",
+      "medicine_138",
+      "medicine_139",
+      "medicine_150",
+      "medicine_161",
+      "medicine_168",
+      "medicine_195",
+      "medicine_196",
+      "medicine_206",
+      "medicine_207",
+      "medicine_218",
+      "medicine_268",
+      "medicine_269",
+      "medicine_272",
+      "medicine_273",
+      "medicine_279",
+      "medicine_286",
+      "medicine_302",
+      "medicine_315",
+      "medicine_316",
+      "medicine_331",
+      "medicine_342",
+      "medicine_346",
+      "medicine_349",
+      "medicine_383",
+      "medicine_402",
+      "medicine_405",
+      "medicine_407",
+      "medicine_409",
+      "medicine_452",
+      "medicine_454",
+      "medicine_484",
+      "medicine_485",
+      "medicine_500",
+      "medicine_503",
+      "medicine_505"
+    ],
     "related_formulas": [
       "formula_075",
       "formula_107"
@@ -1137,7 +1929,10 @@
       "纳呆",
       "脘痞"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_404",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_088"
     ],
@@ -1158,17 +1953,73 @@
       "胸闷"
     ],
     "related_medicines": [
+      "medicine_001",
+      "medicine_003",
+      "medicine_010",
+      "medicine_014",
+      "medicine_015",
+      "medicine_024",
+      "medicine_044",
+      "medicine_062",
       "medicine_063",
+      "medicine_064",
+      "medicine_065",
+      "medicine_066",
+      "medicine_101",
+      "medicine_103",
+      "medicine_119",
+      "medicine_143",
       "medicine_156",
+      "medicine_183",
+      "medicine_185",
+      "medicine_187",
+      "medicine_188",
+      "medicine_189",
+      "medicine_192",
+      "medicine_193",
+      "medicine_202",
+      "medicine_203",
+      "medicine_204",
+      "medicine_205",
+      "medicine_242",
+      "medicine_248",
+      "medicine_270",
+      "medicine_278",
+      "medicine_282",
       "medicine_283",
+      "medicine_304",
+      "medicine_322",
+      "medicine_330",
+      "medicine_332",
       "medicine_348",
+      "medicine_362",
+      "medicine_375",
+      "medicine_386",
+      "medicine_391",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
       "medicine_403",
+      "medicine_409",
+      "medicine_410",
       "medicine_411",
+      "medicine_412",
       "medicine_414",
+      "medicine_415",
+      "medicine_426",
       "medicine_429",
+      "medicine_434",
       "medicine_435",
+      "medicine_437",
+      "medicine_457",
+      "medicine_459",
       "medicine_460",
-      "medicine_478"
+      "medicine_463",
+      "medicine_465",
+      "medicine_475",
+      "medicine_476",
+      "medicine_478",
+      "medicine_490"
     ],
     "related_formulas": [
       "formula_041"
@@ -1191,7 +2042,21 @@
       "痰证",
       "胸闷"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_003",
+      "medicine_187",
+      "medicine_193",
+      "medicine_282",
+      "medicine_332",
+      "medicine_362",
+      "medicine_375",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_435",
+      "medicine_437",
+      "medicine_478"
+    ],
     "related_formulas": [
       "formula_082"
     ],
@@ -1206,7 +2071,8 @@
     "description": "升津舒筋的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥升津舒筋的作用",
     "indications": [
-      "适应证"
+      "升津舒筋",
+      "解肌发表"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1239,7 +2105,8 @@
     "description": "和血通痹的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥和血通痹的作用",
     "indications": [
-      "适应证"
+      "和血通痹",
+      "益气温经"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1256,7 +2123,8 @@
     "description": "和里缓急的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥和里缓急的作用",
     "indications": [
-      "适应证"
+      "和里缓急",
+      "温中补虚"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1275,7 +2143,8 @@
     "description": "固冲摄血的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥固冲摄血的作用",
     "indications": [
-      "适应证"
+      "固冲摄血",
+      "益气健脾"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1294,7 +2163,27 @@
       "肾精亏虚",
       "腰膝酸软"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_068",
+      "medicine_131",
+      "medicine_132",
+      "medicine_169",
+      "medicine_246",
+      "medicine_253",
+      "medicine_257",
+      "medicine_260",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_366",
+      "medicine_370",
+      "medicine_373",
+      "medicine_380",
+      "medicine_383",
+      "medicine_456",
+      "medicine_501",
+      "medicine_505"
+    ],
     "related_formulas": [
       "formula_110"
     ],
@@ -1312,7 +2201,26 @@
       "腰膝酸软"
     ],
     "related_medicines": [
-      "medicine_076"
+      "medicine_068",
+      "medicine_076",
+      "medicine_131",
+      "medicine_132",
+      "medicine_169",
+      "medicine_246",
+      "medicine_253",
+      "medicine_257",
+      "medicine_260",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_366",
+      "medicine_370",
+      "medicine_373",
+      "medicine_380",
+      "medicine_383",
+      "medicine_456",
+      "medicine_501",
+      "medicine_505"
     ],
     "related_formulas": [
       "formula_038",
@@ -1335,7 +2243,27 @@
       "肾精亏虚",
       "腰膝酸软"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_068",
+      "medicine_131",
+      "medicine_132",
+      "medicine_169",
+      "medicine_246",
+      "medicine_253",
+      "medicine_257",
+      "medicine_260",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_366",
+      "medicine_370",
+      "medicine_373",
+      "medicine_380",
+      "medicine_383",
+      "medicine_456",
+      "medicine_501",
+      "medicine_505"
+    ],
     "related_formulas": [
       "formula_134"
     ],
@@ -1356,7 +2284,35 @@
       "燥证",
       "皮肤干燥"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_030",
+      "medicine_031",
+      "medicine_060",
+      "medicine_065",
+      "medicine_079",
+      "medicine_117",
+      "medicine_118",
+      "medicine_119",
+      "medicine_194",
+      "medicine_201",
+      "medicine_211",
+      "medicine_243",
+      "medicine_254",
+      "medicine_265",
+      "medicine_266",
+      "medicine_267",
+      "medicine_271",
+      "medicine_321",
+      "medicine_363",
+      "medicine_376",
+      "medicine_377",
+      "medicine_378",
+      "medicine_391",
+      "medicine_454",
+      "medicine_469",
+      "medicine_473",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_148"
     ],
@@ -1375,7 +2331,33 @@
       "津液亏虚",
       "皮肤干燥"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_030",
+      "medicine_031",
+      "medicine_060",
+      "medicine_065",
+      "medicine_117",
+      "medicine_118",
+      "medicine_119",
+      "medicine_194",
+      "medicine_201",
+      "medicine_211",
+      "medicine_243",
+      "medicine_265",
+      "medicine_266",
+      "medicine_267",
+      "medicine_271",
+      "medicine_321",
+      "medicine_363",
+      "medicine_376",
+      "medicine_377",
+      "medicine_378",
+      "medicine_391",
+      "medicine_454",
+      "medicine_469",
+      "medicine_473",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_085"
     ],
@@ -1396,8 +2378,30 @@
       "怔忡"
     ],
     "related_medicines": [
+      "medicine_016",
+      "medicine_058",
+      "medicine_067",
       "medicine_068",
-      "medicine_505"
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_213",
+      "medicine_214",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
     ],
     "related_formulas": [
       "formula_139"
@@ -1417,7 +2421,30 @@
       "心神不宁",
       "怔忡"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_213",
+      "medicine_214",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_133"
     ],
@@ -1431,7 +2458,8 @@
     "description": "宣利肺气的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥宣利肺气的作用",
     "indications": [
-      "适应证"
+      "宣利肺气",
+      "疏风止咳"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1454,7 +2482,71 @@
       "肺气不宣",
       "胸闷"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_001",
+      "medicine_003",
+      "medicine_010",
+      "medicine_014",
+      "medicine_015",
+      "medicine_024",
+      "medicine_044",
+      "medicine_062",
+      "medicine_064",
+      "medicine_065",
+      "medicine_066",
+      "medicine_101",
+      "medicine_103",
+      "medicine_119",
+      "medicine_143",
+      "medicine_156",
+      "medicine_183",
+      "medicine_185",
+      "medicine_187",
+      "medicine_188",
+      "medicine_189",
+      "medicine_192",
+      "medicine_193",
+      "medicine_202",
+      "medicine_203",
+      "medicine_204",
+      "medicine_205",
+      "medicine_242",
+      "medicine_248",
+      "medicine_270",
+      "medicine_278",
+      "medicine_282",
+      "medicine_304",
+      "medicine_322",
+      "medicine_330",
+      "medicine_362",
+      "medicine_375",
+      "medicine_386",
+      "medicine_391",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
+      "medicine_403",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_412",
+      "medicine_414",
+      "medicine_415",
+      "medicine_426",
+      "medicine_429",
+      "medicine_434",
+      "medicine_435",
+      "medicine_437",
+      "medicine_457",
+      "medicine_459",
+      "medicine_460",
+      "medicine_463",
+      "medicine_465",
+      "medicine_475",
+      "medicine_476",
+      "medicine_478",
+      "medicine_490"
+    ],
     "related_formulas": [
       "formula_004",
       "formula_123"
@@ -1475,7 +2567,9 @@
       "外感表证",
       "郁热内伏"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_092"
+    ],
     "related_formulas": [
       "formula_092"
     ],
@@ -1496,7 +2590,65 @@
       "胸闷痛"
     ],
     "related_medicines": [
-      "medicine_188"
+      "medicine_050",
+      "medicine_051",
+      "medicine_055",
+      "medicine_063",
+      "medicine_098",
+      "medicine_099",
+      "medicine_166",
+      "medicine_167",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_188",
+      "medicine_195",
+      "medicine_196",
+      "medicine_197",
+      "medicine_198",
+      "medicine_199",
+      "medicine_200",
+      "medicine_219",
+      "medicine_294",
+      "medicine_300",
+      "medicine_303",
+      "medicine_310",
+      "medicine_312",
+      "medicine_320",
+      "medicine_325",
+      "medicine_331",
+      "medicine_332",
+      "medicine_333",
+      "medicine_334",
+      "medicine_335",
+      "medicine_350",
+      "medicine_354",
+      "medicine_360",
+      "medicine_368",
+      "medicine_374",
+      "medicine_382",
+      "medicine_390",
+      "medicine_395",
+      "medicine_423",
+      "medicine_424",
+      "medicine_425",
+      "medicine_427",
+      "medicine_428",
+      "medicine_430",
+      "medicine_437",
+      "medicine_438",
+      "medicine_439",
+      "medicine_455",
+      "medicine_470",
+      "medicine_473",
+      "medicine_477",
+      "medicine_482",
+      "medicine_483",
+      "medicine_484",
+      "medicine_489",
+      "medicine_497",
+      "medicine_498",
+      "medicine_500"
     ],
     "related_formulas": [
       "formula_066"
@@ -1511,7 +2663,8 @@
     "description": "寒热平调的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥寒热平调的作用",
     "indications": [
-      "适应证"
+      "寒热平调",
+      "消痞散结"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1528,7 +2681,8 @@
     "description": "寒热并调的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥寒热并调的作用",
     "indications": [
-      "适应证"
+      "安蛔止痛",
+      "寒热并调"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1542,7 +2696,7 @@
     "description": "峻下热结的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥峻下热结的作用",
     "indications": [
-      "适应证"
+      "峻下热结"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1558,10 +2712,12 @@
   {
     "id": "effect_079",
     "name": "平肝息风",
-    "description": "平肝息风的治疗作用",
-    "mechanism": "通过相关药物的配伍，发挥平肝息风的作用",
+    "description": "通过平肝潜阳药物配合息风止痉药物，降低血压、镇静安神，防治脑血管意外的治疗作用",
+    "mechanism": "通过平肝潜阳药物配合息风止痉药物，降低血压、镇静安神，防治脑血管意外的治疗作用",
     "indications": [
-      "适应证"
+      "平肝息风",
+      "清热活血",
+      "补益肝肾"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1588,11 +2744,21 @@
     ],
     "related_medicines": [
       "medicine_071",
+      "medicine_164",
+      "medicine_184",
+      "medicine_190",
+      "medicine_191",
       "medicine_223",
       "medicine_224",
       "medicine_225",
+      "medicine_293",
+      "medicine_365",
       "medicine_370",
-      "medicine_371"
+      "medicine_371",
+      "medicine_374",
+      "medicine_393",
+      "medicine_408",
+      "medicine_434"
     ],
     "related_formulas": [
       "formula_046"
@@ -1607,7 +2773,11 @@
     "description": "敛阴止汗的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥敛阴止汗的作用",
     "indications": [
-      "适应证"
+      "敛阴止汗",
+      "月经不调",
+      "益气固表",
+      "益气生津",
+      "血虚萎黄"
     ],
     "related_medicines": [
       "medicine_077"
@@ -1637,11 +2807,101 @@
       "腹痛"
     ],
     "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_042",
       "medicine_043",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_104",
+      "medicine_120",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
+      "medicine_145",
       "medicine_146",
+      "medicine_149",
       "medicine_151",
+      "medicine_152",
+      "medicine_162",
+      "medicine_165",
+      "medicine_170",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_224",
+      "medicine_226",
       "medicine_236",
-      "medicine_352"
+      "medicine_237",
+      "medicine_238",
+      "medicine_242",
+      "medicine_256",
+      "medicine_272",
+      "medicine_275",
+      "medicine_298",
+      "medicine_307",
+      "medicine_314",
+      "medicine_315",
+      "medicine_318",
+      "medicine_321",
+      "medicine_338",
+      "medicine_339",
+      "medicine_340",
+      "medicine_341",
+      "medicine_342",
+      "medicine_343",
+      "medicine_344",
+      "medicine_345",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_371",
+      "medicine_379",
+      "medicine_381",
+      "medicine_387",
+      "medicine_390",
+      "medicine_397",
+      "medicine_402",
+      "medicine_403",
+      "medicine_405",
+      "medicine_408",
+      "medicine_412",
+      "medicine_421",
+      "medicine_431",
+      "medicine_432",
+      "medicine_443",
+      "medicine_444",
+      "medicine_445",
+      "medicine_446",
+      "medicine_447",
+      "medicine_448",
+      "medicine_468",
+      "medicine_469",
+      "medicine_477",
+      "medicine_480",
+      "medicine_486",
+      "medicine_488",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492"
     ],
     "related_formulas": [
       "formula_054"
@@ -1666,7 +2926,148 @@
       "癥瘕",
       "腹痛"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_050",
+      "medicine_051",
+      "medicine_055",
+      "medicine_057",
+      "medicine_063",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_098",
+      "medicine_099",
+      "medicine_104",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
+      "medicine_151",
+      "medicine_152",
+      "medicine_162",
+      "medicine_165",
+      "medicine_166",
+      "medicine_167",
+      "medicine_170",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_195",
+      "medicine_196",
+      "medicine_197",
+      "medicine_198",
+      "medicine_199",
+      "medicine_200",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_226",
+      "medicine_236",
+      "medicine_238",
+      "medicine_242",
+      "medicine_256",
+      "medicine_272",
+      "medicine_275",
+      "medicine_294",
+      "medicine_298",
+      "medicine_300",
+      "medicine_303",
+      "medicine_307",
+      "medicine_310",
+      "medicine_312",
+      "medicine_314",
+      "medicine_315",
+      "medicine_318",
+      "medicine_320",
+      "medicine_321",
+      "medicine_325",
+      "medicine_331",
+      "medicine_332",
+      "medicine_333",
+      "medicine_334",
+      "medicine_335",
+      "medicine_338",
+      "medicine_339",
+      "medicine_340",
+      "medicine_341",
+      "medicine_342",
+      "medicine_343",
+      "medicine_344",
+      "medicine_345",
+      "medicine_350",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_360",
+      "medicine_368",
+      "medicine_371",
+      "medicine_379",
+      "medicine_381",
+      "medicine_382",
+      "medicine_387",
+      "medicine_390",
+      "medicine_395",
+      "medicine_397",
+      "medicine_402",
+      "medicine_403",
+      "medicine_405",
+      "medicine_408",
+      "medicine_412",
+      "medicine_421",
+      "medicine_423",
+      "medicine_424",
+      "medicine_425",
+      "medicine_427",
+      "medicine_428",
+      "medicine_430",
+      "medicine_431",
+      "medicine_432",
+      "medicine_437",
+      "medicine_438",
+      "medicine_439",
+      "medicine_443",
+      "medicine_444",
+      "medicine_445",
+      "medicine_446",
+      "medicine_447",
+      "medicine_448",
+      "medicine_455",
+      "medicine_468",
+      "medicine_469",
+      "medicine_470",
+      "medicine_473",
+      "medicine_477",
+      "medicine_480",
+      "medicine_482",
+      "medicine_483",
+      "medicine_484",
+      "medicine_486",
+      "medicine_488",
+      "medicine_489",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492",
+      "medicine_497",
+      "medicine_498",
+      "medicine_500"
+    ],
     "related_formulas": [
       "formula_059"
     ],
@@ -1678,7 +3079,12 @@
     "description": "明目的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥明目的作用",
     "indications": [
-      "适应证"
+      "头痛眩晕",
+      "明目",
+      "湿热泻痢",
+      "滋肾养肝",
+      "目赤肿痛",
+      "胸胁胀痛"
     ],
     "related_medicines": [
       "medicine_096",
@@ -1706,7 +3112,19 @@
       "畏寒",
       "疝气"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_042",
+      "medicine_043",
+      "medicine_120",
+      "medicine_145",
+      "medicine_149",
+      "medicine_224",
+      "medicine_237",
+      "medicine_379",
+      "medicine_381",
+      "medicine_412",
+      "medicine_447"
+    ],
     "related_formulas": [
       "formula_145"
     ],
@@ -1720,7 +3138,8 @@
     "description": "止汗御风的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥止汗御风的作用",
     "indications": [
-      "适应证"
+      "止汗御风",
+      "益气固表"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -1734,7 +3153,13 @@
     "description": "止痹痛的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥止痹痛的作用",
     "indications": [
-      "适应证"
+      "关节不利",
+      "止痹痛",
+      "湿热黄疸",
+      "益肝肾",
+      "祛风湿",
+      "风湿痹痛",
+      "骨蒸潮热"
     ],
     "related_medicines": [
       "medicine_338",
@@ -1763,7 +3188,21 @@
       "腹胀",
       "阳明腑实"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_036",
+      "medicine_045",
+      "medicine_074",
+      "medicine_148",
+      "medicine_228",
+      "medicine_236",
+      "medicine_279",
+      "medicine_357",
+      "medicine_404",
+      "medicine_449",
+      "medicine_495",
+      "medicine_499",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_008"
     ],
@@ -1788,9 +3227,38 @@
       "高热"
     ],
     "related_medicines": [
+      "medicine_008",
       "medicine_017",
       "medicine_018",
-      "medicine_019"
+      "medicine_019",
+      "medicine_021",
+      "medicine_023",
+      "medicine_071",
+      "medicine_106",
+      "medicine_107",
+      "medicine_108",
+      "medicine_222",
+      "medicine_298",
+      "medicine_304",
+      "medicine_323",
+      "medicine_330",
+      "medicine_395",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
+      "medicine_426",
+      "medicine_428",
+      "medicine_429",
+      "medicine_430",
+      "medicine_431",
+      "medicine_470",
+      "medicine_475",
+      "medicine_483",
+      "medicine_484",
+      "medicine_487",
+      "medicine_494",
+      "medicine_496",
+      "medicine_498"
     ],
     "related_formulas": [
       "formula_007"
@@ -1814,7 +3282,9 @@
       "面赤",
       "高热"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_222"
+    ],
     "related_formulas": [
       "formula_151"
     ],
@@ -1838,11 +3308,115 @@
       "血瘀证"
     ],
     "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_054",
+      "medicine_057",
+      "medicine_059",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_104",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
+      "medicine_151",
+      "medicine_152",
+      "medicine_162",
       "medicine_164",
+      "medicine_165",
       "medicine_167",
+      "medicine_170",
+      "medicine_171",
+      "medicine_173",
+      "medicine_175",
+      "medicine_179",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_200",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_226",
+      "medicine_236",
+      "medicine_238",
+      "medicine_242",
+      "medicine_256",
+      "medicine_272",
+      "medicine_275",
+      "medicine_298",
+      "medicine_307",
+      "medicine_310",
+      "medicine_314",
+      "medicine_315",
+      "medicine_318",
+      "medicine_321",
+      "medicine_338",
+      "medicine_339",
+      "medicine_340",
+      "medicine_341",
+      "medicine_342",
+      "medicine_343",
+      "medicine_344",
+      "medicine_345",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
       "medicine_356",
       "medicine_361",
-      "medicine_413"
+      "medicine_365",
+      "medicine_371",
+      "medicine_375",
+      "medicine_379",
+      "medicine_381",
+      "medicine_382",
+      "medicine_387",
+      "medicine_390",
+      "medicine_397",
+      "medicine_402",
+      "medicine_403",
+      "medicine_405",
+      "medicine_408",
+      "medicine_412",
+      "medicine_413",
+      "medicine_421",
+      "medicine_431",
+      "medicine_432",
+      "medicine_438",
+      "medicine_439",
+      "medicine_440",
+      "medicine_443",
+      "medicine_444",
+      "medicine_445",
+      "medicine_446",
+      "medicine_447",
+      "medicine_448",
+      "medicine_468",
+      "medicine_469",
+      "medicine_477",
+      "medicine_480",
+      "medicine_486",
+      "medicine_488",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492"
     ],
     "related_formulas": [
       "formula_082",
@@ -1856,7 +3430,7 @@
   {
     "id": "effect_092",
     "name": "活血祛瘀",
-    "description": "促进血液运行的治疗作用",
+    "description": "通过活血化瘀与逐瘀药物，改善血液循环，消除陈旧瘀血，促进组织修复的治疗作用",
     "mechanism": "通过活血化瘀药物，改善血液循环，消除血液瘀滞",
     "indications": [
       "疼痛固定",
@@ -1865,8 +3439,25 @@
       "血瘀证"
     ],
     "related_medicines": [
+      "medicine_054",
       "medicine_058",
+      "medicine_059",
       "medicine_060",
+      "medicine_171",
+      "medicine_173",
+      "medicine_175",
+      "medicine_179",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_200",
+      "medicine_310",
+      "medicine_365",
+      "medicine_375",
+      "medicine_382",
+      "medicine_390",
+      "medicine_438",
+      "medicine_439",
       "medicine_440"
     ],
     "related_formulas": [
@@ -1879,7 +3470,7 @@
   {
     "id": "effect_093",
     "name": "活血通窍",
-    "description": "促进血液运行的治疗作用",
+    "description": "通过活血化瘀药物配合通窍药物，改善头部微循环、促进神经修复的治疗作用",
     "mechanism": "通过活血化瘀药物，改善血液循环，消除血液瘀滞",
     "indications": [
       "疼痛固定",
@@ -1887,7 +3478,26 @@
       "经闭",
       "血瘀证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_054",
+      "medicine_059",
+      "medicine_171",
+      "medicine_173",
+      "medicine_175",
+      "medicine_179",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_200",
+      "medicine_310",
+      "medicine_365",
+      "medicine_375",
+      "medicine_382",
+      "medicine_390",
+      "medicine_438",
+      "medicine_439",
+      "medicine_440"
+    ],
     "related_formulas": [
       "formula_111"
     ],
@@ -1905,7 +3515,63 @@
       "癥瘕"
     ],
     "related_medicines": [
-      "medicine_062"
+      "medicine_050",
+      "medicine_051",
+      "medicine_055",
+      "medicine_062",
+      "medicine_063",
+      "medicine_098",
+      "medicine_099",
+      "medicine_166",
+      "medicine_167",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_195",
+      "medicine_196",
+      "medicine_197",
+      "medicine_198",
+      "medicine_199",
+      "medicine_200",
+      "medicine_219",
+      "medicine_294",
+      "medicine_300",
+      "medicine_303",
+      "medicine_310",
+      "medicine_312",
+      "medicine_320",
+      "medicine_325",
+      "medicine_331",
+      "medicine_332",
+      "medicine_333",
+      "medicine_334",
+      "medicine_335",
+      "medicine_350",
+      "medicine_360",
+      "medicine_368",
+      "medicine_382",
+      "medicine_390",
+      "medicine_395",
+      "medicine_423",
+      "medicine_424",
+      "medicine_425",
+      "medicine_427",
+      "medicine_428",
+      "medicine_430",
+      "medicine_437",
+      "medicine_438",
+      "medicine_439",
+      "medicine_455",
+      "medicine_470",
+      "medicine_473",
+      "medicine_477",
+      "medicine_482",
+      "medicine_483",
+      "medicine_484",
+      "medicine_489",
+      "medicine_497",
+      "medicine_498",
+      "medicine_500"
     ],
     "related_formulas": [
       "formula_023"
@@ -1925,7 +3591,76 @@
       "水肿",
       "痈肿"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_034",
+      "medicine_038",
+      "medicine_039",
+      "medicine_040",
+      "medicine_050",
+      "medicine_051",
+      "medicine_055",
+      "medicine_061",
+      "medicine_098",
+      "medicine_099",
+      "medicine_116",
+      "medicine_118",
+      "medicine_124",
+      "medicine_138",
+      "medicine_166",
+      "medicine_167",
+      "medicine_168",
+      "medicine_195",
+      "medicine_196",
+      "medicine_206",
+      "medicine_207",
+      "medicine_218",
+      "medicine_268",
+      "medicine_269",
+      "medicine_272",
+      "medicine_273",
+      "medicine_279",
+      "medicine_286",
+      "medicine_294",
+      "medicine_300",
+      "medicine_302",
+      "medicine_312",
+      "medicine_315",
+      "medicine_316",
+      "medicine_325",
+      "medicine_331",
+      "medicine_332",
+      "medicine_333",
+      "medicine_334",
+      "medicine_335",
+      "medicine_342",
+      "medicine_346",
+      "medicine_349",
+      "medicine_350",
+      "medicine_360",
+      "medicine_383",
+      "medicine_402",
+      "medicine_405",
+      "medicine_407",
+      "medicine_409",
+      "medicine_423",
+      "medicine_424",
+      "medicine_425",
+      "medicine_427",
+      "medicine_428",
+      "medicine_430",
+      "medicine_437",
+      "medicine_454",
+      "medicine_455",
+      "medicine_470",
+      "medicine_477",
+      "medicine_482",
+      "medicine_483",
+      "medicine_484",
+      "medicine_485",
+      "medicine_497",
+      "medicine_498",
+      "medicine_500"
+    ],
     "related_formulas": [
       "formula_124"
     ],
@@ -1944,7 +3679,25 @@
       "神昏",
       "顽痰胶结"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_071",
+      "medicine_164",
+      "medicine_184",
+      "medicine_190",
+      "medicine_191",
+      "medicine_223",
+      "medicine_224",
+      "medicine_225",
+      "medicine_293",
+      "medicine_364",
+      "medicine_365",
+      "medicine_370",
+      "medicine_371",
+      "medicine_374",
+      "medicine_393",
+      "medicine_408",
+      "medicine_434"
+    ],
     "related_formulas": [
       "formula_132"
     ],
@@ -1962,7 +3715,25 @@
       "排便困难",
       "肠燥便秘"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_031",
+      "medicine_060",
+      "medicine_065",
+      "medicine_118",
+      "medicine_119",
+      "medicine_201",
+      "medicine_211",
+      "medicine_243",
+      "medicine_265",
+      "medicine_266",
+      "medicine_321",
+      "medicine_363",
+      "medicine_376",
+      "medicine_377",
+      "medicine_378",
+      "medicine_391",
+      "medicine_469"
+    ],
     "related_formulas": [
       "formula_017"
     ],
@@ -1983,21 +3754,32 @@
       "肠燥便秘"
     ],
     "related_medicines": [
+      "medicine_030",
       "medicine_031",
       "medicine_060",
       "medicine_065",
+      "medicine_117",
       "medicine_118",
       "medicine_119",
       "medicine_188",
       "medicine_194",
       "medicine_201",
       "medicine_211",
+      "medicine_243",
       "medicine_265",
       "medicine_266",
+      "medicine_267",
+      "medicine_271",
       "medicine_321",
       "medicine_363",
+      "medicine_376",
+      "medicine_377",
       "medicine_378",
-      "medicine_391"
+      "medicine_391",
+      "medicine_454",
+      "medicine_469",
+      "medicine_473",
+      "medicine_508"
     ],
     "related_formulas": [
       "formula_018"
@@ -2015,9 +3797,69 @@
       "咽痒"
     ],
     "related_medicines": [
+      "medicine_001",
+      "medicine_003",
+      "medicine_010",
+      "medicine_014",
+      "medicine_015",
+      "medicine_024",
+      "medicine_044",
+      "medicine_062",
+      "medicine_064",
+      "medicine_065",
+      "medicine_066",
+      "medicine_101",
+      "medicine_103",
       "medicine_119",
+      "medicine_143",
+      "medicine_156",
+      "medicine_183",
+      "medicine_185",
+      "medicine_187",
+      "medicine_188",
+      "medicine_189",
+      "medicine_192",
+      "medicine_193",
+      "medicine_202",
+      "medicine_203",
+      "medicine_204",
+      "medicine_205",
       "medicine_242",
-      "medicine_391"
+      "medicine_248",
+      "medicine_270",
+      "medicine_278",
+      "medicine_282",
+      "medicine_304",
+      "medicine_322",
+      "medicine_330",
+      "medicine_362",
+      "medicine_375",
+      "medicine_386",
+      "medicine_391",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
+      "medicine_403",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_412",
+      "medicine_414",
+      "medicine_415",
+      "medicine_426",
+      "medicine_429",
+      "medicine_434",
+      "medicine_435",
+      "medicine_437",
+      "medicine_457",
+      "medicine_459",
+      "medicine_460",
+      "medicine_463",
+      "medicine_465",
+      "medicine_475",
+      "medicine_476",
+      "medicine_478",
+      "medicine_490"
     ],
     "related_formulas": [
       "formula_136"
@@ -2029,7 +3871,7 @@
   {
     "id": "effect_100",
     "name": "涩精止遗",
-    "description": "固涩精关的治疗作用",
+    "description": "通过收涩药物增强肾气封藏功能，防止精液滑泄和遗尿的治疗作用",
     "mechanism": "通过收涩药物，防止精气滑脱",
     "indications": [
       "早泄",
@@ -2037,7 +3879,28 @@
       "遗精"
     ],
     "related_medicines": [
-      "medicine_049"
+      "medicine_049",
+      "medicine_084",
+      "medicine_210",
+      "medicine_230",
+      "medicine_231",
+      "medicine_232",
+      "medicine_233",
+      "medicine_234",
+      "medicine_235",
+      "medicine_258",
+      "medicine_259",
+      "medicine_261",
+      "medicine_262",
+      "medicine_265",
+      "medicine_380",
+      "medicine_381",
+      "medicine_382",
+      "medicine_386",
+      "medicine_418",
+      "medicine_461",
+      "medicine_465",
+      "medicine_503"
     ],
     "related_formulas": [
       "formula_087"
@@ -2066,7 +3929,8 @@
     "description": "清宣温燥的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥清宣温燥的作用",
     "indications": [
-      "适应证"
+      "润肺止咳",
+      "清宣温燥"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2079,7 +3943,7 @@
   {
     "id": "effect_103",
     "name": "清暑利湿",
-    "description": "利导湿邪的治疗作用",
+    "description": "通过清热解暑药物配合利湿药物，清除暑湿之邪，调节体温和水盐代谢的治疗作用",
     "mechanism": "通过利湿药物，排出体内湿邪",
     "indications": [
       "湿证",
@@ -2103,7 +3967,7 @@
     "description": "清泻肝胆实火的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥清泻肝胆实火的作用",
     "indications": [
-      "适应证"
+      "清泻肝胆实火"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2124,7 +3988,30 @@
       "心神不宁",
       "怔忡"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_213",
+      "medicine_214",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_128"
     ],
@@ -2147,7 +4034,42 @@
       "血虚证",
       "面色萎黄"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_214",
+      "medicine_216",
+      "medicine_218",
+      "medicine_230",
+      "medicine_246",
+      "medicine_249",
+      "medicine_254",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_415",
+      "medicine_464",
+      "medicine_467",
+      "medicine_479",
+      "medicine_494",
+      "medicine_496",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_079"
     ],
@@ -2169,11 +4091,36 @@
       "胸闷"
     ],
     "related_medicines": [
+      "medicine_003",
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
       "medicine_064",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_187",
       "medicine_188",
       "medicine_189",
       "medicine_191",
-      "medicine_434"
+      "medicine_193",
+      "medicine_249",
+      "medicine_254",
+      "medicine_282",
+      "medicine_332",
+      "medicine_362",
+      "medicine_375",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_415",
+      "medicine_434",
+      "medicine_435",
+      "medicine_437",
+      "medicine_464",
+      "medicine_478",
+      "medicine_494",
+      "medicine_496"
     ],
     "related_formulas": [
       "formula_065",
@@ -2199,7 +4146,36 @@
       "癫痫",
       "神昏"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
+      "medicine_071",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_164",
+      "medicine_184",
+      "medicine_190",
+      "medicine_191",
+      "medicine_223",
+      "medicine_224",
+      "medicine_225",
+      "medicine_249",
+      "medicine_254",
+      "medicine_293",
+      "medicine_365",
+      "medicine_370",
+      "medicine_371",
+      "medicine_374",
+      "medicine_393",
+      "medicine_408",
+      "medicine_415",
+      "medicine_434",
+      "medicine_464",
+      "medicine_494",
+      "medicine_496"
+    ],
     "related_formulas": [
       "formula_125"
     ],
@@ -2221,12 +4197,25 @@
       "高热"
     ],
     "related_medicines": [
+      "medicine_013",
       "medicine_014",
       "medicine_015",
+      "medicine_020",
+      "medicine_023",
       "medicine_030",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_222",
+      "medicine_249",
+      "medicine_254",
       "medicine_324",
       "medicine_325",
-      "medicine_326"
+      "medicine_326",
+      "medicine_415",
+      "medicine_464",
+      "medicine_494",
+      "medicine_496"
     ],
     "related_formulas": [
       "formula_075",
@@ -2256,7 +4245,38 @@
       "经闭",
       "血瘀证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
+      "medicine_054",
+      "medicine_059",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_171",
+      "medicine_173",
+      "medicine_175",
+      "medicine_179",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_200",
+      "medicine_249",
+      "medicine_254",
+      "medicine_310",
+      "medicine_365",
+      "medicine_375",
+      "medicine_382",
+      "medicine_390",
+      "medicine_415",
+      "medicine_438",
+      "medicine_439",
+      "medicine_440",
+      "medicine_464",
+      "medicine_494",
+      "medicine_496"
+    ],
     "related_formulas": [
       "formula_083"
     ],
@@ -2282,14 +4302,45 @@
       "脘痞"
     ],
     "related_medicines": [
+      "medicine_013",
       "medicine_017",
       "medicine_018",
       "medicine_019",
+      "medicine_020",
+      "medicine_023",
+      "medicine_039",
+      "medicine_042",
+      "medicine_074",
       "medicine_094",
       "medicine_095",
       "medicine_096",
       "medicine_097",
-      "medicine_466"
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_230",
+      "medicine_237",
+      "medicine_241",
+      "medicine_249",
+      "medicine_254",
+      "medicine_258",
+      "medicine_259",
+      "medicine_300",
+      "medicine_308",
+      "medicine_344",
+      "medicine_346",
+      "medicine_351",
+      "medicine_353",
+      "medicine_404",
+      "medicine_415",
+      "medicine_431",
+      "medicine_464",
+      "medicine_466",
+      "medicine_481",
+      "medicine_494",
+      "medicine_496",
+      "medicine_506",
+      "medicine_509"
     ],
     "related_formulas": [
       "formula_011"
@@ -2313,7 +4364,39 @@
       "热证",
       "脘痞"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
+      "medicine_039",
+      "medicine_042",
+      "medicine_074",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_230",
+      "medicine_237",
+      "medicine_241",
+      "medicine_249",
+      "medicine_254",
+      "medicine_258",
+      "medicine_259",
+      "medicine_300",
+      "medicine_308",
+      "medicine_344",
+      "medicine_346",
+      "medicine_351",
+      "medicine_353",
+      "medicine_404",
+      "medicine_415",
+      "medicine_431",
+      "medicine_464",
+      "medicine_481",
+      "medicine_494",
+      "medicine_496",
+      "medicine_506",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_150"
     ],
@@ -2335,9 +4418,21 @@
       "热证"
     ],
     "related_medicines": [
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
       "medicine_239",
+      "medicine_249",
+      "medicine_254",
       "medicine_322",
-      "medicine_323"
+      "medicine_323",
+      "medicine_415",
+      "medicine_464",
+      "medicine_494",
+      "medicine_496"
     ],
     "related_formulas": [
       "formula_006",
@@ -2368,7 +4463,22 @@
       "躁扰不宁"
     ],
     "related_medicines": [
+      "medicine_013",
+      "medicine_016",
+      "medicine_020",
+      "medicine_023",
+      "medicine_058",
+      "medicine_079",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_249",
+      "medicine_254",
       "medicine_327",
+      "medicine_415",
+      "medicine_464",
+      "medicine_494",
+      "medicine_496",
       "medicine_510"
     ],
     "related_formulas": [
@@ -2384,7 +4494,8 @@
     "description": "清燥润肺的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥清燥润肺的作用",
     "indications": [
-      "适应证"
+      "清燥润肺",
+      "益气养阴"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2400,7 +4511,8 @@
     "description": "清肝胆实火的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥清肝胆实火的作用",
     "indications": [
-      "适应证"
+      "泻下焦湿热",
+      "清肝胆实火"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2422,7 +4534,13 @@
       "气喘",
       "胸闷"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_001",
+      "medicine_065",
+      "medicine_203",
+      "medicine_362",
+      "medicine_403"
+    ],
     "related_formulas": [
       "formula_005"
     ],
@@ -2462,7 +4580,9 @@
       "面赤",
       "高热"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_222"
+    ],
     "related_formulas": [
       "formula_108"
     ],
@@ -2474,7 +4594,8 @@
     "description": "清胃热的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥清胃热的作用",
     "indications": [
-      "适应证"
+      "清胃热",
+      "滋肾阴"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2512,7 +4633,36 @@
       "热毒证",
       "疮疡肿毒"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_008",
+      "medicine_021",
+      "medicine_023",
+      "medicine_071",
+      "medicine_106",
+      "medicine_107",
+      "medicine_108",
+      "medicine_298",
+      "medicine_304",
+      "medicine_323",
+      "medicine_330",
+      "medicine_395",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
+      "medicine_426",
+      "medicine_428",
+      "medicine_429",
+      "medicine_430",
+      "medicine_431",
+      "medicine_470",
+      "medicine_475",
+      "medicine_483",
+      "medicine_484",
+      "medicine_487",
+      "medicine_494",
+      "medicine_496",
+      "medicine_498"
+    ],
     "related_formulas": [
       "formula_101"
     ],
@@ -2528,7 +4678,34 @@
       "泄泻",
       "湿浊"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_039",
+      "medicine_040",
+      "medicine_042",
+      "medicine_074",
+      "medicine_161",
+      "medicine_230",
+      "medicine_237",
+      "medicine_241",
+      "medicine_258",
+      "medicine_259",
+      "medicine_300",
+      "medicine_308",
+      "medicine_344",
+      "medicine_346",
+      "medicine_349",
+      "medicine_351",
+      "medicine_353",
+      "medicine_404",
+      "medicine_405",
+      "medicine_431",
+      "medicine_452",
+      "medicine_481",
+      "medicine_485",
+      "medicine_505",
+      "medicine_506",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_032"
     ],
@@ -2549,7 +4726,67 @@
       "腹胀",
       "食少便溏"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_004",
+      "medicine_018",
+      "medicine_036",
+      "medicine_039",
+      "medicine_042",
+      "medicine_045",
+      "medicine_049",
+      "medicine_062",
+      "medicine_073",
+      "medicine_074",
+      "medicine_104",
+      "medicine_135",
+      "medicine_136",
+      "medicine_146",
+      "medicine_148",
+      "medicine_151",
+      "medicine_152",
+      "medicine_162",
+      "medicine_187",
+      "medicine_189",
+      "medicine_205",
+      "medicine_226",
+      "medicine_228",
+      "medicine_230",
+      "medicine_236",
+      "medicine_237",
+      "medicine_238",
+      "medicine_241",
+      "medicine_242",
+      "medicine_258",
+      "medicine_259",
+      "medicine_272",
+      "medicine_279",
+      "medicine_300",
+      "medicine_308",
+      "medicine_344",
+      "medicine_346",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_357",
+      "medicine_358",
+      "medicine_369",
+      "medicine_381",
+      "medicine_387",
+      "medicine_390",
+      "medicine_404",
+      "medicine_414",
+      "medicine_431",
+      "medicine_432",
+      "medicine_446",
+      "medicine_448",
+      "medicine_449",
+      "medicine_468",
+      "medicine_481",
+      "medicine_495",
+      "medicine_499",
+      "medicine_506",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_024"
     ],
@@ -2573,7 +4810,60 @@
       "腹痛",
       "里寒证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_004",
+      "medicine_018",
+      "medicine_039",
+      "medicine_042",
+      "medicine_043",
+      "medicine_049",
+      "medicine_062",
+      "medicine_074",
+      "medicine_104",
+      "medicine_135",
+      "medicine_136",
+      "medicine_145",
+      "medicine_146",
+      "medicine_148",
+      "medicine_151",
+      "medicine_152",
+      "medicine_162",
+      "medicine_187",
+      "medicine_189",
+      "medicine_205",
+      "medicine_226",
+      "medicine_230",
+      "medicine_236",
+      "medicine_237",
+      "medicine_238",
+      "medicine_241",
+      "medicine_242",
+      "medicine_258",
+      "medicine_259",
+      "medicine_272",
+      "medicine_300",
+      "medicine_308",
+      "medicine_344",
+      "medicine_346",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_358",
+      "medicine_369",
+      "medicine_381",
+      "medicine_387",
+      "medicine_390",
+      "medicine_404",
+      "medicine_412",
+      "medicine_431",
+      "medicine_432",
+      "medicine_446",
+      "medicine_448",
+      "medicine_468",
+      "medicine_481",
+      "medicine_506",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_096"
     ],
@@ -2590,7 +4880,57 @@
       "泄泻",
       "腹痛"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_004",
+      "medicine_018",
+      "medicine_039",
+      "medicine_042",
+      "medicine_049",
+      "medicine_062",
+      "medicine_074",
+      "medicine_104",
+      "medicine_135",
+      "medicine_136",
+      "medicine_146",
+      "medicine_148",
+      "medicine_151",
+      "medicine_152",
+      "medicine_162",
+      "medicine_187",
+      "medicine_189",
+      "medicine_205",
+      "medicine_226",
+      "medicine_230",
+      "medicine_236",
+      "medicine_237",
+      "medicine_238",
+      "medicine_241",
+      "medicine_242",
+      "medicine_258",
+      "medicine_259",
+      "medicine_272",
+      "medicine_300",
+      "medicine_308",
+      "medicine_344",
+      "medicine_346",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_358",
+      "medicine_369",
+      "medicine_381",
+      "medicine_387",
+      "medicine_390",
+      "medicine_404",
+      "medicine_431",
+      "medicine_432",
+      "medicine_446",
+      "medicine_448",
+      "medicine_468",
+      "medicine_481",
+      "medicine_506",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_025",
       "formula_026"
@@ -2616,7 +4956,19 @@
       "畏寒",
       "痛经"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_042",
+      "medicine_043",
+      "medicine_120",
+      "medicine_145",
+      "medicine_149",
+      "medicine_224",
+      "medicine_237",
+      "medicine_379",
+      "medicine_381",
+      "medicine_412",
+      "medicine_493"
+    ],
     "related_formulas": [
       "formula_028",
       "formula_062",
@@ -2639,8 +4991,96 @@
       "腹痛"
     ],
     "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_104",
       "medicine_120",
-      "medicine_121"
+      "medicine_121",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
+      "medicine_151",
+      "medicine_152",
+      "medicine_162",
+      "medicine_165",
+      "medicine_170",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_226",
+      "medicine_236",
+      "medicine_238",
+      "medicine_242",
+      "medicine_256",
+      "medicine_272",
+      "medicine_275",
+      "medicine_298",
+      "medicine_307",
+      "medicine_314",
+      "medicine_315",
+      "medicine_318",
+      "medicine_321",
+      "medicine_338",
+      "medicine_339",
+      "medicine_340",
+      "medicine_341",
+      "medicine_342",
+      "medicine_343",
+      "medicine_344",
+      "medicine_345",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_371",
+      "medicine_379",
+      "medicine_381",
+      "medicine_387",
+      "medicine_390",
+      "medicine_397",
+      "medicine_402",
+      "medicine_403",
+      "medicine_405",
+      "medicine_408",
+      "medicine_412",
+      "medicine_421",
+      "medicine_431",
+      "medicine_432",
+      "medicine_443",
+      "medicine_444",
+      "medicine_445",
+      "medicine_446",
+      "medicine_447",
+      "medicine_448",
+      "medicine_468",
+      "medicine_469",
+      "medicine_477",
+      "medicine_480",
+      "medicine_486",
+      "medicine_488",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492",
+      "medicine_493"
     ],
     "related_formulas": [
       "formula_061"
@@ -2653,7 +5093,8 @@
     "description": "温肝暖胃的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥温肝暖胃的作用",
     "indications": [
-      "适应证"
+      "温肝暖胃",
+      "降逆止呕"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2671,7 +5112,16 @@
       "寒饮伏肺",
       "痰白清稀"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_106",
+      "medicine_190",
+      "medicine_206",
+      "medicine_207",
+      "medicine_213",
+      "medicine_433",
+      "medicine_458",
+      "medicine_462"
+    ],
     "related_formulas": [
       "formula_089"
     ],
@@ -2688,7 +5138,30 @@
       "腰膝冷痛",
       "阳痿"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_043",
+      "medicine_082",
+      "medicine_146",
+      "medicine_234",
+      "medicine_256",
+      "medicine_258",
+      "medicine_260",
+      "medicine_261",
+      "medicine_262",
+      "medicine_263",
+      "medicine_264",
+      "medicine_265",
+      "medicine_295",
+      "medicine_297",
+      "medicine_378",
+      "medicine_379",
+      "medicine_380",
+      "medicine_381",
+      "medicine_382",
+      "medicine_416",
+      "medicine_456",
+      "medicine_461"
+    ],
     "related_formulas": [
       "formula_018"
     ],
@@ -2708,7 +5181,37 @@
       "里寒证",
       "阳痿"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_042",
+      "medicine_043",
+      "medicine_082",
+      "medicine_145",
+      "medicine_146",
+      "medicine_234",
+      "medicine_237",
+      "medicine_256",
+      "medicine_258",
+      "medicine_260",
+      "medicine_261",
+      "medicine_262",
+      "medicine_263",
+      "medicine_264",
+      "medicine_265",
+      "medicine_295",
+      "medicine_297",
+      "medicine_308",
+      "medicine_351",
+      "medicine_353",
+      "medicine_378",
+      "medicine_379",
+      "medicine_380",
+      "medicine_381",
+      "medicine_382",
+      "medicine_412",
+      "medicine_416",
+      "medicine_456",
+      "medicine_461"
+    ],
     "related_formulas": [
       "formula_050"
     ],
@@ -2730,7 +5233,31 @@
       "虚喘",
       "阳痿"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_043",
+      "medicine_082",
+      "medicine_084",
+      "medicine_146",
+      "medicine_234",
+      "medicine_256",
+      "medicine_258",
+      "medicine_260",
+      "medicine_261",
+      "medicine_262",
+      "medicine_263",
+      "medicine_264",
+      "medicine_265",
+      "medicine_295",
+      "medicine_297",
+      "medicine_378",
+      "medicine_379",
+      "medicine_380",
+      "medicine_381",
+      "medicine_382",
+      "medicine_416",
+      "medicine_456",
+      "medicine_461"
+    ],
     "related_formulas": [
       "formula_146"
     ],
@@ -2769,7 +5296,61 @@
       "腰膝酸软",
       "阳虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_034",
+      "medicine_038",
+      "medicine_039",
+      "medicine_040",
+      "medicine_041",
+      "medicine_061",
+      "medicine_116",
+      "medicine_118",
+      "medicine_124",
+      "medicine_131",
+      "medicine_132",
+      "medicine_138",
+      "medicine_161",
+      "medicine_168",
+      "medicine_169",
+      "medicine_195",
+      "medicine_196",
+      "medicine_206",
+      "medicine_207",
+      "medicine_218",
+      "medicine_253",
+      "medicine_257",
+      "medicine_260",
+      "medicine_268",
+      "medicine_269",
+      "medicine_272",
+      "medicine_273",
+      "medicine_279",
+      "medicine_286",
+      "medicine_302",
+      "medicine_315",
+      "medicine_316",
+      "medicine_331",
+      "medicine_339",
+      "medicine_342",
+      "medicine_345",
+      "medicine_346",
+      "medicine_349",
+      "medicine_373",
+      "medicine_380",
+      "medicine_383",
+      "medicine_402",
+      "medicine_405",
+      "medicine_407",
+      "medicine_409",
+      "medicine_452",
+      "medicine_454",
+      "medicine_456",
+      "medicine_484",
+      "medicine_485",
+      "medicine_500",
+      "medicine_501",
+      "medicine_505"
+    ],
     "related_formulas": [
       "formula_069"
     ],
@@ -2787,7 +5368,23 @@
       "腰膝酸软",
       "阳虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_041",
+      "medicine_131",
+      "medicine_132",
+      "medicine_169",
+      "medicine_253",
+      "medicine_257",
+      "medicine_260",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_373",
+      "medicine_380",
+      "medicine_383",
+      "medicine_456",
+      "medicine_501"
+    ],
     "related_formulas": [
       "formula_070"
     ],
@@ -2808,7 +5405,31 @@
       "里寒证",
       "阳虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_041",
+      "medicine_042",
+      "medicine_043",
+      "medicine_131",
+      "medicine_132",
+      "medicine_145",
+      "medicine_169",
+      "medicine_237",
+      "medicine_253",
+      "medicine_257",
+      "medicine_260",
+      "medicine_308",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_351",
+      "medicine_353",
+      "medicine_373",
+      "medicine_380",
+      "medicine_383",
+      "medicine_412",
+      "medicine_456",
+      "medicine_501"
+    ],
     "related_formulas": [
       "formula_131"
     ],
@@ -2822,7 +5443,8 @@
     "description": "滋养肺胃的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥滋养肺胃的作用",
     "indications": [
-      "适应证"
+      "滋养肺胃",
+      "降逆下气"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2838,7 +5460,8 @@
     "description": "滋肾养肝的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥滋肾养肝的作用",
     "indications": [
-      "适应证"
+      "明目",
+      "滋肾养肝"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2855,7 +5478,8 @@
     "description": "滋肾养肺的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥滋肾养肺的作用",
     "indications": [
-      "适应证"
+      "滋肾养肺",
+      "纳气平喘"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2871,7 +5495,8 @@
     "description": "滋肾阴的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥滋肾阴的作用",
     "indications": [
-      "适应证"
+      "清胃热",
+      "滋肾阴"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -2897,7 +5522,30 @@
       "阴虚证",
       "面色萎黄"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_214",
+      "medicine_216",
+      "medicine_218",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_045",
       "formula_120"
@@ -2921,7 +5569,33 @@
       "皮肤干燥",
       "阴虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_030",
+      "medicine_031",
+      "medicine_060",
+      "medicine_065",
+      "medicine_117",
+      "medicine_118",
+      "medicine_119",
+      "medicine_194",
+      "medicine_201",
+      "medicine_211",
+      "medicine_243",
+      "medicine_265",
+      "medicine_266",
+      "medicine_267",
+      "medicine_271",
+      "medicine_321",
+      "medicine_363",
+      "medicine_376",
+      "medicine_377",
+      "medicine_378",
+      "medicine_391",
+      "medicine_454",
+      "medicine_469",
+      "medicine_473",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_108"
     ],
@@ -2943,7 +5617,18 @@
       "阴虚证"
     ],
     "related_medicines": [
-      "medicine_249"
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_249",
+      "medicine_254",
+      "medicine_415",
+      "medicine_464",
+      "medicine_494",
+      "medicine_496"
     ],
     "related_formulas": [
       "formula_134"
@@ -2990,7 +5675,13 @@
       "胸胁胀痛",
       "阴虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_172",
+      "medicine_217",
+      "medicine_343",
+      "medicine_355",
+      "medicine_446"
+    ],
     "related_formulas": [
       "formula_040"
     ],
@@ -3014,7 +5705,43 @@
       "遗精",
       "阴虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_085",
+      "medicine_131",
+      "medicine_132",
+      "medicine_169",
+      "medicine_210",
+      "medicine_230",
+      "medicine_231",
+      "medicine_232",
+      "medicine_233",
+      "medicine_234",
+      "medicine_235",
+      "medicine_253",
+      "medicine_257",
+      "medicine_258",
+      "medicine_259",
+      "medicine_260",
+      "medicine_261",
+      "medicine_262",
+      "medicine_265",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_368",
+      "medicine_369",
+      "medicine_373",
+      "medicine_376",
+      "medicine_380",
+      "medicine_382",
+      "medicine_383",
+      "medicine_386",
+      "medicine_418",
+      "medicine_456",
+      "medicine_465",
+      "medicine_501",
+      "medicine_503"
+    ],
     "related_formulas": [
       "formula_037",
       "formula_038",
@@ -3036,7 +5763,27 @@
       "湿浊中阻",
       "脘痞"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_039",
+      "medicine_042",
+      "medicine_074",
+      "medicine_230",
+      "medicine_237",
+      "medicine_241",
+      "medicine_258",
+      "medicine_259",
+      "medicine_300",
+      "medicine_308",
+      "medicine_344",
+      "medicine_346",
+      "medicine_351",
+      "medicine_353",
+      "medicine_404",
+      "medicine_431",
+      "medicine_481",
+      "medicine_506",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_072"
     ],
@@ -3045,7 +5792,7 @@
   {
     "id": "effect_149",
     "name": "理气化痰",
-    "description": "化解痰浊的治疗作用",
+    "description": "通过行气药物配合化痰药物，调畅气机并消除痰浊，改善胸闷咳喘的治疗作用",
     "mechanism": "通过化痰药物，溶解和排除病理痰浊",
     "indications": [
       "咳嗽痰多",
@@ -3053,7 +5800,21 @@
       "痰证",
       "胸闷"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_003",
+      "medicine_187",
+      "medicine_193",
+      "medicine_282",
+      "medicine_332",
+      "medicine_362",
+      "medicine_375",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_435",
+      "medicine_437",
+      "medicine_478"
+    ],
     "related_formulas": [
       "formula_064",
       "formula_116"
@@ -3068,7 +5829,10 @@
     "description": "理气和中的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥理气和中的作用",
     "indications": [
-      "适应证"
+      "涤痰开窍",
+      "燥湿化痰",
+      "理气和中",
+      "解表化湿"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -3095,7 +5859,71 @@
       "咳痰",
       "咽痒"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_001",
+      "medicine_003",
+      "medicine_010",
+      "medicine_014",
+      "medicine_015",
+      "medicine_024",
+      "medicine_044",
+      "medicine_062",
+      "medicine_064",
+      "medicine_065",
+      "medicine_066",
+      "medicine_101",
+      "medicine_103",
+      "medicine_119",
+      "medicine_143",
+      "medicine_156",
+      "medicine_183",
+      "medicine_185",
+      "medicine_187",
+      "medicine_188",
+      "medicine_189",
+      "medicine_192",
+      "medicine_193",
+      "medicine_202",
+      "medicine_203",
+      "medicine_204",
+      "medicine_205",
+      "medicine_242",
+      "medicine_248",
+      "medicine_270",
+      "medicine_278",
+      "medicine_282",
+      "medicine_304",
+      "medicine_322",
+      "medicine_330",
+      "medicine_362",
+      "medicine_375",
+      "medicine_386",
+      "medicine_391",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
+      "medicine_403",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_412",
+      "medicine_414",
+      "medicine_415",
+      "medicine_426",
+      "medicine_429",
+      "medicine_434",
+      "medicine_435",
+      "medicine_437",
+      "medicine_457",
+      "medicine_459",
+      "medicine_460",
+      "medicine_463",
+      "medicine_465",
+      "medicine_475",
+      "medicine_476",
+      "medicine_478",
+      "medicine_490"
+    ],
     "related_formulas": [
       "formula_065"
     ],
@@ -3118,7 +5946,11 @@
       "皮肤干燥"
     ],
     "related_medicines": [
-      "medicine_376"
+      "medicine_079",
+      "medicine_243",
+      "medicine_254",
+      "medicine_376",
+      "medicine_415"
     ],
     "related_formulas": [
       "formula_138"
@@ -3137,7 +5969,13 @@
       "肝郁证",
       "胸胁胀痛"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_172",
+      "medicine_217",
+      "medicine_343",
+      "medicine_355",
+      "medicine_446"
+    ],
     "related_formulas": [
       "formula_058"
     ],
@@ -3153,7 +5991,71 @@
       "咳痰",
       "咽痒"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_001",
+      "medicine_003",
+      "medicine_010",
+      "medicine_014",
+      "medicine_015",
+      "medicine_024",
+      "medicine_044",
+      "medicine_062",
+      "medicine_064",
+      "medicine_065",
+      "medicine_066",
+      "medicine_101",
+      "medicine_103",
+      "medicine_119",
+      "medicine_143",
+      "medicine_156",
+      "medicine_183",
+      "medicine_185",
+      "medicine_187",
+      "medicine_188",
+      "medicine_189",
+      "medicine_192",
+      "medicine_193",
+      "medicine_202",
+      "medicine_203",
+      "medicine_204",
+      "medicine_205",
+      "medicine_242",
+      "medicine_248",
+      "medicine_270",
+      "medicine_278",
+      "medicine_282",
+      "medicine_304",
+      "medicine_322",
+      "medicine_330",
+      "medicine_362",
+      "medicine_375",
+      "medicine_386",
+      "medicine_391",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
+      "medicine_403",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_412",
+      "medicine_414",
+      "medicine_415",
+      "medicine_426",
+      "medicine_429",
+      "medicine_434",
+      "medicine_435",
+      "medicine_437",
+      "medicine_457",
+      "medicine_459",
+      "medicine_460",
+      "medicine_463",
+      "medicine_465",
+      "medicine_475",
+      "medicine_476",
+      "medicine_478",
+      "medicine_490"
+    ],
     "related_formulas": [
       "formula_067"
     ],
@@ -3172,7 +6074,95 @@
       "痹痛",
       "腹痛"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_104",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
+      "medicine_151",
+      "medicine_152",
+      "medicine_162",
+      "medicine_165",
+      "medicine_170",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_226",
+      "medicine_236",
+      "medicine_238",
+      "medicine_242",
+      "medicine_256",
+      "medicine_272",
+      "medicine_275",
+      "medicine_298",
+      "medicine_307",
+      "medicine_314",
+      "medicine_315",
+      "medicine_318",
+      "medicine_321",
+      "medicine_338",
+      "medicine_339",
+      "medicine_340",
+      "medicine_341",
+      "medicine_342",
+      "medicine_343",
+      "medicine_344",
+      "medicine_345",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_371",
+      "medicine_379",
+      "medicine_381",
+      "medicine_387",
+      "medicine_390",
+      "medicine_397",
+      "medicine_402",
+      "medicine_403",
+      "medicine_405",
+      "medicine_408",
+      "medicine_412",
+      "medicine_421",
+      "medicine_431",
+      "medicine_432",
+      "medicine_443",
+      "medicine_444",
+      "medicine_445",
+      "medicine_446",
+      "medicine_447",
+      "medicine_448",
+      "medicine_468",
+      "medicine_469",
+      "medicine_477",
+      "medicine_480",
+      "medicine_486",
+      "medicine_488",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492"
+    ],
     "related_formulas": [
       "formula_080"
     ],
@@ -3183,7 +6173,7 @@
   {
     "id": "effect_156",
     "name": "疏风清热",
-    "description": "清除热邪的治疗作用",
+    "description": "通过辛凉疏风药物疏散外风，配合清热药物清除体内热邪，解表清里的复合治疗作用",
     "mechanism": "通过药物的寒凉性质，清除体内的热邪",
     "indications": [
       "发热",
@@ -3191,7 +6181,20 @@
       "烦躁",
       "热证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_013",
+      "medicine_020",
+      "medicine_023",
+      "medicine_113",
+      "medicine_114",
+      "medicine_115",
+      "medicine_249",
+      "medicine_254",
+      "medicine_415",
+      "medicine_464",
+      "medicine_494",
+      "medicine_496"
+    ],
     "related_formulas": [
       "formula_004",
       "formula_081",
@@ -3214,7 +6217,8 @@
     "description": "疏风除湿的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥疏风除湿的作用",
     "indications": [
-      "适应证"
+      "清热养血",
+      "疏风除湿"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -3238,8 +6242,34 @@
       "面色萎黄"
     ],
     "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_214",
+      "medicine_216",
+      "medicine_218",
+      "medicine_230",
+      "medicine_246",
       "medicine_264",
-      "medicine_462"
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_368",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389",
+      "medicine_462",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
     ],
     "related_formulas": [
       "formula_139"
@@ -3263,7 +6293,12 @@
       "自汗",
       "阴虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
     "related_formulas": [
       "formula_093",
       "formula_137"
@@ -3283,7 +6318,12 @@
       "神疲乏力",
       "自汗"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
     "related_formulas": [
       "formula_140"
     ],
@@ -3303,7 +6343,12 @@
       "神疲乏力",
       "自汗"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
     "related_formulas": [
       "formula_113"
     ],
@@ -3326,7 +6371,12 @@
       "脘痞",
       "自汗"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
     "related_formulas": [
       "formula_094",
       "formula_095"
@@ -3344,7 +6394,12 @@
       "神疲乏力",
       "自汗"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
     "related_formulas": [
       "formula_086"
     ],
@@ -3364,7 +6419,13 @@
       "神疲乏力",
       "自汗"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389",
+      "medicine_493"
+    ],
     "related_formulas": [
       "formula_029"
     ],
@@ -3388,7 +6449,13 @@
       "自汗"
     ],
     "related_medicines": [
-      "medicine_084"
+      "medicine_084",
+      "medicine_254",
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389",
+      "medicine_415"
     ],
     "related_formulas": [
       "formula_034"
@@ -3413,7 +6480,24 @@
       "血虚证",
       "面色苍白"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389",
+      "medicine_467",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_033",
       "formula_141"
@@ -3434,7 +6518,12 @@
       "神疲乏力",
       "自汗"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
     "related_formulas": [
       "formula_099"
     ],
@@ -3454,7 +6543,18 @@
       "神疲乏力",
       "自汗"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_122",
+      "medicine_184",
+      "medicine_191",
+      "medicine_293",
+      "medicine_365",
+      "medicine_368",
+      "medicine_370",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
     "related_formulas": [
       "formula_133"
     ],
@@ -3468,7 +6568,9 @@
     "description": "益肝肾的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥益肝肾的作用",
     "indications": [
-      "适应证"
+      "止痹痛",
+      "益肝肾",
+      "祛风湿"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -3494,7 +6596,11 @@
       "经闭不通",
       "顽瘀重证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_390",
+      "medicine_438",
+      "medicine_439"
+    ],
     "related_formulas": [
       "formula_091"
     ],
@@ -3511,7 +6617,29 @@
       "脉浮",
       "表证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_092",
+      "medicine_127",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_321",
+      "medicine_352",
+      "medicine_469"
+    ],
     "related_formulas": [
       "formula_143"
     ],
@@ -3531,7 +6659,26 @@
       "脘痞",
       "身体困重"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_039",
+      "medicine_042",
+      "medicine_074",
+      "medicine_230",
+      "medicine_237",
+      "medicine_241",
+      "medicine_258",
+      "medicine_259",
+      "medicine_300",
+      "medicine_308",
+      "medicine_344",
+      "medicine_346",
+      "medicine_351",
+      "medicine_353",
+      "medicine_431",
+      "medicine_481",
+      "medicine_506",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_022"
     ],
@@ -3551,7 +6698,24 @@
       "气喘",
       "痰浊内阻"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_001",
+      "medicine_003",
+      "medicine_065",
+      "medicine_187",
+      "medicine_193",
+      "medicine_203",
+      "medicine_282",
+      "medicine_362",
+      "medicine_375",
+      "medicine_403",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_435",
+      "medicine_437",
+      "medicine_478"
+    ],
     "related_formulas": [
       "formula_053"
     ],
@@ -3571,8 +6735,69 @@
       "痰浊内阻"
     ],
     "related_medicines": [
+      "medicine_001",
+      "medicine_003",
+      "medicine_010",
+      "medicine_014",
+      "medicine_015",
+      "medicine_024",
+      "medicine_044",
+      "medicine_062",
+      "medicine_064",
+      "medicine_065",
+      "medicine_066",
+      "medicine_101",
+      "medicine_103",
+      "medicine_119",
+      "medicine_143",
+      "medicine_156",
+      "medicine_183",
+      "medicine_185",
+      "medicine_187",
+      "medicine_188",
+      "medicine_189",
+      "medicine_192",
+      "medicine_193",
+      "medicine_202",
+      "medicine_203",
+      "medicine_204",
+      "medicine_205",
+      "medicine_242",
+      "medicine_248",
       "medicine_270",
-      "medicine_437"
+      "medicine_278",
+      "medicine_282",
+      "medicine_304",
+      "medicine_322",
+      "medicine_330",
+      "medicine_362",
+      "medicine_375",
+      "medicine_386",
+      "medicine_391",
+      "medicine_399",
+      "medicine_400",
+      "medicine_401",
+      "medicine_403",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_412",
+      "medicine_414",
+      "medicine_415",
+      "medicine_426",
+      "medicine_429",
+      "medicine_434",
+      "medicine_435",
+      "medicine_437",
+      "medicine_457",
+      "medicine_459",
+      "medicine_460",
+      "medicine_463",
+      "medicine_465",
+      "medicine_475",
+      "medicine_476",
+      "medicine_478",
+      "medicine_490"
     ],
     "related_formulas": [
       "formula_146"
@@ -3596,7 +6821,91 @@
       "风疹",
       "风证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_003",
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_104",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
+      "medicine_165",
+      "medicine_170",
+      "medicine_173",
+      "medicine_187",
+      "medicine_193",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_256",
+      "medicine_275",
+      "medicine_282",
+      "medicine_298",
+      "medicine_314",
+      "medicine_315",
+      "medicine_318",
+      "medicine_321",
+      "medicine_332",
+      "medicine_338",
+      "medicine_339",
+      "medicine_340",
+      "medicine_341",
+      "medicine_342",
+      "medicine_343",
+      "medicine_344",
+      "medicine_345",
+      "medicine_352",
+      "medicine_362",
+      "medicine_375",
+      "medicine_379",
+      "medicine_397",
+      "medicine_402",
+      "medicine_403",
+      "medicine_405",
+      "medicine_408",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_412",
+      "medicine_421",
+      "medicine_431",
+      "medicine_435",
+      "medicine_437",
+      "medicine_443",
+      "medicine_444",
+      "medicine_445",
+      "medicine_447",
+      "medicine_468",
+      "medicine_469",
+      "medicine_477",
+      "medicine_478",
+      "medicine_480",
+      "medicine_486",
+      "medicine_488",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492"
+    ],
     "related_formulas": [
       "formula_149"
     ],
@@ -3616,9 +6925,25 @@
       "风证"
     ],
     "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
       "medicine_032",
       "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
       "medicine_090",
+      "medicine_091",
+      "medicine_104",
       "medicine_120",
       "medicine_121",
       "medicine_124",
@@ -3628,15 +6953,52 @@
       "medicine_128",
       "medicine_131",
       "medicine_132",
+      "medicine_165",
+      "medicine_170",
+      "medicine_173",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_256",
+      "medicine_275",
+      "medicine_298",
+      "medicine_314",
       "medicine_315",
+      "medicine_318",
+      "medicine_321",
       "medicine_338",
       "medicine_339",
+      "medicine_340",
       "medicine_341",
+      "medicine_342",
+      "medicine_343",
       "medicine_344",
       "medicine_345",
+      "medicine_352",
+      "medicine_379",
+      "medicine_397",
       "medicine_402",
+      "medicine_403",
       "medicine_405",
-      "medicine_486"
+      "medicine_408",
+      "medicine_412",
+      "medicine_421",
+      "medicine_431",
+      "medicine_443",
+      "medicine_444",
+      "medicine_445",
+      "medicine_447",
+      "medicine_468",
+      "medicine_469",
+      "medicine_477",
+      "medicine_480",
+      "medicine_486",
+      "medicine_488",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492"
     ],
     "related_formulas": [
       "formula_077",
@@ -3664,7 +7026,96 @@
       "风疹",
       "风证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_104",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
+      "medicine_151",
+      "medicine_152",
+      "medicine_162",
+      "medicine_165",
+      "medicine_170",
+      "medicine_173",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_226",
+      "medicine_236",
+      "medicine_238",
+      "medicine_242",
+      "medicine_256",
+      "medicine_272",
+      "medicine_275",
+      "medicine_298",
+      "medicine_307",
+      "medicine_314",
+      "medicine_315",
+      "medicine_318",
+      "medicine_321",
+      "medicine_338",
+      "medicine_339",
+      "medicine_340",
+      "medicine_341",
+      "medicine_342",
+      "medicine_343",
+      "medicine_344",
+      "medicine_345",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_371",
+      "medicine_379",
+      "medicine_381",
+      "medicine_387",
+      "medicine_390",
+      "medicine_397",
+      "medicine_402",
+      "medicine_403",
+      "medicine_405",
+      "medicine_408",
+      "medicine_412",
+      "medicine_421",
+      "medicine_431",
+      "medicine_432",
+      "medicine_443",
+      "medicine_444",
+      "medicine_445",
+      "medicine_446",
+      "medicine_447",
+      "medicine_448",
+      "medicine_468",
+      "medicine_469",
+      "medicine_477",
+      "medicine_480",
+      "medicine_486",
+      "medicine_488",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492"
+    ],
     "related_formulas": [
       "formula_078"
     ],
@@ -3687,7 +7138,15 @@
       "虚喘"
     ],
     "related_medicines": [
-      "medicine_148"
+      "medicine_001",
+      "medicine_065",
+      "medicine_084",
+      "medicine_148",
+      "medicine_203",
+      "medicine_262",
+      "medicine_263",
+      "medicine_362",
+      "medicine_403"
     ],
     "related_formulas": [
       "formula_135"
@@ -3702,7 +7161,7 @@
     "description": "缓下热结的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥缓下热结的作用",
     "indications": [
-      "适应证"
+      "缓下热结"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -3719,7 +7178,8 @@
     "description": "缓消癥块的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥缓消癥块的作用",
     "indications": [
-      "适应证"
+      "活血化瘀",
+      "缓消癥块"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -3734,7 +7194,8 @@
     "description": "缩尿止遗的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥缩尿止遗的作用",
     "indications": [
-      "适应证"
+      "温肾祛寒",
+      "缩尿止遗"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -3755,7 +7216,24 @@
       "癫痫",
       "神昏"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_071",
+      "medicine_164",
+      "medicine_184",
+      "medicine_190",
+      "medicine_191",
+      "medicine_223",
+      "medicine_224",
+      "medicine_225",
+      "medicine_293",
+      "medicine_365",
+      "medicine_370",
+      "medicine_371",
+      "medicine_374",
+      "medicine_393",
+      "medicine_408",
+      "medicine_434"
+    ],
     "related_formulas": [
       "formula_047"
     ],
@@ -3771,7 +7249,17 @@
       "胸胁胀痛",
       "脘腹胀满"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_036",
+      "medicine_172",
+      "medicine_217",
+      "medicine_279",
+      "medicine_343",
+      "medicine_355",
+      "medicine_404",
+      "medicine_446",
+      "medicine_495"
+    ],
     "related_formulas": [
       "formula_130"
     ],
@@ -3794,7 +7282,16 @@
       "脘腹胀满"
     ],
     "related_medicines": [
-      "medicine_003"
+      "medicine_003",
+      "medicine_036",
+      "medicine_172",
+      "medicine_217",
+      "medicine_279",
+      "medicine_343",
+      "medicine_355",
+      "medicine_404",
+      "medicine_446",
+      "medicine_495"
     ],
     "related_formulas": [
       "formula_072"
@@ -3816,7 +7313,72 @@
       "脘腹胀满"
     ],
     "related_medicines": [
-      "medicine_151"
+      "medicine_036",
+      "medicine_050",
+      "medicine_051",
+      "medicine_055",
+      "medicine_063",
+      "medicine_098",
+      "medicine_099",
+      "medicine_151",
+      "medicine_166",
+      "medicine_167",
+      "medicine_172",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_195",
+      "medicine_196",
+      "medicine_197",
+      "medicine_198",
+      "medicine_199",
+      "medicine_200",
+      "medicine_217",
+      "medicine_219",
+      "medicine_279",
+      "medicine_294",
+      "medicine_300",
+      "medicine_303",
+      "medicine_310",
+      "medicine_312",
+      "medicine_320",
+      "medicine_325",
+      "medicine_331",
+      "medicine_332",
+      "medicine_333",
+      "medicine_334",
+      "medicine_335",
+      "medicine_343",
+      "medicine_350",
+      "medicine_355",
+      "medicine_360",
+      "medicine_368",
+      "medicine_382",
+      "medicine_390",
+      "medicine_395",
+      "medicine_404",
+      "medicine_423",
+      "medicine_424",
+      "medicine_425",
+      "medicine_427",
+      "medicine_428",
+      "medicine_430",
+      "medicine_437",
+      "medicine_438",
+      "medicine_439",
+      "medicine_446",
+      "medicine_455",
+      "medicine_470",
+      "medicine_473",
+      "medicine_477",
+      "medicine_482",
+      "medicine_483",
+      "medicine_484",
+      "medicine_489",
+      "medicine_495",
+      "medicine_497",
+      "medicine_498",
+      "medicine_500"
     ],
     "related_formulas": [
       "formula_052"
@@ -3841,15 +7403,104 @@
       "腹痛"
     ],
     "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_033",
+      "medicine_034",
+      "medicine_035",
+      "medicine_036",
       "medicine_045",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_082",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_104",
+      "medicine_124",
+      "medicine_125",
+      "medicine_126",
+      "medicine_127",
+      "medicine_128",
+      "medicine_131",
+      "medicine_132",
       "medicine_148",
       "medicine_149",
       "medicine_150",
+      "medicine_151",
       "medicine_152",
+      "medicine_162",
+      "medicine_165",
+      "medicine_170",
+      "medicine_172",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_222",
+      "medicine_226",
+      "medicine_236",
       "medicine_238",
+      "medicine_242",
+      "medicine_256",
+      "medicine_272",
+      "medicine_275",
+      "medicine_279",
+      "medicine_298",
+      "medicine_307",
+      "medicine_314",
+      "medicine_315",
+      "medicine_318",
+      "medicine_321",
+      "medicine_338",
+      "medicine_339",
+      "medicine_340",
+      "medicine_341",
+      "medicine_342",
+      "medicine_343",
+      "medicine_344",
+      "medicine_345",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_355",
+      "medicine_371",
+      "medicine_379",
+      "medicine_381",
+      "medicine_387",
+      "medicine_390",
+      "medicine_397",
+      "medicine_402",
+      "medicine_403",
+      "medicine_404",
+      "medicine_405",
       "medicine_408",
+      "medicine_412",
+      "medicine_421",
+      "medicine_431",
+      "medicine_432",
+      "medicine_443",
       "medicine_444",
-      "medicine_493"
+      "medicine_445",
+      "medicine_446",
+      "medicine_447",
+      "medicine_448",
+      "medicine_468",
+      "medicine_469",
+      "medicine_477",
+      "medicine_480",
+      "medicine_486",
+      "medicine_488",
+      "medicine_490",
+      "medicine_491",
+      "medicine_492",
+      "medicine_493",
+      "medicine_495"
     ],
     "related_formulas": [
       "formula_047",
@@ -3878,7 +7529,17 @@
       "胸胁胀痛",
       "脘腹胀满"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_036",
+      "medicine_172",
+      "medicine_217",
+      "medicine_279",
+      "medicine_343",
+      "medicine_355",
+      "medicine_404",
+      "medicine_446",
+      "medicine_495"
+    ],
     "related_formulas": [
       "formula_054"
     ],
@@ -3900,7 +7561,42 @@
       "胸胁胀痛",
       "脘腹胀满"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_030",
+      "medicine_031",
+      "medicine_036",
+      "medicine_060",
+      "medicine_065",
+      "medicine_117",
+      "medicine_118",
+      "medicine_119",
+      "medicine_172",
+      "medicine_194",
+      "medicine_201",
+      "medicine_211",
+      "medicine_217",
+      "medicine_243",
+      "medicine_265",
+      "medicine_266",
+      "medicine_267",
+      "medicine_271",
+      "medicine_279",
+      "medicine_321",
+      "medicine_343",
+      "medicine_355",
+      "medicine_363",
+      "medicine_376",
+      "medicine_377",
+      "medicine_378",
+      "medicine_391",
+      "medicine_404",
+      "medicine_446",
+      "medicine_454",
+      "medicine_469",
+      "medicine_473",
+      "medicine_495",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_017"
     ],
@@ -3922,7 +7618,11 @@
     ],
     "related_medicines": [
       "medicine_242",
-      "medicine_372"
+      "medicine_368",
+      "medicine_372",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
     ],
     "related_formulas": [
       "formula_031"
@@ -3945,7 +7645,30 @@
       "心神不宁",
       "怔忡"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_213",
+      "medicine_214",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_045",
       "formula_120"
@@ -3968,7 +7691,22 @@
       "腹胀",
       "食少便溏"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_036",
+      "medicine_045",
+      "medicine_073",
+      "medicine_074",
+      "medicine_148",
+      "medicine_228",
+      "medicine_236",
+      "medicine_279",
+      "medicine_357",
+      "medicine_404",
+      "medicine_414",
+      "medicine_449",
+      "medicine_495",
+      "medicine_499"
+    ],
     "related_formulas": [
       "formula_096"
     ],
@@ -3988,7 +7726,26 @@
       "经闭",
       "血瘀证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_054",
+      "medicine_059",
+      "medicine_171",
+      "medicine_173",
+      "medicine_175",
+      "medicine_179",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_200",
+      "medicine_310",
+      "medicine_365",
+      "medicine_375",
+      "medicine_382",
+      "medicine_390",
+      "medicine_438",
+      "medicine_439",
+      "medicine_440"
+    ],
     "related_formulas": [
       "formula_056"
     ],
@@ -4049,10 +7806,14 @@
   {
     "id": "effect_195",
     "name": "补益肝肾",
-    "description": "补益肝肾的治疗作用",
-    "mechanism": "通过相关药物的配伍，发挥补益肝肾的作用",
+    "description": "通过补益肝肾药物，增强肝肾功能，改善精血亏虚，强壮筋骨的治疗作用",
+    "mechanism": "通过补益肝肾药物，增强肝肾功能，改善精血亏虚，强壮筋骨的治疗作用",
     "indications": [
-      "适应证"
+      "平肝息风",
+      "清热活血",
+      "眩晕耳鸣",
+      "腰膝酸痛",
+      "补益肝肾"
     ],
     "related_medicines": [
       "medicine_085"
@@ -4077,7 +7838,12 @@
       "肺虚证",
       "自汗"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_368",
+      "medicine_384",
+      "medicine_385",
+      "medicine_389"
+    ],
     "related_formulas": [
       "formula_068"
     ],
@@ -4097,10 +7863,43 @@
       "遗精"
     ],
     "related_medicines": [
+      "medicine_085",
+      "medicine_131",
+      "medicine_132",
+      "medicine_169",
+      "medicine_210",
+      "medicine_230",
+      "medicine_231",
+      "medicine_232",
+      "medicine_233",
       "medicine_234",
+      "medicine_235",
+      "medicine_253",
       "medicine_256",
+      "medicine_257",
+      "medicine_258",
+      "medicine_259",
+      "medicine_260",
+      "medicine_261",
+      "medicine_262",
       "medicine_265",
-      "medicine_266"
+      "medicine_266",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_368",
+      "medicine_369",
+      "medicine_373",
+      "medicine_376",
+      "medicine_380",
+      "medicine_382",
+      "medicine_383",
+      "medicine_386",
+      "medicine_418",
+      "medicine_456",
+      "medicine_465",
+      "medicine_501",
+      "medicine_503"
     ],
     "related_formulas": [
       "formula_042"
@@ -4122,7 +7921,46 @@
       "腰膝酸软",
       "遗精"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_084",
+      "medicine_085",
+      "medicine_131",
+      "medicine_132",
+      "medicine_169",
+      "medicine_210",
+      "medicine_230",
+      "medicine_231",
+      "medicine_232",
+      "medicine_233",
+      "medicine_234",
+      "medicine_235",
+      "medicine_253",
+      "medicine_257",
+      "medicine_258",
+      "medicine_259",
+      "medicine_260",
+      "medicine_261",
+      "medicine_262",
+      "medicine_265",
+      "medicine_315",
+      "medicine_339",
+      "medicine_345",
+      "medicine_368",
+      "medicine_369",
+      "medicine_373",
+      "medicine_376",
+      "medicine_380",
+      "medicine_381",
+      "medicine_382",
+      "medicine_383",
+      "medicine_386",
+      "medicine_418",
+      "medicine_456",
+      "medicine_461",
+      "medicine_465",
+      "medicine_501",
+      "medicine_503"
+    ],
     "related_formulas": [
       "formula_049"
     ],
@@ -4141,7 +7979,16 @@
       "脾虚证",
       "食少"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_073",
+      "medicine_074",
+      "medicine_372",
+      "medicine_375",
+      "medicine_414",
+      "medicine_458",
+      "medicine_491",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_022"
     ],
@@ -4165,7 +8012,21 @@
       "脾虚证",
       "食少"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_073",
+      "medicine_074",
+      "medicine_172",
+      "medicine_217",
+      "medicine_343",
+      "medicine_355",
+      "medicine_372",
+      "medicine_375",
+      "medicine_414",
+      "medicine_446",
+      "medicine_458",
+      "medicine_491",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_088"
     ],
@@ -4187,7 +8048,36 @@
       "面色苍白"
     ],
     "related_medicines": [
-      "medicine_075"
+      "medicine_054",
+      "medicine_059",
+      "medicine_067",
+      "medicine_068",
+      "medicine_075",
+      "medicine_171",
+      "medicine_173",
+      "medicine_175",
+      "medicine_179",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_200",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_310",
+      "medicine_365",
+      "medicine_375",
+      "medicine_382",
+      "medicine_390",
+      "medicine_438",
+      "medicine_439",
+      "medicine_440",
+      "medicine_467",
+      "medicine_505",
+      "medicine_510"
     ],
     "related_formulas": [
       "formula_035"
@@ -4214,7 +8104,31 @@
       "脘痞",
       "表证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_092",
+      "medicine_127",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_321",
+      "medicine_352",
+      "medicine_404",
+      "medicine_469",
+      "medicine_509"
+    ],
     "related_formulas": [
       "formula_073",
       "formula_106"
@@ -4241,9 +8155,38 @@
     ],
     "related_medicines": [
       "medicine_003",
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_042",
+      "medicine_043",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
       "medicine_087",
       "medicine_088",
-      "medicine_318"
+      "medicine_089",
+      "medicine_091",
+      "medicine_092",
+      "medicine_120",
+      "medicine_127",
+      "medicine_145",
+      "medicine_149",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_224",
+      "medicine_237",
+      "medicine_318",
+      "medicine_321",
+      "medicine_352",
+      "medicine_379",
+      "medicine_381",
+      "medicine_412",
+      "medicine_469"
     ],
     "related_formulas": [
       "formula_089"
@@ -4261,7 +8204,29 @@
       "脉浮",
       "表证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_005",
+      "medicine_006",
+      "medicine_007",
+      "medicine_011",
+      "medicine_013",
+      "medicine_057",
+      "medicine_069",
+      "medicine_070",
+      "medicine_087",
+      "medicine_088",
+      "medicine_089",
+      "medicine_091",
+      "medicine_092",
+      "medicine_127",
+      "medicine_215",
+      "medicine_216",
+      "medicine_217",
+      "medicine_219",
+      "medicine_321",
+      "medicine_352",
+      "medicine_469"
+    ],
     "related_formulas": [
       "formula_150"
     ],
@@ -4297,7 +8262,8 @@
     "description": "调气和血的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥调气和血的作用",
     "indications": [
-      "适应证"
+      "清热燥湿",
+      "调气和血"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -4313,7 +8279,8 @@
     "description": "调补心肾的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥调补心肾的作用",
     "indications": [
-      "适应证"
+      "涩精止遗",
+      "调补心肾"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -4327,7 +8294,7 @@
     "description": "轻下热结的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥轻下热结的作用",
     "indications": [
-      "适应证"
+      "轻下热结"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -4343,7 +8310,8 @@
     "description": "辛凉宣泄的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥辛凉宣泄的作用",
     "indications": [
-      "适应证"
+      "清肺平喘",
+      "辛凉宣泄"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -4364,7 +8332,8 @@
     "description": "辛凉透表的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥辛凉透表的作用",
     "indications": [
-      "适应证"
+      "清热解毒",
+      "辛凉透表"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -4394,7 +8363,27 @@
       "身黄",
       "黄疸"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_016",
+      "medicine_144",
+      "medicine_336",
+      "medicine_338",
+      "medicine_347",
+      "medicine_348",
+      "medicine_349",
+      "medicine_350",
+      "medicine_406",
+      "medicine_411",
+      "medicine_440",
+      "medicine_450",
+      "medicine_451",
+      "medicine_453",
+      "medicine_455",
+      "medicine_481",
+      "medicine_482",
+      "medicine_488",
+      "medicine_495"
+    ],
     "related_formulas": [
       "formula_074"
     ],
@@ -4419,7 +8408,9 @@
       "热退无汗",
       "阴虚证"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_028"
+    ],
     "related_formulas": [
       "formula_101"
     ],
@@ -4451,7 +8442,33 @@
       "大便干结",
       "排便困难"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_030",
+      "medicine_031",
+      "medicine_060",
+      "medicine_065",
+      "medicine_117",
+      "medicine_118",
+      "medicine_119",
+      "medicine_194",
+      "medicine_201",
+      "medicine_211",
+      "medicine_243",
+      "medicine_265",
+      "medicine_266",
+      "medicine_267",
+      "medicine_271",
+      "medicine_321",
+      "medicine_363",
+      "medicine_376",
+      "medicine_377",
+      "medicine_378",
+      "medicine_391",
+      "medicine_454",
+      "medicine_469",
+      "medicine_473",
+      "medicine_508"
+    ],
     "related_formulas": [
       "formula_091"
     ],
@@ -4463,7 +8480,8 @@
     "description": "通络止痉的治疗作用",
     "mechanism": "通过相关药物的配伍，发挥通络止痉的作用",
     "indications": [
-      "适应证"
+      "祛风化痰",
+      "通络止痉"
     ],
     "related_medicines": [],
     "related_formulas": [
@@ -4485,7 +8503,63 @@
       "癥瘕"
     ],
     "related_medicines": [
-      "medicine_354"
+      "medicine_050",
+      "medicine_051",
+      "medicine_055",
+      "medicine_063",
+      "medicine_098",
+      "medicine_099",
+      "medicine_166",
+      "medicine_167",
+      "medicine_180",
+      "medicine_181",
+      "medicine_182",
+      "medicine_195",
+      "medicine_196",
+      "medicine_197",
+      "medicine_198",
+      "medicine_199",
+      "medicine_200",
+      "medicine_219",
+      "medicine_294",
+      "medicine_300",
+      "medicine_303",
+      "medicine_310",
+      "medicine_312",
+      "medicine_320",
+      "medicine_325",
+      "medicine_331",
+      "medicine_332",
+      "medicine_333",
+      "medicine_334",
+      "medicine_335",
+      "medicine_350",
+      "medicine_354",
+      "medicine_360",
+      "medicine_368",
+      "medicine_382",
+      "medicine_390",
+      "medicine_395",
+      "medicine_423",
+      "medicine_424",
+      "medicine_425",
+      "medicine_427",
+      "medicine_428",
+      "medicine_430",
+      "medicine_437",
+      "medicine_438",
+      "medicine_439",
+      "medicine_455",
+      "medicine_470",
+      "medicine_473",
+      "medicine_477",
+      "medicine_482",
+      "medicine_483",
+      "medicine_484",
+      "medicine_489",
+      "medicine_497",
+      "medicine_498",
+      "medicine_500"
     ],
     "related_formulas": [
       "formula_053"
@@ -4507,9 +8581,31 @@
       "癫痫"
     ],
     "related_medicines": [
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_122",
+      "medicine_184",
+      "medicine_191",
       "medicine_209",
       "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_213",
+      "medicine_214",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_293",
       "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
       "medicine_510"
     ],
     "related_formulas": [
@@ -4535,11 +8631,50 @@
       "胸闷"
     ],
     "related_medicines": [
+      "medicine_003",
+      "medicine_004",
+      "medicine_018",
+      "medicine_042",
+      "medicine_049",
+      "medicine_062",
+      "medicine_106",
+      "medicine_135",
+      "medicine_136",
+      "medicine_146",
+      "medicine_148",
       "medicine_187",
+      "medicine_189",
+      "medicine_190",
       "medicine_192",
+      "medicine_193",
       "medicine_201",
+      "medicine_205",
+      "medicine_206",
+      "medicine_207",
+      "medicine_213",
+      "medicine_237",
+      "medicine_238",
       "medicine_282",
-      "medicine_362"
+      "medicine_308",
+      "medicine_332",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_358",
+      "medicine_362",
+      "medicine_369",
+      "medicine_375",
+      "medicine_404",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_432",
+      "medicine_433",
+      "medicine_435",
+      "medicine_437",
+      "medicine_458",
+      "medicine_462",
+      "medicine_478"
     ],
     "related_formulas": [
       "formula_068"
@@ -4562,7 +8697,43 @@
       "胃气上逆",
       "胸闷"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_001",
+      "medicine_004",
+      "medicine_018",
+      "medicine_042",
+      "medicine_049",
+      "medicine_062",
+      "medicine_065",
+      "medicine_106",
+      "medicine_135",
+      "medicine_136",
+      "medicine_146",
+      "medicine_148",
+      "medicine_187",
+      "medicine_189",
+      "medicine_190",
+      "medicine_203",
+      "medicine_205",
+      "medicine_206",
+      "medicine_207",
+      "medicine_213",
+      "medicine_237",
+      "medicine_238",
+      "medicine_308",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_358",
+      "medicine_362",
+      "medicine_369",
+      "medicine_403",
+      "medicine_404",
+      "medicine_432",
+      "medicine_433",
+      "medicine_458",
+      "medicine_462"
+    ],
     "related_formulas": [
       "formula_146"
     ],
@@ -4581,7 +8752,39 @@
       "咳喘",
       "嗳气"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_004",
+      "medicine_018",
+      "medicine_042",
+      "medicine_049",
+      "medicine_062",
+      "medicine_106",
+      "medicine_135",
+      "medicine_136",
+      "medicine_146",
+      "medicine_148",
+      "medicine_187",
+      "medicine_189",
+      "medicine_190",
+      "medicine_205",
+      "medicine_206",
+      "medicine_207",
+      "medicine_213",
+      "medicine_237",
+      "medicine_238",
+      "medicine_280",
+      "medicine_308",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_358",
+      "medicine_369",
+      "medicine_404",
+      "medicine_432",
+      "medicine_433",
+      "medicine_458",
+      "medicine_462"
+    ],
     "related_formulas": [
       "formula_100"
     ],
@@ -4604,7 +8807,51 @@
       "痰证",
       "胸闷"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_003",
+      "medicine_004",
+      "medicine_018",
+      "medicine_042",
+      "medicine_049",
+      "medicine_062",
+      "medicine_106",
+      "medicine_135",
+      "medicine_136",
+      "medicine_146",
+      "medicine_148",
+      "medicine_187",
+      "medicine_189",
+      "medicine_190",
+      "medicine_193",
+      "medicine_205",
+      "medicine_206",
+      "medicine_207",
+      "medicine_213",
+      "medicine_237",
+      "medicine_238",
+      "medicine_280",
+      "medicine_282",
+      "medicine_308",
+      "medicine_332",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_358",
+      "medicine_362",
+      "medicine_369",
+      "medicine_375",
+      "medicine_404",
+      "medicine_409",
+      "medicine_410",
+      "medicine_411",
+      "medicine_432",
+      "medicine_433",
+      "medicine_435",
+      "medicine_437",
+      "medicine_458",
+      "medicine_462",
+      "medicine_478"
+    ],
     "related_formulas": [
       "formula_052",
       "formula_095"
@@ -4626,10 +8873,37 @@
       "嗳气"
     ],
     "related_medicines": [
+      "medicine_004",
+      "medicine_018",
+      "medicine_042",
+      "medicine_049",
       "medicine_062",
+      "medicine_106",
+      "medicine_135",
+      "medicine_136",
+      "medicine_146",
+      "medicine_148",
       "medicine_187",
+      "medicine_189",
+      "medicine_190",
       "medicine_205",
-      "medicine_352"
+      "medicine_206",
+      "medicine_207",
+      "medicine_213",
+      "medicine_237",
+      "medicine_238",
+      "medicine_280",
+      "medicine_308",
+      "medicine_351",
+      "medicine_352",
+      "medicine_353",
+      "medicine_358",
+      "medicine_369",
+      "medicine_404",
+      "medicine_432",
+      "medicine_433",
+      "medicine_458",
+      "medicine_462"
     ],
     "related_formulas": [
       "formula_026",
@@ -4655,7 +8929,32 @@
       "胸中懊憹",
       "躁扰不宁"
     ],
-    "related_medicines": [],
+    "related_medicines": [
+      "medicine_016",
+      "medicine_058",
+      "medicine_067",
+      "medicine_068",
+      "medicine_079",
+      "medicine_209",
+      "medicine_210",
+      "medicine_211",
+      "medicine_212",
+      "medicine_213",
+      "medicine_214",
+      "medicine_216",
+      "medicine_230",
+      "medicine_246",
+      "medicine_365",
+      "medicine_366",
+      "medicine_367",
+      "medicine_370",
+      "medicine_372",
+      "medicine_373",
+      "medicine_467",
+      "medicine_479",
+      "medicine_505",
+      "medicine_510"
+    ],
     "related_formulas": [
       "formula_127"
     ],
