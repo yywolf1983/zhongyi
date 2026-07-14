@@ -149,6 +149,7 @@ body {
   user-select: none;
   -webkit-user-select: none;
   padding: 0;
+  padding-top: var(--safe-top);
   padding-bottom: var(--safe-bottom);
   padding-left: var(--safe-left);
   padding-right: var(--safe-right);
@@ -196,7 +197,7 @@ button:not(.allow-context) {
   max-width: 1200px;
   margin: 0 auto;
   padding: var(--space-md);
-  padding-top: calc(var(--safe-top) + var(--space-md));
+  padding-top: calc(var(--safe-top) + var(--space-3xl));
   padding-bottom: calc(var(--space-3xl) + var(--safe-bottom));
   min-height: 100vh;
   animation: fadeInUp 0.4s var(--transition-slow);
@@ -1559,7 +1560,7 @@ mark,
 @media (max-width: 768px) {
   .app-container {
     padding: var(--space-sm);
-    padding-top: calc(var(--safe-top) + var(--space-sm));
+    padding-top: calc(var(--safe-top) + var(--space-xl));
     padding-bottom: calc(var(--space-3xl) + var(--safe-bottom));
   }
 
