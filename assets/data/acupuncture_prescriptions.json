@@ -40,7 +40,9 @@
       "流感"
     ],
     "beginner_note": "初学者：感冒常用穴位组合，大椎解表退热效果好。",
-    "advanced_clinical_note": "高级要点：风寒感冒可加风门、肺俞；风热感冒可加曲池、尺泽。"
+    "advanced_clinical_note": "高级要点：风寒感冒可加风门、肺俞；风热感冒可加曲池、尺泽。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_002",
@@ -83,7 +85,9 @@
       "上呼吸道感染"
     ],
     "beginner_note": "初学者：咳嗽基本方，肺俞是治疗肺部疾病的要穴。",
-    "advanced_clinical_note": "高级要点：痰湿咳嗽加丰隆、足三里；干咳加太溪、照海。"
+    "advanced_clinical_note": "高级要点：痰湿咳嗽加丰隆、足三里；干咳加太溪、照海。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_003",
@@ -126,7 +130,9 @@
       "慢性阻塞性肺疾病"
     ],
     "beginner_note": "初学者：哮喘常用方，定喘是平喘特效穴。",
-    "advanced_clinical_note": "高级要点：发作期加膻中、天突；缓解期重在调理肺肾。"
+    "advanced_clinical_note": "高级要点：发作期加膻中、天突；缓解期重在调理肺肾。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_004",
@@ -169,7 +175,9 @@
       "消化性溃疡"
     ],
     "beginner_note": "初学者：胃痛基本方，足三里是胃经合穴。",
-    "advanced_clinical_note": "高级要点：寒证加胃俞、神阙；热证加内庭、行间。"
+    "advanced_clinical_note": "高级要点：寒证加胃俞、神阙；热证加内庭、行间。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_005",
@@ -212,7 +220,11 @@
       "肠梗阻"
     ],
     "beginner_note": "初学者：便秘常用方，支沟是治疗便秘的特效穴。",
-    "advanced_clinical_note": "高级要点：气虚便秘加足三里、气海；阳虚便秘加关元、命门。"
+    "advanced_clinical_note": "高级要点：气虚便秘加足三里、气海；阳虚便秘加关元、命门。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_041"
+    ]
   },
   {
     "id": "prescription_006",
@@ -255,7 +267,11 @@
       "失眠症"
     ],
     "beginner_note": "初学者：失眠基本方，神门是心经原穴。",
-    "advanced_clinical_note": "高级要点：肝火扰心加行间、太冲；痰热内扰加丰隆、内庭。"
+    "advanced_clinical_note": "高级要点：肝火扰心加行间、太冲；痰热内扰加丰隆、内庭。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_086"
+    ]
   },
   {
     "id": "prescription_007",
@@ -298,7 +314,9 @@
       "紧张性头痛"
     ],
     "beginner_note": "初学者：头痛常用方，太阳是经外奇穴。",
-    "advanced_clinical_note": "高级要点：前头痛加印堂、合谷；后头痛加天柱、昆仑。"
+    "advanced_clinical_note": "高级要点：前头痛加印堂、合谷；后头痛加天柱、昆仑。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_008",
@@ -341,7 +359,11 @@
       "梅尼埃病"
     ],
     "beginner_note": "初学者：眩晕基本方，太冲是肝经原穴。",
-    "advanced_clinical_note": "高级要点：痰湿眩晕加丰隆、中脘；气血亏虚加气海、血海。"
+    "advanced_clinical_note": "高级要点：痰湿眩晕加丰隆、中脘；气血亏虚加气海、血海。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_012"
+    ]
   },
   {
     "id": "prescription_009",
@@ -383,7 +405,9 @@
       "面神经麻痹"
     ],
     "beginner_note": "初学者：面瘫常用方，地仓透颊车效果好。",
-    "advanced_clinical_note": "高级要点：急性期浅刺，恢复期可加电针。"
+    "advanced_clinical_note": "高级要点：急性期浅刺，恢复期可加电针。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_010",
@@ -426,7 +450,11 @@
       "脑出血后遗症"
     ],
     "beginner_note": "初学者：中风后遗症常用方，上肢取阳明经穴位。",
-    "advanced_clinical_note": "高级要点：下肢取足三里、阳陵泉、解溪；语言障碍加廉泉、哑门。"
+    "advanced_clinical_note": "高级要点：下肢取足三里、阳陵泉、解溪；语言障碍加廉泉、哑门。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_015"
+    ]
   },
   {
     "id": "prescription_011",
@@ -468,7 +496,11 @@
       "原发性高血压"
     ],
     "beginner_note": "初学者：高血压常用方，太冲平肝效果好。",
-    "advanced_clinical_note": "高级要点：痰湿加丰隆；阴虚加太溪、肾俞。"
+    "advanced_clinical_note": "高级要点：痰湿加丰隆；阴虚加太溪、肾俞。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_012"
+    ]
   },
   {
     "id": "prescription_012",
@@ -510,7 +542,9 @@
       "糖尿病"
     ],
     "beginner_note": "初学者：糖尿病常用方，三俞穴调理脏腑。",
-    "advanced_clinical_note": "高级要点：口渴加少商、金津、玉液；饥饿加内庭。"
+    "advanced_clinical_note": "高级要点：口渴加少商、金津、玉液；饥饿加内庭。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_013",
@@ -552,7 +586,11 @@
       "痛经"
     ],
     "beginner_note": "初学者：痛经常用方，次髎是治疗痛经的要穴。",
-    "advanced_clinical_note": "高级要点：寒凝血瘀加关元、归来；气血虚弱加足三里、气海。"
+    "advanced_clinical_note": "高级要点：寒凝血瘀加关元、归来；气血虚弱加足三里、气海。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_008"
+    ]
   },
   {
     "id": "prescription_014",
@@ -594,7 +632,9 @@
       "月经不调"
     ],
     "beginner_note": "初学者：月经不调常用方，三阴交是妇科要穴。",
-    "advanced_clinical_note": "高级要点：肝郁气滞加太冲、行间；宫寒加命门、神阙。"
+    "advanced_clinical_note": "高级要点：肝郁气滞加太冲、行间；宫寒加命门、神阙。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_015",
@@ -636,7 +676,11 @@
       "盆腔炎"
     ],
     "beginner_note": "初学者：盆腔炎常用方，阴陵泉利湿效果好。",
-    "advanced_clinical_note": "高级要点：寒凝加关元、归来；气滞加太冲。"
+    "advanced_clinical_note": "高级要点：寒凝加关元、归来；气滞加太冲。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_011"
+    ]
   },
   {
     "id": "prescription_016",
@@ -678,7 +722,9 @@
       "不孕症"
     ],
     "beginner_note": "初学者：不孕症常用方，肾俞、命门补肾效果好。",
-    "advanced_clinical_note": "高级要点：气血不足加足三里、血海；肝郁加太冲、期门。"
+    "advanced_clinical_note": "高级要点：气血不足加足三里、血海；肝郁加太冲、期门。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_017",
@@ -720,7 +766,9 @@
       "小儿感冒"
     ],
     "beginner_note": "初学者：小儿感冒常用方，注意针刺深度。",
-    "advanced_clinical_note": "高级要点：发热高加大椎放血；咳嗽重加肺俞。"
+    "advanced_clinical_note": "高级要点：发热高加大椎放血；咳嗽重加肺俞。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_018",
@@ -762,7 +810,9 @@
       "小儿腹泻"
     ],
     "beginner_note": "初学者：小儿腹泻常用方，足三里健脾效果好。",
-    "advanced_clinical_note": "高级要点：寒湿泻加神阙艾灸；湿热泻加内庭。"
+    "advanced_clinical_note": "高级要点：寒湿泻加神阙艾灸；湿热泻加内庭。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_019",
@@ -804,7 +854,9 @@
       "小儿遗尿"
     ],
     "beginner_note": "初学者：小儿遗尿常用方，关元、中极是膀胱募穴。",
-    "advanced_clinical_note": "高级要点：脾虚加足三里、脾俞；肺虚加肺俞、气海。"
+    "advanced_clinical_note": "高级要点：脾虚加足三里、脾俞；肺虚加肺俞、气海。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_020",
@@ -846,7 +898,9 @@
       "小儿脑瘫"
     ],
     "beginner_note": "初学者：小儿脑瘫常用方，百会健脑益智。",
-    "advanced_clinical_note": "高级要点：上肢加肩髃、外关；下肢加阳陵泉、解溪。"
+    "advanced_clinical_note": "高级要点：上肢加肩髃、外关；下肢加阳陵泉、解溪。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_021",
@@ -889,7 +943,9 @@
       "牙髓炎"
     ],
     "beginner_note": "初学者：牙痛常用方，合谷是治疗牙痛的要穴。",
-    "advanced_clinical_note": "高级要点：风火牙痛加风池、外关；虚火牙痛加太溪、照海。"
+    "advanced_clinical_note": "高级要点：风火牙痛加风池、外关；虚火牙痛加太溪、照海。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_022",
@@ -932,7 +988,12 @@
       "咽喉炎"
     ],
     "beginner_note": "初学者：咽喉肿痛常用方，少商放血效果好。",
-    "advanced_clinical_note": "高级要点：肺热加肺俞；胃热加内庭。"
+    "advanced_clinical_note": "高级要点：肺热加肺俞；胃热加内庭。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_002",
+      "syndrome_083"
+    ]
   },
   {
     "id": "prescription_023",
@@ -974,7 +1035,9 @@
       "近视"
     ],
     "beginner_note": "初学者：近视常用方，睛明是治疗眼病的要穴。",
-    "advanced_clinical_note": "高级要点：加太阳穴按摩；配合眼保健操效果更好。"
+    "advanced_clinical_note": "高级要点：加太阳穴按摩；配合眼保健操效果更好。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_024",
@@ -1017,7 +1080,11 @@
       "耳聋"
     ],
     "beginner_note": "初学者：耳鸣常用方，耳门、听宫、听会是治疗耳病的要穴。",
-    "advanced_clinical_note": "高级要点：肝火加太冲、翳风；痰火加丰隆、内庭。"
+    "advanced_clinical_note": "高级要点：肝火加太冲、翳风；痰火加丰隆、内庭。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_093"
+    ]
   },
   {
     "id": "prescription_025",
@@ -1060,7 +1127,11 @@
       "慢性鼻炎"
     ],
     "beginner_note": "初学者：鼻炎常用方，迎香是治疗鼻病的要穴。",
-    "advanced_clinical_note": "高级要点：肺虚加肺俞；脾虚加脾俞；鼻塞重加通天。"
+    "advanced_clinical_note": "高级要点：肺虚加肺俞；脾虚加脾俞；鼻塞重加通天。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_094"
+    ]
   },
   {
     "id": "prescription_026",
@@ -1102,7 +1173,11 @@
       "肩周炎"
     ],
     "beginner_note": "初学者：肩周炎常用方，肩三针（肩髃、肩贞、肩前）效果好。",
-    "advanced_clinical_note": "高级要点：配合推拿按摩；加强功能锻炼。"
+    "advanced_clinical_note": "高级要点：配合推拿按摩；加强功能锻炼。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_084"
+    ]
   },
   {
     "id": "prescription_027",
@@ -1144,7 +1219,11 @@
       "颈椎病"
     ],
     "beginner_note": "初学者：颈椎病常用方，颈夹脊是治疗颈椎疾病的要穴。",
-    "advanced_clinical_note": "高级要点：上肢麻木加曲池、合谷；头晕加百会。"
+    "advanced_clinical_note": "高级要点：上肢麻木加曲池、合谷；头晕加百会。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_008"
+    ]
   },
   {
     "id": "prescription_028",
@@ -1186,7 +1265,11 @@
       "腰椎间盘突出"
     ],
     "beginner_note": "初学者：腰痛常用方，委中是治疗腰痛的要穴。",
-    "advanced_clinical_note": "高级要点：血瘀加膈俞；肾虚加命门；配合牵引效果更好。"
+    "advanced_clinical_note": "高级要点：血瘀加膈俞；肾虚加命门；配合牵引效果更好。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_044"
+    ]
   },
   {
     "id": "prescription_029",
@@ -1229,7 +1312,9 @@
       "类风湿关节炎"
     ],
     "beginner_note": "初学者：膝关节炎常用方，犊鼻是治疗膝关节疾病的要穴。",
-    "advanced_clinical_note": "高级要点：寒湿加关元艾灸；湿热加内庭；配合中药外敷。"
+    "advanced_clinical_note": "高级要点：寒湿加关元艾灸；湿热加内庭；配合中药外敷。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_030",
@@ -1271,7 +1356,9 @@
       "坐骨神经痛"
     ],
     "beginner_note": "初学者：坐骨神经痛常用方，环跳是治疗坐骨神经痛的要穴。",
-    "advanced_clinical_note": "高级要点：加电针增强疗效；配合拔罐效果更好。"
+    "advanced_clinical_note": "高级要点：加电针增强疗效；配合拔罐效果更好。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_031",
@@ -1313,7 +1400,9 @@
       "荨麻疹"
     ],
     "beginner_note": "初学者：荨麻疹常用方，曲池清热效果好。",
-    "advanced_clinical_note": "高级要点：风寒加风门、肺俞；血虚加三阴交、肝俞。"
+    "advanced_clinical_note": "高级要点：风寒加风门、肺俞；血虚加三阴交、肝俞。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_032",
@@ -1355,7 +1444,9 @@
       "湿疹"
     ],
     "beginner_note": "初学者：湿疹常用方，阴陵泉利湿效果好。",
-    "advanced_clinical_note": "高级要点：湿热重加大椎放血；脾虚加胃俞；配合中药外洗。"
+    "advanced_clinical_note": "高级要点：湿热重加大椎放血；脾虚加胃俞；配合中药外洗。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_033",
@@ -1397,7 +1488,9 @@
       "痤疮"
     ],
     "beginner_note": "初学者：痤疮常用方，大椎放血效果好。",
-    "advanced_clinical_note": "高级要点：肺热加尺泽；胃热加内庭；配合面部刮痧。"
+    "advanced_clinical_note": "高级要点：肺热加尺泽；胃热加内庭；配合面部刮痧。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_034",
@@ -1439,7 +1532,11 @@
       "带状疱疹"
     ],
     "beginner_note": "初学者：带状疱疹常用方，局部围刺效果好。",
-    "advanced_clinical_note": "高级要点：加电针止痛；配合中药内服外用。"
+    "advanced_clinical_note": "高级要点：加电针止痛；配合中药内服外用。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_070"
+    ]
   },
   {
     "id": "prescription_035",
@@ -1482,7 +1579,11 @@
       "焦虑症"
     ],
     "beginner_note": "初学者：抑郁症常用方，百会安神效果好。",
-    "advanced_clinical_note": "高级要点：心脾两虚加神门、三阴交；配合心理疏导。"
+    "advanced_clinical_note": "高级要点：心脾两虚加神门、三阴交；配合心理疏导。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_004"
+    ]
   },
   {
     "id": "prescription_036",
@@ -1525,7 +1626,9 @@
       "惊恐障碍"
     ],
     "beginner_note": "初学者：焦虑症常用方，神门、内关安神效果好。",
-    "advanced_clinical_note": "高级要点：阴虚火旺加太溪、照海；配合放松训练。"
+    "advanced_clinical_note": "高级要点：阴虚火旺加太溪、照海；配合放松训练。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_037",
@@ -1567,91 +1670,9 @@
       "戒烟"
     ],
     "beginner_note": "初学者：戒烟常用方，内关可减轻戒断症状。",
-    "advanced_clinical_note": "高级要点：耳穴贴压配合效果更好；加强意志力训练。"
-  },
-  {
-    "id": "prescription_038",
-    "name": "减肥方",
-    "pinyin": "Jian Fei Fang",
-    "category": "其他",
-    "subcategory": "减肥",
-    "syndrome": "痰湿肥胖",
-    "acupoints": [
-      {
-        "acupoint_id": "acupoint_349",
-        "name": "中脘",
-        "method": "针刺"
-      },
-      {
-        "acupoint_id": "acupoint_056",
-        "name": "天枢",
-        "method": "针刺"
-      },
-      {
-        "acupoint_id": "acupoint_067",
-        "name": "足三里",
-        "method": "针刺"
-      },
-      {
-        "acupoint_id": "acupoint_071",
-        "name": "丰隆",
-        "method": "针刺"
-      }
-    ],
-    "effects": [
-      "健脾祛湿"
-    ],
-    "indications": [
-      "体型肥胖，腹部胀满"
-    ],
-    "method": "中脘、天枢用平补平泻法，足三里用补法，丰隆用泻法",
-    "modern_applications": [
-      "肥胖症"
-    ],
-    "beginner_note": "初学者：减肥常用方，丰隆利湿效果好。",
-    "advanced_clinical_note": "高级要点：配合饮食控制和运动；加电针刺激。"
-  },
-  {
-    "id": "prescription_039",
-    "name": "亚健康调理方",
-    "pinyin": "Ya Jian Kang Tiao Li Fang",
-    "category": "其他",
-    "subcategory": "亚健康",
-    "syndrome": "气血不足",
-    "acupoints": [
-      {
-        "acupoint_id": "acupoint_329",
-        "name": "百会",
-        "method": "针刺"
-      },
-      {
-        "acupoint_id": "acupoint_343",
-        "name": "气海",
-        "method": "针刺"
-      },
-      {
-        "acupoint_id": "acupoint_067",
-        "name": "足三里",
-        "method": "针刺"
-      },
-      {
-        "acupoint_id": "acupoint_082",
-        "name": "三阴交",
-        "method": "针刺"
-      }
-    ],
-    "effects": [
-      "益气养血"
-    ],
-    "indications": [
-      "疲劳乏力，精神不振"
-    ],
-    "method": "均用补法",
-    "modern_applications": [
-      "亚健康"
-    ],
-    "beginner_note": "初学者：亚健康调理常用方，足三里是保健要穴。",
-    "advanced_clinical_note": "高级要点：根据体质辨证加减；配合艾灸效果更好。"
+    "advanced_clinical_note": "高级要点：耳穴贴压配合效果更好；加强意志力训练。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_040",
@@ -1693,7 +1714,9 @@
       "痛经"
     ],
     "beginner_note": "初学者：寒凝血瘀痛经常用方，关元艾灸效果好。",
-    "advanced_clinical_note": "高级要点：加神阙艾灸；配合中药热敷。"
+    "advanced_clinical_note": "高级要点：加神阙艾灸；配合中药热敷。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_041",
@@ -1735,7 +1758,11 @@
       "更年期综合征"
     ],
     "beginner_note": "初学者：更年期综合征常用方，太溪补肾效果好。",
-    "advanced_clinical_note": "高级要点：加百会安神；配合中药调理。"
+    "advanced_clinical_note": "高级要点：加百会安神；配合中药调理。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_093"
+    ]
   },
   {
     "id": "prescription_042",
@@ -1777,7 +1804,11 @@
       "乳腺炎"
     ],
     "beginner_note": "初学者：乳腺炎常用方，膻中是治疗乳腺疾病的要穴。",
-    "advanced_clinical_note": "高级要点：加局部阿是穴；配合中药外敷。"
+    "advanced_clinical_note": "高级要点：加局部阿是穴；配合中药外敷。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_004"
+    ]
   },
   {
     "id": "prescription_043",
@@ -1819,7 +1850,11 @@
       "急性胃肠炎"
     ],
     "beginner_note": "初学者：急性胃肠炎常用方，天枢是大肠募穴。",
-    "advanced_clinical_note": "高级要点：呕吐加内关；发热加大椎放血。"
+    "advanced_clinical_note": "高级要点：呕吐加内关；发热加大椎放血。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_011"
+    ]
   },
   {
     "id": "prescription_044",
@@ -1862,7 +1897,11 @@
       "胆结石"
     ],
     "beginner_note": "初学者：胆囊炎常用方，阳陵泉是胆经合穴。",
-    "advanced_clinical_note": "高级要点：发热加大椎；配合中药利胆。"
+    "advanced_clinical_note": "高级要点：发热加大椎；配合中药利胆。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_070"
+    ]
   },
   {
     "id": "prescription_045",
@@ -1904,7 +1943,9 @@
       "肾结石"
     ],
     "beginner_note": "初学者：肾结石常用方，委中是治疗腰痛的要穴。",
-    "advanced_clinical_note": "高级要点：血尿加血海；绞痛加电针。"
+    "advanced_clinical_note": "高级要点：血尿加血海；绞痛加电针。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_046",
@@ -1946,7 +1987,9 @@
       "慢性支气管炎"
     ],
     "beginner_note": "初学者：慢性支气管炎常用方，定喘是平喘特效穴。",
-    "advanced_clinical_note": "高级要点：冬季加重加膏肓俞；配合冬病夏治。"
+    "advanced_clinical_note": "高级要点：冬季加重加膏肓俞；配合冬病夏治。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_047",
@@ -1988,7 +2031,11 @@
       "偏头痛"
     ],
     "beginner_note": "初学者：偏头痛常用方，率谷是治疗偏头痛的要穴。",
-    "advanced_clinical_note": "高级要点：经期头痛加三阴交；配合耳穴贴压。"
+    "advanced_clinical_note": "高级要点：经期头痛加三阴交；配合耳穴贴压。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_012"
+    ]
   },
   {
     "id": "prescription_048",
@@ -2030,7 +2077,9 @@
       "三叉神经痛"
     ],
     "beginner_note": "初学者：三叉神经痛常用方，下关是治疗面痛的要穴。",
-    "advanced_clinical_note": "高级要点：加电针止痛；配合中药祛风。"
+    "advanced_clinical_note": "高级要点：加电针止痛；配合中药祛风。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_049",
@@ -2072,7 +2121,11 @@
       "帕金森病"
     ],
     "beginner_note": "初学者：帕金森病常用方，百会健脑效果好。",
-    "advanced_clinical_note": "高级要点：加电针刺激；配合康复训练。"
+    "advanced_clinical_note": "高级要点：加电针刺激；配合康复训练。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_093"
+    ]
   },
   {
     "id": "prescription_050",
@@ -2114,7 +2167,9 @@
       "痛风"
     ],
     "beginner_note": "初学者：痛风常用方，阴陵泉利湿效果好。",
-    "advanced_clinical_note": "高级要点：加刺血拔罐；配合饮食调理。"
+    "advanced_clinical_note": "高级要点：加刺血拔罐；配合饮食调理。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_051",
@@ -2161,7 +2216,9 @@
       "感冒"
     ],
     "beginner_note": "风寒感冒基础方大椎灸法温散外寒效果佳。",
-    "advanced_clinical_note": "咳嗽加肺俞，鼻塞加迎香。"
+    "advanced_clinical_note": "咳嗽加肺俞，鼻塞加迎香。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_052",
@@ -2209,7 +2266,9 @@
       "流感"
     ],
     "beginner_note": "风热感冒基础方大椎放血退热快。",
-    "advanced_clinical_note": "咽喉肿痛加少商放血。"
+    "advanced_clinical_note": "咽喉肿痛加少商放血。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_053",
@@ -2257,7 +2316,9 @@
       "免疫力低下"
     ],
     "beginner_note": "体虚反复感冒者以补气为主解表为辅。",
-    "advanced_clinical_note": "配合玉屏风散内服。"
+    "advanced_clinical_note": "配合玉屏风散内服。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_054",
@@ -2305,7 +2366,11 @@
       "慢性支气管炎"
     ],
     "beginner_note": "痰湿咳嗽要燥湿为先丰隆化痰要穴。",
-    "advanced_clinical_note": "兼喘加定喘。"
+    "advanced_clinical_note": "兼喘加定喘。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_106"
+    ]
   },
   {
     "id": "prescription_055",
@@ -2354,7 +2419,9 @@
       "干咳"
     ],
     "beginner_note": "阴虚咳嗽以滋阴为主太溪是滋阴要穴。",
-    "advanced_clinical_note": "痰中带血加膈俞。"
+    "advanced_clinical_note": "痰中带血加膈俞。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_056",
@@ -2401,7 +2468,9 @@
       "急性肠炎"
     ],
     "beginner_note": "湿热泄泻以清利为主天枢调畅大肠气机。",
-    "advanced_clinical_note": "发热加大椎。"
+    "advanced_clinical_note": "发热加大椎。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_057",
@@ -2448,7 +2517,9 @@
       "慢性肠炎"
     ],
     "beginner_note": "脾虚泄泻基础方。",
-    "advanced_clinical_note": "久泻加命门。"
+    "advanced_clinical_note": "久泻加命门。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_058",
@@ -2495,7 +2566,9 @@
       "膈肌痉挛"
     ],
     "beginner_note": "呃逆发作针刺快效内关降逆力强。",
-    "advanced_clinical_note": "寒呃加灸中脘。"
+    "advanced_clinical_note": "寒呃加灸中脘。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_059",
@@ -2542,7 +2615,9 @@
       "功能性腹胀"
     ],
     "beginner_note": "腹胀要调畅气机。",
-    "advanced_clinical_note": "食滞加四缝。"
+    "advanced_clinical_note": "食滞加四缝。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_060",
@@ -2590,7 +2665,9 @@
       "急性胃炎"
     ],
     "beginner_note": "梁丘是胃经郄穴治急痛有特效。",
-    "advanced_clinical_note": "肢冷加灸神阙。"
+    "advanced_clinical_note": "肢冷加灸神阙。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_061",
@@ -2637,7 +2714,9 @@
       "胃潴留"
     ],
     "beginner_note": "反胃以温中为主灸法效果优于单纯针刺。",
-    "advanced_clinical_note": "寒甚加神阙隔姜灸。"
+    "advanced_clinical_note": "寒甚加神阙隔姜灸。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_062",
@@ -2684,7 +2763,9 @@
       "胆绞痛"
     ],
     "beginner_note": "胆囊穴是治疗胆绞痛的经验效穴。",
-    "advanced_clinical_note": "剧痛加电针。"
+    "advanced_clinical_note": "剧痛加电针。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_063",
@@ -2731,7 +2812,9 @@
       "肋间神经痛"
     ],
     "beginner_note": "胸胁为肝胆分野疏肝是止痛的关键。",
-    "advanced_clinical_note": "胁痛加支沟。"
+    "advanced_clinical_note": "胁痛加支沟。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_064",
@@ -2778,7 +2861,9 @@
       "心律失常"
     ],
     "beginner_note": "心悸基础方神门内关安神定悸。",
-    "advanced_clinical_note": "阴虚加太溪气虚加气海。"
+    "advanced_clinical_note": "阴虚加太溪气虚加气海。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_065",
@@ -2825,7 +2910,11 @@
       "冠心病心绞痛"
     ],
     "beginner_note": "胸痹心痛基础方。",
-    "advanced_clinical_note": "剧痛加至阳。"
+    "advanced_clinical_note": "剧痛加至阳。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_085"
+    ]
   },
   {
     "id": "prescription_066",
@@ -2872,7 +2961,11 @@
       "面肌痉挛"
     ],
     "beginner_note": "太冲平肝配合局部穴位。",
-    "advanced_clinical_note": "加电针效果更好。"
+    "advanced_clinical_note": "加电针效果更好。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_090"
+    ]
   },
   {
     "id": "prescription_067",
@@ -2919,7 +3012,9 @@
       "前列腺增生"
     ],
     "beginner_note": "肾虚尿频要补肾固脬艾灸效果好。",
-    "advanced_clinical_note": "尿痛加阴陵泉。"
+    "advanced_clinical_note": "尿痛加阴陵泉。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_068",
@@ -2966,7 +3061,9 @@
       "尿潴留"
     ],
     "beginner_note": "中极是膀胱募穴通利小便。",
-    "advanced_clinical_note": "配合导尿。"
+    "advanced_clinical_note": "配合导尿。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_069",
@@ -3014,7 +3111,11 @@
       "早泄"
     ],
     "beginner_note": "遗精要固肾关元灸法效果可靠。",
-    "advanced_clinical_note": "心火旺加神门。"
+    "advanced_clinical_note": "心火旺加神门。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_101"
+    ]
   },
   {
     "id": "prescription_070",
@@ -3061,7 +3162,9 @@
       "咽喉神经官能症"
     ],
     "beginner_note": "专治咽中异物感。",
-    "advanced_clinical_note": "配半夏厚朴汤效果更好。"
+    "advanced_clinical_note": "配半夏厚朴汤效果更好。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_071",
@@ -3108,7 +3211,11 @@
       "慢性肾炎"
     ],
     "beginner_note": "水肿以温阳为要水分是利水要穴。",
-    "advanced_clinical_note": "肿甚加阴陵泉。"
+    "advanced_clinical_note": "肿甚加阴陵泉。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_075"
+    ]
   },
   {
     "id": "prescription_072",
@@ -3155,7 +3262,11 @@
       "高血压眩晕"
     ],
     "beginner_note": "眩晕实证重在平肝。",
-    "advanced_clinical_note": "血压高加曲池。"
+    "advanced_clinical_note": "血压高加曲池。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_012"
+    ]
   },
   {
     "id": "prescription_073",
@@ -3202,7 +3313,9 @@
       "三叉神经痛"
     ],
     "beginner_note": "按三叉神经分支取对应穴位。",
-    "advanced_clinical_note": "加电针效果更好。"
+    "advanced_clinical_note": "加电针效果更好。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_074",
@@ -3249,7 +3362,9 @@
       "闭经"
     ],
     "beginner_note": "闭经以充养气血为主。",
-    "advanced_clinical_note": "气滞加太冲。"
+    "advanced_clinical_note": "气滞加太冲。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_075",
@@ -3296,7 +3411,11 @@
       "功能失调性子宫出血"
     ],
     "beginner_note": "隐白灸法是治崩漏特效法。",
-    "advanced_clinical_note": "气虚加气海足三里。"
+    "advanced_clinical_note": "气虚加气海足三里。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_116"
+    ]
   },
   {
     "id": "prescription_076",
@@ -3343,7 +3462,9 @@
       "阴道炎"
     ],
     "beginner_note": "带脉是治带下的要穴。",
-    "advanced_clinical_note": "黄带加行间。"
+    "advanced_clinical_note": "黄带加行间。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_077",
@@ -3390,7 +3511,9 @@
       "产后子宫复旧不全"
     ],
     "beginner_note": "艾灸关元促进子宫收缩。",
-    "advanced_clinical_note": "虚甚加足三里。"
+    "advanced_clinical_note": "虚甚加足三里。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_078",
@@ -3437,7 +3560,11 @@
       "产后缺乳"
     ],
     "beginner_note": "少泽是通乳的经验效穴。",
-    "advanced_clinical_note": "肝郁加太冲。"
+    "advanced_clinical_note": "肝郁加太冲。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_111"
+    ]
   },
   {
     "id": "prescription_079",
@@ -3484,7 +3611,11 @@
       "经期偏头痛"
     ],
     "beginner_note": "经行头痛与肝气上逆有关。",
-    "advanced_clinical_note": "经前一周治疗更好。"
+    "advanced_clinical_note": "经前一周治疗更好。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_012"
+    ]
   },
   {
     "id": "prescription_080",
@@ -3531,7 +3662,9 @@
       "卵巢早衰"
     ],
     "beginner_note": "肾主生殖补肾是根本大法。",
-    "advanced_clinical_note": "治疗周期需长。"
+    "advanced_clinical_note": "治疗周期需长。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_081",
@@ -3578,7 +3711,11 @@
       "阴道炎"
     ],
     "beginner_note": "湿热下注止痒要穴组。",
-    "advanced_clinical_note": "配合中药外洗。"
+    "advanced_clinical_note": "配合中药外洗。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_011"
+    ]
   },
   {
     "id": "prescription_082",
@@ -3625,7 +3762,9 @@
       "小儿营养不良"
     ],
     "beginner_note": "四缝是治小儿疳积的特效穴。",
-    "advanced_clinical_note": "配合捏脊疗法。"
+    "advanced_clinical_note": "配合捏脊疗法。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_083",
@@ -3667,7 +3806,9 @@
       "小儿夜啼"
     ],
     "beginner_note": "小儿夜啼多与心火有关。",
-    "advanced_clinical_note": "惊吓加印堂。"
+    "advanced_clinical_note": "惊吓加印堂。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_084",
@@ -3714,7 +3855,11 @@
       "小儿厌食症"
     ],
     "beginner_note": "厌食以健脾为本。",
-    "advanced_clinical_note": "配合推拿捏脊。"
+    "advanced_clinical_note": "配合推拿捏脊。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_003"
+    ]
   },
   {
     "id": "prescription_085",
@@ -3761,7 +3906,9 @@
       "注意缺陷多动障碍"
     ],
     "beginner_note": "四神聪是治疗多动症的常用穴位。",
-    "advanced_clinical_note": "配合行为治疗。"
+    "advanced_clinical_note": "配合行为治疗。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_086",
@@ -3808,7 +3955,9 @@
       "鼻窦炎"
     ],
     "beginner_note": "迎香是治鼻第一要穴。",
-    "advanced_clinical_note": "头痛重加太阳。"
+    "advanced_clinical_note": "头痛重加太阳。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_087",
@@ -3855,7 +4004,9 @@
       "急性结膜炎"
     ],
     "beginner_note": "肝开窍于目太冲清肝火效佳。",
-    "advanced_clinical_note": "热毒重加曲池。"
+    "advanced_clinical_note": "热毒重加曲池。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_088",
@@ -3902,7 +4053,9 @@
       "慢性咽炎"
     ],
     "beginner_note": "照海是滋阴润喉要穴。",
-    "advanced_clinical_note": "声音嘶哑加天突。"
+    "advanced_clinical_note": "声音嘶哑加天突。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_089",
@@ -3949,7 +4102,9 @@
       "复发性口腔溃疡"
     ],
     "beginner_note": "心脾积热为口疮常见证型。",
-    "advanced_clinical_note": "配合中药含漱。"
+    "advanced_clinical_note": "配合中药含漱。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_090",
@@ -3997,7 +4152,9 @@
       "老花眼"
     ],
     "beginner_note": "肝俞肾俞配合眼部穴位标本兼治。",
-    "advanced_clinical_note": "配合眼保健操。"
+    "advanced_clinical_note": "配合眼保健操。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_091",
@@ -4044,7 +4201,11 @@
       "神经性耳聋"
     ],
     "beginner_note": "肾开窍于耳太溪滋肾阴。",
-    "advanced_clinical_note": "突发耳聋需尽早治疗。"
+    "advanced_clinical_note": "突发耳聋需尽早治疗。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_093"
+    ]
   },
   {
     "id": "prescription_092",
@@ -4092,7 +4253,9 @@
       "颈椎病"
     ],
     "beginner_note": "后溪通督脉是治疗项强的特效穴。",
-    "advanced_clinical_note": "配合热敷。"
+    "advanced_clinical_note": "配合热敷。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_093",
@@ -4139,7 +4302,9 @@
       "慢性腰肌劳损"
     ],
     "beginner_note": "腰为肾之府补肾是治本之法。",
-    "advanced_clinical_note": "寒湿加灸命门。"
+    "advanced_clinical_note": "寒湿加灸命门。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_094",
@@ -4186,7 +4351,9 @@
       "颈椎病"
     ],
     "beginner_note": "肩髃曲池是上肢要穴。",
-    "advanced_clinical_note": "加电针效果更好。"
+    "advanced_clinical_note": "加电针效果更好。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_095",
@@ -4233,7 +4400,9 @@
       "周围神经病变"
     ],
     "beginner_note": "筋会阳陵泉髓会悬钟合用强筋壮骨。",
-    "advanced_clinical_note": "配合康复训练。"
+    "advanced_clinical_note": "配合康复训练。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_096",
@@ -4280,7 +4449,9 @@
       "跟骨骨刺"
     ],
     "beginner_note": "足跟是肾经循行部位补肾是根本。",
-    "advanced_clinical_note": "配合中药外洗。"
+    "advanced_clinical_note": "配合中药外洗。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_097",
@@ -4327,7 +4498,11 @@
       "颞下颌关节紊乱"
     ],
     "beginner_note": "下关是治疗颞颌关节的要穴。",
-    "advanced_clinical_note": "配合热敷。"
+    "advanced_clinical_note": "配合热敷。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_084"
+    ]
   },
   {
     "id": "prescription_098",
@@ -4374,7 +4549,9 @@
       "梨状肌综合征"
     ],
     "beginner_note": "环跳是坐骨神经走行区域的关键穴位。",
-    "advanced_clinical_note": "加电针止痛。"
+    "advanced_clinical_note": "加电针止痛。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_099",
@@ -4421,7 +4598,9 @@
       "肱骨外上髁炎"
     ],
     "beginner_note": "手三里是治疗网球肘的经验穴。",
-    "advanced_clinical_note": "配合局部按摩。"
+    "advanced_clinical_note": "配合局部按摩。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_100",
@@ -4463,7 +4642,9 @@
       "胸椎小关节紊乱"
     ],
     "beginner_note": "夹脊穴是治疗脊柱疾病的要穴。",
-    "advanced_clinical_note": "配合推拿整脊。"
+    "advanced_clinical_note": "配合推拿整脊。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_101",
@@ -4510,7 +4691,9 @@
       "腕管综合征"
     ],
     "beginner_note": "局部取穴配合远端取穴。",
-    "advanced_clinical_note": "配合腕部制动。"
+    "advanced_clinical_note": "配合腕部制动。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_102",
@@ -4557,7 +4740,9 @@
       "跟腱炎"
     ],
     "beginner_note": "承山穴是治疗小腿及足部疾患的要穴。",
-    "advanced_clinical_note": "急性期配合冷敷。"
+    "advanced_clinical_note": "急性期配合冷敷。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_103",
@@ -4604,7 +4789,11 @@
       "老年皮肤瘙痒症"
     ],
     "beginner_note": "治风先治血血行风自灭。",
-    "advanced_clinical_note": "湿重加阴陵泉。"
+    "advanced_clinical_note": "湿重加阴陵泉。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_010"
+    ]
   },
   {
     "id": "prescription_104",
@@ -4651,7 +4840,9 @@
       "黄褐斑"
     ],
     "beginner_note": "肝郁是黄褐斑的病机关键。",
-    "advanced_clinical_note": "内调为主配合防晒。"
+    "advanced_clinical_note": "内调为主配合防晒。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_105",
@@ -4698,7 +4889,9 @@
       "银屑病"
     ],
     "beginner_note": "大椎放血可清热凉血。",
-    "advanced_clinical_note": "配合中药内服外用。"
+    "advanced_clinical_note": "配合中药内服外用。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_106",
@@ -4745,7 +4938,9 @@
       "白癜风"
     ],
     "beginner_note": "中医认为白驳风多与肝肾相关。",
-    "advanced_clinical_note": "局部梅花针叩刺。"
+    "advanced_clinical_note": "局部梅花针叩刺。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_107",
@@ -4792,7 +4987,11 @@
       "脂溢性脱发"
     ],
     "beginner_note": "发为血之余养血是生发的根本。",
-    "advanced_clinical_note": "配合梅花针局部叩刺。"
+    "advanced_clinical_note": "配合梅花针局部叩刺。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_010"
+    ]
   },
   {
     "id": "prescription_108",
@@ -4839,7 +5038,9 @@
       "药疹"
     ],
     "beginner_note": "药物过敏须立即停用可疑药物。",
-    "advanced_clinical_note": "严重过敏需急诊。"
+    "advanced_clinical_note": "严重过敏需急诊。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_109",
@@ -4886,7 +5087,11 @@
       "认知障碍"
     ],
     "beginner_note": "四神聪是健脑益智的要穴组。",
-    "advanced_clinical_note": "长期坚持有效。"
+    "advanced_clinical_note": "长期坚持有效。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_086"
+    ]
   },
   {
     "id": "prescription_110",
@@ -4933,7 +5138,11 @@
       "压力性尿失禁"
     ],
     "beginner_note": "提肛训练配合针灸更好。",
-    "advanced_clinical_note": "盆底肌锻炼是关键。"
+    "advanced_clinical_note": "盆底肌锻炼是关键。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_101"
+    ]
   },
   {
     "id": "prescription_111",
@@ -4980,7 +5189,9 @@
       "面神经麻痹恢复期"
     ],
     "beginner_note": "恢复期重在补养气血。",
-    "advanced_clinical_note": "配合面部按摩。"
+    "advanced_clinical_note": "配合面部按摩。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_112",
@@ -5027,7 +5238,11 @@
       "支气管扩张"
     ],
     "beginner_note": "孔最是肺经郄穴治急症出血。",
-    "advanced_clinical_note": "咯血量多需急诊。"
+    "advanced_clinical_note": "咯血量多需急诊。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_009"
+    ]
   },
   {
     "id": "prescription_113",
@@ -5074,7 +5289,11 @@
       "消化性溃疡出血"
     ],
     "beginner_note": "呕血属急症需重视。",
-    "advanced_clinical_note": "禁食配合抑酸药物。"
+    "advanced_clinical_note": "禁食配合抑酸药物。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_072"
+    ]
   },
   {
     "id": "prescription_114",
@@ -5121,7 +5340,9 @@
       "中暑"
     ],
     "beginner_note": "中暑急救方十宣泄热有速效。",
-    "advanced_clinical_note": "移至阴凉处补充水分。"
+    "advanced_clinical_note": "移至阴凉处补充水分。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_115",
@@ -5168,7 +5389,11 @@
       "化疗后康复"
     ],
     "beginner_note": "针灸可减轻化疗副作用提升白细胞。",
-    "advanced_clinical_note": "配合中药和营养支持。"
+    "advanced_clinical_note": "配合中药和营养支持。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_111"
+    ]
   },
   {
     "id": "prescription_116",
@@ -5215,7 +5440,9 @@
       "肥胖症"
     ],
     "beginner_note": "丰隆利湿效果好。",
-    "advanced_clinical_note": "配合饮食控制和运动。"
+    "advanced_clinical_note": "配合饮食控制和运动。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_117",
@@ -5262,7 +5489,9 @@
       "亚健康"
     ],
     "beginner_note": "足三里是保健要穴。",
-    "advanced_clinical_note": "根据体质辨证加减。"
+    "advanced_clinical_note": "根据体质辨证加减。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_118",
@@ -5304,7 +5533,9 @@
       "多种疾病"
     ],
     "beginner_note": "四总穴歌是针灸基础口诀。",
-    "advanced_clinical_note": "肚腹加中脘头项加风池。"
+    "advanced_clinical_note": "肚腹加中脘头项加风池。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_119",
@@ -5372,7 +5603,9 @@
       "虚脱"
     ],
     "beginner_note": "回阳九针是针灸急救的经典方。",
-    "advanced_clinical_note": "需在急救基础上配合使用。"
+    "advanced_clinical_note": "需在急救基础上配合使用。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_120",
@@ -5434,7 +5667,9 @@
       "多种慢性病"
     ],
     "beginner_note": "八脉交会穴组是调理奇经八脉的核心。",
-    "advanced_clinical_note": "公孙配内关治心胸胃。"
+    "advanced_clinical_note": "公孙配内关治心胸胃。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_121",
@@ -5516,7 +5751,9 @@
       "多种病症"
     ],
     "beginner_note": "马丹阳天星十二穴是经典穴位组合。",
-    "advanced_clinical_note": "三百六十穴不出十二穴。"
+    "advanced_clinical_note": "三百六十穴不出十二穴。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_122",
@@ -5563,7 +5800,11 @@
       "脑卒中后遗症"
     ],
     "beginner_note": "中风下肢取阳明经穴。",
-    "advanced_clinical_note": "加电针刺激。"
+    "advanced_clinical_note": "加电针刺激。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_015"
+    ]
   },
   {
     "id": "prescription_123",
@@ -5610,7 +5851,9 @@
       "脑卒中失语"
     ],
     "beginner_note": "廉泉通里为治语言要穴。",
-    "advanced_clinical_note": "配合语言康复训练。"
+    "advanced_clinical_note": "配合语言康复训练。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_124",
@@ -5657,7 +5900,9 @@
       "肩关节周围炎"
     ],
     "beginner_note": "循经取穴通经活络。",
-    "advanced_clinical_note": "肩三针配合远端取穴。"
+    "advanced_clinical_note": "肩三针配合远端取穴。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_125",
@@ -5705,7 +5950,9 @@
       "高尔夫球肘"
     ],
     "beginner_note": "多向刺效果更好。",
-    "advanced_clinical_note": "加电针或温针灸。"
+    "advanced_clinical_note": "加电针或温针灸。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_126",
@@ -5753,7 +6000,9 @@
       "腱鞘炎"
     ],
     "beginner_note": "三阳并用通腕利节。",
-    "advanced_clinical_note": "配合局部推拿和护腕。"
+    "advanced_clinical_note": "配合局部推拿和护腕。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_127",
@@ -5790,7 +6039,9 @@
       "胎位异常"
     ],
     "beginner_note": "至阴灸法是转胎常用法。",
-    "advanced_clinical_note": "妊娠30-34周效果最好。"
+    "advanced_clinical_note": "妊娠30-34周效果最好。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_128",
@@ -5837,7 +6088,9 @@
       "产后身痛"
     ],
     "beginner_note": "产后身痛以补益为主。",
-    "advanced_clinical_note": "配合中药四物汤加减。"
+    "advanced_clinical_note": "配合中药四物汤加减。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_129",
@@ -5884,7 +6137,9 @@
       "小儿遗尿"
     ],
     "beginner_note": "培补先天肾气是关键。",
-    "advanced_clinical_note": "配合膀胱训练和夜间唤醒。"
+    "advanced_clinical_note": "配合膀胱训练和夜间唤醒。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_130",
@@ -5932,7 +6187,9 @@
       "消化不良"
     ],
     "beginner_note": "四缝是治小儿食积的特效穴。",
-    "advanced_clinical_note": "配合饮食调理捏脊。"
+    "advanced_clinical_note": "配合饮食调理捏脊。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_131",
@@ -5979,7 +6236,11 @@
       "鼻出血"
     ],
     "beginner_note": "上星是治疗鼻衄的要穴。",
-    "advanced_clinical_note": "出血多需急诊处理。"
+    "advanced_clinical_note": "出血多需急诊处理。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_116"
+    ]
   },
   {
     "id": "prescription_132",
@@ -6026,7 +6287,9 @@
       "三叉神经痛"
     ],
     "beginner_note": "面部三叉神经分布区取穴。",
-    "advanced_clinical_note": "加电针持续刺激效果更好。"
+    "advanced_clinical_note": "加电针持续刺激效果更好。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_133",
@@ -6073,7 +6336,9 @@
       "急性扁桃体炎"
     ],
     "beginner_note": "少商商阳放血清热利咽效佳。",
-    "advanced_clinical_note": "高热加大椎放血。"
+    "advanced_clinical_note": "高热加大椎放血。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_134",
@@ -6125,7 +6390,11 @@
       "斑秃"
     ],
     "beginner_note": "梅花针局部叩刺促进生发。",
-    "advanced_clinical_note": "配合中药养血祛风。"
+    "advanced_clinical_note": "配合中药养血祛风。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_010"
+    ]
   },
   {
     "id": "prescription_135",
@@ -6172,7 +6441,9 @@
       "痱子"
     ],
     "beginner_note": "清热解暑除湿止痒。",
-    "advanced_clinical_note": "保持皮肤干燥清洁。"
+    "advanced_clinical_note": "保持皮肤干燥清洁。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_136",
@@ -6219,7 +6490,11 @@
       "髋关节炎"
     ],
     "beginner_note": "环跳是治疗髋关节疾病要穴。",
-    "advanced_clinical_note": "配合物理康复锻炼。"
+    "advanced_clinical_note": "配合物理康复锻炼。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_084"
+    ]
   },
   {
     "id": "prescription_137",
@@ -6266,7 +6541,11 @@
       "踝关节扭伤"
     ],
     "beginner_note": "急性期冷水敷后期针刺活血。",
-    "advanced_clinical_note": "配合弹性绷带固定。"
+    "advanced_clinical_note": "配合弹性绷带固定。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_008"
+    ]
   },
   {
     "id": "prescription_138",
@@ -6318,7 +6597,9 @@
       "膝关节炎"
     ],
     "beginner_note": "局部多穴并用效果更佳。",
-    "advanced_clinical_note": "配合中药热敷。"
+    "advanced_clinical_note": "配合中药热敷。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_139",
@@ -6365,7 +6646,11 @@
       "考试焦虑"
     ],
     "beginner_note": "镇静安神增强抗压能力。",
-    "advanced_clinical_note": "考前一周开始治疗效果好。"
+    "advanced_clinical_note": "考前一周开始治疗效果好。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_086"
+    ]
   },
   {
     "id": "prescription_140",
@@ -6413,7 +6698,11 @@
       "晕船"
     ],
     "beginner_note": "内关是防治晕动症的要穴。",
-    "advanced_clinical_note": "可配合耳穴贴压耳神门。"
+    "advanced_clinical_note": "可配合耳穴贴压耳神门。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_033"
+    ]
   },
   {
     "id": "prescription_141",
@@ -6460,7 +6749,9 @@
       "急性腹痛"
     ],
     "beginner_note": "腹痛原因不明需除外急腹症。",
-    "advanced_clinical_note": "急腹症需转外科处理。"
+    "advanced_clinical_note": "急腹症需转外科处理。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_142",
@@ -6507,7 +6798,9 @@
       "术后肠麻痹"
     ],
     "beginner_note": "电针足三里促进肠蠕动。",
-    "advanced_clinical_note": "配合早期活动。"
+    "advanced_clinical_note": "配合早期活动。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_143",
@@ -6554,7 +6847,9 @@
       "顽固性膈肌痉挛"
     ],
     "beginner_note": "天突穴浅刺注意安全。",
-    "advanced_clinical_note": "久呃者需检查病因。"
+    "advanced_clinical_note": "久呃者需检查病因。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_144",
@@ -6601,7 +6896,11 @@
       "痔疮"
     ],
     "beginner_note": "承山是治痔要穴。",
-    "advanced_clinical_note": "配合温水坐浴。"
+    "advanced_clinical_note": "配合温水坐浴。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_011"
+    ]
   },
   {
     "id": "prescription_145",
@@ -6648,7 +6947,9 @@
       "男性不育"
     ],
     "beginner_note": "补肾益精为根本。",
-    "advanced_clinical_note": "疗程需3-6个月。"
+    "advanced_clinical_note": "疗程需3-6个月。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_146",
@@ -6695,7 +6996,9 @@
       "多汗症"
     ],
     "beginner_note": "补气固表是治自汗的关键。",
-    "advanced_clinical_note": "配合玉屏风散。"
+    "advanced_clinical_note": "配合玉屏风散。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_147",
@@ -6743,7 +7046,11 @@
       "更年期盗汗"
     ],
     "beginner_note": "阴郄是止汗要穴。",
-    "advanced_clinical_note": "阴虚重加三阴交。"
+    "advanced_clinical_note": "阴虚重加三阴交。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_009"
+    ]
   },
   {
     "id": "prescription_148",
@@ -6800,7 +7107,9 @@
       "面神经麻痹"
     ],
     "beginner_note": "面瘫急性期浅刺。",
-    "advanced_clinical_note": "配合热敷和面部按摩。"
+    "advanced_clinical_note": "配合热敷和面部按摩。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_149",
@@ -6847,7 +7156,9 @@
       "腓肠肌痉挛"
     ],
     "beginner_note": "承山是治小腿转筋的要穴。",
-    "advanced_clinical_note": "配合补钙和拉伸。"
+    "advanced_clinical_note": "配合补钙和拉伸。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_150",
@@ -6891,7 +7202,9 @@
       "颈椎病性头痛"
     ],
     "beginner_note": "初学者：太阳经头痛在后头部连项背。",
-    "advanced_clinical_note": "高级要点：风寒加风门灸；风府深刺须谨慎不可过深。"
+    "advanced_clinical_note": "高级要点：风寒加风门灸；风府深刺须谨慎不可过深。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_151",
@@ -6943,7 +7256,11 @@
       "暑湿感冒"
     ],
     "beginner_note": "暑天特有的外感方。",
-    "advanced_clinical_note": "配合藿香正气水。"
+    "advanced_clinical_note": "配合藿香正气水。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_069"
+    ]
   },
   {
     "id": "prescription_152",
@@ -6987,7 +7304,9 @@
       "偏头痛"
     ],
     "beginner_note": "初学者：阳明经头痛在前额。",
-    "advanced_clinical_note": "高级要点：便秘加大肠俞天枢通腑泄热。"
+    "advanced_clinical_note": "高级要点：便秘加大肠俞天枢通腑泄热。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_153",
@@ -7034,7 +7353,11 @@
       "便秘热秘型"
     ],
     "beginner_note": "支沟是便秘特效穴。",
-    "advanced_clinical_note": "配合多饮水多食蔬菜。"
+    "advanced_clinical_note": "配合多饮水多食蔬菜。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_041"
+    ]
   },
   {
     "id": "prescription_154",
@@ -7078,7 +7401,9 @@
       "血管性头痛"
     ],
     "beginner_note": "初学者：偏头痛在头两侧属少阳。",
-    "advanced_clinical_note": "高级要点：外关足临泣手足少阳上下配穴。"
+    "advanced_clinical_note": "高级要点：外关足临泣手足少阳上下配穴。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_155",
@@ -7125,7 +7450,9 @@
       "便秘气虚型"
     ],
     "beginner_note": "补气是治虚秘的根本。",
-    "advanced_clinical_note": "配合润肠食物。"
+    "advanced_clinical_note": "配合润肠食物。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_156",
@@ -7169,7 +7496,9 @@
       "巅顶痛"
     ],
     "beginner_note": "初学者：头顶痛属厥阴肝经。",
-    "advanced_clinical_note": "高级要点：肝肾阴虚加太溪三阴交滋水涵木。"
+    "advanced_clinical_note": "高级要点：肝肾阴虚加太溪三阴交滋水涵木。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_157",
@@ -7216,7 +7545,9 @@
       "便秘冷秘型"
     ],
     "beginner_note": "阳虚便秘以温阳为纲。",
-    "advanced_clinical_note": "配合当归生姜羊肉汤。"
+    "advanced_clinical_note": "配合当归生姜羊肉汤。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_158",
@@ -7260,7 +7591,11 @@
       "梅尼埃病"
     ],
     "beginner_note": "初学者：眩晕+烦躁=肝阳上亢。",
-    "advanced_clinical_note": "高级要点：风池深刺有降压效果。"
+    "advanced_clinical_note": "高级要点：风池深刺有降压效果。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_012"
+    ]
   },
   {
     "id": "prescription_159",
@@ -7312,7 +7647,11 @@
       "干眼症"
     ],
     "beginner_note": "补益肝肾为本。",
-    "advanced_clinical_note": "配合人工泪液。"
+    "advanced_clinical_note": "配合人工泪液。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_093"
+    ]
   },
   {
     "id": "prescription_160",
@@ -7356,7 +7695,9 @@
       "低血压"
     ],
     "beginner_note": "初学者：头晕+面白乏力=气血虚。",
-    "advanced_clinical_note": "高级要点：百会灸升提清阳，心脾两虚加心俞脾俞。"
+    "advanced_clinical_note": "高级要点：百会灸升提清阳，心脾两虚加心俞脾俞。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_161",
@@ -7403,7 +7744,9 @@
       "荨麻疹寒冷型"
     ],
     "beginner_note": "温散风寒为治本之法。",
-    "advanced_clinical_note": "配合保暖避免冷刺激。"
+    "advanced_clinical_note": "配合保暖避免冷刺激。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_162",
@@ -7447,7 +7790,11 @@
       "前庭性眩晕"
     ],
     "beginner_note": "初学者：眩晕+恶心头重=痰浊。",
-    "advanced_clinical_note": "高级要点：丰隆为治痰要穴，配合中脘健脾。"
+    "advanced_clinical_note": "高级要点：丰隆为治痰要穴，配合中脘健脾。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_033"
+    ]
   },
   {
     "id": "prescription_163",
@@ -7491,7 +7838,11 @@
       "心脏神经官能症"
     ],
     "beginner_note": "初学者：心悸易惊=心虚胆怯。",
-    "advanced_clinical_note": "高级要点：心俞巨阙为俞募配穴法。"
+    "advanced_clinical_note": "高级要点：心俞巨阙为俞募配穴法。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_099"
+    ]
   },
   {
     "id": "prescription_164",
@@ -7535,7 +7886,9 @@
       "冠心病"
     ],
     "beginner_note": "初学者：心阳不足心悸要灸关元心俞。",
-    "advanced_clinical_note": "高级要点：关元大灸温补元阳。"
+    "advanced_clinical_note": "高级要点：关元大灸温补元阳。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_165",
@@ -7579,7 +7932,9 @@
       "落枕"
     ],
     "beginner_note": "初学者：颈部僵硬首选颈夹脊。",
-    "advanced_clinical_note": "高级要点：夹脊穴宜选C3-C7。"
+    "advanced_clinical_note": "高级要点：夹脊穴宜选C3-C7。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_166",
@@ -7623,7 +7978,9 @@
       "腰肌劳损"
     ],
     "beginner_note": "初学者：腰痛四穴。",
-    "advanced_clinical_note": "高级要点：腰背委中求，委中放血对急性腰痛效佳。"
+    "advanced_clinical_note": "高级要点：腰背委中求，委中放血对急性腰痛效佳。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_167",
@@ -7667,7 +8024,9 @@
       "腰椎间盘突出症"
     ],
     "beginner_note": "初学者：腰部冷痛=风寒。",
-    "advanced_clinical_note": "高级要点：灸法首选，可加隔姜灸。"
+    "advanced_clinical_note": "高级要点：灸法首选，可加隔姜灸。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_168",
@@ -7710,7 +8069,11 @@
       "急性腰扭伤"
     ],
     "beginner_note": "初学者：急性腰扭伤一针人中配委中放血。",
-    "advanced_clinical_note": "高级要点：人中为督脉要穴，针入痛止。"
+    "advanced_clinical_note": "高级要点：人中为督脉要穴，针入痛止。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_008"
+    ]
   },
   {
     "id": "prescription_169",
@@ -7759,7 +8122,9 @@
       "神经性耳鸣"
     ],
     "beginner_note": "初学者：听宫听会翳风治耳疾三要穴。",
-    "advanced_clinical_note": "高级要点：肝胆火旺泻太冲侠溪。"
+    "advanced_clinical_note": "高级要点：肝胆火旺泻太冲侠溪。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_170",
@@ -7802,7 +8167,9 @@
       "麦粒肿（睑腺炎）"
     ],
     "beginner_note": "初学者：麦粒肿初起耳尖放血效果好。",
-    "advanced_clinical_note": "高级要点：早期耳尖放血有显效。"
+    "advanced_clinical_note": "高级要点：早期耳尖放血有显效。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_171",
@@ -7851,7 +8218,9 @@
       "性功能障碍"
     ],
     "beginner_note": "初学者：阳痿补肾阳为主。",
-    "advanced_clinical_note": "高级要点：命门用隔姜灸或温针灸。"
+    "advanced_clinical_note": "高级要点：命门用隔姜灸或温针灸。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_172",
@@ -7900,7 +8269,9 @@
       "少精症"
     ],
     "beginner_note": "初学者：补肾益精基本方。",
-    "advanced_clinical_note": "高级要点：配合三阴交太溪增强滋阴之功。"
+    "advanced_clinical_note": "高级要点：配合三阴交太溪增强滋阴之功。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_173",
@@ -7949,7 +8320,9 @@
       "小儿急惊风"
     ],
     "beginner_note": "初学者：高热抽风急救十宣放血+水沟。",
-    "advanced_clinical_note": "高级要点：四关穴合谷太冲开四关息风镇痉。"
+    "advanced_clinical_note": "高级要点：四关穴合谷太冲开四关息风镇痉。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_174",
@@ -7993,7 +8366,9 @@
       "休克"
     ],
     "beginner_note": "初学者：晕倒急救针刺水沟内关。",
-    "advanced_clinical_note": "高级要点：水沟手法宜重。"
+    "advanced_clinical_note": "高级要点：水沟手法宜重。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_175",
@@ -8037,7 +8412,9 @@
       "小儿消化不良"
     ],
     "beginner_note": "初学者：小儿食积四缝点刺立竿见影。",
-    "advanced_clinical_note": "高级要点：四缝为经外奇穴点刺挤出黏液效佳。"
+    "advanced_clinical_note": "高级要点：四缝为经外奇穴点刺挤出黏液效佳。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_176",
@@ -8085,7 +8462,9 @@
       "类风湿关节炎"
     ],
     "beginner_note": "初学者：骨会大杼配血海丰隆化痰活血。",
-    "advanced_clinical_note": "高级要点：病程长者以温针灸为主。"
+    "advanced_clinical_note": "高级要点：病程长者以温针灸为主。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_177",
@@ -8133,7 +8512,9 @@
       "面神经炎（面瘫）"
     ],
     "beginner_note": "初学者：面瘫急性期必须浅刺忌电针。",
-    "advanced_clinical_note": "高级要点：1-7天急性期当浅刺。"
+    "advanced_clinical_note": "高级要点：1-7天急性期当浅刺。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_178",
@@ -8181,7 +8562,9 @@
       "面神经炎恢复期"
     ],
     "beginner_note": "初学者：恢复期可通电针频率宜低。",
-    "advanced_clinical_note": "高级要点：透刺为关键手法电针频率1-2Hz。"
+    "advanced_clinical_note": "高级要点：透刺为关键手法电针频率1-2Hz。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_179",
@@ -8230,7 +8613,9 @@
       "亚健康"
     ],
     "beginner_note": "初学者：疲劳补气海关元足三里。",
-    "advanced_clinical_note": "高级要点：可配合督灸隔日一次。"
+    "advanced_clinical_note": "高级要点：可配合督灸隔日一次。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_180",
@@ -8279,7 +8664,9 @@
       "焦虑症"
     ],
     "beginner_note": "初学者：神门为安神第一要穴。",
-    "advanced_clinical_note": "高级要点：内关双向调节心律。"
+    "advanced_clinical_note": "高级要点：内关双向调节心律。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_181",
@@ -8323,7 +8710,9 @@
       "感冒咳嗽"
     ],
     "beginner_note": "初学者：风寒咳嗽灸肺俞风门效果好。",
-    "advanced_clinical_note": "高级要点：肺俞加灸可温散风寒，列缺为治咳嗽要穴。"
+    "advanced_clinical_note": "高级要点：肺俞加灸可温散风寒，列缺为治咳嗽要穴。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_182",
@@ -8367,7 +8756,11 @@
       "上呼吸道感染"
     ],
     "beginner_note": "初学者：风热咳嗽取大椎放血清热。",
-    "advanced_clinical_note": "高级要点：大椎为退热要穴，配合刺络拔罐增强清热之功。"
+    "advanced_clinical_note": "高级要点：大椎为退热要穴，配合刺络拔罐增强清热之功。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_114"
+    ]
   },
   {
     "id": "prescription_183",
@@ -8411,7 +8804,11 @@
       "胃痉挛"
     ],
     "beginner_note": "初学者：胃寒痛灸中脘足三里。",
-    "advanced_clinical_note": "高级要点：中脘为胃之募穴，加灸温中力强。"
+    "advanced_clinical_note": "高级要点：中脘为胃之募穴，加灸温中力强。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_039"
+    ]
   },
   {
     "id": "prescription_184",
@@ -8455,7 +8852,11 @@
       "消化性溃疡"
     ],
     "beginner_note": "初学者：胃热加内庭公孙泻火。",
-    "advanced_clinical_note": "高级要点：内庭为荥穴主身热，公孙冲脉公孙治胃心胸。"
+    "advanced_clinical_note": "高级要点：内庭为荥穴主身热，公孙冲脉公孙治胃心胸。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_072"
+    ]
   },
   {
     "id": "prescription_185",
@@ -8504,7 +8905,11 @@
       "功能性消化不良"
     ],
     "beginner_note": "初学者：慢性胃病重在健脾。",
-    "advanced_clinical_note": "高级要点：足三里为强壮要穴，脾胃俞募配穴。"
+    "advanced_clinical_note": "高级要点：足三里为强壮要穴，脾胃俞募配穴。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_003"
+    ]
   },
   {
     "id": "prescription_186",
@@ -8548,7 +8953,11 @@
       "细菌性痢疾"
     ],
     "beginner_note": "初学者：湿热泄泻取天枢上巨虚。",
-    "advanced_clinical_note": "高级要点：天枢为大肠募穴双向调节，配合阴陵泉利湿。"
+    "advanced_clinical_note": "高级要点：天枢为大肠募穴双向调节，配合阴陵泉利湿。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_011"
+    ]
   },
   {
     "id": "prescription_187",
@@ -8592,7 +9001,11 @@
       "肠易激综合征"
     ],
     "beginner_note": "初学者：脾虚泄泻以灸法为主。",
-    "advanced_clinical_note": "高级要点：脾俞大肠俞配合天枢为标本同治之法。"
+    "advanced_clinical_note": "高级要点：脾俞大肠俞配合天枢为标本同治之法。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_003"
+    ]
   },
   {
     "id": "prescription_188",
@@ -8636,7 +9049,9 @@
       "老年便秘"
     ],
     "beginner_note": "初学者：支沟为通便经验穴。",
-    "advanced_clinical_note": "高级要点：支沟通三焦之气，为通便要穴。"
+    "advanced_clinical_note": "高级要点：支沟通三焦之气，为通便要穴。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_189",
@@ -8680,7 +9095,9 @@
       "产后便秘"
     ],
     "beginner_note": "初学者：虚证便秘补气海关元。",
-    "advanced_clinical_note": "高级要点：气海灸可补元气，天枢大肠俞轻刺激。"
+    "advanced_clinical_note": "高级要点：气海灸可补元气，天枢大肠俞轻刺激。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_190",
@@ -8730,7 +9147,9 @@
       "黄疸"
     ],
     "beginner_note": "初学者：黄疸取肝胆俞配阳陵泉。",
-    "advanced_clinical_note": "高级要点：阳陵泉为胆之下合穴，配合肝俞胆俞疏肝利胆退黄。"
+    "advanced_clinical_note": "高级要点：阳陵泉为胆之下合穴，配合肝俞胆俞疏肝利胆退黄。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_191",
@@ -8780,7 +9199,11 @@
       "更年期综合征"
     ],
     "beginner_note": "初学者：开四关（太冲合谷）疏肝解郁。",
-    "advanced_clinical_note": "高级要点：期门为肝之募穴不可深刺，配合太冲疏肝理气。"
+    "advanced_clinical_note": "高级要点：期门为肝之募穴不可深刺，配合太冲疏肝理气。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_132"
+    ]
   },
   {
     "id": "prescription_192",
@@ -8830,7 +9253,11 @@
       "尿道炎"
     ],
     "beginner_note": "初学者：淋证取中极膀胱俞为俞募配穴。",
-    "advanced_clinical_note": "高级要点：阴陵泉利湿，行间泻肝火，小便涩痛可加秩边透水道。"
+    "advanced_clinical_note": "高级要点：阴陵泉利湿，行间泻肝火，小便涩痛可加秩边透水道。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_011"
+    ]
   },
   {
     "id": "prescription_193",
@@ -8879,7 +9306,11 @@
       "成人夜尿症"
     ],
     "beginner_note": "初学者：关元中极膀胱俞为遗尿基本方。",
-    "advanced_clinical_note": "高级要点：成人遗尿需加灸关元肾俞，配合膀胱功能训练。"
+    "advanced_clinical_note": "高级要点：成人遗尿需加灸关元肾俞，配合膀胱功能训练。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_101"
+    ]
   },
   {
     "id": "prescription_194",
@@ -8928,7 +9359,9 @@
       "子宫内膜异位症"
     ],
     "beginner_note": "初学者：痛经首选关元三阴交。",
-    "advanced_clinical_note": "高级要点：寒证加灸关元至关中，地机为脾经郄穴止痛要穴。"
+    "advanced_clinical_note": "高级要点：寒证加灸关元至关中，地机为脾经郄穴止痛要穴。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_195",
@@ -8977,7 +9410,11 @@
       "月经不调"
     ],
     "beginner_note": "初学者：气滞痛经太冲血海活血。",
-    "advanced_clinical_note": "高级要点：次髎深刺向骶骨方向，针感向下腹传导为佳。"
+    "advanced_clinical_note": "高级要点：次髎深刺向骶骨方向，针感向下腹传导为佳。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_008"
+    ]
   },
   {
     "id": "prescription_196",
@@ -9026,7 +9463,9 @@
       "乳腺纤维腺瘤"
     ],
     "beginner_note": "初学者：膻中乳根局部取穴。",
-    "advanced_clinical_note": "高级要点：期门疏肝，丰隆化痰，标本兼治。"
+    "advanced_clinical_note": "高级要点：期门疏肝，丰隆化痰，标本兼治。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_197",
@@ -9075,7 +9514,11 @@
       "前列腺增生"
     ],
     "beginner_note": "初学者：秩边透水道治前列腺炎。",
-    "advanced_clinical_note": "高级要点：秩边针尖稍向内上方刺入，针感达会阴部为佳。"
+    "advanced_clinical_note": "高级要点：秩边针尖稍向内上方刺入，针感达会阴部为佳。",
+    "source": "临床常用方",
+    "related_syndromes": [
+      "syndrome_011"
+    ]
   },
   {
     "id": "prescription_198",
@@ -9124,7 +9567,9 @@
       "腰突症缓解期"
     ],
     "beginner_note": "初学者：慢性腰痛以补肾为主。",
-    "advanced_clinical_note": "高级要点：腰眼为经外奇穴，配合命门大灸补肾壮腰。"
+    "advanced_clinical_note": "高级要点：腰眼为经外奇穴，配合命门大灸补肾壮腰。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_199",
@@ -9168,7 +9613,9 @@
       "颈肌筋膜炎"
     ],
     "beginner_note": "初学者：落枕穴在第二三掌骨间嘱患者活动脖子。",
-    "advanced_clinical_note": "高级要点：落枕穴为治疗落枕经验效穴配合运动针法。"
+    "advanced_clinical_note": "高级要点：落枕穴为治疗落枕经验效穴配合运动针法。",
+    "source": "临床常用方",
+    "related_syndromes": []
   },
   {
     "id": "prescription_200",
@@ -9212,6 +9659,8 @@
       "腕管综合征"
     ],
     "beginner_note": "初学者：局部阿是穴加列缺阳溪。",
-    "advanced_clinical_note": "高级要点：阿是穴以痛点为中心刺，配合腕关节制动。"
+    "advanced_clinical_note": "高级要点：阿是穴以痛点为中心刺，配合腕关节制动。",
+    "source": "临床常用方",
+    "related_syndromes": []
   }
 ]

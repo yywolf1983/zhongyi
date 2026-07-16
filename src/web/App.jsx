@@ -13,7 +13,6 @@ import SearchModule from '../components/search/SearchModule'
 import KnowledgeGraph from '../components/knowledge/KnowledgeGraph'
 import ModernMapping from '../components/knowledge/ModernMapping'
 import BookmarksModule from '../components/bookmarks/BookmarksModule'
-import Home from '../components/common/Home'
 
 // 路由变化自动滚动到顶部
 function ScrollToTop() {
@@ -62,7 +61,7 @@ function useCapacitorNative() {
       try {
         const { StatusBar, Style } = await import('@capacitor/status-bar')
         if (window.Capacitor?.getPlatform() === 'android') {
-          await StatusBar.setBackgroundColor({ color: '#1a3a1a' })
+          await StatusBar.setBackgroundColor({ color: '#211d18' })
           await StatusBar.setStyle({ style: Style.Dark })
         }
       } catch {
@@ -193,8 +192,8 @@ function Layout({ children }) {
     <div className="app-container">
       <Header />
       <GlobalSearchBar />
+      <Navigation />
       <main className="main-content">
-        <Navigation />
         <div className="page-enter">
           <ErrorBoundary>
             <DataLoader>{children}</DataLoader>
@@ -212,12 +211,13 @@ export default function App() {
       <AppProvider>
         <ScrollToTop />
         <Routes>
-          <Route element={<Layout><Home /></Layout>} path="/" />
+          <Route element={<Layout><SyndromeModule /></Layout>} path="/" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes/:syndromeId" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/:acupointId" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/needle/:needleId" />
+          <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/acu-presc/:acuPrescId" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas/:formulaId" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas/medicine/:medicineId" />
@@ -226,7 +226,7 @@ export default function App() {
           <Route element={<Layout><KnowledgeGraph /></Layout>} path="/knowledge-graph/:entityType/:entityId" />
           <Route element={<Layout><ModernMapping /></Layout>} path="/modern-mapping" />
           <Route element={<Layout><BookmarksModule /></Layout>} path="/bookmarks" />
-          <Route element={<Layout><Home /></Layout>} path="*" />
+          <Route element={<Layout><SyndromeModule /></Layout>} path="*" />
         </Routes>
       </AppProvider>
     </BrowserRouter>

@@ -185,7 +185,10 @@ export default function ModernMapping() {
                       <tbody>
                         {mapping.comparison.map((row, idx) => (
                           <tr key={idx}>
-                            <td className="comparison-aspect">{row.aspect}</td>
+                            <td className="comparison-aspect">
+                              <div>{row.aspect}</div>
+                              {row.classic && <div className="comparison-classic">{row.classic}</div>}
+                            </td>
                             <td className="comparison-tcm">{row.tcm}</td>
                             <td className="comparison-western">{row.western}</td>
                           </tr>

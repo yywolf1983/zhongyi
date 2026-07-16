@@ -3,6 +3,7 @@ import { useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
+import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 
@@ -114,12 +115,26 @@ export default function SyndromeModule() {
   if (selectedSyndrome) {
     const { syndrome, formulas, needles, treatments, effects, modernMapping } = selectedSyndrome
 
+    const anchorSections = [
+      { id: 'sec-diagnosis', label: '辨证', show: syndrome.diagnosis_points?.length },
+      { id: 'sec-pathogenesis', label: '病机', show: syndrome.pathogenesis },
+      { id: 'sec-etiology', label: '病因', show: syndrome.etiology },
+      { id: 'sec-indications', label: '表现', show: syndrome.indications?.length },
+      { id: 'sec-formulas', label: '方剂', show: formulas?.length },
+      { id: 'sec-needles', label: '针方', show: needles?.length },
+      { id: 'sec-treatments', label: '治法', show: treatments?.length },
+      { id: 'sec-effects', label: '功效', show: effects?.length },
+      { id: 'sec-comparison', label: '对照', show: syndrome.comparison?.length },
+      { id: 'sec-modern', label: '西医', show: syndrome.modern_medicine?.length },
+      { id: 'sec-mapping', label: '中西', show: modernMapping?.length }
+    ].filter(s => s.show)
+
     return (
       <div className="detail-container">
         <button className="back-button" onClick={handleBack}>← 返回</button>
 
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-          <div className="detail-header" style={{ flex: 1 }}>
+        <div className="detail-header-row">
+          <div className="detail-header">
             <h1 className="detail-title">{syndrome.name}</h1>
             <p className="detail-pinyin">{syndrome.pinyin}</p>
             <div className="detail-category">
@@ -134,34 +149,46 @@ export default function SyndromeModule() {
           <BookmarkButton item={syndrome} type="syndrome" />
         </div>
 
-        <div className="section">
+        {anchorSections.length > 1 && (
+          <nav className="detail-anchors">
+            {anchorSections.map(a => (
+              <button
+                key={a.id}
+                className="detail-anchor-chip"
+                onClick={() => document.getElementById(a.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' })}
+              >{a.label}</button>
+            ))}
+          </nav>
+        )}
+
+        <div className="section" id="sec-diagnosis">
           <h2 className="section-title">辨证要点</h2>
           <div className="tag-list">
             {syndrome.diagnosis_points?.map((point, i) => (
               <span key={i} className="tag-item clickable-tag" onClick={() => handleSearchClick(point)}>{point}</span>
             ))}
             {(!syndrome.diagnosis_points || syndrome.diagnosis_points.length === 0) && (
-              <span className="section-content" style={{ color: 'var(--color-text-hint)' }}>暂无数据</span>
+              <span className="section-content empty-hint">暂无数据</span>
             )}
           </div>
         </div>
 
         {syndrome.pathogenesis && (
-          <div className="section">
+          <div className="section" id="sec-pathogenesis">
             <h2 className="section-title">病机分析</h2>
             <p className="section-content">{syndrome.pathogenesis}</p>
           </div>
         )}
 
         {syndrome.etiology && (
-          <div className="section">
+          <div className="section" id="sec-etiology">
             <h2 className="section-title">病因</h2>
             <p className="section-content">{syndrome.etiology}</p>
           </div>
         )}
 
         {syndrome.indications && syndrome.indications.length > 0 && (
-          <div className="section">
+          <div className="section" id="sec-indications">
             <h2 className="section-title">临床表现</h2>
             <div className="tag-list">
               {syndrome.indications.map((ind, i) => (
@@ -172,11 +199,11 @@ export default function SyndromeModule() {
         )}
 
         {formulas && formulas.length > 0 && (
-          <div className="section">
+          <div className="section" id="sec-formulas">
             <h2 className="section-title">推荐方剂</h2>
             <div className="list-container">
               {formulas.map(formula => (
-                <div key={formula.id} className="list-item" onClick={() => navigate(`/formulas/${formula.id}`)}>
+                <div key={formula.id} className="list-item formula" onClick={() => navigate(`/formulas/${formula.id}`)}>
                   <div className="list-item-title">{formula.name}</div>
                   <div className="list-item-pinyin">{formula.pinyin}</div>
                   <div className="list-item-desc">{formula.effects?.join('、')}</div>
@@ -187,11 +214,11 @@ export default function SyndromeModule() {
         )}
 
         {needles && needles.length > 0 && (
-          <div className="section">
+          <div className="section" id="sec-needles">
             <h2 className="section-title">推荐针方</h2>
             <div className="list-container">
               {needles.map(needle => (
-                <div key={needle.id} className="list-item" onClick={() => navigate(`/acupuncture/needle/${needle.id}`)}>
+                <div key={needle.id} className="list-item needle" onClick={() => navigate(`/acupuncture/needle/${needle.id}`)}>
                   <div className="list-item-title">{needle.name}</div>
                   <div className="list-item-desc">{needle.effects?.join('、')}</div>
                 </div>
@@ -201,7 +228,7 @@ export default function SyndromeModule() {
         )}
 
         {treatments && treatments.length > 0 && (
-          <div className="section">
+          <div className="section" id="sec-treatments">
             <h2 className="section-title">治疗方法</h2>
             <div className="list-container">
               {treatments.map(treatment => {
@@ -257,12 +284,12 @@ export default function SyndromeModule() {
         )}
 
         {effects && effects.length > 0 && (
-          <div className="section">
+          <div className="section" id="sec-effects">
             <h2 className="section-title">功效</h2>
             <div className="tag-list">
               {effects.map(effect => (
                 <span key={effect.id} id={`effect-${effect.id}`} className="tag-item primary clickable-tag"
-                  onClick={() => handleSearchClick(effect.name)}>{effect.name}</span>
+                  onClick={() => navigateToEntityByName(navigate, DATA_TYPES.EFFECTS, effect.name)}>{effect.name}</span>
               ))}
             </div>
           </div>
@@ -270,7 +297,7 @@ export default function SyndromeModule() {
 
         {/* Structured Comparison Table */}
         {syndrome.comparison && syndrome.comparison.length > 0 && (
-          <div className="section">
+          <div className="section" id="sec-comparison">
             <h2 className="section-title mapping-title">中西对照</h2>
             <div className="comparison-table-wrapper">
               <table className="comparison-table">
@@ -284,7 +311,10 @@ export default function SyndromeModule() {
                 <tbody>
                   {syndrome.comparison.map((row, idx) => (
                     <tr key={idx}>
-                      <td className="comparison-aspect">{row.aspect}</td>
+                      <td className="comparison-aspect">
+                        <div>{row.aspect}</div>
+                        {row.classic && <div className="comparison-classic">{row.classic}</div>}
+                      </td>
                       <td className="comparison-tcm">{row.tcm}</td>
                       <td className="comparison-western">{row.western}</td>
                     </tr>
@@ -297,7 +327,7 @@ export default function SyndromeModule() {
 
         {/* Modern medicine diseases */}
         {syndrome.modern_medicine && syndrome.modern_medicine.length > 0 && (
-          <div className="section">
+          <div className="section secondary" id="sec-modern">
             <h2 className="section-title">现代医学对应疾病</h2>
             <div className="tag-list">
               {syndrome.modern_medicine.map((disease, i) => (
@@ -309,11 +339,11 @@ export default function SyndromeModule() {
 
         {/* ModernMapping links (from modern_mapping.json) */}
         {modernMapping && modernMapping.length > 0 && (
-          <div className="section">
+          <div className="section" id="sec-mapping">
             <h2 className="section-title mapping-title">相关中西对照</h2>
             <div className="list-container">
               {modernMapping.map(mapping => (
-                <div key={mapping.id} className="list-item" onClick={() => navigate(`/modern-mapping?id=${mapping.id}`)}>
+                <div key={mapping.id} className="list-item mapping" onClick={() => navigate(`/modern-mapping?id=${mapping.id}`)}>
                   <div className="list-item-title">
                     {mapping.chinese_term} ↔ {mapping.modern_term}
                   </div>
@@ -349,15 +379,13 @@ export default function SyndromeModule() {
           {syndromes.map(syndrome => (
             <div
               key={syndrome.id}
-              className="list-item"
+              className="list-item syndrome"
               onClick={() => handleSelectSyndrome(syndrome)}
             >
               <div className="list-item-title">
                 {syndrome.name}
                 {syndrome.category && syndrome.category.length > 0 && (
-                  <span style={{ fontSize: '0.85rem', color: 'var(--color-primary)', marginLeft: '8px', fontWeight: 'normal' }}>
-                    {syndrome.category.slice(0, 2).join('·')}
-                  </span>
+                  <span className="list-item-cat">{syndrome.category.slice(0, 2).join('·')}</span>
                 )}
               </div>
               <div className="list-item-pinyin">{syndrome.pinyin}</div>

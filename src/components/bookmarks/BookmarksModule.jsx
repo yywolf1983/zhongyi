@@ -1,5 +1,6 @@
 import { useNavigate } from 'react-router-dom'
 import { useAppContext } from '../../context/AppContext'
+import { navigateToEntity } from '../../services/EntityRoute.js'
 import EmptyState from '../common/EmptyState.jsx'
 
 const TYPE_LABELS = {
@@ -7,7 +8,8 @@ const TYPE_LABELS = {
   formula: '方剂',
   medicine: '中药',
   acupoint: '穴位',
-  needle: '针方'
+  needle: '针方',
+  'acu-presc': '针灸处方'
 }
 
 const TYPE_ICONS = {
@@ -15,15 +17,8 @@ const TYPE_ICONS = {
   formula: '💊',
   medicine: '🌿',
   acupoint: '📍',
-  needle: '💉'
-}
-
-const TYPE_ROUTES = {
-  syndrome: (id) => `/syndromes/${id}`,
-  formula: (id) => `/formulas/${id}`,
-  medicine: (id) => `/formulas/medicine/${id}`,
-  acupoint: (id) => `/acupuncture/${id}`,
-  needle: (id) => `/acupuncture/needle/${id}`
+  needle: '💉',
+  'acu-presc': '💉'
 }
 
 export default function BookmarksModule() {
@@ -31,10 +26,7 @@ export default function BookmarksModule() {
   const { bookmarks, removeBookmark, getBookmarksByType } = useAppContext()
 
   const handleClick = (bookmark) => {
-    const routeFn = TYPE_ROUTES[bookmark.type]
-    if (routeFn) {
-      navigate(routeFn(bookmark.id))
-    }
+    navigateToEntity(navigate, bookmark.type, bookmark.id)
   }
 
   const handleRemove = (e, bookmark) => {
@@ -68,7 +60,7 @@ export default function BookmarksModule() {
           </div>
           <div className="list-container">
             {items.map(item => (
-              <div key={item.id} className="list-item" onClick={() => handleClick(item)}>
+              <div key={item.id} className={`list-item ${item.type}`} onClick={() => handleClick(item)}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                   <div>
                     <div className="list-item-title">{item.name}</div>

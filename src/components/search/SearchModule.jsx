@@ -2,6 +2,7 @@ import { useState, useEffect, useRef, useCallback } from 'react'
 import { useNavigate, useSearchParams } from 'react-router-dom'
 import { SearchService } from '../../services/SearchService.js'
 import EmptyState from '../common/EmptyState.jsx'
+import { navigateToEntity } from '../../services/EntityRoute.js'
 
 const typeLabels = {
   syndromes: '证型',
@@ -29,18 +30,20 @@ const typeIcons = {
   modern_mapping: '🔄'
 }
 
-const typeRouteMap = {
-  syndromes: (id) => `/syndromes/${id}`,
-  formulas: (id) => `/formulas/${id}`,
-  medicines: (id) => `/formulas/medicine/${id}`,
-  acupoints: (id) => `/acupuncture/${id}`,
-  needles: (id) => `/acupuncture/needle/${id}`,
-  acupuncture_prescriptions: (id) => `/acupuncture`,
-  treatments: (id) => `/syndromes?treatment=${id}`,
-  meridians: (id) => `/acupuncture?meridian=${id}`,
-  effects: (id) => `/syndromes?effect=${id}`,
-  modern_mapping: (id) => `/modern-mapping?id=${id}`
+const TYPE_CLASS_MAP = {
+  syndromes: 'syndrome',
+  formulas: 'formula',
+  medicines: 'medicine',
+  acupoints: 'acupoint',
+  needles: 'needle',
+  acupuncture_prescriptions: 'acu-presc',
+  treatments: 'treatment',
+  meridians: 'meridian',
+  effects: 'effect',
+  modern_mapping: 'mapping'
 }
+
+
 
 // 关键词高亮
 function highlightText(text, keyword) {
@@ -100,10 +103,7 @@ export default function SearchModule() {
   }
 
   const handleResultClick = (item) => {
-    const routeFn = typeRouteMap[item.type]
-    if (routeFn) {
-      navigate(routeFn(item.id))
-    }
+    navigateToEntity(navigate, item.type, item.id)
   }
 
   const renderContext = (item) => {
@@ -260,6 +260,7 @@ export default function SearchModule() {
                 {ctx.comparison.map((c, i) => (
                   <span key={i} style={{ display: 'inline-block', marginRight: '12px', fontSize: '0.88rem' }}>
                     {c.aspect}：{c.tcm} | {c.western}
+                    {c.classic && <em style={{ color: 'var(--color-accent)', fontStyle: 'normal', marginLeft: '4px' }}>（{c.classic}）</em>}
                   </span>
                 ))}
               </div>
@@ -337,7 +338,7 @@ export default function SearchModule() {
                 </div>
                 <div className="list-container">
                   {items.map(item => (
-                    <div key={item.id} className="list-item search-result-item" onClick={() => handleResultClick(item)}>
+                    <div key={item.id} className={`list-item search-result-item ${TYPE_CLASS_MAP[item.type] || ''}`} onClick={() => handleResultClick(item)}>
                       <div className="list-item-header">
                         <span className="list-item-title">{highlightText(item.name, searchResults.keyword)}</span>
                         {item.pinyin && <span className="list-item-pinyin">{highlightText(item.pinyin, searchResults.keyword)}</span>}

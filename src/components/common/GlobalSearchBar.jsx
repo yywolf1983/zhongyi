@@ -1,19 +1,7 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { SearchService } from '../../services/SearchService.js'
-
-const typeRouteMap = {
-  '证型': (id) => `/syndromes/${id}`,
-  '方剂': (id) => `/formulas/${id}`,
-  '中药': (id) => `/formulas/medicine/${id}`,
-  '穴位': (id) => `/acupuncture/${id}`,
-  '针方': (id) => `/acupuncture/needle/${id}`,
-  '针灸处方': (id) => `/acupuncture`,
-  '治法': (id) => `/syndromes?treatment=${id}`,
-  '经络': (id) => `/acupuncture?meridian=${id}`,
-  '功效': (id) => `/syndromes?effect=${id}`,
-  '中西对照': (id) => `/modern-mapping?id=${id}`
-}
+import { navigateToEntity } from '../../services/EntityRoute.js'
 
 export default function GlobalSearchBar() {
   const navigate = useNavigate()
@@ -61,9 +49,8 @@ export default function GlobalSearchBar() {
 
   const handleSuggestionClick = (suggestion) => {
     setShowSuggestions(false)
-    const routeFn = typeRouteMap[suggestion.type]
-    if (routeFn) {
-      navigate(routeFn(suggestion.id))
+    if (suggestion.id) {
+      navigateToEntity(navigate, suggestion.type, suggestion.id)
     } else {
       setKeyword(suggestion.name)
       navigate(`/search?q=${encodeURIComponent(suggestion.name)}`)

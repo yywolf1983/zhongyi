@@ -3,6 +3,7 @@ import { useNavigate, useParams } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
+import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 
@@ -98,7 +99,7 @@ export default function FormulaModule() {
   }
 
   const handleEffectClick = (name) => {
-    navigate(`/search?q=${encodeURIComponent(name)}`)
+    navigateToEntityByName(navigate, DATA_TYPES.EFFECTS, name)
   }
 
   const handleViewModeChange = (mode) => {
@@ -108,7 +109,7 @@ export default function FormulaModule() {
   }
 
   const handleMeridianClick = (meridianName) => {
-    navigate(`/search?q=${encodeURIComponent(meridianName)}`)
+    navigateToEntityByName(navigate, DATA_TYPES.MERIDIANS, meridianName)
   }
 
   const getRoleClass = (role) => {
@@ -138,8 +139,8 @@ export default function FormulaModule() {
       <div className="detail-container">
         <button className="back-button" onClick={handleBack}>← 返回</button>
 
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-          <div className="detail-header" style={{ flex: 1 }}>
+        <div className="detail-header-row">
+          <div className="detail-header">
             <h1 className="detail-title">{formula.name}</h1>
             <p className="detail-pinyin">{formula.pinyin}</p>
             <div className="detail-category">
@@ -252,7 +253,10 @@ export default function FormulaModule() {
                 <tbody>
                   {formula.comparison.map((row, idx) => (
                     <tr key={idx}>
-                      <td className="comparison-aspect">{row.aspect}</td>
+                      <td className="comparison-aspect">
+                        <div>{row.aspect}</div>
+                        {row.classic && <div className="comparison-classic">{row.classic}</div>}
+                      </td>
                       <td className="comparison-tcm">{row.tcm}</td>
                       <td className="comparison-western">{row.western}</td>
                     </tr>
@@ -268,7 +272,7 @@ export default function FormulaModule() {
             <h2 className="section-title mapping-title">相关中西对照</h2>
             <div className="list-container">
               {modernMapping.map(mapping => (
-                <div key={mapping.id} className="list-item" onClick={() => navigate(`/modern-mapping?id=${mapping.id}`)}>
+                <div key={mapping.id} className="list-item mapping" onClick={() => navigate(`/modern-mapping?id=${mapping.id}`)}>
                   <div className="list-item-title">
                     {mapping.chinese_term} ↔ {mapping.modern_term}
                   </div>
@@ -280,7 +284,7 @@ export default function FormulaModule() {
         )}
 
         {formula.modern_applications && formula.modern_applications.length > 0 && (
-          <div className="section">
+          <div className="section secondary">
             <h2 className="section-title">现代应用</h2>
             <div className="tag-list">
               {formula.modern_applications.map((app, i) => (
@@ -291,28 +295,28 @@ export default function FormulaModule() {
         )}
 
         {formula.modern_explanation && (
-          <div className="section">
+          <div className="section secondary">
             <h2 className="section-title">现代医学解释</h2>
             <p className="section-content">{formula.modern_explanation}</p>
           </div>
         )}
 
         {formula.pharmacological_effect && (
-          <div className="section">
+          <div className="section secondary">
             <h2 className="section-title">药理作用</h2>
             <p className="section-content">{formula.pharmacological_effect}</p>
           </div>
         )}
 
         {formula.beginner_note && (
-          <div className="section">
+          <div className="section secondary">
             <h2 className="section-title">初学者要点</h2>
             <p className="section-content">{formula.beginner_note}</p>
           </div>
         )}
 
         {formula.advanced_clinical_note && (
-          <div className="section">
+          <div className="section secondary">
             <h2 className="section-title">进阶要点</h2>
             <p className="section-content">{formula.advanced_clinical_note}</p>
           </div>
@@ -331,8 +335,8 @@ export default function FormulaModule() {
       <div className="detail-container">
         <button className="back-button" onClick={handleBack}>← 返回</button>
 
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-          <div className="detail-header" style={{ flex: 1 }}>
+        <div className="detail-header-row">
+          <div className="detail-header">
             <h1 className="detail-title">{medicine.name}</h1>
             <p className="detail-pinyin">{medicine.pinyin}{medicine.latin_name ? ` (${medicine.latin_name})` : ''}</p>
             <div className="detail-category">
@@ -407,7 +411,7 @@ export default function FormulaModule() {
             <h2 className="section-title">关联方剂</h2>
             <div className="list-container">
               {medicineFormulas.map(formula => (
-                <div key={formula.id} className="list-item" onClick={() => handleSelectFormula(formula)}>
+                <div key={formula.id} className="list-item formula" onClick={() => handleSelectFormula(formula)}>
                   <div className="list-item-title">{formula.name}</div>
                   <div className="list-item-pinyin">{formula.pinyin}</div>
                   <div className="list-item-desc">{formula.effects?.join('、')}</div>
@@ -445,7 +449,10 @@ export default function FormulaModule() {
                 <tbody>
                   {medicine.comparison.map((row, idx) => (
                     <tr key={idx}>
-                      <td className="comparison-aspect">{row.aspect}</td>
+                      <td className="comparison-aspect">
+                        <div>{row.aspect}</div>
+                        {row.classic && <div className="comparison-classic">{row.classic}</div>}
+                      </td>
                       <td className="comparison-tcm">{row.tcm}</td>
                       <td className="comparison-western">{row.western}</td>
                     </tr>
@@ -461,7 +468,7 @@ export default function FormulaModule() {
             <h2 className="section-title mapping-title">相关中西对照</h2>
             <div className="list-container">
               {modernMapping.map(mapping => (
-                <div key={mapping.id} className="list-item" onClick={() => navigate(`/modern-mapping?id=${mapping.id}`)}>
+                <div key={mapping.id} className="list-item mapping" onClick={() => navigate(`/modern-mapping?id=${mapping.id}`)}>
                   <div className="list-item-title">
                     {mapping.chinese_term} ↔ {mapping.modern_term}
                   </div>
@@ -473,7 +480,7 @@ export default function FormulaModule() {
         )}
 
         {medicine.modern_pharmacology && medicine.modern_pharmacology.length > 0 && (
-          <div className="section">
+          <div className="section secondary">
             <h2 className="section-title">现代药理作用</h2>
             <ul>
               {medicine.modern_pharmacology.map((pharmacology, i) => (
@@ -538,7 +545,7 @@ export default function FormulaModule() {
         ) : (
           <div className="list-container">
             {formulas.map(formula => (
-              <div key={formula.id} className="list-item" onClick={() => handleSelectFormula(formula)}>
+              <div key={formula.id} className="list-item formula" onClick={() => handleSelectFormula(formula)}>
                 <div className="list-item-title">{formula.name}</div>
                 <div className="list-item-pinyin">{formula.pinyin}</div>
                 <div className="list-item-desc">{formula.effects?.join('、')}</div>
@@ -552,7 +559,7 @@ export default function FormulaModule() {
         ) : (
           <div className="list-container">
             {medicines.map(medicine => (
-              <div key={medicine.id} className="list-item" onClick={() => handleSelectMedicine(medicine)}>
+              <div key={medicine.id} className="list-item medicine" onClick={() => handleSelectMedicine(medicine)}>
                 <div className="list-item-title">{medicine.name}</div>
                 <div className="list-item-pinyin">{medicine.pinyin}</div>
                 <div className="list-item-desc">{medicine.effects?.join('、')}</div>

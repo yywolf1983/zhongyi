@@ -27,7 +27,8 @@
       "体虚多汗者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛温解表药"
+    "subcategory": "辛温解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_002",
@@ -57,7 +58,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛温解表药"
+    "subcategory": "辛温解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_003",
@@ -85,7 +87,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛温解表药"
+    "subcategory": "辛温解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_004",
@@ -114,7 +117,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛温解表药"
+    "subcategory": "辛温解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_005",
@@ -142,7 +146,8 @@
       "表虚自汗者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛温解表药"
+    "subcategory": "辛温解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_006",
@@ -172,7 +177,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛温解表药"
+    "subcategory": "辛温解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_007",
@@ -200,7 +206,8 @@
       "体虚多汗者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_008",
@@ -229,7 +236,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_009",
@@ -257,7 +265,8 @@
       "孕妇慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_010",
@@ -286,7 +295,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_011",
@@ -315,7 +325,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_012",
@@ -343,7 +354,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_013",
@@ -372,7 +384,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_014",
@@ -401,7 +414,8 @@
       "脾胃虚寒者禁用"
     ],
     "category": "清热药",
-    "subcategory": "清热泻火药"
+    "subcategory": "清热泻火药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_015",
@@ -431,7 +445,8 @@
       "脾胃虚寒者禁用"
     ],
     "category": "清热药",
-    "subcategory": "清热泻火药"
+    "subcategory": "清热泻火药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_016",
@@ -460,7 +475,8 @@
       "脾胃虚寒者禁用"
     ],
     "category": "清热药",
-    "subcategory": "清热泻火药"
+    "subcategory": "清热泻火药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_017",
@@ -489,7 +505,8 @@
       "脾胃虚寒者禁用"
     ],
     "category": "清热药",
-    "subcategory": "清热燥湿药"
+    "subcategory": "清热燥湿药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_018",
@@ -518,7 +535,8 @@
       "脾胃虚寒者禁用"
     ],
     "category": "清热药",
-    "subcategory": "清热燥湿药"
+    "subcategory": "清热燥湿药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_019",
@@ -546,7 +564,8 @@
       "脾胃虚寒者禁用"
     ],
     "category": "清热药",
-    "subcategory": "清热燥湿药"
+    "subcategory": "清热燥湿药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_020",
@@ -575,7 +594,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热解毒药"
+    "subcategory": "清热解毒药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_021",
@@ -604,7 +624,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热解毒药"
+    "subcategory": "清热解毒药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_022",
@@ -633,7 +654,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热解毒药"
+    "subcategory": "清热解毒药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_023",
@@ -661,7 +683,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热解毒药"
+    "subcategory": "清热解毒药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_024",
@@ -688,7 +711,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热解毒药"
+    "subcategory": "清热解毒药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_025",
@@ -717,7 +741,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热凉血药"
+    "subcategory": "清热凉血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_026",
@@ -748,7 +773,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热凉血药"
+    "subcategory": "清热凉血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_027",
@@ -778,7 +804,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热凉血药"
+    "subcategory": "清热凉血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_028",
@@ -807,7 +834,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清虚热药"
+    "subcategory": "清虚热药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_029",
@@ -837,7 +865,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "清热药",
-    "subcategory": "清虚热药"
+    "subcategory": "清虚热药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_030",
@@ -866,7 +895,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "泻下药",
-    "subcategory": "攻下药"
+    "subcategory": "攻下药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_031",
@@ -893,7 +923,8 @@
       "脾虚便溏者慎用"
     ],
     "category": "泻下药",
-    "subcategory": "润下药"
+    "subcategory": "润下药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_032",
@@ -922,7 +953,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "祛风湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_033",
@@ -950,7 +982,8 @@
       "体虚者慎用"
     ],
     "category": "祛风湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_034",
@@ -978,7 +1011,8 @@
       "胃酸过多者慎用"
     ],
     "category": "祛风湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_035",
@@ -1008,7 +1042,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "化湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_036",
@@ -1038,7 +1073,8 @@
       "孕妇慎用"
     ],
     "category": "化湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_037",
@@ -1067,7 +1103,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "化湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_038",
@@ -1098,7 +1135,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "利水渗湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_039",
@@ -1128,7 +1166,8 @@
       "孕妇慎用"
     ],
     "category": "利水渗湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_040",
@@ -1157,7 +1196,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "利水渗湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_041",
@@ -1187,7 +1227,8 @@
       "阴虚阳亢者禁用"
     ],
     "category": "温里药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_042",
@@ -1216,7 +1257,8 @@
       "阴虚火旺者禁用"
     ],
     "category": "温里药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_043",
@@ -1246,7 +1288,8 @@
       "阴虚火旺者禁用"
     ],
     "category": "温里药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_044",
@@ -1275,7 +1318,8 @@
       "气虚体燥者慎用"
     ],
     "category": "理气药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_045",
@@ -1305,7 +1349,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "理气药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_046",
@@ -1336,7 +1381,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "理气药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_047",
@@ -1366,7 +1412,8 @@
       "胃酸过多者慎用"
     ],
     "category": "消食药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_048",
@@ -1394,7 +1441,8 @@
       "哺乳期妇女禁用"
     ],
     "category": "消食药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_049",
@@ -1423,7 +1471,8 @@
       "无特殊禁忌"
     ],
     "category": "消食药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_050",
@@ -1452,7 +1501,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "止血药",
-    "subcategory": "凉血止血药"
+    "subcategory": "凉血止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_051",
@@ -1481,7 +1531,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "止血药",
-    "subcategory": "凉血止血药"
+    "subcategory": "凉血止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_052",
@@ -1510,7 +1561,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "止血药",
-    "subcategory": "凉血止血药"
+    "subcategory": "凉血止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_053",
@@ -1539,7 +1591,8 @@
       "孕妇慎用"
     ],
     "category": "止血药",
-    "subcategory": "化瘀止血药"
+    "subcategory": "化瘀止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_054",
@@ -1566,7 +1619,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "止血药",
-    "subcategory": "化瘀止血药"
+    "subcategory": "化瘀止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_055",
@@ -1597,7 +1651,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "止血药",
-    "subcategory": "收敛止血药"
+    "subcategory": "收敛止血药",
+    "classic": "《本草纲目》"
   },
   {
     "name": "艾叶",
@@ -1626,7 +1681,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "温经止血药",
-    "id": "medicine_056"
+    "id": "medicine_056",
+    "classic": "《本草纲目》"
   },
   {
     "name": "川芎",
@@ -1655,7 +1711,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_057"
+    "id": "medicine_057",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_058",
@@ -1683,7 +1740,8 @@
       "孕妇慎用"
     ],
     "category": "活血化瘀药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "name": "红花",
@@ -1711,7 +1769,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_059"
+    "id": "medicine_059",
+    "classic": "《本草纲目》"
   },
   {
     "name": "桃仁",
@@ -1741,7 +1800,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_060"
+    "id": "medicine_060",
+    "classic": "《本草纲目》"
   },
   {
     "name": "益母草",
@@ -1770,7 +1830,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_061"
+    "id": "medicine_061",
+    "classic": "《本草纲目》"
   },
   {
     "name": "半夏",
@@ -1800,7 +1861,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_062"
+    "id": "medicine_062",
+    "classic": "《本草纲目》"
   },
   {
     "name": "川贝母",
@@ -1830,7 +1892,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_063"
+    "id": "medicine_063",
+    "classic": "《本草纲目》"
   },
   {
     "name": "浙贝母",
@@ -1858,7 +1921,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_064"
+    "id": "medicine_064",
+    "classic": "《本草纲目》"
   },
   {
     "name": "杏仁",
@@ -1886,7 +1950,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_065"
+    "id": "medicine_065",
+    "classic": "《本草纲目》"
   },
   {
     "name": "百部",
@@ -1912,7 +1977,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_066"
+    "id": "medicine_066",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_067",
@@ -1939,7 +2005,8 @@
       "孕妇慎用"
     ],
     "category": "安神药",
-    "subcategory": "重镇安神药"
+    "subcategory": "重镇安神药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_068",
@@ -1969,7 +2036,8 @@
       "无特殊禁忌"
     ],
     "category": "安神药",
-    "subcategory": "养心安神药"
+    "subcategory": "养心安神药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_069",
@@ -1996,7 +2064,8 @@
       "无特殊禁忌"
     ],
     "category": "平肝熄风药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_070",
@@ -2024,7 +2093,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "平肝熄风药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_071",
@@ -2052,7 +2122,8 @@
     ],
     "contraindications": [],
     "category": "开窍药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_072",
@@ -2082,7 +2153,8 @@
       "实证热证者禁用"
     ],
     "category": "补虚药",
-    "subcategory": "补气药"
+    "subcategory": "补气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_073",
@@ -2110,7 +2182,8 @@
       "实证热证者禁用"
     ],
     "category": "补虚药",
-    "subcategory": "补气药"
+    "subcategory": "补气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_074",
@@ -2139,7 +2212,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补气药"
+    "subcategory": "补气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_075",
@@ -2169,7 +2243,8 @@
       "湿盛中满者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补血药"
+    "subcategory": "补血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_076",
@@ -2197,7 +2272,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补血药"
+    "subcategory": "补血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_077",
@@ -2226,7 +2302,8 @@
       "虚寒腹痛者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补血药"
+    "subcategory": "补血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_078",
@@ -2255,7 +2332,8 @@
       "风寒咳嗽者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补阴药"
+    "subcategory": "补阴药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_079",
@@ -2285,7 +2363,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补阴药"
+    "subcategory": "补阴药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_080",
@@ -2313,7 +2392,8 @@
       "无特殊禁忌"
     ],
     "category": "补虚药",
-    "subcategory": "补阴药"
+    "subcategory": "补阴药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_081",
@@ -2342,7 +2422,8 @@
     ],
     "contraindications": [],
     "category": "补虚药",
-    "subcategory": "补阳药"
+    "subcategory": "补阳药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_082",
@@ -2371,7 +2452,8 @@
       "阴虚火旺者禁用"
     ],
     "category": "补虚药",
-    "subcategory": "补阳药"
+    "subcategory": "补阳药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_083",
@@ -2399,7 +2481,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补阳药"
+    "subcategory": "补阳药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_084",
@@ -2429,7 +2512,8 @@
       "表邪未解者慎用"
     ],
     "category": "收涩药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_085",
@@ -2458,7 +2542,8 @@
       "湿热下注者慎用"
     ],
     "category": "收涩药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "name": "辛夷",
@@ -2484,7 +2569,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_086"
+    "id": "medicine_086",
+    "classic": "《本草纲目》"
   },
   {
     "name": "细辛",
@@ -2515,7 +2601,8 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_087"
+    "id": "medicine_087",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白芷",
@@ -2542,7 +2629,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_088"
+    "id": "medicine_088",
+    "classic": "《本草纲目》"
   },
   {
     "name": "藁本",
@@ -2567,7 +2655,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_089"
+    "id": "medicine_089",
+    "classic": "《本草纲目》"
   },
   {
     "name": "苍耳子",
@@ -2596,7 +2685,8 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_090"
+    "id": "medicine_090",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蔓荆子",
@@ -2624,7 +2714,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "id": "medicine_091"
+    "id": "medicine_091",
+    "classic": "《本草纲目》"
   },
   {
     "name": "淡豆豉",
@@ -2653,7 +2744,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "id": "medicine_092"
+    "id": "medicine_092",
+    "classic": "《本草纲目》"
   },
   {
     "name": "浮萍",
@@ -2682,7 +2774,8 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "id": "medicine_093"
+    "id": "medicine_093",
+    "classic": "《本草纲目》"
   },
   {
     "name": "龙胆草",
@@ -2710,7 +2803,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热燥湿药",
-    "id": "medicine_094"
+    "id": "medicine_094",
+    "classic": "《本草纲目》"
   },
   {
     "name": "苦参",
@@ -2740,7 +2834,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热燥湿药",
-    "id": "medicine_095"
+    "id": "medicine_095",
+    "classic": "《本草纲目》"
   },
   {
     "name": "秦皮",
@@ -2768,7 +2863,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热燥湿药",
-    "id": "medicine_096"
+    "id": "medicine_096",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白鲜皮",
@@ -2798,7 +2894,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热燥湿药",
-    "id": "medicine_097"
+    "id": "medicine_097",
+    "classic": "《本草纲目》"
   },
   {
     "name": "紫花地丁",
@@ -2825,7 +2922,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_098"
+    "id": "medicine_098",
+    "classic": "《本草纲目》"
   },
   {
     "name": "野菊花",
@@ -2852,7 +2950,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_099"
+    "id": "medicine_099",
+    "classic": "《本草纲目》"
   },
   {
     "name": "大青叶",
@@ -2880,7 +2979,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_100"
+    "id": "medicine_100",
+    "classic": "《本草纲目》"
   },
   {
     "name": "青黛",
@@ -2906,7 +3006,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_101"
+    "id": "medicine_101",
+    "classic": "《本草纲目》"
   },
   {
     "name": "贯众",
@@ -2936,7 +3037,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_102"
+    "id": "medicine_102",
+    "classic": "《本草纲目》"
   },
   {
     "name": "金荞麦",
@@ -2961,7 +3063,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_103"
+    "id": "medicine_103",
+    "classic": "《本草纲目》"
   },
   {
     "name": "大血藤",
@@ -2990,7 +3093,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_104"
+    "id": "medicine_104",
+    "classic": "《本草纲目》"
   },
   {
     "name": "败酱草",
@@ -3021,7 +3125,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_105"
+    "id": "medicine_105",
+    "classic": "《本草纲目》"
   },
   {
     "name": "射干",
@@ -3048,7 +3153,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_106"
+    "id": "medicine_106",
+    "classic": "《本草纲目》"
   },
   {
     "name": "山豆根",
@@ -3075,7 +3181,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_107"
+    "id": "medicine_107",
+    "classic": "《本草纲目》"
   },
   {
     "name": "马勃",
@@ -3100,7 +3207,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_108"
+    "id": "medicine_108",
+    "classic": "《本草纲目》"
   },
   {
     "name": "马齿苋",
@@ -3128,7 +3236,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_109"
+    "id": "medicine_109",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鸦胆子",
@@ -3157,7 +3266,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_110"
+    "id": "medicine_110",
+    "classic": "《本草纲目》"
   },
   {
     "name": "赤芍",
@@ -3184,7 +3294,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热凉血药",
-    "id": "medicine_111"
+    "id": "medicine_111",
+    "classic": "《本草纲目》"
   },
   {
     "name": "紫草",
@@ -3214,7 +3325,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热凉血药",
-    "id": "medicine_112"
+    "id": "medicine_112",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白薇",
@@ -3242,7 +3354,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清虚热药",
-    "id": "medicine_113"
+    "id": "medicine_113",
+    "classic": "《本草纲目》"
   },
   {
     "name": "银柴胡",
@@ -3268,7 +3381,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清虚热药",
-    "id": "medicine_114"
+    "id": "medicine_114",
+    "classic": "《本草纲目》"
   },
   {
     "name": "胡黄连",
@@ -3298,7 +3412,8 @@
     ],
     "category": "清热药",
     "subcategory": "清虚热药",
-    "id": "medicine_115"
+    "id": "medicine_115",
+    "classic": "《本草纲目》"
   },
   {
     "name": "番泻叶",
@@ -3327,7 +3442,8 @@
     ],
     "category": "泻下药",
     "subcategory": "攻下药",
-    "id": "medicine_116"
+    "id": "medicine_116",
+    "classic": "《本草纲目》"
   },
   {
     "name": "芦荟",
@@ -3356,7 +3472,8 @@
     ],
     "category": "泻下药",
     "subcategory": "攻下药",
-    "id": "medicine_117"
+    "id": "medicine_117",
+    "classic": "《本草纲目》"
   },
   {
     "name": "郁李仁",
@@ -3386,7 +3503,8 @@
     ],
     "category": "泻下药",
     "subcategory": "润下药",
-    "id": "medicine_118"
+    "id": "medicine_118",
+    "classic": "《本草纲目》"
   },
   {
     "name": "松子仁",
@@ -3414,7 +3532,8 @@
     ],
     "category": "泻下药",
     "subcategory": "润下药",
-    "id": "medicine_119"
+    "id": "medicine_119",
+    "classic": "《本草纲目》"
   },
   {
     "name": "川乌",
@@ -3445,7 +3564,8 @@
     ],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_120"
+    "id": "medicine_120",
+    "classic": "《本草纲目》"
   },
   {
     "name": "草乌",
@@ -3476,7 +3596,8 @@
     ],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_121"
+    "id": "medicine_121",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蕲蛇",
@@ -3505,7 +3626,8 @@
     ],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_122"
+    "id": "medicine_122",
+    "classic": "《本草纲目》"
   },
   {
     "name": "乌梢蛇",
@@ -3531,7 +3653,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_123"
+    "id": "medicine_123",
+    "classic": "《本草纲目》"
   },
   {
     "name": "防己",
@@ -3561,7 +3684,8 @@
     ],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_124"
+    "id": "medicine_124",
+    "classic": "《本草纲目》"
   },
   {
     "name": "桑枝",
@@ -3586,7 +3710,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_125"
+    "id": "medicine_125",
+    "classic": "《本草纲目》"
   },
   {
     "name": "豨莶草",
@@ -3614,7 +3739,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_126"
+    "id": "medicine_126",
+    "classic": "《本草纲目》"
   },
   {
     "name": "臭梧桐",
@@ -3641,7 +3767,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_127"
+    "id": "medicine_127",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海桐皮",
@@ -3668,7 +3795,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_128"
+    "id": "medicine_128",
+    "classic": "《本草纲目》"
   },
   {
     "name": "络石藤",
@@ -3694,7 +3822,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_129"
+    "id": "medicine_129",
+    "classic": "《本草纲目》"
   },
   {
     "name": "雷公藤",
@@ -3722,7 +3851,8 @@
     ],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_130"
+    "id": "medicine_130",
+    "classic": "《本草纲目》"
   },
   {
     "name": "狗脊",
@@ -3750,7 +3880,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
-    "id": "medicine_131"
+    "id": "medicine_131",
+    "classic": "《本草纲目》"
   },
   {
     "name": "千年健",
@@ -3777,7 +3908,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
-    "id": "medicine_132"
+    "id": "medicine_132",
+    "classic": "《本草纲目》"
   },
   {
     "name": "佩兰",
@@ -3804,7 +3936,8 @@
     "contraindications": [],
     "category": "化湿药",
     "subcategory": "",
-    "id": "medicine_133"
+    "id": "medicine_133",
+    "classic": "《本草纲目》"
   },
   {
     "name": "砂仁",
@@ -3832,7 +3965,8 @@
     "contraindications": [],
     "category": "化湿药",
     "subcategory": "",
-    "id": "medicine_134"
+    "id": "medicine_134",
+    "classic": "《本草纲目》"
   },
   {
     "name": "豆蔻",
@@ -3858,7 +3992,8 @@
     "contraindications": [],
     "category": "化湿药",
     "subcategory": "",
-    "id": "medicine_135"
+    "id": "medicine_135",
+    "classic": "《本草纲目》"
   },
   {
     "name": "草豆蔻",
@@ -3884,7 +4019,8 @@
     "contraindications": [],
     "category": "化湿药",
     "subcategory": "",
-    "id": "medicine_136"
+    "id": "medicine_136",
+    "classic": "《本草纲目》"
   },
   {
     "name": "草果",
@@ -3910,7 +4046,8 @@
     "contraindications": [],
     "category": "化湿药",
     "subcategory": "",
-    "id": "medicine_137"
+    "id": "medicine_137",
+    "classic": "《本草纲目》"
   },
   {
     "name": "冬瓜皮",
@@ -3936,7 +4073,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "id": "medicine_138"
+    "id": "medicine_138",
+    "classic": "《本草纲目》"
   },
   {
     "name": "通草",
@@ -3965,7 +4103,8 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_139"
+    "id": "medicine_139",
+    "classic": "《本草纲目》"
   },
   {
     "name": "瞿麦",
@@ -3993,7 +4132,8 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_140"
+    "id": "medicine_140",
+    "classic": "《本草纲目》"
   },
   {
     "name": "扁蓄",
@@ -4018,7 +4158,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_141"
+    "id": "medicine_141",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海金沙",
@@ -4044,7 +4185,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_142"
+    "id": "medicine_142",
+    "classic": "《本草纲目》"
   },
   {
     "name": "石韦",
@@ -4071,7 +4213,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_143"
+    "id": "medicine_143",
+    "classic": "《本草纲目》"
   },
   {
     "name": "金钱草",
@@ -4101,7 +4244,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
-    "id": "medicine_144"
+    "id": "medicine_144",
+    "classic": "《本草纲目》"
   },
   {
     "name": "花椒",
@@ -4128,7 +4272,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_145"
+    "id": "medicine_145",
+    "classic": "《本草纲目》"
   },
   {
     "name": "丁香",
@@ -4157,7 +4302,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_146"
+    "id": "medicine_146",
+    "classic": "《本草纲目》"
   },
   {
     "name": "青皮",
@@ -4185,7 +4331,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_147"
+    "id": "medicine_147",
+    "classic": "《本草纲目》"
   },
   {
     "name": "沉香",
@@ -4214,7 +4361,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_148"
+    "id": "medicine_148",
+    "classic": "《本草纲目》"
   },
   {
     "name": "檀香",
@@ -4241,7 +4389,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_149"
+    "id": "medicine_149",
+    "classic": "《本草纲目》"
   },
   {
     "name": "乌药",
@@ -4269,7 +4418,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_150"
+    "id": "medicine_150",
+    "classic": "《本草纲目》"
   },
   {
     "name": "荔枝核",
@@ -4296,7 +4446,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_151"
+    "id": "medicine_151",
+    "classic": "《本草纲目》"
   },
   {
     "name": "川楝子",
@@ -4323,7 +4474,8 @@
     ],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_152"
+    "id": "medicine_152",
+    "classic": "《本草纲目》"
   },
   {
     "name": "神曲",
@@ -4349,7 +4501,8 @@
     "contraindications": [],
     "category": "消食药",
     "subcategory": "",
-    "id": "medicine_153"
+    "id": "medicine_153",
+    "classic": "《本草纲目》"
   },
   {
     "name": "谷芽",
@@ -4374,7 +4527,8 @@
     "contraindications": [],
     "category": "消食药",
     "subcategory": "",
-    "id": "medicine_154"
+    "id": "medicine_154",
+    "classic": "《本草纲目》"
   },
   {
     "name": "槐花",
@@ -4400,7 +4554,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "id": "medicine_155"
+    "id": "medicine_155",
+    "classic": "《本草纲目》"
   },
   {
     "name": "侧柏叶",
@@ -4428,7 +4583,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "id": "medicine_156"
+    "id": "medicine_156",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白茅根",
@@ -4455,7 +4611,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "id": "medicine_157"
+    "id": "medicine_157",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蒲黄",
@@ -4484,7 +4641,8 @@
     ],
     "category": "止血药",
     "subcategory": "化瘀止血药",
-    "id": "medicine_158"
+    "id": "medicine_158",
+    "classic": "《本草纲目》"
   },
   {
     "name": "仙鹤草",
@@ -4512,7 +4670,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "收敛止血药",
-    "id": "medicine_159"
+    "id": "medicine_159",
+    "classic": "《本草纲目》"
   },
   {
     "name": "棕榈炭",
@@ -4538,7 +4697,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "收敛止血药",
-    "id": "medicine_160"
+    "id": "medicine_160",
+    "classic": "《本草纲目》"
   },
   {
     "name": "血余炭",
@@ -4565,7 +4725,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "收敛止血药",
-    "id": "medicine_161"
+    "id": "medicine_161",
+    "classic": "《本草纲目》"
   },
   {
     "name": "炮姜",
@@ -4592,7 +4753,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "温经止血药",
-    "id": "medicine_162"
+    "id": "medicine_162",
+    "classic": "《本草纲目》"
   },
   {
     "name": "延胡索",
@@ -4617,7 +4779,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_163"
+    "id": "medicine_163",
+    "classic": "《本草纲目》"
   },
   {
     "name": "郁金",
@@ -4648,7 +4811,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_164"
+    "id": "medicine_164",
+    "classic": "《本草纲目》"
   },
   {
     "name": "姜黄",
@@ -4677,7 +4841,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_165"
+    "id": "medicine_165",
+    "classic": "《本草纲目》"
   },
   {
     "name": "乳香",
@@ -4707,7 +4872,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_166"
+    "id": "medicine_166",
+    "classic": "《本草纲目》"
   },
   {
     "name": "没药",
@@ -4737,7 +4903,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_167"
+    "id": "medicine_167",
+    "classic": "《本草纲目》"
   },
   {
     "name": "泽兰",
@@ -4766,7 +4933,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_168"
+    "id": "medicine_168",
+    "classic": "《本草纲目》"
   },
   {
     "name": "牛膝",
@@ -4797,7 +4965,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_169"
+    "id": "medicine_169",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鸡血藤",
@@ -4824,7 +4993,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_170"
+    "id": "medicine_170",
+    "classic": "《本草纲目》"
   },
   {
     "name": "王不留行",
@@ -4852,7 +5022,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_171"
+    "id": "medicine_171",
+    "classic": "《本草纲目》"
   },
   {
     "name": "月季花",
@@ -4879,7 +5050,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_172"
+    "id": "medicine_172",
+    "classic": "《本草纲目》"
   },
   {
     "name": "凌霄花",
@@ -4906,7 +5078,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_173"
+    "id": "medicine_173",
+    "classic": "《本草纲目》"
   },
   {
     "name": "自然铜",
@@ -4931,7 +5104,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
-    "id": "medicine_174"
+    "id": "medicine_174",
+    "classic": "《本草纲目》"
   },
   {
     "name": "苏木",
@@ -4960,7 +5134,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
-    "id": "medicine_175"
+    "id": "medicine_175",
+    "classic": "《本草纲目》"
   },
   {
     "name": "骨碎补",
@@ -4986,7 +5161,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
-    "id": "medicine_176"
+    "id": "medicine_176",
+    "classic": "《本草纲目》"
   },
   {
     "name": "血竭",
@@ -5016,7 +5192,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
-    "id": "medicine_177"
+    "id": "medicine_177",
+    "classic": "《本草纲目》"
   },
   {
     "name": "儿茶",
@@ -5044,7 +5221,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
-    "id": "medicine_178"
+    "id": "medicine_178",
+    "classic": "《本草纲目》"
   },
   {
     "name": "刘寄奴",
@@ -5073,7 +5251,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
-    "id": "medicine_179"
+    "id": "medicine_179",
+    "classic": "《本草纲目》"
   },
   {
     "name": "水蛭",
@@ -5101,7 +5280,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
-    "id": "medicine_180"
+    "id": "medicine_180",
+    "classic": "《本草纲目》"
   },
   {
     "name": "虻虫",
@@ -5128,7 +5308,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
-    "id": "medicine_181"
+    "id": "medicine_181",
+    "classic": "《本草纲目》"
   },
   {
     "name": "斑蝥",
@@ -5156,7 +5337,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
-    "id": "medicine_182"
+    "id": "medicine_182",
+    "classic": "《本草纲目》"
   },
   {
     "name": "天南星",
@@ -5186,7 +5368,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_183"
+    "id": "medicine_183",
+    "classic": "《本草纲目》"
   },
   {
     "name": "禹白附",
@@ -5216,7 +5399,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_184"
+    "id": "medicine_184",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白芥子",
@@ -5243,7 +5427,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_185"
+    "id": "medicine_185",
+    "classic": "《本草纲目》"
   },
   {
     "name": "皂荚",
@@ -5272,7 +5457,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_186"
+    "id": "medicine_186",
+    "classic": "《本草纲目》"
   },
   {
     "name": "旋覆花",
@@ -5300,7 +5486,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_187"
+    "id": "medicine_187",
+    "classic": "《本草纲目》"
   },
   {
     "name": "瓜蒌",
@@ -5331,7 +5518,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_188"
+    "id": "medicine_188",
+    "classic": "《本草纲目》"
   },
   {
     "name": "竹茹",
@@ -5357,7 +5545,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_189"
+    "id": "medicine_189",
+    "classic": "《本草纲目》"
   },
   {
     "name": "竹沥",
@@ -5386,7 +5575,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_190"
+    "id": "medicine_190",
+    "classic": "《本草纲目》"
   },
   {
     "name": "天竺黄",
@@ -5412,7 +5602,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_191"
+    "id": "medicine_191",
+    "classic": "《本草纲目》"
   },
   {
     "name": "前胡",
@@ -5438,7 +5629,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_192"
+    "id": "medicine_192",
+    "classic": "《本草纲目》"
   },
   {
     "name": "桔梗",
@@ -5465,7 +5657,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_193"
+    "id": "medicine_193",
+    "classic": "《本草纲目》"
   },
   {
     "name": "胖大海",
@@ -5494,7 +5687,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_194"
+    "id": "medicine_194",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海藻",
@@ -5522,7 +5716,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
-    "id": "medicine_195"
+    "id": "medicine_195",
+    "classic": "《本草纲目》"
   },
   {
     "name": "昆布",
@@ -5549,7 +5744,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
-    "id": "medicine_196"
+    "id": "medicine_196",
+    "classic": "《本草纲目》"
   },
   {
     "name": "黄药子",
@@ -5577,7 +5773,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
-    "id": "medicine_197"
+    "id": "medicine_197",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海蛤壳",
@@ -5603,7 +5800,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
-    "id": "medicine_198"
+    "id": "medicine_198",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海浮石",
@@ -5628,7 +5826,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
-    "id": "medicine_199"
+    "id": "medicine_199",
+    "classic": "《本草纲目》"
   },
   {
     "name": "瓦楞子",
@@ -5655,7 +5854,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
-    "id": "medicine_200"
+    "id": "medicine_200",
+    "classic": "《本草纲目》"
   },
   {
     "name": "紫苏子",
@@ -5685,7 +5885,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_201"
+    "id": "medicine_201",
+    "classic": "《本草纲目》"
   },
   {
     "name": "紫菀",
@@ -5709,7 +5910,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_202"
+    "id": "medicine_202",
+    "classic": "《本草纲目》"
   },
   {
     "name": "款冬花",
@@ -5734,7 +5936,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_203"
+    "id": "medicine_203",
+    "classic": "《本草纲目》"
   },
   {
     "name": "马兜铃",
@@ -5762,7 +5965,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_204"
+    "id": "medicine_204",
+    "classic": "《本草纲目》"
   },
   {
     "name": "枇杷叶",
@@ -5788,7 +5992,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_205"
+    "id": "medicine_205",
+    "classic": "《本草纲目》"
   },
   {
     "name": "桑白皮",
@@ -5813,7 +6018,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_206"
+    "id": "medicine_206",
+    "classic": "《本草纲目》"
   },
   {
     "name": "葶苈子",
@@ -5841,7 +6047,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_207"
+    "id": "medicine_207",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白果",
@@ -5869,7 +6076,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_208"
+    "id": "medicine_208",
+    "classic": "《本草纲目》"
   },
   {
     "name": "磁石",
@@ -5896,7 +6104,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "重镇安神药",
-    "id": "medicine_209"
+    "id": "medicine_209",
+    "classic": "《本草纲目》"
   },
   {
     "name": "龙骨",
@@ -5926,7 +6135,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "重镇安神药",
-    "id": "medicine_210"
+    "id": "medicine_210",
+    "classic": "《本草纲目》"
   },
   {
     "name": "柏子仁",
@@ -5953,7 +6163,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "id": "medicine_211"
+    "id": "medicine_211",
+    "classic": "《本草纲目》"
   },
   {
     "name": "合欢皮",
@@ -5979,7 +6190,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "id": "medicine_212"
+    "id": "medicine_212",
+    "classic": "《本草纲目》"
   },
   {
     "name": "灵芝",
@@ -6007,7 +6219,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "id": "medicine_213"
+    "id": "medicine_213",
+    "classic": "《本草纲目》"
   },
   {
     "name": "首乌藤",
@@ -6033,7 +6246,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "id": "medicine_214"
+    "id": "medicine_214",
+    "classic": "《本草纲目》"
   },
   {
     "name": "石决明",
@@ -6058,7 +6272,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_215"
+    "id": "medicine_215",
+    "classic": "《本草纲目》"
   },
   {
     "name": "珍珠母",
@@ -6084,7 +6299,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_216"
+    "id": "medicine_216",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蒺藜",
@@ -6111,7 +6327,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_217"
+    "id": "medicine_217",
+    "classic": "《本草纲目》"
   },
   {
     "name": "罗布麻",
@@ -6137,7 +6354,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_218"
+    "id": "medicine_218",
+    "classic": "《本草纲目》"
   },
   {
     "name": "僵蚕",
@@ -6166,7 +6384,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_219"
+    "id": "medicine_219",
+    "classic": "《本草纲目》"
   },
   {
     "name": "全蝎",
@@ -6194,7 +6413,8 @@
     ],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_220"
+    "id": "medicine_220",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蜈蚣",
@@ -6222,7 +6442,8 @@
     ],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_221"
+    "id": "medicine_221",
+    "classic": "《本草纲目》"
   },
   {
     "name": "地龙",
@@ -6252,7 +6473,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_222"
+    "id": "medicine_222",
+    "classic": "《本草纲目》"
   },
   {
     "name": "冰片",
@@ -6282,7 +6504,8 @@
     ],
     "category": "开窍药",
     "subcategory": "",
-    "id": "medicine_223"
+    "id": "medicine_223",
+    "classic": "《本草纲目》"
   },
   {
     "name": "苏合香",
@@ -6308,7 +6531,8 @@
     "contraindications": [],
     "category": "开窍药",
     "subcategory": "",
-    "id": "medicine_224"
+    "id": "medicine_224",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蟾酥",
@@ -6335,7 +6559,8 @@
     ],
     "category": "开窍药",
     "subcategory": "",
-    "id": "medicine_225"
+    "id": "medicine_225",
+    "classic": "《本草纲目》"
   },
   {
     "name": "乌梅",
@@ -6365,7 +6590,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_226"
+    "id": "medicine_226",
+    "classic": "《本草纲目》"
   },
   {
     "name": "诃子",
@@ -6393,7 +6619,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_227"
+    "id": "medicine_227",
+    "classic": "《本草纲目》"
   },
   {
     "name": "肉豆蔻",
@@ -6420,7 +6647,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_228"
+    "id": "medicine_228",
+    "classic": "《本草纲目》"
   },
   {
     "name": "赤石脂",
@@ -6448,7 +6676,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_229"
+    "id": "medicine_229",
+    "classic": "《本草纲目》"
   },
   {
     "name": "莲子",
@@ -6478,7 +6707,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_230"
+    "id": "medicine_230",
+    "classic": "《本草纲目》"
   },
   {
     "name": "芡实",
@@ -6507,7 +6737,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_231"
+    "id": "medicine_231",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海螵蛸",
@@ -6536,7 +6767,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_232"
+    "id": "medicine_232",
+    "classic": "《本草纲目》"
   },
   {
     "name": "金樱子",
@@ -6566,7 +6798,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_233"
+    "id": "medicine_233",
+    "classic": "《本草纲目》"
   },
   {
     "name": "桑螵蛸",
@@ -6594,7 +6827,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_234"
+    "id": "medicine_234",
+    "classic": "《本草纲目》"
   },
   {
     "name": "覆盆子",
@@ -6623,7 +6857,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_235"
+    "id": "medicine_235",
+    "classic": "《本草纲目》"
   },
   {
     "name": "小茴香",
@@ -6651,7 +6886,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_236"
+    "id": "medicine_236",
+    "classic": "《本草纲目》"
   },
   {
     "name": "荜茇",
@@ -6677,7 +6913,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_237"
+    "id": "medicine_237",
+    "classic": "《本草纲目》"
   },
   {
     "name": "荜澄茄",
@@ -6705,7 +6942,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_238"
+    "id": "medicine_238",
+    "classic": "《本草纲目》"
   },
   {
     "name": "西洋参",
@@ -6733,7 +6971,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_239"
+    "id": "medicine_239",
+    "classic": "《本草纲目》"
   },
   {
     "name": "太子参",
@@ -6760,7 +6999,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_240"
+    "id": "medicine_240",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白扁豆",
@@ -6786,7 +7026,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_241"
+    "id": "medicine_241",
+    "classic": "《本草纲目》"
   },
   {
     "name": "饴糖",
@@ -6815,7 +7056,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_242"
+    "id": "medicine_242",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蜂蜜",
@@ -6843,7 +7085,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_243"
+    "id": "medicine_243",
+    "classic": "《本草纲目》"
   },
   {
     "name": "阿胶",
@@ -6870,7 +7113,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补血药",
-    "id": "medicine_244"
+    "id": "medicine_244",
+    "classic": "《本草纲目》"
   },
   {
     "name": "何首乌",
@@ -6899,7 +7143,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补血药",
-    "id": "medicine_245"
+    "id": "medicine_245",
+    "classic": "《本草纲目》"
   },
   {
     "name": "龙眼肉",
@@ -6926,7 +7171,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补血药",
-    "id": "medicine_246"
+    "id": "medicine_246",
+    "classic": "《本草纲目》"
   },
   {
     "name": "百合",
@@ -6952,7 +7198,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_247"
+    "id": "medicine_247",
+    "classic": "《本草纲目》"
   },
   {
     "name": "玉竹",
@@ -6978,7 +7225,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_248"
+    "id": "medicine_248",
+    "classic": "《本草纲目》"
   },
   {
     "name": "石斛",
@@ -7004,7 +7252,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_249"
+    "id": "medicine_249",
+    "classic": "《本草纲目》"
   },
   {
     "name": "黄精",
@@ -7032,7 +7281,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_250"
+    "id": "medicine_250",
+    "classic": "《本草纲目》"
   },
   {
     "name": "女贞子",
@@ -7059,7 +7309,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_251"
+    "id": "medicine_251",
+    "classic": "《本草纲目》"
   },
   {
     "name": "墨旱莲",
@@ -7087,7 +7338,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_252"
+    "id": "medicine_252",
+    "classic": "《本草纲目》"
   },
   {
     "name": "龟甲",
@@ -7117,7 +7369,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_253"
+    "id": "medicine_253",
+    "classic": "《本草纲目》"
   },
   {
     "name": "天冬",
@@ -7144,7 +7397,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_254"
+    "id": "medicine_254",
+    "classic": "《本草纲目》"
   },
   {
     "name": "南沙参",
@@ -7171,7 +7425,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_255"
+    "id": "medicine_255",
+    "classic": "《本草纲目》"
   },
   {
     "name": "巴戟天",
@@ -7199,7 +7454,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_256"
+    "id": "medicine_256",
+    "classic": "《本草纲目》"
   },
   {
     "name": "续断",
@@ -7229,7 +7485,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_257"
+    "id": "medicine_257",
+    "classic": "《本草纲目》"
   },
   {
     "name": "补骨脂",
@@ -7258,7 +7515,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_258"
+    "id": "medicine_258",
+    "classic": "《本草纲目》"
   },
   {
     "name": "益智仁",
@@ -7285,7 +7543,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_259"
+    "id": "medicine_259",
+    "classic": "《本草纲目》"
   },
   {
     "name": "菟丝子",
@@ -7315,7 +7574,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_260"
+    "id": "medicine_260",
+    "classic": "《本草纲目》"
   },
   {
     "name": "沙苑子",
@@ -7342,7 +7602,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_261"
+    "id": "medicine_261",
+    "classic": "《本草纲目》"
   },
   {
     "name": "冬虫夏草",
@@ -7368,7 +7629,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_262"
+    "id": "medicine_262",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蛤蚧",
@@ -7395,7 +7657,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_263"
+    "id": "medicine_263",
+    "classic": "《本草纲目》"
   },
   {
     "name": "紫河车",
@@ -7424,7 +7687,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_264"
+    "id": "medicine_264",
+    "classic": "《本草纲目》"
   },
   {
     "name": "锁阳",
@@ -7451,7 +7715,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_265"
+    "id": "medicine_265",
+    "classic": "《本草纲目》"
   },
   {
     "name": "肉苁蓉",
@@ -7479,7 +7744,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_266"
+    "id": "medicine_266",
+    "classic": "《本草纲目》"
   },
   {
     "name": "芒硝",
@@ -7509,7 +7775,8 @@
     ],
     "category": "泻下药",
     "subcategory": "攻下药",
-    "id": "medicine_267"
+    "id": "medicine_267",
+    "classic": "《本草纲目》"
   },
   {
     "name": "甘遂",
@@ -7538,7 +7805,8 @@
     ],
     "category": "泻下药",
     "subcategory": "峻下逐水药",
-    "id": "medicine_268"
+    "id": "medicine_268",
+    "classic": "《本草纲目》"
   },
   {
     "name": "京大戟",
@@ -7566,7 +7834,8 @@
     ],
     "category": "泻下药",
     "subcategory": "峻下逐水药",
-    "id": "medicine_269"
+    "id": "medicine_269",
+    "classic": "《本草纲目》"
   },
   {
     "name": "芫花",
@@ -7596,7 +7865,8 @@
     ],
     "category": "泻下药",
     "subcategory": "峻下逐水药",
-    "id": "medicine_270"
+    "id": "medicine_270",
+    "classic": "《本草纲目》"
   },
   {
     "name": "巴豆",
@@ -7626,7 +7896,8 @@
     ],
     "category": "泻下药",
     "subcategory": "峻下逐水药",
-    "id": "medicine_271"
+    "id": "medicine_271",
+    "classic": "《本草纲目》"
   },
   {
     "name": "牵牛子",
@@ -7655,7 +7926,8 @@
     ],
     "category": "泻下药",
     "subcategory": "峻下逐水药",
-    "id": "medicine_272"
+    "id": "medicine_272",
+    "classic": "《本草纲目》"
   },
   {
     "name": "车前草",
@@ -7684,7 +7956,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_273"
+    "id": "medicine_273",
+    "classic": "《本草纲目》"
   },
   {
     "name": "滑石",
@@ -7714,7 +7987,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_274"
+    "id": "medicine_274",
+    "classic": "《本草纲目》"
   },
   {
     "name": "萆薢",
@@ -7741,7 +8015,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_275"
+    "id": "medicine_275",
+    "classic": "《本草纲目》"
   },
   {
     "name": "地肤子",
@@ -7769,7 +8044,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_276"
+    "id": "medicine_276",
+    "classic": "《本草纲目》"
   },
   {
     "name": "枳壳",
@@ -7799,7 +8075,8 @@
     ],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_277"
+    "id": "medicine_277",
+    "classic": "《本草纲目》"
   },
   {
     "name": "香橼",
@@ -7828,7 +8105,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_278"
+    "id": "medicine_278",
+    "classic": "《本草纲目》"
   },
   {
     "name": "大腹皮",
@@ -7856,7 +8134,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_279"
+    "id": "medicine_279",
+    "classic": "《本草纲目》"
   },
   {
     "name": "柿蒂",
@@ -7880,7 +8159,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_280"
+    "id": "medicine_280",
+    "classic": "《本草纲目》"
   },
   {
     "name": "梅花",
@@ -7907,7 +8187,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_281"
+    "id": "medicine_281",
+    "classic": "《本草纲目》"
   },
   {
     "name": "莱菔子",
@@ -7935,7 +8216,8 @@
     "contraindications": [],
     "category": "消食药",
     "subcategory": "",
-    "id": "medicine_282"
+    "id": "medicine_282",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鸡矢藤",
@@ -7965,7 +8247,8 @@
     "contraindications": [],
     "category": "消食药",
     "subcategory": "",
-    "id": "medicine_283"
+    "id": "medicine_283",
+    "classic": "《本草纲目》"
   },
   {
     "name": "使君子",
@@ -7990,7 +8273,8 @@
     "contraindications": [],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_284"
+    "id": "medicine_284",
+    "classic": "《本草纲目》"
   },
   {
     "name": "苦楝皮",
@@ -8019,7 +8303,8 @@
     ],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_285"
+    "id": "medicine_285",
+    "classic": "《本草纲目》"
   },
   {
     "name": "槟榔",
@@ -8048,7 +8333,8 @@
     "contraindications": [],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_286"
+    "id": "medicine_286",
+    "classic": "《本草纲目》"
   },
   {
     "name": "南瓜子",
@@ -8072,7 +8358,8 @@
     "contraindications": [],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_287"
+    "id": "medicine_287",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鹤草芽",
@@ -8098,7 +8385,8 @@
     "contraindications": [],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_288"
+    "id": "medicine_288",
+    "classic": "《本草纲目》"
   },
   {
     "name": "雷丸",
@@ -8124,7 +8412,8 @@
     "contraindications": [],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_289"
+    "id": "medicine_289",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鹤虱",
@@ -8150,7 +8439,8 @@
     "contraindications": [],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_290"
+    "id": "medicine_290",
+    "classic": "《本草纲目》"
   },
   {
     "name": "常山",
@@ -8180,7 +8470,8 @@
     ],
     "category": "涌吐药",
     "subcategory": "",
-    "id": "medicine_291"
+    "id": "medicine_291",
+    "classic": "《本草纲目》"
   },
   {
     "name": "瓜蒂",
@@ -8207,7 +8498,8 @@
     ],
     "category": "涌吐药",
     "subcategory": "",
-    "id": "medicine_292"
+    "id": "medicine_292",
+    "classic": "《本草纲目》"
   },
   {
     "name": "藜芦",
@@ -8237,7 +8529,8 @@
     ],
     "category": "涌吐药",
     "subcategory": "",
-    "id": "medicine_293"
+    "id": "medicine_293",
+    "classic": "《本草纲目》"
   },
   {
     "name": "雄黄",
@@ -8267,7 +8560,8 @@
     ],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_294"
+    "id": "medicine_294",
+    "classic": "《本草纲目》"
   },
   {
     "name": "硫黄",
@@ -8296,7 +8590,8 @@
     ],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_295"
+    "id": "medicine_295",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白矾",
@@ -8326,7 +8621,8 @@
     "contraindications": [],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_296"
+    "id": "medicine_296",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蛇床子",
@@ -8353,7 +8649,8 @@
     "contraindications": [],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_297"
+    "id": "medicine_297",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蜂房",
@@ -8378,7 +8675,8 @@
     "contraindications": [],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_298"
+    "id": "medicine_298",
+    "classic": "《本草纲目》"
   },
   {
     "name": "土荆皮",
@@ -8402,7 +8700,8 @@
     "contraindications": [],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_299"
+    "id": "medicine_299",
+    "classic": "《本草纲目》"
   },
   {
     "name": "大蒜",
@@ -8429,7 +8728,8 @@
     "contraindications": [],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_300"
+    "id": "medicine_300",
+    "classic": "《本草纲目》"
   },
   {
     "name": "升药",
@@ -8456,7 +8756,8 @@
     ],
     "category": "拔毒化腐生肌药",
     "subcategory": "",
-    "id": "medicine_301"
+    "id": "medicine_301",
+    "classic": "《本草纲目》"
   },
   {
     "name": "轻粉",
@@ -8485,7 +8786,8 @@
     ],
     "category": "拔毒化腐生肌药",
     "subcategory": "",
-    "id": "medicine_302"
+    "id": "medicine_302",
+    "classic": "《本草纲目》"
   },
   {
     "name": "砒石",
@@ -8513,7 +8815,8 @@
     ],
     "category": "拔毒化腐生肌药",
     "subcategory": "",
-    "id": "medicine_303"
+    "id": "medicine_303",
+    "classic": "《本草纲目》"
   },
   {
     "name": "硼砂",
@@ -8541,7 +8844,8 @@
     "contraindications": [],
     "category": "拔毒化腐生肌药",
     "subcategory": "",
-    "id": "medicine_304"
+    "id": "medicine_304",
+    "classic": "《本草纲目》"
   },
   {
     "name": "炉甘石",
@@ -8567,7 +8871,8 @@
     "contraindications": [],
     "category": "拔毒化腐生肌药",
     "subcategory": "",
-    "id": "medicine_305"
+    "id": "medicine_305",
+    "classic": "《本草纲目》"
   },
   {
     "name": "苎麻根",
@@ -8594,7 +8899,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "id": "medicine_306"
+    "id": "medicine_306",
+    "classic": "《本草纲目》"
   },
   {
     "name": "花蕊石",
@@ -8619,7 +8925,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "化瘀止血药",
-    "id": "medicine_307"
+    "id": "medicine_307",
+    "classic": "《本草纲目》"
   },
   {
     "name": "灶心土",
@@ -8645,7 +8952,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "温经止血药",
-    "id": "medicine_308"
+    "id": "medicine_308",
+    "classic": "《本草纲目》"
   },
   {
     "name": "降香",
@@ -8671,7 +8979,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_309"
+    "id": "medicine_309",
+    "classic": "《本草纲目》"
   },
   {
     "name": "穿山甲",
@@ -8700,7 +9009,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
-    "id": "medicine_310"
+    "id": "medicine_310",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白头翁",
@@ -8726,7 +9036,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_311"
+    "id": "medicine_311",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白花蛇舌草",
@@ -8754,7 +9065,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_312"
+    "id": "medicine_312",
+    "classic": "《本草纲目》"
   },
   {
     "name": "水牛角",
@@ -8780,7 +9092,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热凉血药",
-    "id": "medicine_313"
+    "id": "medicine_313",
+    "classic": "《本草纲目》"
   },
   {
     "name": "徐长卿",
@@ -8807,7 +9120,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_314"
+    "id": "medicine_314",
+    "classic": "《本草纲目》"
   },
   {
     "name": "五加皮",
@@ -8837,7 +9151,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
-    "id": "medicine_315"
+    "id": "medicine_315",
+    "classic": "《本草纲目》"
   },
   {
     "name": "香薷",
@@ -8864,7 +9179,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_316"
+    "id": "medicine_316",
+    "classic": "《本草纲目》"
   },
   {
     "name": "木贼",
@@ -8891,7 +9207,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "id": "medicine_317"
+    "id": "medicine_317",
+    "classic": "《本草纲目》"
   },
   {
     "name": "羌活",
@@ -8919,7 +9236,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_318"
+    "id": "medicine_318",
+    "classic": "《本草纲目》"
   },
   {
     "name": "葱白",
@@ -8945,7 +9263,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_319"
+    "id": "medicine_319",
+    "classic": "《本草纲目》"
   },
   {
     "name": "夏枯草",
@@ -8972,7 +9291,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_320"
+    "id": "medicine_320",
+    "classic": "《本草纲目》"
   },
   {
     "name": "决明子",
@@ -9002,7 +9322,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_321"
+    "id": "medicine_321",
+    "classic": "《本草纲目》"
   },
   {
     "name": "芦根",
@@ -9030,7 +9351,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_322"
+    "id": "medicine_322",
+    "classic": "《本草纲目》"
   },
   {
     "name": "天花粉",
@@ -9060,7 +9382,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_323"
+    "id": "medicine_323",
+    "classic": "《本草纲目》"
   },
   {
     "name": "淡竹叶",
@@ -9089,7 +9412,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_324"
+    "id": "medicine_324",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鸭跖草",
@@ -9118,7 +9442,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_325"
+    "id": "medicine_325",
+    "classic": "《本草纲目》"
   },
   {
     "name": "寒水石",
@@ -9146,7 +9471,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_326"
+    "id": "medicine_326",
+    "classic": "《本草纲目》"
   },
   {
     "name": "竹叶",
@@ -9174,7 +9500,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_327"
+    "id": "medicine_327",
+    "classic": "《本草纲目》"
   },
   {
     "name": "密蒙花",
@@ -9199,7 +9526,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_328"
+    "id": "medicine_328",
+    "classic": "《本草纲目》"
   },
   {
     "name": "谷精草",
@@ -9226,7 +9554,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "id": "medicine_329"
+    "id": "medicine_329",
+    "classic": "《本草纲目》"
   },
   {
     "name": "穿心莲",
@@ -9255,7 +9584,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_330"
+    "id": "medicine_330",
+    "classic": "《本草纲目》"
   },
   {
     "name": "半边莲",
@@ -9284,7 +9614,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_331"
+    "id": "medicine_331",
+    "classic": "《本草纲目》"
   },
   {
     "name": "山慈菇",
@@ -9311,7 +9642,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_332"
+    "id": "medicine_332",
+    "classic": "《本草纲目》"
   },
   {
     "name": "漏芦",
@@ -9339,7 +9671,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_333"
+    "id": "medicine_333",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白蔹",
@@ -9366,7 +9699,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_334"
+    "id": "medicine_334",
+    "classic": "《本草纲目》"
   },
   {
     "name": "绿豆",
@@ -9393,7 +9727,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_335"
+    "id": "medicine_335",
+    "classic": "《本草纲目》"
   },
   {
     "name": "地锦草",
@@ -9421,7 +9756,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_336"
+    "id": "medicine_336",
+    "classic": "《本草纲目》"
   },
   {
     "name": "千里光",
@@ -9448,7 +9784,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_337"
+    "id": "medicine_337",
+    "classic": "《本草纲目》"
   },
   {
     "name": "秦艽",
@@ -9479,7 +9816,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_338"
+    "id": "medicine_338",
+    "classic": "《本草纲目》"
   },
   {
     "name": "桑寄生",
@@ -9509,7 +9847,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
-    "id": "medicine_339"
+    "id": "medicine_339",
+    "classic": "《本草纲目》"
   },
   {
     "name": "伸筋草",
@@ -9536,7 +9875,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_340"
+    "id": "medicine_340",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海风藤",
@@ -9563,7 +9903,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_341"
+    "id": "medicine_341",
+    "classic": "《本草纲目》"
   },
   {
     "name": "路路通",
@@ -9591,7 +9932,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_342"
+    "id": "medicine_342",
+    "classic": "《本草纲目》"
   },
   {
     "name": "丝瓜络",
@@ -9619,7 +9961,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_343"
+    "id": "medicine_343",
+    "classic": "《本草纲目》"
   },
   {
     "name": "老鹳草",
@@ -9648,7 +9991,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_344"
+    "id": "medicine_344",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鹿衔草",
@@ -9677,7 +10021,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
-    "id": "medicine_345"
+    "id": "medicine_345",
+    "classic": "《本草纲目》"
   },
   {
     "name": "猪苓",
@@ -9704,7 +10049,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "id": "medicine_346"
+    "id": "medicine_346",
+    "classic": "《本草纲目》"
   },
   {
     "name": "茵陈",
@@ -9734,7 +10080,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
-    "id": "medicine_347"
+    "id": "medicine_347",
+    "classic": "《本草纲目》"
   },
   {
     "name": "虎杖",
@@ -9766,7 +10113,8 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
-    "id": "medicine_348"
+    "id": "medicine_348",
+    "classic": "《本草纲目》"
   },
   {
     "name": "玉米须",
@@ -9794,7 +10142,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "id": "medicine_349"
+    "id": "medicine_349",
+    "classic": "《本草纲目》"
   },
   {
     "name": "垂盆草",
@@ -9823,7 +10172,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
-    "id": "medicine_350"
+    "id": "medicine_350",
+    "classic": "《本草纲目》"
   },
   {
     "name": "高良姜",
@@ -9849,7 +10199,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_351"
+    "id": "medicine_351",
+    "classic": "《本草纲目》"
   },
   {
     "name": "吴茱萸",
@@ -9880,7 +10231,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_352"
+    "id": "medicine_352",
+    "classic": "《本草纲目》"
   },
   {
     "name": "胡椒",
@@ -9907,7 +10259,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_353"
+    "id": "medicine_353",
+    "classic": "《本草纲目》"
   },
   {
     "name": "薤白",
@@ -9936,7 +10289,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_354"
+    "id": "medicine_354",
+    "classic": "《本草纲目》"
   },
   {
     "name": "佛手",
@@ -9968,7 +10322,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_355"
+    "id": "medicine_355",
+    "classic": "《本草纲目》"
   },
   {
     "name": "玫瑰花",
@@ -9996,7 +10351,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_356"
+    "id": "medicine_356",
+    "classic": "《本草纲目》"
   },
   {
     "name": "甘松",
@@ -10023,7 +10379,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_357"
+    "id": "medicine_357",
+    "classic": "《本草纲目》"
   },
   {
     "name": "刀豆",
@@ -10049,7 +10406,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_358"
+    "id": "medicine_358",
+    "classic": "《本草纲目》"
   },
   {
     "name": "藕节",
@@ -10079,7 +10437,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "收敛止血药",
-    "id": "medicine_359"
+    "id": "medicine_359",
+    "classic": "《本草纲目》"
   },
   {
     "name": "紫珠",
@@ -10107,7 +10466,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "id": "medicine_360"
+    "id": "medicine_360",
+    "classic": "《本草纲目》"
   },
   {
     "name": "五灵脂",
@@ -10136,7 +10496,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_361"
+    "id": "medicine_361",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白前",
@@ -10162,7 +10523,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_362"
+    "id": "medicine_362",
+    "classic": "《本草纲目》"
   },
   {
     "name": "罗汉果",
@@ -10190,7 +10552,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_363"
+    "id": "medicine_363",
+    "classic": "《本草纲目》"
   },
   {
     "name": "礞石",
@@ -10218,7 +10581,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "清化热痰药",
-    "id": "medicine_364"
+    "id": "medicine_364",
+    "classic": "《本草纲目》"
   },
   {
     "name": "琥珀",
@@ -10247,7 +10611,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "重镇安神药",
-    "id": "medicine_365"
+    "id": "medicine_365",
+    "classic": "《本草纲目》"
   },
   {
     "name": "远志",
@@ -10277,7 +10642,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "id": "medicine_366"
+    "id": "medicine_366",
+    "classic": "《本草纲目》"
   },
   {
     "name": "珍珠",
@@ -10306,7 +10672,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_367"
+    "id": "medicine_367",
+    "classic": "《本草纲目》"
   },
   {
     "name": "牡蛎",
@@ -10335,7 +10702,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_368"
+    "id": "medicine_368",
+    "classic": "《本草纲目》"
   },
   {
     "name": "代赭石",
@@ -10365,7 +10733,8 @@
     ],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_369"
+    "id": "medicine_369",
+    "classic": "《本草纲目》"
   },
   {
     "name": "石菖蒲",
@@ -10394,7 +10763,8 @@
     "contraindications": [],
     "category": "开窍药",
     "subcategory": "",
-    "id": "medicine_370"
+    "id": "medicine_370",
+    "classic": "《本草纲目》"
   },
   {
     "name": "安息香",
@@ -10423,7 +10793,8 @@
     "contraindications": [],
     "category": "开窍药",
     "subcategory": "",
-    "id": "medicine_371"
+    "id": "medicine_371",
+    "classic": "《本草纲目》"
   },
   {
     "name": "大枣",
@@ -10452,7 +10823,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_372"
+    "id": "medicine_372",
+    "classic": "《本草纲目》"
   },
   {
     "name": "刺五加",
@@ -10482,7 +10854,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_373"
+    "id": "medicine_373",
+    "classic": "《本草纲目》"
   },
   {
     "name": "红景天",
@@ -10510,7 +10883,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_374"
+    "id": "medicine_374",
+    "classic": "《本草纲目》"
   },
   {
     "name": "沙棘",
@@ -10541,7 +10915,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_375"
+    "id": "medicine_375",
+    "classic": "《本草纲目》"
   },
   {
     "name": "桑椹",
@@ -10570,7 +10945,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补血药",
-    "id": "medicine_376"
+    "id": "medicine_376",
+    "classic": "《本草纲目》"
   },
   {
     "name": "黑芝麻",
@@ -10599,7 +10975,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补血药",
-    "id": "medicine_377"
+    "id": "medicine_377",
+    "classic": "《本草纲目》"
   },
   {
     "name": "核桃仁",
@@ -10627,7 +11004,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_378"
+    "id": "medicine_378",
+    "classic": "《本草纲目》"
   },
   {
     "name": "仙茅",
@@ -10656,7 +11034,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_379"
+    "id": "medicine_379",
+    "classic": "《本草纲目》"
   },
   {
     "name": "韭菜子",
@@ -10684,7 +11063,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_380"
+    "id": "medicine_380",
+    "classic": "《本草纲目》"
   },
   {
     "name": "胡芦巴",
@@ -10710,7 +11090,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_381"
+    "id": "medicine_381",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海马",
@@ -10741,7 +11122,8 @@
     ],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_382"
+    "id": "medicine_382",
+    "classic": "《本草纲目》"
   },
   {
     "name": "楮实子",
@@ -10768,7 +11150,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_383"
+    "id": "medicine_383",
+    "classic": "《本草纲目》"
   },
   {
     "name": "麻黄根",
@@ -10792,7 +11175,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_384"
+    "id": "medicine_384",
+    "classic": "《本草纲目》"
   },
   {
     "name": "浮小麦",
@@ -10817,7 +11201,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_385"
+    "id": "medicine_385",
+    "classic": "《本草纲目》"
   },
   {
     "name": "五倍子",
@@ -10848,7 +11233,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_386"
+    "id": "medicine_386",
+    "classic": "《本草纲目》"
   },
   {
     "name": "石榴皮",
@@ -10875,7 +11261,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_387"
+    "id": "medicine_387",
+    "classic": "《本草纲目》"
   },
   {
     "name": "禹余粮",
@@ -10903,7 +11290,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_388"
+    "id": "medicine_388",
+    "classic": "《本草纲目》"
   },
   {
     "name": "糯稻根",
@@ -10929,7 +11317,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_389"
+    "id": "medicine_389",
+    "classic": "《本草纲目》"
   },
   {
     "name": "阿魏",
@@ -10960,7 +11349,8 @@
     ],
     "category": "消食药",
     "subcategory": "",
-    "id": "medicine_390"
+    "id": "medicine_390",
+    "classic": "《本草纲目》"
   },
   {
     "name": "榧子",
@@ -10989,7 +11379,8 @@
     "contraindications": [],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_391"
+    "id": "medicine_391",
+    "classic": "《本草纲目》"
   },
   {
     "name": "木槿皮",
@@ -11016,7 +11407,8 @@
     "contraindications": [],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_392"
+    "id": "medicine_392",
+    "classic": "《本草纲目》"
   },
   {
     "name": "樟脑",
@@ -11046,7 +11438,8 @@
     ],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_393"
+    "id": "medicine_393",
+    "classic": "《本草纲目》"
   },
   {
     "name": "大风子",
@@ -11073,7 +11466,8 @@
     "contraindications": [],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_394"
+    "id": "medicine_394",
+    "classic": "《本草纲目》"
   },
   {
     "name": "木鳖子",
@@ -11103,7 +11497,8 @@
     ],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_395"
+    "id": "medicine_395",
+    "classic": "《本草纲目》"
   },
   {
     "name": "胡荽",
@@ -11129,7 +11524,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_396"
+    "id": "medicine_396",
+    "classic": "《本草纲目》"
   },
   {
     "name": "柽柳",
@@ -11157,7 +11553,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_397"
+    "id": "medicine_397",
+    "classic": "《本草纲目》"
   },
   {
     "name": "四季青",
@@ -11185,7 +11582,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_398"
+    "id": "medicine_398",
+    "classic": "《本草纲目》"
   },
   {
     "name": "锦灯笼",
@@ -11212,7 +11610,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_399"
+    "id": "medicine_399",
+    "classic": "《本草纲目》"
   },
   {
     "name": "青果",
@@ -11240,7 +11639,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_400"
+    "id": "medicine_400",
+    "classic": "《本草纲目》"
   },
   {
     "name": "木蝴蝶",
@@ -11269,7 +11669,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_401"
+    "id": "medicine_401",
+    "classic": "《本草纲目》"
   },
   {
     "name": "青风藤",
@@ -11298,7 +11699,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
-    "id": "medicine_402"
+    "id": "medicine_402",
+    "classic": "《本草纲目》"
   },
   {
     "name": "穿山龙",
@@ -11328,7 +11730,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_403"
+    "id": "medicine_403",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白豆蔻",
@@ -11357,7 +11760,8 @@
     "contraindications": [],
     "category": "化湿药",
     "subcategory": "",
-    "id": "medicine_404"
+    "id": "medicine_404",
+    "classic": "《本草纲目》"
   },
   {
     "name": "香加皮",
@@ -11387,7 +11791,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "id": "medicine_405"
+    "id": "medicine_405",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鸡骨草",
@@ -11416,7 +11821,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
-    "id": "medicine_406"
+    "id": "medicine_406",
+    "classic": "《本草纲目》"
   },
   {
     "name": "枳椇子",
@@ -11442,7 +11848,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "id": "medicine_407"
+    "id": "medicine_407",
+    "classic": "《本草纲目》"
   },
   {
     "name": "夏天无",
@@ -11470,7 +11877,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_408"
+    "id": "medicine_408",
+    "classic": "《本草纲目》"
   },
   {
     "name": "金沸草",
@@ -11499,7 +11907,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_409"
+    "id": "medicine_409",
+    "classic": "《本草纲目》"
   },
   {
     "name": "满山红",
@@ -11524,7 +11933,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_410"
+    "id": "medicine_410",
+    "classic": "《本草纲目》"
   },
   {
     "name": "矮地茶",
@@ -11553,7 +11963,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_411"
+    "id": "medicine_411",
+    "classic": "《本草纲目》"
   },
   {
     "name": "洋金花",
@@ -11582,7 +11993,8 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_412"
+    "id": "medicine_412",
+    "classic": "《本草纲目》"
   },
   {
     "name": "枫香脂",
@@ -11611,7 +12023,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_413"
+    "id": "medicine_413",
+    "classic": "《本草纲目》"
   },
   {
     "name": "绞股蓝",
@@ -11640,7 +12053,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_414"
+    "id": "medicine_414",
+    "classic": "《本草纲目》"
   },
   {
     "name": "银耳",
@@ -11669,7 +12083,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_415"
+    "id": "medicine_415",
+    "classic": "《本草纲目》"
   },
   {
     "name": "阳起石",
@@ -11693,7 +12108,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_416"
+    "id": "medicine_416",
+    "classic": "《本草纲目》"
   },
   {
     "name": "罂粟壳",
@@ -11722,7 +12138,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_417"
+    "id": "medicine_417",
+    "classic": "《本草纲目》"
   },
   {
     "name": "刺猬皮",
@@ -11751,7 +12168,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_418"
+    "id": "medicine_418",
+    "classic": "《本草纲目》"
   },
   {
     "name": "铅丹",
@@ -11781,7 +12199,8 @@
     ],
     "category": "拔毒化腐生肌药",
     "subcategory": "",
-    "id": "medicine_419"
+    "id": "medicine_419",
+    "classic": "《本草纲目》"
   },
   {
     "name": "密陀僧",
@@ -11810,7 +12229,8 @@
     "contraindications": [],
     "category": "拔毒化腐生肌药",
     "subcategory": "",
-    "id": "medicine_420"
+    "id": "medicine_420",
+    "classic": "《本草纲目》"
   },
   {
     "name": "西河柳",
@@ -11838,7 +12258,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "id": "medicine_421"
+    "id": "medicine_421",
+    "classic": "《本草纲目》"
   },
   {
     "name": "委陵菜",
@@ -11864,7 +12285,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_422"
+    "id": "medicine_422",
+    "classic": "《本草纲目》"
   },
   {
     "name": "翻白草",
@@ -11893,7 +12315,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_423"
+    "id": "medicine_423",
+    "classic": "《本草纲目》"
   },
   {
     "name": "拳参",
@@ -11922,7 +12345,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_424"
+    "id": "medicine_424",
+    "classic": "《本草纲目》"
   },
   {
     "name": "苦地丁",
@@ -11949,7 +12373,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_425"
+    "id": "medicine_425",
+    "classic": "《本草纲目》"
   },
   {
     "name": "杠板归",
@@ -11978,7 +12403,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_426"
+    "id": "medicine_426",
+    "classic": "《本草纲目》"
   },
   {
     "name": "木芙蓉叶",
@@ -12005,7 +12431,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_427"
+    "id": "medicine_427",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蛇莓",
@@ -12034,7 +12461,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_428"
+    "id": "medicine_428",
+    "classic": "《本草纲目》"
   },
   {
     "name": "白毛夏枯草",
@@ -12062,7 +12490,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_429"
+    "id": "medicine_429",
+    "classic": "《本草纲目》"
   },
   {
     "name": "一点红",
@@ -12089,7 +12518,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_430"
+    "id": "medicine_430",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鬼针草",
@@ -12118,7 +12548,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_431"
+    "id": "medicine_431",
+    "classic": "《本草纲目》"
   },
   {
     "name": "荜茇根",
@@ -12145,7 +12576,8 @@
     "contraindications": [],
     "category": "温里药",
     "subcategory": "",
-    "id": "medicine_432"
+    "id": "medicine_432",
+    "classic": "《本草纲目》"
   },
   {
     "name": "钟乳石",
@@ -12173,7 +12605,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
-    "id": "medicine_433"
+    "id": "medicine_433",
+    "classic": "《本草纲目》"
   },
   {
     "name": "胆南星",
@@ -12202,7 +12635,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
-    "id": "medicine_434"
+    "id": "medicine_434",
+    "classic": "《本草纲目》"
   },
   {
     "name": "岩白菜",
@@ -12230,7 +12664,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_435"
+    "id": "medicine_435",
+    "classic": "《本草纲目》"
   },
   {
     "name": "华山参",
@@ -12256,7 +12691,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_436"
+    "id": "medicine_436",
+    "classic": "《本草纲目》"
   },
   {
     "name": "杜鹃花叶",
@@ -12281,7 +12717,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_437"
+    "id": "medicine_437",
+    "classic": "《本草纲目》"
   },
   {
     "name": "急性子",
@@ -12311,7 +12748,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
-    "id": "medicine_438"
+    "id": "medicine_438",
+    "classic": "《本草纲目》"
   },
   {
     "name": "卷柏",
@@ -12340,7 +12778,8 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
-    "id": "medicine_439"
+    "id": "medicine_439",
+    "classic": "《本草纲目》"
   },
   {
     "name": "北刘寄奴",
@@ -12370,7 +12809,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
-    "id": "medicine_440"
+    "id": "medicine_440",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鸡冠花",
@@ -12397,7 +12837,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "id": "medicine_441"
+    "id": "medicine_441",
+    "classic": "《本草纲目》"
   },
   {
     "name": "断血流",
@@ -12422,7 +12863,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "收敛止血药",
-    "id": "medicine_442"
+    "id": "medicine_442",
+    "classic": "《本草纲目》"
   },
   {
     "name": "徐长卿根",
@@ -12449,7 +12891,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_443"
+    "id": "medicine_443",
+    "classic": "《本草纲目》"
   },
   {
     "name": "两面针",
@@ -12478,7 +12921,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_444"
+    "id": "medicine_444",
+    "classic": "《本草纲目》"
   },
   {
     "name": "闹羊花",
@@ -12505,7 +12949,8 @@
     ],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_445"
+    "id": "medicine_445",
+    "classic": "《本草纲目》"
   },
   {
     "name": "娑罗子",
@@ -12532,7 +12977,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_446"
+    "id": "medicine_446",
+    "classic": "《本草纲目》"
   },
   {
     "name": "天仙藤",
@@ -12559,7 +13005,8 @@
     "contraindications": [],
     "category": "理气药",
     "subcategory": "",
-    "id": "medicine_447"
+    "id": "medicine_447",
+    "classic": "《本草纲目》"
   },
   {
     "name": "芜荑",
@@ -12585,7 +13032,8 @@
     "contraindications": [],
     "category": "驱虫药",
     "subcategory": "",
-    "id": "medicine_448"
+    "id": "medicine_448",
+    "classic": "《本草纲目》"
   },
   {
     "name": "隔山消",
@@ -12615,7 +13063,8 @@
     "contraindications": [],
     "category": "消食药",
     "subcategory": "",
-    "id": "medicine_449"
+    "id": "medicine_449",
+    "classic": "《本草纲目》"
   },
   {
     "name": "广金钱草",
@@ -12644,7 +13093,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
-    "id": "medicine_450"
+    "id": "medicine_450",
+    "classic": "《本草纲目》"
   },
   {
     "name": "连钱草",
@@ -12674,7 +13124,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_451"
+    "id": "medicine_451",
+    "classic": "《本草纲目》"
   },
   {
     "name": "小通草",
@@ -12702,7 +13153,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_452"
+    "id": "medicine_452",
+    "classic": "《本草纲目》"
   },
   {
     "name": "溪黄草",
@@ -12730,7 +13182,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
-    "id": "medicine_453"
+    "id": "medicine_453",
+    "classic": "《本草纲目》"
   },
   {
     "name": "冬葵子",
@@ -12760,7 +13213,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_454"
+    "id": "medicine_454",
+    "classic": "《本草纲目》"
   },
   {
     "name": "地耳草",
@@ -12789,7 +13243,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
-    "id": "medicine_455"
+    "id": "medicine_455",
+    "classic": "《本草纲目》"
   },
   {
     "name": "雪莲花",
@@ -12820,7 +13275,8 @@
     ],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_456"
+    "id": "medicine_456",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鹿茸草",
@@ -12848,7 +13304,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_457"
+    "id": "medicine_457",
+    "classic": "《本草纲目》"
   },
   {
     "name": "手掌参",
@@ -12876,7 +13333,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_458"
+    "id": "medicine_458",
+    "classic": "《本草纲目》"
   },
   {
     "name": "珠子参",
@@ -12906,7 +13364,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_459"
+    "id": "medicine_459",
+    "classic": "《本草纲目》"
   },
   {
     "name": "竹节参",
@@ -12936,7 +13395,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_460"
+    "id": "medicine_460",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鹿角胶",
@@ -12964,7 +13424,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_461"
+    "id": "medicine_461",
+    "classic": "《本草纲目》"
   },
   {
     "name": "紫河车粉",
@@ -12993,7 +13454,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "id": "medicine_462"
+    "id": "medicine_462",
+    "classic": "《本草纲目》"
   },
   {
     "name": "明党参",
@@ -13023,7 +13485,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_463"
+    "id": "medicine_463",
+    "classic": "《本草纲目》"
   },
   {
     "name": "枸杞叶",
@@ -13051,7 +13514,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_464"
+    "id": "medicine_464",
+    "classic": "《本草纲目》"
   },
   {
     "name": "没食子",
@@ -13080,7 +13544,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_465"
+    "id": "medicine_465",
+    "classic": "《本草纲目》"
   },
   {
     "name": "椿皮",
@@ -13110,7 +13575,8 @@
     "contraindications": [],
     "category": "收涩药",
     "subcategory": "",
-    "id": "medicine_466"
+    "id": "medicine_466",
+    "classic": "《本草纲目》"
   },
   {
     "name": "紫石英",
@@ -13137,7 +13603,8 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "重镇安神药",
-    "id": "medicine_467"
+    "id": "medicine_467",
+    "classic": "《本草纲目》"
   },
   {
     "name": "樟木",
@@ -13166,7 +13633,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_468"
+    "id": "medicine_468",
+    "classic": "《本草纲目》"
   },
   {
     "name": "决明子炒",
@@ -13195,7 +13663,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_469"
+    "id": "medicine_469",
+    "classic": "《本草纲目》"
   },
   {
     "name": "天青地白",
@@ -13223,7 +13692,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_470"
+    "id": "medicine_470",
+    "classic": "《本草纲目》"
   },
   {
     "name": "胆矾",
@@ -13252,7 +13722,8 @@
     "contraindications": [],
     "category": "涌吐药",
     "subcategory": "",
-    "id": "medicine_471"
+    "id": "medicine_471",
+    "classic": "《本草纲目》"
   },
   {
     "name": "皂矾",
@@ -13279,7 +13750,8 @@
     "contraindications": [],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_472"
+    "id": "medicine_472",
+    "classic": "《本草纲目》"
   },
   {
     "name": "蓖麻子",
@@ -13309,7 +13781,8 @@
     ],
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
-    "id": "medicine_473"
+    "id": "medicine_473",
+    "classic": "《本草纲目》"
   },
   {
     "name": "松花粉",
@@ -13336,7 +13809,8 @@
     "contraindications": [],
     "category": "止血药",
     "subcategory": "收敛止血药",
-    "id": "medicine_474"
+    "id": "medicine_474",
+    "classic": "《本草纲目》"
   },
   {
     "name": "臭灵丹草",
@@ -13363,7 +13837,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_475"
+    "id": "medicine_475",
+    "classic": "《本草纲目》"
   },
   {
     "name": "哈蟆油",
@@ -13391,7 +13866,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "id": "medicine_476"
+    "id": "medicine_476",
+    "classic": "《本草纲目》"
   },
   {
     "name": "了哥王",
@@ -13422,7 +13898,8 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_477"
+    "id": "medicine_477",
+    "classic": "《本草纲目》"
   },
   {
     "name": "铁包金",
@@ -13450,7 +13927,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "id": "medicine_478"
+    "id": "medicine_478",
+    "classic": "《本草纲目》"
   },
   {
     "name": "三七花",
@@ -13476,7 +13954,8 @@
     "contraindications": [],
     "category": "平肝熄风药",
     "subcategory": "",
-    "id": "medicine_479"
+    "id": "medicine_479",
+    "classic": "《本草纲目》"
   },
   {
     "name": "野木瓜",
@@ -13503,7 +13982,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
-    "id": "medicine_480"
+    "id": "medicine_480",
+    "classic": "《本草纲目》"
   },
   {
     "name": "叶下珠",
@@ -13532,7 +14012,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_481"
+    "id": "medicine_481",
+    "classic": "《本草纲目》"
   },
   {
     "name": "积雪草",
@@ -13561,7 +14042,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_482"
+    "id": "medicine_482",
+    "classic": "《本草纲目》"
   },
   {
     "name": "半枝莲",
@@ -13591,7 +14073,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_483"
+    "id": "medicine_483",
+    "classic": "《本草纲目》"
   },
   {
     "name": "龙葵",
@@ -13620,7 +14103,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_484"
+    "id": "medicine_484",
+    "classic": "《本草纲目》"
   },
   {
     "name": "三白草",
@@ -13648,7 +14132,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_485"
+    "id": "medicine_485",
+    "classic": "《本草纲目》"
   },
   {
     "name": "鹿蹄草",
@@ -13677,7 +14162,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
-    "id": "medicine_486"
+    "id": "medicine_486",
+    "classic": "《本草纲目》"
   },
   {
     "name": "凤尾草",
@@ -13706,7 +14192,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_487"
+    "id": "medicine_487",
+    "classic": "《本草纲目》"
   },
   {
     "name": "六月雪",
@@ -13735,7 +14222,8 @@
     "contraindications": [],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "id": "medicine_488"
+    "id": "medicine_488",
+    "classic": "《本草纲目》"
   },
   {
     "name": "海藻石",
@@ -13762,7 +14250,8 @@
     "contraindications": [],
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
-    "id": "medicine_489"
+    "id": "medicine_489",
+    "classic": "《本草纲目》"
   },
   {
     "name": "牛大力",
@@ -13789,7 +14278,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_490"
+    "id": "medicine_490",
+    "classic": "《本草纲目》"
   },
   {
     "name": "五指毛桃",
@@ -13818,7 +14308,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_491"
+    "id": "medicine_491",
+    "classic": "《本草纲目》"
   },
   {
     "name": "千斤拔",
@@ -13847,7 +14338,8 @@
     "contraindications": [],
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
-    "id": "medicine_492"
+    "id": "medicine_492",
+    "classic": "《本草纲目》"
   },
   {
     "name": "黑老虎",
@@ -13875,7 +14367,8 @@
     "contraindications": [],
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
-    "id": "medicine_493"
+    "id": "medicine_493",
+    "classic": "《本草纲目》"
   },
   {
     "name": "救必应",
@@ -13903,7 +14396,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_494"
+    "id": "medicine_494",
+    "classic": "《本草纲目》"
   },
   {
     "name": "布渣叶",
@@ -13930,7 +14424,8 @@
     "contraindications": [],
     "category": "消食药",
     "subcategory": "",
-    "id": "medicine_495"
+    "id": "medicine_495",
+    "classic": "《本草纲目》"
   },
   {
     "name": "岗梅根",
@@ -13959,7 +14454,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_496"
+    "id": "medicine_496",
+    "classic": "《本草纲目》"
   },
   {
     "name": "火炭母",
@@ -13988,7 +14484,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_497"
+    "id": "medicine_497",
+    "classic": "《本草纲目》"
   },
   {
     "name": "金荞麦茎",
@@ -14015,7 +14512,8 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "id": "medicine_498"
+    "id": "medicine_498",
+    "classic": "《本草纲目》"
   },
   {
     "name": "荞麦花粉",
@@ -14042,7 +14540,8 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补气药",
-    "id": "medicine_499"
+    "id": "medicine_499",
+    "classic": "《本草纲目》"
   },
   {
     "name": "合萌",
@@ -14070,7 +14569,8 @@
     "contraindications": [],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "id": "medicine_500"
+    "id": "medicine_500",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_501",
@@ -14102,7 +14602,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补阴药"
+    "subcategory": "补阴药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_502",
@@ -14132,7 +14633,8 @@
       "痈疽已溃者忌用"
     ],
     "category": "活血化瘀药",
-    "subcategory": "破血消癥药"
+    "subcategory": "破血消癥药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_503",
@@ -14161,7 +14663,8 @@
       "小便不利者慎用"
     ],
     "category": "收涩药",
-    "subcategory": "固精缩尿止带药"
+    "subcategory": "固精缩尿止带药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_504",
@@ -14190,7 +14693,8 @@
       "脾虚者慎用"
     ],
     "category": "利水渗湿药",
-    "subcategory": "利尿通淋药"
+    "subcategory": "利尿通淋药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_505",
@@ -14218,7 +14722,8 @@
     "usage": "煎服，9-15g",
     "contraindications": [],
     "category": "安神药",
-    "subcategory": "养心安神药"
+    "subcategory": "养心安神药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_506",
@@ -14248,7 +14753,8 @@
     "usage": "煎服，3-9g",
     "contraindications": [],
     "category": "清热药",
-    "subcategory": "清热凉血药"
+    "subcategory": "清热凉血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_507",
@@ -14279,7 +14785,8 @@
       "瘀血未尽者慎用"
     ],
     "category": "止血药",
-    "subcategory": "收敛止血药"
+    "subcategory": "收敛止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_508",
@@ -14311,7 +14818,8 @@
       "便溏者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "果品类"
+    "subcategory": "果品类",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_509",
@@ -14339,7 +14847,8 @@
     "usage": "煎服，3-9g",
     "contraindications": [],
     "category": "化湿药",
-    "subcategory": ""
+    "subcategory": "",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_510",
@@ -14367,7 +14876,8 @@
     "usage": "煎服，9-15g，先煎",
     "contraindications": [],
     "category": "安神药",
-    "subcategory": "重镇安神药"
+    "subcategory": "重镇安神药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_511",
@@ -14402,7 +14912,8 @@
       "不宜与海藻大戟甘遂芫花同用"
     ],
     "category": "补虚药",
-    "subcategory": "补气药"
+    "subcategory": "补气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_512",
@@ -14433,7 +14944,8 @@
       "不宜与海藻大戟甘遂芫花同用"
     ],
     "category": "补虚药",
-    "subcategory": "补气药"
+    "subcategory": "补气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_513",
@@ -14461,7 +14973,8 @@
       "不宜与藜芦同用"
     ],
     "category": "补虚药",
-    "subcategory": "补气药"
+    "subcategory": "补气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_514",
@@ -14492,7 +15005,8 @@
       "湿盛中满者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补气药"
+    "subcategory": "补气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_515",
@@ -14526,7 +15040,8 @@
       "麻疹已透者慎用"
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_516",
@@ -14557,7 +15072,8 @@
       "脾胃虚弱者慎用"
     ],
     "category": "理气药",
-    "subcategory": "理气药"
+    "subcategory": "理气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_517",
@@ -14590,7 +15106,8 @@
       "肾虚精滑者慎用"
     ],
     "category": "利水渗湿药",
-    "subcategory": "利尿通淋药"
+    "subcategory": "利尿通淋药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_518",
@@ -14620,7 +15137,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补阴药"
+    "subcategory": "补阴药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_519",
@@ -14649,7 +15167,8 @@
       ""
     ],
     "category": "补虚药",
-    "subcategory": "补气药"
+    "subcategory": "补气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_520",
@@ -14680,7 +15199,8 @@
       ""
     ],
     "category": "清热药",
-    "subcategory": "清热泻火药"
+    "subcategory": "清热泻火药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_521",
@@ -14713,7 +15233,8 @@
       "孕妇慎用"
     ],
     "category": "利水渗湿药",
-    "subcategory": "利尿通淋药"
+    "subcategory": "利尿通淋药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_522",
@@ -14743,7 +15264,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "温里药",
-    "subcategory": "温里药"
+    "subcategory": "温里药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_523",
@@ -14773,7 +15295,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "补虚药",
-    "subcategory": "补阳药"
+    "subcategory": "补阳药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_524",
@@ -14800,7 +15323,8 @@
       ""
     ],
     "category": "安神药",
-    "subcategory": "养心安神药"
+    "subcategory": "养心安神药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_525",
@@ -14833,7 +15357,8 @@
       ""
     ],
     "category": "固涩药",
-    "subcategory": "固精止带药"
+    "subcategory": "固精止带药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_526",
@@ -14862,7 +15387,8 @@
       "不宜与乌头同用"
     ],
     "category": "化痰止咳平喘药",
-    "subcategory": "化痰药"
+    "subcategory": "化痰药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_527",
@@ -14892,7 +15418,8 @@
       ""
     ],
     "category": "解表药",
-    "subcategory": "辛温解表药"
+    "subcategory": "辛温解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_528",
@@ -14923,7 +15450,8 @@
       "阴虚血热者慎用"
     ],
     "category": "理血药",
-    "subcategory": "止血药"
+    "subcategory": "止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_529",
@@ -14952,7 +15480,8 @@
       ""
     ],
     "category": "补虚药",
-    "subcategory": "补阴药"
+    "subcategory": "补阴药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_530",
@@ -14983,7 +15512,8 @@
       "孕妇慎用"
     ],
     "category": "化痰止咳平喘药",
-    "subcategory": "化痰药"
+    "subcategory": "化痰药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_531",
@@ -15014,7 +15544,8 @@
       "孕妇慎用"
     ],
     "category": "平肝息风药",
-    "subcategory": "平抑肝阳药"
+    "subcategory": "平抑肝阳药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_532",
@@ -15040,7 +15571,8 @@
       ""
     ],
     "category": "利水渗湿药",
-    "subcategory": "利水消肿药"
+    "subcategory": "利水消肿药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_533",
@@ -15072,7 +15604,8 @@
       "有毒孕妇忌用"
     ],
     "category": "祛风湿药",
-    "subcategory": "祛风寒湿药"
+    "subcategory": "祛风寒湿药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_534",
@@ -15104,7 +15637,8 @@
       "不宜与乌头同用"
     ],
     "category": "化痰止咳平喘药",
-    "subcategory": "化痰药"
+    "subcategory": "化痰药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_535",
@@ -15134,7 +15668,8 @@
       ""
     ],
     "category": "化痰止咳平喘药",
-    "subcategory": "止咳平喘药"
+    "subcategory": "止咳平喘药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_536",
@@ -15165,7 +15700,8 @@
       "孕妇慎用"
     ],
     "category": "清热药",
-    "subcategory": "清热解毒药"
+    "subcategory": "清热解毒药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_537",
@@ -15194,7 +15730,8 @@
       "脾胃虚寒者慎用"
     ],
     "category": "理血药",
-    "subcategory": "止血药"
+    "subcategory": "止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_538",
@@ -15222,7 +15759,8 @@
       ""
     ],
     "category": "化痰止咳平喘药",
-    "subcategory": "化痰药"
+    "subcategory": "化痰药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_539",
@@ -15251,7 +15789,8 @@
       ""
     ],
     "category": "安神药",
-    "subcategory": "养心安神药"
+    "subcategory": "养心安神药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_540",
@@ -15280,7 +15819,8 @@
       ""
     ],
     "category": "清热药",
-    "subcategory": "清热解毒药"
+    "subcategory": "清热解毒药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_541",
@@ -15310,7 +15850,8 @@
       ""
     ],
     "category": "理血药",
-    "subcategory": "止血药"
+    "subcategory": "止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_542",
@@ -15341,7 +15882,8 @@
       "有毒孕妇慎用"
     ],
     "category": "化痰止咳平喘药",
-    "subcategory": "化痰药"
+    "subcategory": "化痰药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_543",
@@ -15369,7 +15911,8 @@
       ""
     ],
     "category": "利水渗湿药",
-    "subcategory": "利水消肿药"
+    "subcategory": "利水消肿药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_544",
@@ -15398,7 +15941,8 @@
       ""
     ],
     "category": "理血药",
-    "subcategory": "止血药"
+    "subcategory": "止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_545",
@@ -15425,7 +15969,8 @@
       ""
     ],
     "category": "温里药",
-    "subcategory": "温里药"
+    "subcategory": "温里药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_546",
@@ -15454,7 +15999,8 @@
       ""
     ],
     "category": "理血药",
-    "subcategory": "止血药"
+    "subcategory": "止血药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_547",
@@ -15484,7 +16030,8 @@
       ""
     ],
     "category": "利水渗湿药",
-    "subcategory": "利水消肿药"
+    "subcategory": "利水消肿药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_548",
@@ -15511,7 +16058,8 @@
       ""
     ],
     "category": "解表药",
-    "subcategory": "辛凉解表药"
+    "subcategory": "辛凉解表药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_549",
@@ -15541,7 +16089,8 @@
       "孕妇忌用"
     ],
     "category": "理血药",
-    "subcategory": "活血祛瘀药"
+    "subcategory": "活血祛瘀药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_550",
@@ -15570,7 +16119,8 @@
       ""
     ],
     "category": "利水渗湿药",
-    "subcategory": "利尿通淋药"
+    "subcategory": "利尿通淋药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_551",
@@ -15600,7 +16150,8 @@
       ""
     ],
     "category": "平肝息风药",
-    "subcategory": "息风止痉药"
+    "subcategory": "息风止痉药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_552",
@@ -15630,7 +16181,8 @@
       ""
     ],
     "category": "清热药",
-    "subcategory": "清热化痰药"
+    "subcategory": "清热化痰药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_553",
@@ -15663,7 +16215,8 @@
       "脾虚水肿者慎用"
     ],
     "category": "泻下药",
-    "subcategory": "峻下逐水药"
+    "subcategory": "峻下逐水药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_554",
@@ -15696,7 +16249,8 @@
       "反甘草"
     ],
     "category": "泻下药",
-    "subcategory": "峻下逐水药"
+    "subcategory": "峻下逐水药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_555",
@@ -15725,7 +16279,8 @@
       ""
     ],
     "category": "解表药",
-    "subcategory": "发散风热药"
+    "subcategory": "发散风热药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_556",
@@ -15755,7 +16310,8 @@
       ""
     ],
     "category": "利水渗湿药",
-    "subcategory": "利水消肿药"
+    "subcategory": "利水消肿药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_557",
@@ -15784,7 +16340,8 @@
       ""
     ],
     "category": "理气药",
-    "subcategory": "理气药"
+    "subcategory": "理气药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_558",
@@ -15814,7 +16371,8 @@
       ""
     ],
     "category": "化痰止咳平喘药",
-    "subcategory": "清化热痰药"
+    "subcategory": "清化热痰药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_559",
@@ -15847,7 +16405,8 @@
       ""
     ],
     "category": "补益药",
-    "subcategory": "补阳药"
+    "subcategory": "补阳药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_560",
@@ -15877,7 +16436,8 @@
       ""
     ],
     "category": "清热药",
-    "subcategory": "清热解毒药"
+    "subcategory": "清热解毒药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_561",
@@ -15908,7 +16468,8 @@
       "阴虚火旺者慎用"
     ],
     "category": "补益药",
-    "subcategory": "补阳药"
+    "subcategory": "补阳药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_562",
@@ -15939,7 +16500,8 @@
       ""
     ],
     "category": "补益药",
-    "subcategory": "补阳药"
+    "subcategory": "补阳药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_563",
@@ -15972,7 +16534,8 @@
       "体虚者慎用"
     ],
     "category": "泻下药",
-    "subcategory": "峻下逐水药"
+    "subcategory": "峻下逐水药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_564",
@@ -16006,7 +16569,8 @@
       "水肿者忌用"
     ],
     "category": "涌吐药",
-    "subcategory": "涌吐药"
+    "subcategory": "涌吐药",
+    "classic": "《本草纲目》"
   },
   {
     "id": "medicine_565",
@@ -16036,6 +16600,265 @@
       "孕妇禁用"
     ],
     "category": "泻下药",
-    "subcategory": "攻下药"
+    "subcategory": "攻下药",
+    "classic": "《本草纲目》"
+  },
+  {
+    "id": "medicine_566",
+    "name": "地黄",
+    "pinyin": "Di Huang",
+    "latin_name": "Rehmanniae Radix",
+    "nature": "寒",
+    "flavor": [
+      "甘",
+      "苦"
+    ],
+    "meridian": [
+      "心经",
+      "肝经",
+      "肾经"
+    ],
+    "effects": [
+      "清热凉血",
+      "养阴生津"
+    ],
+    "indications": [
+      "热入营血",
+      "阴虚发热",
+      "消渴",
+      "吐血衄血",
+      "津伤便秘"
+    ],
+    "usage": "煎服，10-15g；鲜用加倍",
+    "contraindications": [
+      "脾虚湿滞、腹满便溏者慎用"
+    ],
+    "category": "清热药",
+    "subcategory": "清热凉血药",
+    "classic": "《神农本草经》"
+  },
+  {
+    "name": "紫苏叶",
+    "pinyin": "Zi Su Ye",
+    "latin_name": "Perillae Folium",
+    "nature": "温",
+    "flavor": [
+      "辛"
+    ],
+    "meridian": [
+      "肺经",
+      "脾经"
+    ],
+    "effects": [
+      "解表散寒",
+      "行气和胃"
+    ],
+    "indications": [
+      "风寒感冒",
+      "咳嗽呕恶",
+      "鱼蟹中毒"
+    ],
+    "usage": "煎服",
+    "contraindications": [],
+    "category": "解表药",
+    "subcategory": "发散风寒药",
+    "classic": "《神农本草经》",
+    "id": "medicine_567"
+  },
+  {
+    "name": "白酒",
+    "pinyin": "Bai Jiu",
+    "latin_name": "Vinum",
+    "nature": "温",
+    "flavor": [
+      "辛",
+      "甘"
+    ],
+    "meridian": [
+      "心经",
+      "肝经",
+      "肺经",
+      "胃经"
+    ],
+    "effects": [
+      "通血脉",
+      "行药势"
+    ],
+    "indications": [
+      "风寒痹痛",
+      "引经"
+    ],
+    "usage": "外用或少量入药",
+    "contraindications": [],
+    "category": "其他",
+    "subcategory": "其他",
+    "classic": "《本草纲目》",
+    "id": "medicine_568"
+  },
+  {
+    "name": "梨皮",
+    "pinyin": "Li Pi",
+    "latin_name": "Piri Cortex",
+    "nature": "凉",
+    "flavor": [
+      "甘"
+    ],
+    "meridian": [
+      "肺经",
+      "胃经"
+    ],
+    "effects": [
+      "清心润肺",
+      "降火生津"
+    ],
+    "indications": [
+      "温病口渴",
+      "咳嗽"
+    ],
+    "usage": "煎服",
+    "contraindications": [],
+    "category": "其他",
+    "subcategory": "其他",
+    "classic": "《本草纲目》",
+    "id": "medicine_569"
+  },
+  {
+    "name": "西瓜翠衣",
+    "pinyin": "Xi Gua Cui Yi",
+    "latin_name": "Citrulli Exocarpium",
+    "nature": "凉",
+    "flavor": [
+      "甘",
+      "淡"
+    ],
+    "meridian": [
+      "心经",
+      "胃经"
+    ],
+    "effects": [
+      "清暑解热",
+      "止渴利小便"
+    ],
+    "indications": [
+      "暑热烦渴",
+      "水肿"
+    ],
+    "usage": "煎服",
+    "contraindications": [],
+    "category": "其他",
+    "subcategory": "其他",
+    "classic": "《本草纲目》",
+    "id": "medicine_570"
+  },
+  {
+    "name": "丝瓜皮",
+    "pinyin": "Si Gua Pi",
+    "latin_name": "Luffae Exocarpium",
+    "nature": "凉",
+    "flavor": [
+      "甘"
+    ],
+    "meridian": [
+      "肺经",
+      "肝经"
+    ],
+    "effects": [
+      "清热解毒",
+      "利水消肿"
+    ],
+    "indications": [
+      "暑热烦渴",
+      "水肿"
+    ],
+    "usage": "煎服",
+    "contraindications": [],
+    "category": "其他",
+    "subcategory": "其他",
+    "classic": "《本草纲目》",
+    "id": "medicine_571"
+  },
+  {
+    "name": "冰糖",
+    "pinyin": "Bing Tang",
+    "latin_name": "Saccharum",
+    "nature": "平",
+    "flavor": [
+      "甘"
+    ],
+    "meridian": [
+      "肺经",
+      "胃经"
+    ],
+    "effects": [
+      "补中益气",
+      "和胃润肺"
+    ],
+    "indications": [
+      "肺燥咳嗽",
+      "口干"
+    ],
+    "usage": "煎服",
+    "contraindications": [],
+    "category": "补虚药",
+    "subcategory": "补气药",
+    "classic": "《本草纲目》",
+    "id": "medicine_572"
+  },
+  {
+    "name": "海参",
+    "pinyin": "Hai Shen",
+    "latin_name": "Stichopus",
+    "nature": "温",
+    "flavor": [
+      "甘",
+      "咸"
+    ],
+    "meridian": [
+      "心经",
+      "肾经",
+      "肺经"
+    ],
+    "effects": [
+      "补肾益精",
+      "养血润燥"
+    ],
+    "indications": [
+      "虚弱劳怯",
+      "阳痿梦遗",
+      "肠燥便秘"
+    ],
+    "usage": "煎服",
+    "contraindications": [],
+    "category": "补虚药",
+    "subcategory": "补阳药",
+    "classic": "《本草纲目》",
+    "id": "medicine_573"
+  },
+  {
+    "name": "莲子心",
+    "pinyin": "Lian Zi Xin",
+    "latin_name": "Nelumbinis Plumula",
+    "nature": "寒",
+    "flavor": [
+      "苦"
+    ],
+    "meridian": [
+      "心经"
+    ],
+    "effects": [
+      "清心安神",
+      "涩精止血"
+    ],
+    "indications": [
+      "热入心包",
+      "神昏谵语",
+      "心烦"
+    ],
+    "usage": "煎服",
+    "contraindications": [],
+    "category": "安神药",
+    "subcategory": "养心安神药",
+    "classic": "《本草纲目》",
+    "id": "medicine_574"
   }
 ]

@@ -7,63 +7,63 @@
 
 /* ===== CSS 设计令牌 ===== */
 :root {
-  /* ── 主色调：青玉绿 ── */
-  --color-primary: #4a9c8c;
-  --color-primary-light: #6bb5a8;
-  --color-primary-dark: #2e7d6b;
-  --color-primary-bg: #e8f5f0;
-  --color-primary-gradient: linear-gradient(135deg, #4a9c8c 0%, #2e7d6b 100%);
+  /* ── 主色调：黛青（墨色系绿）── */
+  --color-primary: #3c5a52;
+  --color-primary-light: #5b7a72;
+  --color-primary-dark: #264039;
+  --color-primary-bg: #e8eeea;
+  --color-primary-gradient: linear-gradient(135deg, #3c5a52 0%, #264039 100%);
 
-  /* ── 强调色：琥珀金 ── */
-  --color-accent: #c9a96e;
-  --color-accent-light: #dfc896;
-  --color-accent-dark: #a88a4a;
-  --color-accent-bg: #f5ede0;
-  --color-accent-gradient: linear-gradient(135deg, #d4b87a 0%, #b8943f 100%);
+  /* ── 强调色：朱砂（印泥红）── */
+  --color-accent: #a83a2c;
+  --color-accent-light: #c25a48;
+  --color-accent-dark: #7e2a20;
+  --color-accent-bg: #f4e7e3;
+  --color-accent-gradient: linear-gradient(135deg, #b54435 0%, #8a2c20 100%);
 
   /* ── 警示色：朱砂红 ── */
-  --color-danger: #b5453a;
-  --color-danger-bg: #faeae8;
-  --color-danger-light: #ea6b52;
+  --color-danger: #9e342a;
+  --color-danger-bg: #f4e7e3;
+  --color-danger-light: #c05242;
 
   /* ── 功能色 ── */
-  --color-warning: #d4813c;
-  --color-warning-bg: #f5ebe0;
-  --color-info: #4a7fb5;
-  --color-info-bg: #e6eef6;
-  --color-info-dark: #3b7db5;
-  --color-success: #3d8b63;
-  --color-success-bg: #e4f0e9;
+  --color-warning: #a9782e;
+  --color-warning-bg: #f1e9da;
+  --color-info: #3f5d79;
+  --color-info-bg: #e6ecf2;
+  --color-info-dark: #34526e;
+  --color-success: #3d6b52;
+  --color-success-bg: #e4efe9;
 
-  /* ── 中性色（宣纸系）── */
-  --color-bg: #f5f0e9;
-  --color-surface: #eeeadf;
-  --color-surface-warm: #e4ded3;
-  --color-border: #ddd7ca;
-  --color-divider: #d6cfc0;
-  --color-text-primary: #3d3226;
-  --color-text-secondary: #6b5f52;
-  --color-text-hint: #9b8f82;
-  --color-text-on-primary: #ffffff;
-  --color-text-on-accent: #3d3226;
+  /* ── 中性色（宣纸 / 墨）── */
+  --color-bg: #f4f0e8;
+  --color-surface: #faf8f2;
+  --color-surface-warm: #ece8de;
+  --color-border: #ddd8cc;
+  --color-divider: #d9d3c6;
+  --color-text-primary: #211d18;
+  --color-text-secondary: #57514a;
+  --color-text-hint: #968d80;
+  --color-text-on-primary: #f7f4ec;
+  --color-text-on-accent: #f7f4ec;
 
   /* ── 组件专属色 ── */
-  --color-filter-bar: #e4dfd4;
-  --color-filter-inactive: #e8e3d8;
-  --color-surface-active: #e2dbce;
+  --color-filter-bar: #ece8de;
+  --color-filter-inactive: #f0ece3;
+  --color-surface-active: #e3ded2;
   --color-surface-green: #dde8e3;
 
-  /* ── 分类色板 ── */
-  --color-syndrome: #4a9c8c;
-  --color-formula: #4a7fb5;
-  --color-medicine: #d4813c;
-  --color-acupoint: #8b5ba0;
-  --color-acupoint-bg: #f0eaf5;
-  --color-needle: #3d8b89;
-  --color-treatment: #5c9e6e;
-  --color-effect: #b55276;
-  --color-meridian: #4a7fb5;
-  --color-mapping: #c98b3c;
+  /* ── 分类色板（彩墨点缀）── */
+  --color-syndrome: #3c5a52;
+  --color-formula: #3f5d79;
+  --color-medicine: #a9782e;
+  --color-acupoint: #6e4f86;
+  --color-acupoint-bg: #efe9f3;
+  --color-needle: #3d6b68;
+  --color-treatment: #4f7d5a;
+  --color-effect: #a8456a;
+  --color-meridian: #3f5d79;
+  --color-mapping: #a9782e;
 
   /* ── 阴影（柔和）── */
   --shadow-xs: 0 1px 2px rgba(61, 50, 38, 0.04);
@@ -197,7 +197,7 @@ button:not(.allow-context) {
   max-width: 1200px;
   margin: 0 auto;
   padding: var(--space-md);
-  padding-top: calc(var(--safe-top) + var(--space-3xl));
+  padding-top: calc(var(--safe-top) + var(--space-lg));
   padding-bottom: calc(var(--space-3xl) + var(--safe-bottom));
   min-height: 100vh;
   animation: fadeInUp 0.4s var(--transition-slow);
@@ -404,7 +404,13 @@ button:not(.allow-context) {
   gap: var(--space-lg);
 }
 
-/* ===== Navigation ===== */
+/* ===== Navigation（横幅下方导航） ===== */
+.nav-wrapper {
+  position: sticky;
+  top: calc(var(--safe-top) + var(--space-xs));
+  z-index: 100;
+  margin-bottom: var(--space-lg);
+}
 .nav-container {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
@@ -413,9 +419,7 @@ button:not(.allow-context) {
   border-radius: var(--radius-lg);
   padding: var(--space-sm);
   box-shadow: var(--shadow-sm);
-  position: sticky;
-  top: calc(var(--safe-top) + var(--space-sm));
-  z-index: 100;
+  position: static;
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
 }
@@ -424,13 +428,14 @@ button:not(.allow-context) {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 5px;
-  padding: var(--space-md) 8px;
+  gap: 4px;
+  padding: var(--space-md) 2px;
   text-align: center;
   border-radius: var(--radius-md);
   cursor: pointer;
-  font-size: var(--font-size-sm);
+  font-size: 0.8rem;
   font-weight: 500;
+  white-space: nowrap;
   color: var(--color-text-secondary);
   transition: all var(--transition-normal);
   background: transparent;
@@ -701,7 +706,7 @@ mark,
 }
 .list-item {
   background: var(--color-surface);
-  padding: var(--space-lg) 20px;
+  padding: var(--space-lg) 40px var(--space-lg) 20px;
   border-radius: var(--radius-md);
   cursor: pointer;
   transition: all var(--transition-normal);
@@ -724,6 +729,21 @@ mark,
   transform: scaleY(0);
   transition: transform var(--transition-normal);
 }
+/* 右箭头：提示可点击进入 */
+.list-item::before {
+  content: '';
+  position: absolute;
+  right: 18px;
+  top: 50%;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--color-text-hint);
+  border-top: 2px solid var(--color-text-hint);
+  transform: translateY(-50%) rotate(45deg);
+  opacity: 0.45;
+  transition: all var(--transition-normal);
+  flex-shrink: 0;
+}
 .list-item:active {
   transform: scale(0.98);
   background: var(--color-surface-active);
@@ -731,6 +751,11 @@ mark,
 }
 .list-item:active::after {
   transform: scaleY(1);
+}
+.list-item:active::before {
+  opacity: 1;
+  border-color: var(--color-primary);
+  transform: translateY(-50%) rotate(45deg) translateX(3px);
 }
 .list-item-title {
   font-size: var(--font-size-lg);
@@ -755,14 +780,25 @@ mark,
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+/* 列表项内联分类标签（替代散落 inline 颜色） */
+.list-item-cat {
+  font-size: 0.85rem;
+  color: var(--color-primary);
+  margin-left: 8px;
+  font-weight: 400;
+}
+/* 暂无数据等弱提示（替代散落 inline 颜色） */
+.empty-hint {
+  color: var(--color-text-hint);
+}
 
 /* ===== Detail Container ===== */
 .detail-container {
-  background: var(--color-surface);
-  border-radius: var(--radius-lg);
-  padding: var(--space-2xl);
-  box-shadow: var(--shadow-sm);
-  border: 1px solid var(--color-border);
+  background: transparent;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+  border: none;
   animation: fadeInUp 0.35s var(--transition-slow);
 }
 .back-button {
@@ -785,11 +821,6 @@ mark,
 .back-button:active {
   background: var(--color-divider);
   transform: scale(0.96);
-}
-.detail-header {
-  margin-bottom: var(--space-2xl);
-  padding-bottom: var(--space-xl);
-  border-bottom: 2px solid var(--color-divider);
 }
 .detail-title {
   font-size: var(--font-size-2xl);
@@ -817,30 +848,88 @@ mark,
   box-shadow: 0 2px 8px rgba(74, 156, 140, 0.2);
 }
 
-/* ===== Section ===== */
+/* ===== Section（分区卡片化） ===== */
 .section {
-  margin-bottom: var(--space-2xl);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-lg) var(--space-xl);
+  margin-bottom: var(--space-md);
+  box-shadow: var(--shadow-xs);
+  scroll-margin-top: 64px;
 }
 .section:last-child {
   margin-bottom: 0;
 }
 .section-title {
-  font-size: var(--font-size-lg);
-  color: var(--color-text-primary);
+  font-size: var(--font-size-md);
+  color: var(--color-primary-dark);
   margin-bottom: var(--space-md);
-  padding-left: var(--space-md);
-  border-left: 4px solid var(--color-primary);
+  padding-left: 12px;
+  border-left: 3px solid var(--color-accent);
   font-weight: 600;
   line-height: 1.5;
 }
 .section-title.mapping-title {
   border-left-color: var(--color-info);
 }
+/* 延伸/现代研究类信息：视觉弱化为次级层级 */
+.section.secondary {
+  margin-bottom: var(--space-xl);
+}
+.section.secondary .section-title {
+  font-size: var(--font-size-md);
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  border-left-color: var(--color-border);
+}
+.section.secondary .section-content {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-hint);
+}
 .section-content {
   font-size: var(--font-size-base);
   color: var(--color-text-secondary);
   line-height: 1.85;
   margin-bottom: var(--space-sm);
+}
+
+/* ===== Detail Anchor Nav（分区锚点导航） ===== */
+.detail-anchors {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  gap: var(--space-xs);
+  overflow-x: auto;
+  padding: var(--space-sm) 0;
+  margin-bottom: var(--space-md);
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-divider);
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.detail-anchors::-webkit-scrollbar {
+  display: none;
+}
+.detail-anchor-chip {
+  flex: 0 0 auto;
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  -webkit-appearance: none;
+  transition: all var(--transition-normal);
+}
+.detail-anchor-chip:active {
+  background: var(--color-primary-bg);
+  border-color: var(--color-primary);
+  color: var(--color-primary-dark);
 }
 
 /* ===== Tags ===== */
@@ -1294,6 +1383,15 @@ mark,
   color: var(--color-primary-dark);
   white-space: nowrap;
 }
+/* 对比维度下的经典出处标签（朱砂小字） */
+.comparison-classic {
+  margin-top: 4px;
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: var(--color-accent);
+  white-space: normal;
+  line-height: 1.4;
+}
 .comparison-tcm {
   color: var(--color-text-secondary);
 }
@@ -1585,7 +1683,7 @@ mark,
     font-size: 0.75rem;
   }
 
-  /* nav 保持 3 列，字号加大 */
+  /* 横幅下导航：保持 3 列卡片，字号加大更易点 */
   .nav-container {
     grid-template-columns: repeat(3, 1fr);
     gap: var(--space-xs);
@@ -1669,7 +1767,7 @@ mark,
     font-size: var(--font-size-xl);
   }
   .detail-container {
-    padding: var(--space-lg);
+    padding: 0;
   }
   .detail-header {
     margin-bottom: var(--space-lg);
@@ -2243,7 +2341,7 @@ mark,
   position: relative;
   background: linear-gradient(160deg, #4a9c8c 0%, #3d8576 38%, #2e7d6b 72%, #266a5a 100%);
   border-radius: var(--radius-xl);
-  padding: var(--space-2xl) var(--space-xl) var(--space-xl);
+  padding: var(--space-xl) var(--space-xl) var(--space-lg);
   color: #fff;
   box-shadow: var(--shadow-lg), 0 0 60px rgba(74, 156, 140, 0.15);
   overflow: hidden;
@@ -2375,13 +2473,13 @@ mark,
   position: absolute;
   left: 0; top: 0; bottom: 0;
   width: 4px;
-  background: var(--card-accent);
-  opacity: 0.9;
+  background: var(--color-primary);
+  opacity: 0.85;
 }
 .home-card:active {
   transform: scale(0.98);
   box-shadow: var(--shadow-md);
-  border-color: var(--card-accent);
+  border-color: var(--color-primary);
 }
 .home-card-icon {
   width: 46px;
@@ -2392,6 +2490,8 @@ mark,
   align-items: center;
   justify-content: center;
   font-size: 1.4rem;
+  background: var(--color-primary-gradient);
+  color: #fff;
   box-shadow: var(--shadow-sm);
 }
 .home-card-body {
@@ -2406,21 +2506,10 @@ mark,
   font-weight: 600;
   color: var(--color-text-primary);
 }
-.home-card-desc {
-  font-size: var(--font-size-xs);
-  color: var(--color-text-hint);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
 .home-card-count {
   font-size: var(--font-size-xs);
-  font-weight: 600;
-  color: var(--color-text-secondary);
-  background: var(--color-surface-warm);
-  padding: 3px 10px;
-  border-radius: var(--radius-full);
-  flex-shrink: 0;
+  color: var(--color-text-hint);
+  margin-top: 1px;
 }
 
 .home-recent {
@@ -2498,7 +2587,6 @@ mark,
     background: var(--color-surface);
     border-color: var(--color-border);
   }
-  .home-card-count,
   .home-recent-type {
     background: var(--color-surface-warm);
   }
@@ -2509,4 +2597,95 @@ mark,
   .empty-icon {
     opacity: 0.7;
   }
+}
+
+/* ============================================================
+   列表项 · 按实体类型着色（左侧色条区分六类实体）
+   ============================================================ */
+.list-item::after {
+  background: var(--bar-color, var(--color-primary));
+}
+.list-item.syndrome  { --bar-color: var(--color-syndrome); }
+.list-item.formula   { --bar-color: var(--color-formula); }
+.list-item.medicine  { --bar-color: var(--color-medicine); }
+.list-item.acupoint  { --bar-color: var(--color-acupoint); }
+.list-item.needle    { --bar-color: var(--color-needle); }
+.list-item.acu-presc { --bar-color: var(--color-needle); }
+.list-item.treatment { --bar-color: var(--color-treatment); }
+.list-item.effect    { --bar-color: var(--color-effect); }
+.list-item.meridian  { --bar-color: var(--color-meridian); }
+.list-item.mapping   { --bar-color: var(--color-mapping); }
+
+/* 详情头部行（替代散落的 inline flex 布局） */
+.detail-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-md);
+}
+.detail-header-row .detail-header {
+  flex: 1;
+  min-width: 0;
+}
+
+/* ===== 经络介绍卡（消除散落 inline） ===== */
+.meridian-intro-card {
+  margin-bottom: var(--space-lg);
+  border-color: var(--color-primary);
+}
+.meridian-intro-card .card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.meridian-title {
+  margin: 0;
+  font-size: 1.15rem;
+  color: var(--color-primary);
+}
+.meridian-pinyin {
+  margin: 4px 0 0;
+  font-size: 0.9rem;
+  color: var(--color-text-hint);
+}
+.meridian-meta-row {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.meridian-meta-tag.category   { background: var(--color-primary-bg); color: var(--color-success); }
+.meridian-meta-tag.subcategory{ background: var(--color-info-bg); color: var(--color-info-dark); }
+.meridian-meta-tag.yinyang    { background: var(--color-acupoint-bg); color: var(--color-acupoint); }
+.meridian-meta-tag.element    { background: var(--color-warning-bg); color: var(--color-warning); }
+.meridian-section {
+  margin-top: var(--space-lg);
+}
+.meridian-section-label {
+  font-size: 0.92rem;
+  color: var(--color-text-secondary);
+  font-weight: 600;
+}
+.meridian-path-box {
+  font-size: 0.9rem;
+  color: var(--color-text-secondary);
+  line-height: 1.85;
+  margin-top: 4px;
+  padding: 12px;
+  background: var(--color-surface-warm);
+  border-radius: 10px;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+.meridian-tags {
+  margin-top: 6px;
+}
+.meridian-point-tag {
+  font-size: 0.88rem;
+}
+.meridian-point-code {
+  font-size: 0.78rem;
+  margin-left: 3px;
+  opacity: 0.7;
 }
