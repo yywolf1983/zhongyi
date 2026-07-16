@@ -13,6 +13,7 @@ import SearchModule from '../components/search/SearchModule'
 import KnowledgeGraph from '../components/knowledge/KnowledgeGraph'
 import ModernMapping from '../components/knowledge/ModernMapping'
 import BookmarksModule from '../components/bookmarks/BookmarksModule'
+import Home from '../components/common/Home'
 
 // 路由变化自动滚动到顶部
 function ScrollToTop() {
@@ -211,7 +212,7 @@ export default function App() {
       <AppProvider>
         <ScrollToTop />
         <Routes>
-          <Route element={<Layout><SyndromeModule /></Layout>} path="/" />
+          <Route element={<Layout><Home /></Layout>} path="/" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes/:syndromeId" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture" />
@@ -225,7 +226,7 @@ export default function App() {
           <Route element={<Layout><KnowledgeGraph /></Layout>} path="/knowledge-graph/:entityType/:entityId" />
           <Route element={<Layout><ModernMapping /></Layout>} path="/modern-mapping" />
           <Route element={<Layout><BookmarksModule /></Layout>} path="/bookmarks" />
-          <Route element={<Layout><SyndromeModule /></Layout>} path="*" />
+          <Route element={<Layout><Home /></Layout>} path="*" />
         </Routes>
       </AppProvider>
     </BrowserRouter>
