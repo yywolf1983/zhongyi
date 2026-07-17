@@ -22,7 +22,7 @@
 | 路由 | React Router 6 |
 | 原生桥接 | Capacitor 8（`@capacitor/android`、`@capacitor/app`、`@capacitor/status-bar`） |
 | 样式 | 原生 CSS + CSS 变量设计令牌（支持暗色模式） |
-| 数据 | 本地 JSON（`assets/data/`） |
+| 数据 | SQLite 数据库（`db/zhongyi.db`，端侧由 `sql.js` 加载 `public/zhongyi.db`） |
 
 ## 目录结构
 
@@ -32,8 +32,13 @@ zhongyi/
 ├── vite.config.js          # Vite 配置（base './'，@ -> /src 别名）
 ├── capacitor.config.json   # Capacitor 配置（appId: com.zhongyi.app）
 ├── android/                # Capacitor 生成的 Android 原生工程
+├── db/
+│   └── zhongyi.db          # 开发用 SQLite 数据库（业务数据单一来源）
+├── public/
+│   ├── zhongyi.db          # 运行用 SQLite 数据库（DataManager 经 sql.js 加载）
+│   └── sql-wasm.wasm       # sql.js WebAssembly 运行时
 ├── assets/
-│   └── data/               # 业务数据 JSON（证型/方剂/中药/穴位/经络/针方/对照等）
+│   └── data_backup/        # 由 SQLite 反向导出的 JSON 备份（仅供留档/审阅）
 ├── src/
 │   ├── main.jsx            # React 渲染入口
 │   ├── index.css           # 全局样式与设计令牌（含暗色模式）
@@ -116,7 +121,9 @@ npx cap open android
 
 ## 数据说明
 
-业务数据存放于 `assets/data/` 下的 JSON 文件（如 `syndromes.json`、`formulas.json`、`medicines.json`、`acupoints.json`、`needle_prescriptions.json`、`modern_mapping.json` 等），由 `src/services/DataManager` 在应用启动时加载。修改数据后重新构建即可生效。
+业务数据统一存放在 **SQLite 数据库** `db/zhongyi.db`（开发副本）与 `public/zhongyi.db`（应用运行副本，二者应保持同步）。应用启动时，`src/services/DataManager` 通过 `sql.js`（`public/sql-wasm.wasm`）在浏览器端加载 `public/zhongyi.db`，并将扁平表（含 `{表}_{字段}` 子表）物化为嵌套对象供各模块使用。
+
+修改数据请直接操作 `db/zhongyi.db`，再同步到 `public/zhongyi.db` 并重新构建；如需 JSON 审阅/留档，可运行 `scripts/export_json_backup.py` 反向导出至 `assets/data_backup/`。数据质量与一致性检查见 `scripts/`（`analyze_data.py`、`check_sqlite.py`、`clean_data.py`）。
 
 ## 许可证
 

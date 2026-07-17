@@ -1,12 +1,4 @@
-import syndromesData from '../../assets/data/syndromes.json'
-import medicinesData from '../../assets/data/medicines.json'
-import acupointsData from '../../assets/data/acupoints.json'
-import formulasData from '../../assets/data/formulas.json'
-import needlePrescriptionsData from '../../assets/data/needle_prescriptions.json'
-import treatmentsData from '../../assets/data/treatments.json'
-import meridiansData from '../../assets/data/meridians.json'
-import effectsData from '../../assets/data/effects.json'
-import modernMappingData from '../../assets/data/modern_mapping.json'
+import initSqlJs from 'sql.js'
 
 export const DATA_TYPES = {
   SYNDROMES: 'syndromes',
@@ -20,24 +12,100 @@ export const DATA_TYPES = {
   MODERN_MAPPING: 'modern_mapping'
 }
 
-// ============================================================
-// 数据源映射 & 校验
-// ============================================================
-const DATA_SOURCES = {
-  [DATA_TYPES.SYNDROMES]: syndromesData,
-  [DATA_TYPES.MEDICINES]: medicinesData,
-  [DATA_TYPES.ACUPOINTS]: acupointsData,
-  [DATA_TYPES.FORMULAS]: formulasData,
-  [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: needlePrescriptionsData,
-  [DATA_TYPES.TREATMENTS]: treatmentsData,
-  [DATA_TYPES.MERIDIANS]: meridiansData,
-  [DATA_TYPES.EFFECTS]: effectsData,
-  [DATA_TYPES.MODERN_MAPPING]: modernMappingData
+// SQLite 文件与 wasm 位置（放在 public/ 下，构建后位于应用根目录）
+const DB_PATH = './zhongyi.db'
+const WASM_PATH = './sql-wasm.wasm'
+
+// 数据库表名（与 import_to_sqlite.py 中的 FILES 一致）
+const TABLE_OF = {
+  [DATA_TYPES.SYNDROMES]: 'syndromes',
+  [DATA_TYPES.MEDICINES]: 'medicines',
+  [DATA_TYPES.ACUPOINTS]: 'acupoints',
+  [DATA_TYPES.FORMULAS]: 'formulas',
+  [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: 'needle_prescriptions',
+  [DATA_TYPES.TREATMENTS]: 'treatments',
+  [DATA_TYPES.MERIDIANS]: 'meridians',
+  [DATA_TYPES.EFFECTS]: 'effects',
+  [DATA_TYPES.MODERN_MAPPING]: 'modern_mapping'
 }
 
+// 每个表的 list 字段（在 SQLite 中被拆成 `${table}_${field}` 子表），物化时重新组装回数组
+const LIST_FIELDS = {
+  syndromes: ['category', 'classic_excerpts', 'classification', 'comparison', 'diagnosis_points', 'modern_medicine', 'related_effects', 'related_formulas', 'related_needle', 'related_treatments'],
+  medicines: ['classic_excerpts', 'contraindications', 'effect_ids', 'effects', 'flavor', 'indications', 'meridian', 'meridian_ids', 'usage'],
+  acupoints: ['classic_excerpts', 'indications'],
+  formulas: ['classic_excerpts', 'comparison', 'effect_ids', 'effects', 'indications', 'ingredients', 'modern_applications', 'related_syndromes', 'syndrome_ids'],
+  needle_prescriptions: ['acupoints', 'classic_excerpts', 'effects', 'indications', 'modern_applications', 'related_syndromes'],
+  treatments: ['classic_excerpts', 'indications', 'methods', 'related_formulas', 'related_needle', 'related_syndromes'],
+  meridians: ['indications', 'main_points', 'related_acupoints', 'related_syndromes'],
+  effects: ['indications', 'related_formulas', 'related_medicines', 'related_syndromes'],
+  modern_mapping: ['comparison'],
+}
+
+// ============================================================
+// SQLite 加载 & 物化
+// ============================================================
+let _sql = null
+let _db = null
+
+async function ensureDb() {
+  if (_db) return _db
+  _sql = await initSqlJs({ locateFile: () => WASM_PATH })
+  const resp = await fetch(DB_PATH)
+  if (!resp.ok) throw new Error(`无法加载数据库文件: ${DB_PATH} (HTTP ${resp.status})`)
+  const buf = await resp.arrayBuffer()
+  _db = new _sql.Database(new Uint8Array(buf))
+  return _db
+}
+
+function asRows(db, sql) {
+  const res = db.exec(sql)
+  if (!res.length) return []
+  const { columns, values } = res[0]
+  return values.map(v => {
+    const o = {}
+    columns.forEach((c, i) => { o[c] = v[i] })
+    return o
+  })
+}
+
+// 把 SQLite 主表 + 子表重新组装成与原 JSON 完全等价的嵌套对象数组
+function hydrate(db, table) {
+  const listFields = LIST_FIELDS[table] || []
+  const rows = asRows(db, `SELECT * FROM "${table}"`)
+  if (!listFields.length) return rows
+  const child = {}
+  for (const f of listFields) {
+    const crows = asRows(db, `SELECT * FROM "${table}_${f}"`)
+    const byParent = {}
+    for (const r of crows) {
+      ;(byParent[r.parent_id] = byParent[r.parent_id] || []).push(r)
+    }
+    child[f] = byParent
+  }
+  return rows.map(row => {
+    const obj = { ...row }
+    for (const f of listFields) {
+      const arr = child[f][row.id] || []
+      if (arr.length && 'value' in arr[0]) {
+        obj[f] = arr.map(r => r.value)
+      } else {
+        obj[f] = arr.map(r => {
+          const { parent_id, ...rest } = r
+          return rest
+        })
+      }
+    }
+    return obj
+  })
+}
+
+// ============================================================
 // 运行时状态：loading / ready / error
+// ============================================================
 let _state = 'loading'
 let _errorMsg = ''
+let _dataStore = {}
 const _listeners = []
 
 function _setState(state, errorMsg) {
@@ -57,7 +125,6 @@ function _validateDataset(type, data) {
     errors.push(`${type}: 数据集为空`)
     return errors
   }
-  // 检查必要字段
   const requiredFields = {
     [DATA_TYPES.SYNDROMES]: ['id', 'name'],
     [DATA_TYPES.MEDICINES]: ['id', 'name'],
@@ -94,11 +161,6 @@ function _validateDataset(type, data) {
   return errors
 }
 
-const dataStore = { ...DATA_SOURCES }
-
-// ============================================================
-// DataManager
-// ============================================================
 export class DataManager {
   // ---- 状态查询 ----
   static get state() { return _state }
@@ -109,9 +171,8 @@ export class DataManager {
   /** 订阅状态变化 */
   static onStateChange(fn) {
     _listeners.push(fn)
-    // 如果已经 ready，立即回调
     if (_state === 'ready') {
-      try { fn('ready', '') } catch {}
+      try { fn('ready', _errorMsg) } catch {}
     }
     return () => {
       const idx = _listeners.indexOf(fn)
@@ -119,95 +180,54 @@ export class DataManager {
     }
   }
 
-  // ---- 初始化 ----
-  static init() {
+  // ---- 初始化（异步：从 SQLite 物化所有数据到内存） ----
+  static async init() {
     if (_state === 'ready') return { ok: true }
 
-    const allErrors = []
-    for (const [type, data] of Object.entries(DATA_SOURCES)) {
-      try {
-        const errs = _validateDataset(type, data)
-        if (errs.length > 0) {
-          allErrors.push(...errs)
-          // 错误的数据集用空数组兜底
-          if (!Array.isArray(data)) {
-            dataStore[type] = []
-          }
-        }
-      } catch (e) {
-        allErrors.push(`${type}: 校验异常 - ${e.message}`)
-      }
-    }
-
-    // 校验跨实体引用
+    _setState('loading')
     try {
-      const allIds = {}
-      for (const [type, data] of Object.entries(dataStore)) {
-        if (Array.isArray(data)) {
-          for (const item of data) {
-            if (item.id) allIds[item.id] = true
-          }
-        }
+      const db = await ensureDb()
+      const store = {}
+      for (const type of Object.values(DATA_TYPES)) {
+        store[type] = hydrate(db, TABLE_OF[type])
       }
-      const refFields = [
-        'related_formulas', 'related_needle', 'related_treatments', 'related_effects',
-        'related_syndromes', 'related_acupoints', 'related_medicines', 'related_meridians',
-        'related_acupoint', 'related_medicine', 'related_formula', 'related_syndrome',
-        'medicine_id', 'acupoint_id', 'meridian_id'
-      ]
-      let brokenRefs = 0
-      for (const [type, data] of Object.entries(dataStore)) {
-        if (!Array.isArray(data)) continue
-        for (const item of data) {
-          for (const field of refFields) {
-            const values = item[field]
-            if (values == null) continue
-            const list = Array.isArray(values) ? values : [values]
-            for (const refId of list) {
-              if (refId && !allIds[refId]) {
-                brokenRefs++
-                if (brokenRefs <= 3) {
-                  allErrors.push(`${item.id || '?'}.${field} → 无效引用: ${refId}`)
-                }
-              }
-            }
-          }
-        }
+
+      const allErrors = []
+      for (const [type, data] of Object.entries(store)) {
+        const errs = _validateDataset(type, data)
+        if (errs.length > 0) allErrors.push(...errs)
       }
-      if (brokenRefs > 3) allErrors.push(`... 共 ${brokenRefs} 处无效引用`)
+
+      // 合并 localStorage 中的自定义数据（仅叠加，不覆盖 SQLite 数据）
+      for (const type of Object.values(DATA_TYPES)) {
+        try { this._safeLoad(type, store) } catch {}
+      }
+
+      _dataStore = store
+
+      if (allErrors.length > 0) {
+        console.warn('[DataManager] 数据校验发现问题:', allErrors)
+        _setState('ready', allErrors.join('; '))
+        return { ok: false, errors: allErrors }
+      }
+      _setState('ready', '')
+      return { ok: true }
     } catch (e) {
-      allErrors.push(`跨实体引用检查异常: ${e.message}`)
+      console.error('[DataManager] 初始化失败:', e)
+      _setState('error', e.message)
+      return { ok: false, errors: [e.message] }
     }
-
-    if (allErrors.length > 0) {
-      console.warn('[DataManager] 数据校验发现问题:', allErrors)
-    }
-
-    // 加载自定义数据（从 localStorage 合并，不覆盖原始数据）
-    for (const type of Object.keys(DATA_SOURCES)) {
-      try { this._safeLoad(type) } catch {}
-    }
-
-    if (allErrors.length > 0) {
-      // 不阻塞启动，降级运行
-      _setState('ready', allErrors.join('; '))
-      return { ok: false, errors: allErrors }
-    }
-
-    _setState('ready', '')
-    return { ok: true }
   }
 
   // ---- 数据访问 ----
   static getAll(type) {
-    // 惰性初始化：首次访问时自动 init
-    if (_state === 'loading') this.init()
-    return dataStore[type] || []
+    if (_state === 'loading' && Object.keys(_dataStore).length === 0) this.init()
+    return _dataStore[type] || []
   }
 
   static getById(type, id) {
-    if (_state === 'loading') this.init()
-    const data = dataStore[type] || []
+    if (_state === 'loading' && Object.keys(_dataStore).length === 0) this.init()
+    const data = _dataStore[type] || []
     return data.find(item => item.id === id)
   }
 
@@ -215,7 +235,7 @@ export class DataManager {
     if (!keyword.trim()) {
       return this.getAll(type)
     }
-    const data = dataStore[type] || []
+    const data = _dataStore[type] || []
     const lowerKeyword = keyword.toLowerCase()
     return data.filter(item => {
       const searchFields = this.getSearchFields(type)
@@ -237,7 +257,7 @@ export class DataManager {
       return this.getAll(type)
     }
 
-    const data = dataStore[type] || []
+    const data = _dataStore[type] || []
     const searchKeyword = caseSensitive ? keyword : keyword.toLowerCase()
 
     return data.filter(item => {
@@ -245,7 +265,7 @@ export class DataManager {
         const value = this.getValueByPath(item, field)
         if (!value) return false
         const strValue = caseSensitive ? String(value) : String(value).toLowerCase()
-        
+
         switch (matchMode) {
           case 'startsWith':
             return strValue.startsWith(searchKeyword)
@@ -264,7 +284,7 @@ export class DataManager {
       [DATA_TYPES.SYNDROMES]: ['name', 'pinyin', 'diagnosis_points', 'indications', 'pathogenesis', 'etiology', 'modern_medicine', 'comparison[].tcm', 'comparison[].western'],
       [DATA_TYPES.MEDICINES]: ['name', 'pinyin', 'latin_name', 'effects', 'indications'],
       [DATA_TYPES.ACUPOINTS]: ['name', 'pinyin', 'code', 'location', 'indications', 'meridian'],
-      [DATA_TYPES.FORMULAS]: ['name', 'pinyin', 'source', 'composition[].name', 'indications'],
+      [DATA_TYPES.FORMULAS]: ['name', 'pinyin', 'source', 'ingredients[].name', 'indications'],
       [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: ['name', 'pinyin', 'subcategory', 'syndrome', 'acupoints[].name', 'indications', 'effects'],
       [DATA_TYPES.TREATMENTS]: ['name', 'category', 'indications'],
       [DATA_TYPES.MERIDIANS]: ['name', 'pinyin', 'main_points'],
@@ -280,13 +300,11 @@ export class DataManager {
     let value = obj
     for (let i = 0; i < parts.length; i++) {
       const part = parts[i]
-      // Match array[index] like 'composition[0]'
       const indexMatch = part.match(/^(\w+)\[(\d+)\]$/)
       if (indexMatch) {
         const [, key, index] = indexMatch
         value = value?.[key]?.[parseInt(index)]
       } else if (part.endsWith('[]')) {
-        // Match array of objects: like 'comparison[]' → iterate all items
         const key = part.slice(0, -2)
         const arr = value?.[key]
         if (!Array.isArray(arr) || arr.length === 0) return null
@@ -308,7 +326,7 @@ export class DataManager {
   }
 
   static add(type, data) {
-    const store = dataStore[type]
+    const store = _dataStore[type]
     if (!Array.isArray(store)) return null
     const newId = this.generateId(type)
     const newItem = { id: newId, ...data }
@@ -318,7 +336,7 @@ export class DataManager {
   }
 
   static update(type, id, data) {
-    const store = dataStore[type]
+    const store = _dataStore[type]
     if (!Array.isArray(store)) return null
     const index = store.findIndex(item => item.id === id)
     if (index !== -1) {
@@ -330,7 +348,7 @@ export class DataManager {
   }
 
   static delete(type, id) {
-    const store = dataStore[type]
+    const store = _dataStore[type]
     if (!Array.isArray(store)) return null
     const index = store.findIndex(item => item.id === id)
     if (index !== -1) {
@@ -344,7 +362,7 @@ export class DataManager {
   /** 安全写入 localStorage，失败时仅 warn 不抛异常 */
   static _safeSave(type) {
     try {
-      const str = JSON.stringify(dataStore[type])
+      const str = JSON.stringify(_dataStore[type])
       if (str && str.length > 0) {
         localStorage.setItem(`custom_${type}`, str)
       }
@@ -358,19 +376,17 @@ export class DataManager {
   }
 
   /** 安全加载自定义数据，只叠加不覆盖 */
-  static _safeLoad(type) {
+  static _safeLoad(type, store) {
     try {
       const raw = localStorage.getItem(`custom_${type}`)
       if (!raw) return
       const parsed = JSON.parse(raw)
       if (!Array.isArray(parsed) || parsed.length === 0) return
-      const source = DATA_SOURCES[type]
-      const sourceIds = new Set((Array.isArray(source) ? source : []).map(item => item.id))
-      // 只合并 source 中不存在的自定义条目
+      const sourceIds = new Set((Array.isArray(store[type]) ? store[type] : []).map(item => item.id))
       let added = 0
       for (const item of parsed) {
         if (item.id && !sourceIds.has(item.id)) {
-          dataStore[type].push(item)
+          store[type].push(item)
           added++
         }
       }
@@ -383,11 +399,9 @@ export class DataManager {
     }
   }
 
-  /** 重新初始化：清空自定义数据，回到原始状态 */
-  static reload() {
-    for (const type of Object.keys(DATA_SOURCES)) {
-      dataStore[type] = [...DATA_SOURCES[type]]
-    }
+  /** 重新初始化：从 SQLite 重新物化，回到原始状态 */
+  static async reload() {
+    _dataStore = {}
     _state = 'loading'
     _errorMsg = ''
     return this.init()
@@ -406,7 +420,7 @@ export class DataManager {
       [DATA_TYPES.MODERN_MAPPING]: 'mapping'
     }
     const prefix = prefixMap[type] || 'item'
-    const maxId = dataStore[type]?.reduce((max, item) => {
+    const maxId = _dataStore[type]?.reduce((max, item) => {
       const match = item.id.match(/\d+/)
       return match ? Math.max(max, parseInt(match[0])) : max
     }, 0) || 0
@@ -415,13 +429,13 @@ export class DataManager {
 
   /** @deprecated 使用 _safeSave */
   static saveToLocalStorage(type, data) {
-    dataStore[type] = data
+    _dataStore[type] = data
     this._safeSave(type)
   }
 
   /** @deprecated 使用 _safeLoad（init 时自动调用） */
   static loadFromLocalStorage(type) {
-    return this._safeLoad(type)
+    return this._safeLoad(type, _dataStore)
   }
 
   static getTypes() {

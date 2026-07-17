@@ -42,7 +42,7 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │                          数据层                                      │
 ├─────────────────────────────────────────────────────────────────────┤
-│         JSON文件存储（assets/data/*.json）                           │
+│    SQLite 数据库（db/zhongyi.db，端侧 sql.js 加载 public/zhongyi.db）  │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -617,10 +617,10 @@ class SearchService {
 - 支持数据导出/导入
 
 **实现方式：**
-- 默认数据存储在`assets/data/`目录下的JSON文件中（只读）
-- 用户新增数据存储在浏览器localStorage中（Web端）或SQLite数据库中（Android端）
-- DataManager优先加载默认数据，再合并用户数据
-- 支持将用户数据导出为JSON文件，也支持导入JSON文件
+- 默认数据统一存储在 SQLite 数据库 `db/zhongyi.db`（开发）/ `public/zhongyi.db`（运行），由 `DataManager` 经 `sql.js` 在端侧加载（只读）
+- 用户新增数据存储在浏览器 localStorage 中（Web 端）或 SQLite 数据库中（Android 端）
+- DataManager 优先加载默认数据，再合并用户数据
+- 支持将用户数据导出为 JSON 文件，也支持导入 JSON 文件
 
 ### 6.2 跨平台架构
 

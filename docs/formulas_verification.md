@@ -1,6 +1,8 @@
 # 方剂数据逐条查证报告
 
-> 本报告由 AI 依据公认中医经典逐一核对 `assets/data/formulas.json` 全部 386 首方剂生成。
+> ⚠️ 本报告为 **JSON 时代**对 386 首方剂的逐条查证快照；数据已迁移至 SQLite，当前 `formulas` 表共 490 首。结论仅反映当时数据状态，验证方法论见 [formulas_verification_method.md](./formulas_verification_method.md)。
+
+> 本报告由 AI 依据公认中医经典逐一核对 `assets/data/formulas.json` 全部 386 首方剂生成（JSON 时代快照）。
 > 查证方法论与字段 schema 见 [formulas_verification_method.md](./formulas_verification_method.md)。
 > 每首方剂的逐条结论同时记录在数据自身的 `verification` 字段中。
 

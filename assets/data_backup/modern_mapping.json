@@ -1,3992 +1,3971 @@
 [
   {
     "id": "mapping_001",
+    "category": "症状",
     "chinese_term": "恶寒发热",
     "modern_term": "畏寒伴体温升高 (Chills with Fever)",
-    "category": "症状",
+    "related_syndrome": "syndrome_001",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "外感风寒或风热之邪，正邪交争于肌表",
-        "western": "感染性疾病引起的体温调定点上移，机体骨骼肌收缩产热期",
-        "classic": "《针灸甲乙经》"
+        "western": "感染性疾病引起的体温调定点上移，机体骨骼肌收缩产热期"
       },
       {
         "aspect": "病理机制",
+        "classic": "《针灸甲乙经》",
         "tcm": "邪犯卫表，卫阳被郁，正气抗邪",
-        "western": "前列腺素E2作用于下丘脑体温调节中枢，引起寒战及血管收缩",
-        "classic": "《针灸甲乙经》"
+        "western": "前列腺素E2作用于下丘脑体温调节中枢，引起寒战及血管收缩"
       }
-    ],
-    "related_syndrome": "syndrome_001"
+    ]
   },
   {
     "id": "mapping_002",
+    "category": "症状",
     "chinese_term": "寒热往来",
     "modern_term": "间歇性发热/弛张热 (Intermittent Fever)",
-    "category": "症状",
+    "related_syndrome": "syndrome_020",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "邪入少阳，正邪分争于半表半里",
-        "western": "病原体周期性释放入血（疟原虫）或局部感染周期性发作（胆道感染）",
-        "classic": "《伤寒论》"
+        "western": "病原体周期性释放入血（疟原虫）或局部感染周期性发作（胆道感染）"
       },
       {
         "aspect": "病理机制",
+        "classic": "《伤寒论》",
         "tcm": "少阳气机郁滞，枢机不利",
-        "western": "病原体生命周期导致周期性免疫反应和体温波动",
-        "classic": "《伤寒论》"
+        "western": "病原体生命周期导致周期性免疫反应和体温波动"
       }
-    ],
-    "related_syndrome": "syndrome_020"
+    ]
   },
   {
     "id": "mapping_003",
+    "category": "症状",
     "chinese_term": "日晡潮热",
     "modern_term": "午后高热/弛张热高峰 (Afternoon Fever Spike)",
-    "category": "症状",
+    "related_syndrome": "syndrome_019",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "阳明腑实，热结肠道",
-        "western": "严重腹腔感染、肠梗阻合并感染的体温高峰",
-        "classic": "《伤寒论》"
+        "western": "严重腹腔感染、肠梗阻合并感染的体温高峰"
       },
       {
         "aspect": "病理机制",
+        "classic": "《伤寒论》",
         "tcm": "燥屎内结，郁而化热，日晡（申时3-5pm）阳明经气旺",
-        "western": "人体皮质醇昼夜节律导致午后免疫反应强度变化",
-        "classic": "《伤寒论》"
+        "western": "人体皮质醇昼夜节律导致午后免疫反应强度变化"
       }
-    ],
-    "related_syndrome": "syndrome_019"
+    ]
   },
   {
     "id": "mapping_004",
+    "category": "症状",
     "chinese_term": "身热不扬",
     "modern_term": "低热不退/稽留热 (Persistent Low-grade Fever)",
-    "category": "症状",
+    "related_syndrome": "syndrome_007",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿热蕴蒸，湿遏热伏",
-        "western": "结核菌、慢性病原体、肿瘤等引起的持续性低度炎症",
-        "classic": "《金匮要略》"
+        "western": "结核菌、慢性病原体、肿瘤等引起的持续性低度炎症"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "湿热交蒸，热为湿遏，不得外透",
-        "western": "慢性炎症导致的持续性低度发热，炎症因子持续释放",
-        "classic": "《金匮要略》"
+        "western": "慢性炎症导致的持续性低度发热，炎症因子持续释放"
       }
-    ],
-    "related_syndrome": "syndrome_007"
+    ]
   },
   {
     "id": "mapping_005",
+    "category": "症状",
     "chinese_term": "五心烦热",
     "modern_term": "手足心及胸中发热感 (Palmar/Plantar/Chest Heat Sensation)",
-    "category": "症状",
+    "related_syndrome": "syndrome_009",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "阴虚内热，虚火上扰",
-        "western": "植物神经功能紊乱导致的末梢血管扩张",
-        "classic": "《金匮要略》"
+        "western": "植物神经功能紊乱导致的末梢血管扩张"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "阴液亏损，阴不制阳，虚热内生",
-        "western": "交感-副交感平衡失调，常见于更年期综合征、甲亢",
-        "classic": "《金匮要略》"
+        "western": "交感-副交感平衡失调，常见于更年期综合征、甲亢"
       }
-    ],
-    "related_syndrome": "syndrome_009"
+    ]
   },
   {
     "id": "mapping_006",
+    "category": "症状",
     "chinese_term": "自汗",
     "modern_term": "白天不活动即出汗 (Spontaneous Sweating)",
-    "category": "症状",
+    "related_syndrome": "syndrome_003",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "表虚卫气不固，腠理疏松",
-        "western": "自主神经功能失调导致汗腺过度分泌",
-        "classic": "《脾胃论》"
+        "western": "自主神经功能失调导致汗腺过度分泌"
       },
       {
         "aspect": "病理机制",
+        "classic": "《脾胃论》",
         "tcm": "肺气亏虚，卫外不固，津液外泄",
-        "western": "交感神经张力增高→胆碱能纤维过度激活→汗腺分泌亢进",
-        "classic": "《脾胃论》"
+        "western": "交感神经张力增高→胆碱能纤维过度激活→汗腺分泌亢进"
       }
-    ],
-    "related_syndrome": "syndrome_003"
+    ]
   },
   {
     "id": "mapping_007",
+    "category": "症状",
     "chinese_term": "盗汗",
     "modern_term": "夜间睡眠时出汗 (Night Sweats)",
-    "category": "症状",
+    "related_syndrome": "syndrome_009",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "阴虚内热，入睡后卫阳入里，虚热迫津外出",
-        "western": "结核病、淋巴瘤等消耗性疾病的夜间体温调节异常",
-        "classic": "《金匮要略》"
+        "western": "结核病、淋巴瘤等消耗性疾病的夜间体温调节异常"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "阳气入阴，虚热内生，迫津外泄",
-        "western": "褪黑素/皮质醇节律异常导致夜间体温调节失调",
-        "classic": "《金匮要略》"
+        "western": "褪黑素/皮质醇节律异常导致夜间体温调节失调"
       }
-    ],
-    "related_syndrome": "syndrome_009"
+    ]
   },
   {
     "id": "mapping_008",
+    "category": "症状",
     "chinese_term": "头痛如裹",
     "modern_term": "压迫性头痛/紧张性头痛 (Tension-type Headache)",
-    "category": "症状",
+    "related_syndrome": "syndrome_033",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿邪困阻清阳，清窍被蒙",
-        "western": "颅周肌肉持续收缩，肌筋膜触发点形成",
-        "classic": "《金匮要略》"
+        "western": "颅周肌肉持续收缩，肌筋膜触发点形成"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "清阳不升，浊阴不降，湿浊上蒙",
-        "western": "颅周肌肉缺血+致痛物质释放→中枢敏化",
-        "classic": "《金匮要略》"
+        "western": "颅周肌肉缺血+致痛物质释放→中枢敏化"
       }
-    ],
-    "related_syndrome": "syndrome_033"
+    ]
   },
   {
     "id": "mapping_009",
+    "category": "症状",
     "chinese_term": "刺痛固定不移",
     "modern_term": "固定性锐痛/神经卡压性疼痛 (Fixed Sharp Pain)",
-    "category": "症状",
+    "related_syndrome": "syndrome_008",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "瘀血内停，经络阻滞",
-        "western": "局部组织缺血、神经卡压、代谢产物堆积",
-        "classic": "《金匮要略》"
+        "western": "局部组织缺血、神经卡压、代谢产物堆积"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "血行不畅，离经之血停积",
-        "western": "微循环障碍、血小板聚集、炎症介质释放",
-        "classic": "《金匮要略》"
+        "western": "微循环障碍、血小板聚集、炎症介质释放"
       }
-    ],
-    "related_syndrome": "syndrome_008"
+    ]
   },
   {
     "id": "mapping_010",
+    "category": "症状",
     "chinese_term": "胀痛走窜",
     "modern_term": "游走性胀痛/功能性疼痛 (Migratory Distending Pain)",
-    "category": "症状",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气机郁滞，气行不畅",
-        "western": "平滑肌痉挛、胃肠蠕动异常",
-        "classic": "《金匮要略》"
+        "western": "平滑肌痉挛、胃肠蠕动异常"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肝气郁结，气滞不通则痛",
-        "western": "平滑肌异常收缩导致管腔压力增高",
-        "classic": "《金匮要略》"
+        "western": "平滑肌异常收缩导致管腔压力增高"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_011",
+    "category": "症状",
     "chinese_term": "冷痛得热则减",
     "modern_term": "遇冷加重遇热缓解的冷痛 (Cold-aggravated Pain)",
-    "category": "症状",
+    "related_syndrome": "syndrome_028",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "寒邪凝滞，阳气被遏",
-        "western": "低温导致血管收缩、局部血流减少",
-        "classic": "《针灸甲乙经》"
+        "western": "低温导致血管收缩、局部血流减少"
       },
       {
         "aspect": "病理机制",
+        "classic": "《针灸甲乙经》",
         "tcm": "寒主收引，气血凝涩",
-        "western": "血管痉挛导致缺血性疼痛（雷诺综合征）",
-        "classic": "《针灸甲乙经》"
+        "western": "血管痉挛导致缺血性疼痛（雷诺综合征）"
       }
-    ],
-    "related_syndrome": "syndrome_028"
+    ]
   },
   {
     "id": "mapping_012",
+    "category": "症状",
     "chinese_term": "胸痛彻背",
     "modern_term": "放射至背部的胸痛 (Chest Pain Radiating to Back)",
-    "category": "症状",
+    "related_syndrome": "syndrome_029",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "胸阳不振，痰瘀痹阻",
-        "western": "心肌缺血导致的内脏牵涉痛",
-        "classic": "《金匮要略》"
+        "western": "心肌缺血导致的内脏牵涉痛"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "心脉痹阻，不通则痛",
-        "western": "冠脉狭窄导致心肌供氧不足，通过脊髓节段放射至背部",
-        "classic": "《金匮要略》"
+        "western": "冠脉狭窄导致心肌供氧不足，通过脊髓节段放射至背部"
       }
-    ],
-    "related_syndrome": "syndrome_029"
+    ]
   },
   {
     "id": "mapping_013",
+    "category": "症状",
     "chinese_term": "口苦咽干",
     "modern_term": "口苦口干 (Bitter Taste & Dry Throat)",
-    "category": "症状",
+    "related_syndrome": "syndrome_020",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "少阳胆火上炎，灼伤津液",
-        "western": "胆汁反流、口腔菌群失衡、唾液分泌减少",
-        "classic": "《伤寒论》"
+        "western": "胆汁反流、口腔菌群失衡、唾液分泌减少"
       },
       {
         "aspect": "病理机制",
+        "classic": "《伤寒论》",
         "tcm": "胆气上逆，胆汁味苦",
-        "western": "胆汁酸反流至口腔或药物副作用导致味觉异常",
-        "classic": "《伤寒论》"
+        "western": "胆汁酸反流至口腔或药物副作用导致味觉异常"
       }
-    ],
-    "related_syndrome": "syndrome_020"
+    ]
   },
   {
     "id": "mapping_014",
+    "category": "疾病",
     "chinese_term": "风寒感冒",
     "modern_term": "普通感冒 (Common Cold)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_001",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风寒之邪外束肌表，卫阳被郁",
-        "western": "鼻病毒(Rhinovirus)、冠状病毒(Coronavirus)等上呼吸道病毒感染",
-        "classic": "《针灸甲乙经》"
+        "western": "鼻病毒(Rhinovirus)、冠状病毒(Coronavirus)等上呼吸道病毒感染"
       },
       {
         "aspect": "病理",
+        "classic": "《针灸甲乙经》",
         "tcm": "风寒束表，肺气失宣，腠理闭塞",
-        "western": "病毒侵入上呼吸道黏膜上皮细胞，引发局部炎症反应",
-        "classic": "《针灸甲乙经》"
+        "western": "病毒侵入上呼吸道黏膜上皮细胞，引发局部炎症反应"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "恶寒重发热轻，无汗，头痛身痛，鼻塞流清涕",
-        "western": "畏寒、低热(<38.5℃)、肌痛、鼻塞、水样鼻涕",
-        "classic": "《针灸甲乙经》"
+        "western": "畏寒、低热(<38.5℃)、肌痛、鼻塞、水样鼻涕"
       }
-    ],
-    "related_syndrome": "syndrome_001"
+    ]
   },
   {
     "id": "mapping_015",
+    "category": "疾病",
     "chinese_term": "风热感冒",
     "modern_term": "流感/急性咽喉炎 (Influenza / Acute Pharyngitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_002",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "风热之邪侵袭肺卫",
-        "western": "流感病毒(Influenza virus)、腺病毒等感染",
-        "classic": "《伤寒论》"
+        "western": "流感病毒(Influenza virus)、腺病毒等感染"
       },
       {
         "aspect": "病理",
+        "classic": "《伤寒论》",
         "tcm": "风热上受，首先犯肺，热邪内郁",
-        "western": "病毒引起强烈免疫应答，释放大量炎症因子",
-        "classic": "《伤寒论》"
+        "western": "病毒引起强烈免疫应答，释放大量炎症因子"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "发热重恶寒轻，汗出，咽红肿痛，黄涕黄痰",
-        "western": "高热(>39℃)、咽痛充血、脓涕、全身肌痛",
-        "classic": "《伤寒论》"
+        "western": "高热(>39℃)、咽痛充血、脓涕、全身肌痛"
       }
-    ],
-    "related_syndrome": "syndrome_002"
+    ]
   },
   {
     "id": "mapping_016",
+    "category": "疾病",
     "chinese_term": "脾胃虚弱",
     "modern_term": "功能性消化不良 (Functional Dyspepsia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_003",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "饮食不节、劳倦过度、思虑伤脾",
-        "western": "胃肠动力障碍、内脏高敏感性、精神心理因素",
-        "classic": "《脾胃论》"
+        "western": "胃肠动力障碍、内脏高敏感性、精神心理因素"
       },
       {
         "aspect": "病理",
+        "classic": "《脾胃论》",
         "tcm": "脾气虚弱，运化失职，升降失常",
-        "western": "胃排空延迟、胃容受性舒张障碍、十二指肠炎症",
-        "classic": "《脾胃论》"
+        "western": "胃排空延迟、胃容受性舒张障碍、十二指肠炎症"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "食少腹胀、便溏、倦怠乏力、面色萎黄",
-        "western": "餐后饱胀、早饱、上腹痛/烧灼感、恶心",
-        "classic": "《脾胃论》"
+        "western": "餐后饱胀、早饱、上腹痛/烧灼感、恶心"
       }
-    ],
-    "related_syndrome": "syndrome_003"
+    ]
   },
   {
     "id": "mapping_017",
+    "category": "疾病",
     "chinese_term": "肝郁气滞",
     "modern_term": "焦虑/躯体化障碍 (Anxiety / Somatization Disorder)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "情志抑郁、怒伤肝、气机郁滞",
-        "western": "慢性应激、神经递质失衡（5-HT、NE）、心理社会因素",
-        "classic": "《金匮要略》"
+        "western": "慢性应激、神经递质失衡（5-HT、NE）、心理社会因素"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "肝失疏泄，气机郁结，横逆犯脾",
-        "western": "HPA轴过度激活、自主神经功能紊乱、内脏高敏",
-        "classic": "《金匮要略》"
+        "western": "HPA轴过度激活、自主神经功能紊乱、内脏高敏"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "胸胁胀痛、善太息、烦躁易怒、月经不调",
-        "western": "胸闷心悸、过度换气、肠易激、经前期综合征",
-        "classic": "《金匮要略》"
+        "western": "胸闷心悸、过度换气、肠易激、经前期综合征"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_018",
+    "category": "疾病",
     "chinese_term": "肾阳虚",
     "modern_term": "肾上腺皮质功能减退/性腺功能低下 (Adrenal/Gonadal Insufficiency)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_005",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "先天不足、房劳过度、久病伤阳",
-        "western": "肾上腺皮质功能减退、性腺功能低下（睾酮下降）",
-        "classic": "《金匮要略》"
+        "western": "肾上腺皮质功能减退、性腺功能低下（睾酮下降）"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "肾阳不足，温煦失职，气化无权",
-        "western": "皮质醇/醛固酮分泌不足致代谢率下降；雄激素下降",
-        "classic": "《金匮要略》"
+        "western": "皮质醇/醛固酮分泌不足致代谢率下降；雄激素下降"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "畏寒肢冷、腰膝酸软、夜尿多、阳痿早泄",
-        "western": "怕冷、乏力、低血压、性欲减退、夜尿增多",
-        "classic": "《金匮要略》"
+        "western": "怕冷、乏力、低血压、性欲减退、夜尿增多"
       }
-    ],
-    "related_syndrome": "syndrome_005"
+    ]
   },
   {
     "id": "mapping_019",
+    "category": "疾病",
     "chinese_term": "阴虚火旺",
     "modern_term": "更年期综合征/自主神经紊乱 (Menopausal Syndrome)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_009",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "阴液亏损，阴不制阳，虚火上炎",
-        "western": "雌激素水平急剧下降，下丘脑-垂体-卵巢轴失衡",
-        "classic": "《金匮要略》"
+        "western": "雌激素水平急剧下降，下丘脑-垂体-卵巢轴失衡"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "阴虚生内热，虚火扰动心神",
-        "western": "雌激素撤退导致血管舒缩不稳定、5-HT波动",
-        "classic": "《金匮要略》"
+        "western": "雌激素撤退导致血管舒缩不稳定、5-HT波动"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "潮热盗汗、五心烦热、口干咽燥、失眠多梦",
-        "western": "潮热(Hot Flashes)、夜间出汗、心悸、情绪波动",
-        "classic": "《金匮要略》"
+        "western": "潮热(Hot Flashes)、夜间出汗、心悸、情绪波动"
       }
-    ],
-    "related_syndrome": "syndrome_009"
+    ]
   },
   {
     "id": "mapping_020",
+    "category": "疾病",
     "chinese_term": "痰湿内阻",
     "modern_term": "代谢综合征 (Metabolic Syndrome)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_007",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "饮食不节、过食肥甘、脾失运化",
-        "western": "能量摄入过剩、缺乏运动、遗传因素",
-        "classic": "《金匮要略》"
+        "western": "能量摄入过剩、缺乏运动、遗传因素"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "脾虚生湿，湿聚成痰，痰湿困脾",
-        "western": "胰岛素抵抗、内脏脂肪堆积、慢性低度炎症",
-        "classic": "《金匮要略》"
+        "western": "胰岛素抵抗、内脏脂肪堆积、慢性低度炎症"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "形体肥胖、胸闷痰多、肢体困重、舌苔白腻",
-        "western": "腹型肥胖、高血压、高血糖、血脂异常",
-        "classic": "《金匮要略》"
+        "western": "腹型肥胖、高血压、高血糖、血脂异常"
       }
-    ],
-    "related_syndrome": "syndrome_007"
+    ]
   },
   {
     "id": "mapping_021",
+    "category": "疾病",
     "chinese_term": "血瘀证",
     "modern_term": "微循环障碍/高凝状态 (Microcirculatory Disorder/Hypercoagulability)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_008",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气滞、寒凝、气虚、外伤导致血行不畅",
-        "western": "血管内皮损伤、血液流变学异常、凝血功能亢进",
-        "classic": "《金匮要略》"
+        "western": "血管内皮损伤、血液流变学异常、凝血功能亢进"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "离经之血停积，脉道不利",
-        "western": "血小板聚集增多、纤维蛋白溶解减少、血液黏度增高",
-        "classic": "《金匮要略》"
+        "western": "血小板聚集增多、纤维蛋白溶解减少、血液黏度增高"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "舌紫暗瘀斑、肌肤甲错、脉涩、刺痛固定不移",
-        "western": "皮肤紫癜、微循环显微镜下血流缓慢停滞、局部缺血性疼痛",
-        "classic": "《金匮要略》"
+        "western": "皮肤紫癜、微循环显微镜下血流缓慢停滞、局部缺血性疼痛"
       }
-    ],
-    "related_syndrome": "syndrome_008"
+    ]
   },
   {
     "id": "mapping_022",
+    "category": "疾病",
     "chinese_term": "阳明腑实证",
     "modern_term": "肠梗阻/急性腹症 (Intestinal Obstruction/Acute Abdomen)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_019",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "热邪入里，与肠中糟粕相结",
-        "western": "机械性肠梗阻、麻痹性肠梗阻、腹腔感染",
-        "classic": "《伤寒论》"
+        "western": "机械性肠梗阻、麻痹性肠梗阻、腹腔感染"
       },
       {
         "aspect": "病理",
+        "classic": "《伤寒论》",
         "tcm": "阳明腑实，燥屎内结，气机不通",
-        "western": "肠管扩张、肠壁水肿、肠蠕动减弱或消失",
-        "classic": "《伤寒论》"
+        "western": "肠管扩张、肠壁水肿、肠蠕动减弱或消失"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "日晡潮热、大便秘结、腹胀满痛拒按、谵语",
-        "western": "腹痛腹胀、停止排气排便、呕吐、发热",
-        "classic": "《伤寒论》"
+        "western": "腹痛腹胀、停止排气排便、呕吐、发热"
       }
-    ],
-    "related_syndrome": "syndrome_019"
+    ]
   },
   {
     "id": "mapping_023",
+    "category": "疾病",
     "chinese_term": "黄疸",
     "modern_term": "黄疸/高胆红素血症 (Jaundice/Hyperbilirubinemia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_030",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿热蕴结肝胆，胆汁外溢肌肤",
-        "western": "肝细胞损伤、胆道梗阻、溶血导致胆红素代谢异常",
-        "classic": "《金匮要略》"
+        "western": "肝细胞损伤、胆道梗阻、溶血导致胆红素代谢异常"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "湿热交蒸，胆汁不循常道，溢于肌肤",
-        "western": "肝细胞处理胆红素能力下降或胆道排泄障碍",
-        "classic": "《金匮要略》"
+        "western": "肝细胞处理胆红素能力下降或胆道排泄障碍"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "目黄、身黄、小便黄",
-        "western": "巩膜黄染(Scleral Icterus)、皮肤黄染、尿胆红素↑",
-        "classic": "《金匮要略》"
+        "western": "巩膜黄染(Scleral Icterus)、皮肤黄染、尿胆红素↑"
       }
-    ],
-    "related_syndrome": "syndrome_030"
+    ]
   },
   {
     "id": "mapping_024",
+    "category": "心理",
     "chinese_term": "烦躁",
     "modern_term": "烦躁不安 (Agitation/Restlessness)",
-    "category": "心理",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "热扰心神、肝郁化火、阴虚火旺",
-        "western": "神经递质失衡（NE↑、GABA↓）、急性应激反应",
-        "classic": "《金匮要略》"
+        "western": "神经递质失衡（NE↑、GABA↓）、急性应激反应"
       },
       {
         "aspect": "机制",
+        "classic": "《金匮要略》",
         "tcm": "心主神明功能失常",
-        "western": "交感神经过度激活、杏仁核过度反应",
-        "classic": "《金匮要略》"
+        "western": "交感神经过度激活、杏仁核过度反应"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_025",
+    "category": "心理",
     "chinese_term": "惊悸",
     "modern_term": "心悸/惊恐发作 (Palpitations/Panic Attack)",
-    "category": "心理",
+    "related_syndrome": "syndrome_013",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "心胆气虚、心脾两虚、水饮凌心",
-        "western": "心律失常、焦虑障碍、二尖瓣脱垂",
-        "classic": "《金匮要略》"
+        "western": "心律失常、焦虑障碍、二尖瓣脱垂"
       },
       {
         "aspect": "机制",
+        "classic": "《金匮要略》",
         "tcm": "心神不宁，惊则气乱",
-        "western": "交感神经骤然兴奋→心率加快、过度换气→恐慌循环",
-        "classic": "《金匮要略》"
+        "western": "交感神经骤然兴奋→心率加快、过度换气→恐慌循环"
       }
-    ],
-    "related_syndrome": "syndrome_013"
+    ]
   },
   {
     "id": "mapping_026",
+    "category": "心理",
     "chinese_term": "抑郁寡欢",
     "modern_term": "抑郁状态 (Depression)",
-    "category": "心理",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝气郁结，气机不畅，久郁伤神",
-        "western": "5-HT/NE/DA神经递质不足、慢性应激、遗传易感性",
-        "classic": "《金匮要略》"
+        "western": "5-HT/NE/DA神经递质不足、慢性应激、遗传易感性"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "情绪低落、兴趣减退、善太息、不思饮食",
-        "western": "快感缺失(Anhedonia)、食欲减退、睡眠障碍、疲乏",
-        "classic": "《金匮要略》"
+        "western": "快感缺失(Anhedonia)、食欲减退、睡眠障碍、疲乏"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_027",
+    "category": "疾病",
     "chinese_term": "胆结石",
     "modern_term": "胆石症 (Cholelithiasis / Gallstones)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_071",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "嗜食肥甘、情志不畅致肝胆疏泄失常，湿热蕴结日久炼液成石",
-        "western": "胆汁中胆固醇过饱和、胆盐/卵磷脂比例失常→胆固醇结晶析出→结石形成",
-        "classic": "《金匮要略》"
+        "western": "胆汁中胆固醇过饱和、胆盐/卵磷脂比例失常→胆固醇结晶析出→结石形成"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "结石阻塞胆道，气机不通则痛；胆汁外溢则为黄疸",
-        "western": "结石嵌顿胆囊管/胆总管→胆道内压急剧升高→胆绞痛(Biliary Colic)",
-        "classic": "《金匮要略》"
+        "western": "结石嵌顿胆囊管/胆总管→胆道内压急剧升高→胆绞痛(Biliary Colic)"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "右胁绞痛放射肩背、黄疸、恶心呕吐、发热",
-        "western": "右上腹阵发性绞痛(Colicky Pain)、Murphy征(+)、恶心呕吐、超声示胆囊结石",
-        "classic": "《金匮要略》"
+        "western": "右上腹阵发性绞痛(Colicky Pain)、Murphy征(+)、恶心呕吐、超声示胆囊结石"
       }
-    ],
-    "related_syndrome": "syndrome_071"
+    ]
   },
   {
     "id": "mapping_028",
+    "category": "疾病",
     "chinese_term": "胆囊炎",
     "modern_term": "胆囊炎 (Cholecystitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_070",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝胆气滞，湿热蕴结，胆汁疏泄不利",
-        "western": "胆结石嵌顿+细菌感染(E.coli)导致胆囊壁急性炎症",
-        "classic": "《金匮要略》"
+        "western": "胆结石嵌顿+细菌感染(E.coli)导致胆囊壁急性炎症"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "湿热熏蒸肝胆，气机郁滞不通，不通则痛",
-        "western": "胆囊管阻塞→胆汁淤积→胆囊壁充血水肿→缺血坏死",
-        "classic": "《金匮要略》"
+        "western": "胆囊管阻塞→胆汁淤积→胆囊壁充血水肿→缺血坏死"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "右胁持续性胀痛、发热恶寒、口苦咽干、黄疸",
-        "western": "右上腹持续性痛、发热(>38℃)、Murphy征(+)、白细胞↑、超声示胆囊壁增厚",
-        "classic": "《金匮要略》"
+        "western": "右上腹持续性痛、发热(>38℃)、Murphy征(+)、白细胞↑、超声示胆囊壁增厚"
       }
-    ],
-    "related_syndrome": "syndrome_070"
+    ]
   },
   {
     "id": "mapping_029",
+    "category": "疾病",
     "chinese_term": "高血压",
     "modern_term": "高血压病 (Hypertension)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_012",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "情志失调、饮食不节、年老体衰致肝肾阴虚、肝阳上亢",
-        "western": "遗传因素+高钠饮食+交感兴奋+RAAS激活→血压持续升高",
-        "classic": "《金匮要略》"
+        "western": "遗传因素+高钠饮食+交感兴奋+RAAS激活→血压持续升高"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "肝阳上亢、阴虚阳亢或痰湿中阻导致清阳不升",
-        "western": "外周血管阻力↑、心排血量↑、RAAS过度激活→血压≥140/90mmHg",
-        "classic": "《金匮要略》"
+        "western": "外周血管阻力↑、心排血量↑、RAAS过度激活→血压≥140/90mmHg"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "头晕头痛、面红目赤、心烦易怒、失眠多梦",
-        "western": "头痛(Occipital Headache)、眩晕(Dizziness)、耳鸣(Tinnitus)、视力模糊",
-        "classic": "《金匮要略》"
+        "western": "头痛(Occipital Headache)、眩晕(Dizziness)、耳鸣(Tinnitus)、视力模糊"
       }
-    ],
-    "related_syndrome": "syndrome_012"
+    ]
   },
   {
     "id": "mapping_030",
+    "category": "疾病",
     "chinese_term": "糖尿病",
     "modern_term": "糖尿病 (Diabetes Mellitus)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_034",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "禀赋不足、过食肥甘、情志失调致阴虚燥热",
-        "western": "胰岛素分泌相对/绝对不足+胰岛素抵抗→糖代谢紊乱",
-        "classic": "《温病条辨》"
+        "western": "胰岛素分泌相对/绝对不足+胰岛素抵抗→糖代谢紊乱"
       },
       {
         "aspect": "病理",
+        "classic": "《温病条辨》",
         "tcm": "肺燥、胃热、肾虚三消并存，气阴两虚",
-        "western": "胰岛β细胞功能减退→血糖↑→渗透性利尿→典型三多一少",
-        "classic": "《温病条辨》"
+        "western": "胰岛β细胞功能减退→血糖↑→渗透性利尿→典型三多一少"
       },
       {
         "aspect": "症状",
+        "classic": "《温病条辨》",
         "tcm": "多饮多食多尿、形体消瘦、乏力",
-        "western": "多饮(Polydipsia)、多食、多尿(Polyuria)、体重下降、空腹血糖≥7.0mmol/L",
-        "classic": "《温病条辨》"
+        "western": "多饮(Polydipsia)、多食、多尿(Polyuria)、体重下降、空腹血糖≥7.0mmol/L"
       }
-    ],
-    "related_syndrome": "syndrome_034"
+    ]
   },
   {
     "id": "mapping_031",
+    "category": "疾病",
     "chinese_term": "冠心病",
     "modern_term": "冠状动脉粥样硬化性心脏病 (Coronary Artery Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_029",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "胸阳不振、痰瘀互结、寒凝心脉",
-        "western": "动脉粥样硬化→冠状动脉管腔狭窄→心肌供血不足",
-        "classic": "《金匮要略》"
+        "western": "动脉粥样硬化→冠状动脉管腔狭窄→心肌供血不足"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "心脉痹阻，不通则痛",
-        "western": "冠脉狭窄>50%→心肌氧供需失衡→缺血→心绞痛；斑块破裂→急性心梗",
-        "classic": "《金匮要略》"
+        "western": "冠脉狭窄>50%→心肌氧供需失衡→缺血→心绞痛；斑块破裂→急性心梗"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "胸闷胸痛、痛彻肩背、心悸气短",
-        "western": "胸骨后压榨性痛放射左肩/背(Angina)、气促、ECG示ST-T改变",
-        "classic": "《金匮要略》"
+        "western": "胸骨后压榨性痛放射左肩/背(Angina)、气促、ECG示ST-T改变"
       }
-    ],
-    "related_syndrome": "syndrome_029"
+    ]
   },
   {
     "id": "mapping_032",
+    "category": "疾病",
     "chinese_term": "慢性胃炎",
     "modern_term": "慢性胃炎 (Chronic Gastritis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_003",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "饮食不节、情志失调、脾胃素虚",
-        "western": "H.pylori感染、自身免疫、胆汁反流、长期服用NSAIDs",
-        "classic": "《脾胃论》"
+        "western": "H.pylori感染、自身免疫、胆汁反流、长期服用NSAIDs"
       },
       {
         "aspect": "病理",
+        "classic": "《脾胃论》",
         "tcm": "脾胃虚弱或胃热炽盛或肝胃不和",
-        "western": "胃黏膜慢性炎症细胞浸润→腺体萎缩/肠化生",
-        "classic": "《脾胃论》"
+        "western": "胃黏膜慢性炎症细胞浸润→腺体萎缩/肠化生"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "胃脘隐痛或灼痛、胀满嗳气、食欲减退",
-        "western": "上腹不适/疼痛、餐后饱胀、恶心(Nausea)、胃镜示黏膜充血/萎缩",
-        "classic": "《脾胃论》"
+        "western": "上腹不适/疼痛、餐后饱胀、恶心(Nausea)、胃镜示黏膜充血/萎缩"
       }
-    ],
-    "related_syndrome": "syndrome_003"
+    ]
   },
   {
     "id": "mapping_033",
+    "category": "疾病",
     "chinese_term": "支气管哮喘",
     "modern_term": "支气管哮喘 (Bronchial Asthma)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_049",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "宿痰伏肺、外邪触发、饮食劳倦",
-        "western": "遗传性过敏体质(Atopy)+环境过敏原→气道慢性炎症",
-        "classic": "《金匮要略》"
+        "western": "遗传性过敏体质(Atopy)+环境过敏原→气道慢性炎症"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "痰阻气道，肺失宣降，气道挛急",
-        "western": "气道炎症+平滑肌痉挛+黏液分泌↑→可逆性气道阻塞",
-        "classic": "《金匮要略》"
+        "western": "气道炎症+平滑肌痉挛+黏液分泌↑→可逆性气道阻塞"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "发作性喉中哮鸣、呼吸急促、胸闷憋气",
-        "western": "呼气性呼吸困难+哮鸣音(Wheezing)、咳嗽、FEV1↓、PEF变异率>20%",
-        "classic": "《金匮要略》"
+        "western": "呼气性呼吸困难+哮鸣音(Wheezing)、咳嗽、FEV1↓、PEF变异率>20%"
       }
-    ],
-    "related_syndrome": "syndrome_049"
+    ]
   },
   {
     "id": "mapping_034",
+    "category": "疾病",
     "chinese_term": "类风湿关节炎",
     "modern_term": "类风湿关节炎 (Rheumatoid Arthritis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_027",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风寒湿邪乘虚入侵，日久化热，痹阻经络",
-        "western": "自身免疫紊乱→免疫复合物沉积→关节滑膜慢性炎症",
-        "classic": "《针灸甲乙经》"
+        "western": "自身免疫紊乱→免疫复合物沉积→关节滑膜慢性炎症"
       },
       {
         "aspect": "病理",
+        "classic": "《针灸甲乙经》",
         "tcm": "邪气痹阻日久，痰瘀互结，关节变形",
-        "western": "滑膜增生→血管翳形成→关节软骨/骨侵蚀→畸形(Anti-CCP/RF阳性)",
-        "classic": "《针灸甲乙经》"
+        "western": "滑膜增生→血管翳形成→关节软骨/骨侵蚀→畸形(Anti-CCP/RF阳性)"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "对称性小关节肿痛、晨僵、屈伸不利、日久畸形",
-        "western": "对称性多关节炎(PIP/MCP)、晨僵>1小时、X线示骨侵蚀(Erosions)",
-        "classic": "《针灸甲乙经》"
+        "western": "对称性多关节炎(PIP/MCP)、晨僵>1小时、X线示骨侵蚀(Erosions)"
       }
-    ],
-    "related_syndrome": "syndrome_027"
+    ]
   },
   {
     "id": "mapping_035",
+    "category": "疾病",
     "chinese_term": "痛风",
     "modern_term": "痛风 (Gout)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_076",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "过食膏粱厚味，湿热内蕴，浊毒下注关节",
-        "western": "嘌呤代谢障碍→高尿酸血症→尿酸盐结晶沉积于关节",
-        "classic": "《针灸甲乙经》"
+        "western": "嘌呤代谢障碍→高尿酸血症→尿酸盐结晶沉积于关节"
       },
       {
         "aspect": "病理",
+        "classic": "《针灸甲乙经》",
         "tcm": "湿热浊毒下注，痹阻关节经络",
-        "western": "单钠尿酸盐(MSU)结晶→激活NLRP3炎症小体→IL-1β释放→急性炎症",
-        "classic": "《针灸甲乙经》"
+        "western": "单钠尿酸盐(MSU)结晶→激活NLRP3炎症小体→IL-1β释放→急性炎症"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "第一跖趾关节突发红肿剧痛、不可触碰",
-        "western": "足大趾(MTP)红热肿胀+极痛(Podagra)、血尿酸>420μmol/L",
-        "classic": "《针灸甲乙经》"
+        "western": "足大趾(MTP)红热肿胀+极痛(Podagra)、血尿酸>420μmol/L"
       }
-    ],
-    "related_syndrome": "syndrome_076"
+    ]
   },
   {
     "id": "mapping_036",
+    "category": "疾病",
     "chinese_term": "偏头痛",
     "modern_term": "偏头痛 (Migraine)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_043",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "肝阳上亢或肝火上扰清窍，或瘀血阻络",
-        "western": "三叉神经-血管反射异常+CGRP释放→血管扩张+神经炎症",
-        "classic": "《针灸甲乙经》"
+        "western": "三叉神经-血管反射异常+CGRP释放→血管扩张+神经炎症"
       },
       {
         "aspect": "病理",
+        "classic": "《针灸甲乙经》",
         "tcm": "肝火上攻，清窍被扰",
-        "western": "皮层扩散性抑制(CSD)→三叉神经血管系统激活→搏动性头痛",
-        "classic": "《针灸甲乙经》"
+        "western": "皮层扩散性抑制(CSD)→三叉神经血管系统激活→搏动性头痛"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "一侧头跳痛、恶心呕吐、畏光畏声",
-        "western": "单侧重度搏动性头痛(Throbbing)+恶心/呕吐+畏光/畏声(Photophobia/Phonophobia)",
-        "classic": "《针灸甲乙经》"
+        "western": "单侧重度搏动性头痛(Throbbing)+恶心/呕吐+畏光/畏声(Photophobia/Phonophobia)"
       }
-    ],
-    "related_syndrome": "syndrome_043"
+    ]
   },
   {
     "id": "mapping_037",
+    "category": "疾病",
     "chinese_term": "失眠症",
     "modern_term": "失眠障碍 (Insomnia Disorder)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_078",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "思虑过度、心脾两虚；阴虚火旺；肝郁化火",
-        "western": "心理应激、焦虑抑郁、不良睡眠习惯、昼夜节律紊乱",
-        "classic": "《金匮要略》"
+        "western": "心理应激、焦虑抑郁、不良睡眠习惯、昼夜节律紊乱"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "心神不宁，阳不入阴，阴阳失调",
-        "western": "过度觉醒(Hyperarousal)→入睡困难；GABA能抑制不足→睡眠维持障碍",
-        "classic": "《金匮要略》"
+        "western": "过度觉醒(Hyperarousal)→入睡困难；GABA能抑制不足→睡眠维持障碍"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "入睡困难、多梦易醒、醒后难眠、心悸健忘",
-        "western": "入睡潜伏期>30分钟、睡眠维持障碍、早醒、日间功能受损",
-        "classic": "《金匮要略》"
+        "western": "入睡潜伏期>30分钟、睡眠维持障碍、早醒、日间功能受损"
       }
-    ],
-    "related_syndrome": "syndrome_078"
+    ]
   },
   {
     "id": "mapping_038",
+    "category": "疾病",
     "chinese_term": "功能性便秘",
     "modern_term": "功能性便秘 (Functional Constipation)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_041",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "热结肠胃、气机郁滞、气血亏虚、阳虚寒凝",
-        "western": "结肠传输减慢、直肠排空障碍、盆底肌协同失调",
-        "classic": "《金匮要略》"
+        "western": "结肠传输减慢、直肠排空障碍、盆底肌协同失调"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "大肠传导失职，糟粕内停",
-        "western": "结肠蠕动减弱(Slow Transit)、直肠感觉减退→排便反射迟钝",
-        "classic": "《金匮要略》"
+        "western": "结肠蠕动减弱(Slow Transit)、直肠感觉减退→排便反射迟钝"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "大便干结数日一行、排便费力、腹胀",
-        "western": "排便次数<3次/周、Bristol 1-2型、排便费力(Straining)>25%时间",
-        "classic": "《金匮要略》"
+        "western": "排便次数<3次/周、Bristol 1-2型、排便费力(Straining)>25%时间"
       }
-    ],
-    "related_syndrome": "syndrome_041"
+    ]
   },
   {
     "id": "mapping_039",
+    "category": "疾病",
     "chinese_term": "月经不调",
     "modern_term": "月经失调 (Menstrual Disorders)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝郁气滞、血虚、肾虚、血寒导致冲任失调",
-        "western": "HPO轴功能紊乱、PCOS、甲状腺功能异常、精神应激",
-        "classic": "《金匮要略》"
+        "western": "HPO轴功能紊乱、PCOS、甲状腺功能异常、精神应激"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "冲任不调，气血不和，胞宫功能失常",
-        "western": "下丘脑-垂体-卵巢轴失调→排卵障碍/黄体功能不足→月经周期紊乱",
-        "classic": "《金匮要略》"
+        "western": "下丘脑-垂体-卵巢轴失调→排卵障碍/黄体功能不足→月经周期紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "经期先后不定、经量过多过少、经行腹痛",
-        "western": "周期<21天或>35天、经量异常、痛经(Dysmenorrhea)",
-        "classic": "《金匮要略》"
+        "western": "周期<21天或>35天、经量异常、痛经(Dysmenorrhea)"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_040",
+    "category": "疾病",
     "chinese_term": "湿疹",
     "modern_term": "湿疹 (Eczema / Atopic Dermatitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_077",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "湿热内蕴、外感风邪，湿热熏蒸肌肤",
-        "western": "遗传过敏体质+皮肤屏障功能缺陷(Filaggrin突变)→水分丢失+过敏原穿透",
-        "classic": "《脾胃论》"
+        "western": "遗传过敏体质+皮肤屏障功能缺陷(Filaggrin突变)→水分丢失+过敏原穿透"
       },
       {
         "aspect": "病理",
+        "classic": "《脾胃论》",
         "tcm": "湿热蕴结肌肤，营卫失调",
-        "western": "Th2主导的免疫反应→IL-4/IL-13→皮肤屏障破坏→渗出+瘙痒",
-        "classic": "《脾胃论》"
+        "western": "Th2主导的免疫反应→IL-4/IL-13→皮肤屏障破坏→渗出+瘙痒"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "皮肤红斑、丘疹水疱、糜烂渗出、剧烈瘙痒",
-        "western": "红斑(Erythema)→水疱/渗出(Vesicles/Exudate)→苔藓化(Lichenification)、剧痒",
-        "classic": "《脾胃论》"
+        "western": "红斑(Erythema)→水疱/渗出(Vesicles/Exudate)→苔藓化(Lichenification)、剧痒"
       }
-    ],
-    "related_syndrome": "syndrome_077"
+    ]
   },
   {
     "id": "mapping_041",
+    "category": "疾病",
     "chinese_term": "颈椎病",
     "modern_term": "颈椎病 (Cervical Spondylosis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_077",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "长期劳损、风寒湿邪侵袭致颈部经络痹阻",
-        "western": "颈椎间盘退变→椎间隙变窄→骨赘形成→神经根/脊髓受压",
-        "classic": "《脾胃论》"
+        "western": "颈椎间盘退变→椎间隙变窄→骨赘形成→神经根/脊髓受压"
       },
       {
         "aspect": "病理",
+        "classic": "《脾胃论》",
         "tcm": "瘀血阻络，筋脉失养",
-        "western": "椎间盘突出/骨赘→神经根受压→缺血水肿→放射性疼痛+感觉异常",
-        "classic": "《脾胃论》"
+        "western": "椎间盘突出/骨赘→神经根受压→缺血水肿→放射性疼痛+感觉异常"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "颈项僵痛、肩背酸痛、手指麻木、头晕",
-        "western": "颈部疼痛+活动受限、上肢放射痛(Radiculopathy)、感觉异常",
-        "classic": "《脾胃论》"
+        "western": "颈部疼痛+活动受限、上肢放射痛(Radiculopathy)、感觉异常"
       }
-    ],
-    "related_syndrome": "syndrome_077"
+    ]
   },
   {
     "id": "mapping_042",
+    "category": "疾病",
     "chinese_term": "腰椎间盘突出",
     "modern_term": "腰椎间盘突出症 (Lumbar Disc Herniation)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_077",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "肾气亏虚、劳损外伤致瘀血阻络、筋骨失养",
-        "western": "椎间盘退变→纤维环破裂→髓核突出→压迫神经根",
-        "classic": "《脾胃论》"
+        "western": "椎间盘退变→纤维环破裂→髓核突出→压迫神经根"
       },
       {
         "aspect": "病理",
+        "classic": "《脾胃论》",
         "tcm": "瘀血痹阻，不通则痛，筋脉拘急",
-        "western": "髓核突出→神经根受压→炎症介质释放→根性疼痛(L4-S1)",
-        "classic": "《脾胃论》"
+        "western": "髓核突出→神经根受压→炎症介质释放→根性疼痛(L4-S1)"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "腰痛放射至下肢、转侧困难、行走不利",
-        "western": "腰痛+坐骨神经痛放射至小腿(Sciatica)、直腿抬高试验(+)、SLR<60°",
-        "classic": "《脾胃论》"
+        "western": "腰痛+坐骨神经痛放射至小腿(Sciatica)、直腿抬高试验(+)、SLR<60°"
       }
-    ],
-    "related_syndrome": "syndrome_077"
+    ]
   },
   {
     "id": "mapping_043",
+    "category": "疾病",
     "chinese_term": "慢性前列腺炎",
     "modern_term": "慢性前列腺炎 (Chronic Prostatitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_011",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿热下注、气滞血瘀、肾虚不固",
-        "western": "病原体感染或非感染性炎症+盆底神经肌肉功能紊乱",
-        "classic": "《金匮要略》"
+        "western": "病原体感染或非感染性炎症+盆底神经肌肉功能紊乱"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "湿热蕴结下焦，膀胱气化不利",
-        "western": "前列腺间质炎症细胞浸润→盆腔疼痛综合征→排尿刺激症状",
-        "classic": "《金匮要略》"
+        "western": "前列腺间质炎症细胞浸润→盆腔疼痛综合征→排尿刺激症状"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "小便会阴坠胀不适、尿频尿急、腰骶酸痛",
-        "western": "盆腔疼痛(Perineal Pain)、排尿异常(Dysuria/Frequency)、性功能障碍",
-        "classic": "《金匮要略》"
+        "western": "盆腔疼痛(Perineal Pain)、排尿异常(Dysuria/Frequency)、性功能障碍"
       }
-    ],
-    "related_syndrome": "syndrome_011"
+    ]
   },
   {
     "id": "mapping_044",
+    "category": "疾病",
     "chinese_term": "过敏性鼻炎",
     "modern_term": "变应性鼻炎 (Allergic Rhinitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_001",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "肺卫气虚、风寒外袭、鼻窍不利",
-        "western": "过敏原(花粉/尘螨)→IgE介导→肥大细胞脱颗粒→组胺释放",
-        "classic": "《针灸甲乙经》"
+        "western": "过敏原(花粉/尘螨)→IgE介导→肥大细胞脱颗粒→组胺释放"
       },
       {
         "aspect": "病理",
+        "classic": "《针灸甲乙经》",
         "tcm": "风寒客于鼻窍，肺气失宣",
-        "western": "鼻黏膜Ⅰ型超敏反应→血管扩张+腺体分泌↑→鼻塞流涕",
-        "classic": "《针灸甲乙经》"
+        "western": "鼻黏膜Ⅰ型超敏反应→血管扩张+腺体分泌↑→鼻塞流涕"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "阵发性鼻痒喷嚏、清涕不止、鼻塞",
-        "western": "阵发性喷嚏(Sneezing)、水样涕(Rhinorrhea)、鼻塞(Nasal Congestion)",
-        "classic": "《针灸甲乙经》"
+        "western": "阵发性喷嚏(Sneezing)、水样涕(Rhinorrhea)、鼻塞(Nasal Congestion)"
       }
-    ],
-    "related_syndrome": "syndrome_001"
+    ]
   },
   {
     "id": "mapping_045",
+    "category": "疾病",
     "chinese_term": "带状疱疹",
     "modern_term": "带状疱疹 (Herpes Zoster)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_075",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "肝经郁热化火，火毒外发肌肤，循经而发",
-        "western": "VZV潜伏于背根神经节→免疫力下降时重新激活→沿感觉神经下行",
-        "classic": "《脾胃论》"
+        "western": "VZV潜伏于背根神经节→免疫力下降时重新激活→沿感觉神经下行"
       },
       {
         "aspect": "病理",
+        "classic": "《脾胃论》",
         "tcm": "肝经火毒灼伤脉络，外发为疹",
-        "western": "病毒在神经节内复制→神经炎性坏死→沿皮节分布的水疱+神经痛",
-        "classic": "《脾胃论》"
+        "western": "病毒在神经节内复制→神经炎性坏死→沿皮节分布的水疱+神经痛"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "单侧簇集性水疱、带状分布、灼热针刺样痛",
-        "western": "单侧沿皮节簇集水疱(Vesicles on erythematous base)+神经痛(PHN风险)",
-        "classic": "《脾胃论》"
+        "western": "单侧沿皮节簇集水疱(Vesicles on erythematous base)+神经痛(PHN风险)"
       }
-    ],
-    "related_syndrome": "syndrome_075"
+    ]
   },
   {
     "id": "mapping_046",
+    "category": "疾病",
     "chinese_term": "荨麻疹",
     "modern_term": "荨麻疹 (Urticaria)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_080",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "风邪外袭客于肌肤，或血热生风",
-        "western": "肥大细胞活化→组胺释放→真皮浅层血管通透性↑→局限性水肿",
-        "classic": "《金匮要略》"
+        "western": "肥大细胞活化→组胺释放→真皮浅层血管通透性↑→局限性水肿"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "风善行而数变，时隐时现",
-        "western": "组胺→毛细血管通透性↑→局限性水肿形成风团(Wheal)；组胺代谢后消退",
-        "classic": "《金匮要略》"
+        "western": "组胺→毛细血管通透性↑→局限性水肿形成风团(Wheal)；组胺代谢后消退"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "皮肤风团此起彼伏、瘙痒难忍、消退无痕",
-        "western": "境界清楚的红色/白色风团(Wheals)+瘙痒(Pruritus)+24h内自行消退",
-        "classic": "《金匮要略》"
+        "western": "境界清楚的红色/白色风团(Wheals)+瘙痒(Pruritus)+24h内自行消退"
       }
-    ],
-    "related_syndrome": "syndrome_080"
+    ]
   },
   {
     "id": "mapping_047",
+    "category": "疾病",
     "chinese_term": "甲状腺功能亢进",
     "modern_term": "甲状腺功能亢进症 (Hyperthyroidism)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_009",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "情志内伤、阴虚火旺、气郁痰结",
-        "western": "自身免疫(Graves病)→TSH受体抗体→甲状腺激素过量分泌",
-        "classic": "《金匮要略》"
+        "western": "自身免疫(Graves病)→TSH受体抗体→甲状腺激素过量分泌"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "阴虚火旺，痰气郁结于颈部",
-        "western": "甲状腺激素↑→基础代谢率↑→高代谢症候群+交感兴奋",
-        "classic": "《金匮要略》"
+        "western": "甲状腺激素↑→基础代谢率↑→高代谢症候群+交感兴奋"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "颈前肿大、心悸手抖、多食消瘦、烦躁易怒",
-        "western": "甲状腺肿(Goiter)、心悸(Tachycardia)、体重下降、震颤(Tremor)、突眼",
-        "classic": "《金匮要略》"
+        "western": "甲状腺肿(Goiter)、心悸(Tachycardia)、体重下降、震颤(Tremor)、突眼"
       }
-    ],
-    "related_syndrome": "syndrome_009"
+    ]
   },
   {
     "id": "mapping_048",
+    "category": "疾病",
     "chinese_term": "缺铁性贫血",
     "modern_term": "缺铁性贫血 (Iron Deficiency Anemia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_079",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "脾胃虚弱生化不足、饮食摄铁不足、慢性失血",
-        "western": "铁摄入不足/吸收障碍/丢失过多→血红蛋白合成减少",
-        "classic": "《金匮要略》"
+        "western": "铁摄入不足/吸收障碍/丢失过多→血红蛋白合成减少"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "气血两亏，脏腑失养",
-        "western": "储存铁耗尽→血清铁↓→Hb合成↓→小细胞低色素性贫血(MCV<80fL)",
-        "classic": "《金匮要略》"
+        "western": "储存铁耗尽→血清铁↓→Hb合成↓→小细胞低色素性贫血(MCV<80fL)"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "面色萎黄苍白、头晕眼花、心悸气短、神疲乏力",
-        "western": "苍白(Pallor)、乏力(Fatigue)、异食癖(Pica)、匙状甲(Koilonychia)",
-        "classic": "《金匮要略》"
+        "western": "苍白(Pallor)、乏力(Fatigue)、异食癖(Pica)、匙状甲(Koilonychia)"
       }
-    ],
-    "related_syndrome": "syndrome_079"
+    ]
   },
   {
     "id": "mapping_049",
+    "category": "疾病",
     "chinese_term": "痔疮",
     "modern_term": "痔 (Hemorrhoids)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_080",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "饮食不节、久坐久立致湿热下注大肠",
-        "western": "便秘/久蹲→腹内压↑→直肠静脉丛回流受阻→曲张成痔",
-        "classic": "《金匮要略》"
+        "western": "便秘/久蹲→腹内压↑→直肠静脉丛回流受阻→曲张成痔"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "湿热下注，灼伤肠络，血溢脉外",
-        "western": "肛垫病理性肥大+Treitz肌断裂→脱出；黏膜糜烂→出血",
-        "classic": "《金匮要略》"
+        "western": "肛垫病理性肥大+Treitz肌断裂→脱出；黏膜糜烂→出血"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "肛门灼痛、便血鲜红、痔核脱出",
-        "western": "便后无痛性滴血/喷射状出血(Bright red blood)、脱出(Prolapse)、疼痛",
-        "classic": "《金匮要略》"
+        "western": "便后无痛性滴血/喷射状出血(Bright red blood)、脱出(Prolapse)、疼痛"
       }
-    ],
-    "related_syndrome": "syndrome_080"
+    ]
   },
   {
     "id": "mapping_050",
+    "category": "疾病",
     "chinese_term": "痤疮",
     "modern_term": "痤疮 (Acne Vulgaris)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_075",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "肺经风热、过食辛辣、湿热蕴结上熏面部",
-        "western": "雄激素→皮脂分泌↑+毛囊角化过度→毛囊口堵塞→痤疮丙酸杆菌增殖",
-        "classic": "《脾胃论》"
+        "western": "雄激素→皮脂分泌↑+毛囊角化过度→毛囊口堵塞→痤疮丙酸杆菌增殖"
       },
       {
         "aspect": "病理",
+        "classic": "《脾胃论》",
         "tcm": "肺经风热，上扰面部，血热瘀滞",
-        "western": "粉刺→炎性丘疹→脓疱→结节囊肿(Propionibacterium acnes感染)",
-        "classic": "《脾胃论》"
+        "western": "粉刺→炎性丘疹→脓疱→结节囊肿(Propionibacterium acnes感染)"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "面部粉刺丘疹脓疱、色红疼痛、皮肤油腻",
-        "western": "面/胸背部粉刺(Comedones)+炎性丘疹(Papules)+脓疱(Pustules)",
-        "classic": "《脾胃论》"
+        "western": "面/胸背部粉刺(Comedones)+炎性丘疹(Papules)+脓疱(Pustules)"
       }
-    ],
-    "related_syndrome": "syndrome_075"
+    ]
   },
   {
     "id": "mapping_051",
+    "category": "疾病",
     "chinese_term": "慢性肾炎",
     "modern_term": "慢性肾小球肾炎 (Chronic Glomerulonephritis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_074",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "外邪侵袭、脾肾亏虚、水湿内停",
-        "western": "免疫复合物沉积→肾小球基底膜损伤→持续性蛋白尿/血尿",
-        "classic": "《金匮要略》"
+        "western": "免疫复合物沉积→肾小球基底膜损伤→持续性蛋白尿/血尿"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "脾肾阳虚，气化不利，水湿泛滥",
-        "western": "肾小球硬化→GFR↓→水钠潴留→水肿+高血压",
-        "classic": "《金匮要略》"
+        "western": "肾小球硬化→GFR↓→水钠潴留→水肿+高血压"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "浮肿、腰酸、小便不利或蛋白尿",
-        "western": "水肿(Edema)、高血压、蛋白尿(Proteinuria)>1g/24h、血尿(Hematuria)",
-        "classic": "《金匮要略》"
+        "western": "水肿(Edema)、高血压、蛋白尿(Proteinuria)>1g/24h、血尿(Hematuria)"
       }
-    ],
-    "related_syndrome": "syndrome_074"
+    ]
   },
   {
     "id": "mapping_052",
+    "category": "疾病",
     "chinese_term": "面神经麻痹",
     "modern_term": "面神经麻痹 (Facial Nerve Palsy/Bell's Palsy)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_035",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "正气亏虚，风邪乘虚入中面部经络",
-        "western": "HSV-1再激活→面神经炎症水肿→骨性面神经管内受压",
-        "classic": "《针灸甲乙经》"
+        "western": "HSV-1再激活→面神经炎症水肿→骨性面神经管内受压"
       },
       {
         "aspect": "病理",
+        "classic": "《针灸甲乙经》",
         "tcm": "风邪中络，面部筋脉失养弛缓",
-        "western": "面神经水肿→轴突变性→神经传导阻滞→面部表情肌瘫痪",
-        "classic": "《针灸甲乙经》"
+        "western": "面神经水肿→轴突变性→神经传导阻滞→面部表情肌瘫痪"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "口眼歪斜、眼睑闭合不全、口角流涎",
-        "western": "单侧面肌瘫痪→额纹消失、眼裂增大、鼻唇沟变浅、口角向健侧歪斜",
-        "classic": "《针灸甲乙经》"
+        "western": "单侧面肌瘫痪→额纹消失、眼裂增大、鼻唇沟变浅、口角向健侧歪斜"
       }
-    ],
-    "related_syndrome": "syndrome_035"
+    ]
   },
   {
     "id": "mapping_053",
+    "category": "疾病",
     "chinese_term": "子宫肌瘤",
     "modern_term": "子宫平滑肌瘤 (Uterine Leiomyoma/Fibroids)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_008",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气滞血瘀、痰湿凝结于胞宫",
-        "western": "雌激素/孕激素依赖性的子宫平滑肌细胞异常增生",
-        "classic": "《金匮要略》"
+        "western": "雌激素/孕激素依赖性的子宫平滑肌细胞异常增生"
       },
       {
         "aspect": "病理",
+        "classic": "《金匮要略》",
         "tcm": "瘀血凝聚胞宫，日久成癥",
-        "western": "子宫平滑肌细胞单克隆增生→纤维化→形成良性肿瘤结节",
-        "classic": "《金匮要略》"
+        "western": "子宫平滑肌细胞单克隆增生→纤维化→形成良性肿瘤结节"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "月经量多、经期延长、少腹包块",
-        "western": "经量过多(Menorrhagia)、盆腔压迫感、超声示子宫低回声结节",
-        "classic": "《金匮要略》"
+        "western": "经量过多(Menorrhagia)、盆腔压迫感、超声示子宫低回声结节"
       }
-    ],
-    "related_syndrome": "syndrome_008"
+    ]
   },
   {
     "id": "mapping_054",
+    "category": "疾病",
     "chinese_term": "膝关节骨关节炎",
     "modern_term": "膝骨关节炎 (Knee Osteoarthritis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_076",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "肝肾亏虚筋骨失养、风寒湿邪痹阻关节",
-        "western": "关节软骨退变+机械应力→软骨磨损→骨赘形成",
-        "classic": "《针灸甲乙经》"
+        "western": "关节软骨退变+机械应力→软骨磨损→骨赘形成"
       },
       {
         "aspect": "病理",
+        "classic": "《针灸甲乙经》",
         "tcm": "筋脉拘急，关节不利",
-        "western": "软骨退化→关节间隙变窄→软骨下骨硬化+骨赘→关节畸形",
-        "classic": "《针灸甲乙经》"
+        "western": "软骨退化→关节间隙变窄→软骨下骨硬化+骨赘→关节畸形"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "膝部酸痛、上下楼加重、屈伸不利",
-        "western": "活动时疼痛(Mechanical Pain)、晨僵<30分钟、X线示关节间隙变窄",
-        "classic": "《针灸甲乙经》"
+        "western": "活动时疼痛(Mechanical Pain)、晨僵<30分钟、X线示关节间隙变窄"
       }
-    ],
-    "related_syndrome": "syndrome_076"
+    ]
   },
   {
+    "id": "mapping_055",
+    "category": "疾病",
     "chinese_term": "感冒",
     "modern_term": "上呼吸道感染/普通感冒 (Common Cold/URI)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_001",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风邪为主，兼夹寒热暑湿",
-        "western": "病毒（鼻病毒、冠状病毒）感染",
-        "classic": "《针灸甲乙经》"
+        "western": "病毒（鼻病毒、冠状病毒）感染"
       }
-    ],
-    "related_syndrome": "syndrome_001",
-    "id": "mapping_055"
+    ]
   },
   {
+    "id": "mapping_056",
+    "category": "症状",
     "chinese_term": "咳嗽",
     "modern_term": "咳嗽 (Cough)",
-    "category": "症状",
+    "related_syndrome": "syndrome_007",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "外感六淫或内伤脏腑致肺失宣降",
-        "western": "呼吸道刺激、感染、过敏、异物等",
-        "classic": "《金匮要略》"
+        "western": "呼吸道刺激、感染、过敏、异物等"
       }
-    ],
-    "related_syndrome": "syndrome_007",
-    "id": "mapping_056"
+    ]
   },
   {
+    "id": "mapping_057",
+    "category": "症状",
     "chinese_term": "喘证",
     "modern_term": "呼吸困难/喘息 (Dyspnea/Wheezing)",
-    "category": "症状",
+    "related_syndrome": "syndrome_038",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "外邪袭肺、痰浊阻肺、肺肾亏虚",
-        "western": "支气管哮喘、COPD、心衰等",
-        "classic": "《金匮要略》"
+        "western": "支气管哮喘、COPD、心衰等"
       }
-    ],
-    "related_syndrome": "syndrome_038",
-    "id": "mapping_057"
+    ]
   },
   {
+    "id": "mapping_058",
+    "category": "疾病",
     "chinese_term": "胸痹",
     "modern_term": "冠心病心绞痛 (Angina Pectoris)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_029",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "寒凝、气滞、血瘀、痰浊痹阻心脉",
-        "western": "冠状动脉粥样硬化导致心肌缺血",
-        "classic": "《金匮要略》"
+        "western": "冠状动脉粥样硬化导致心肌缺血"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "胸部闷痛，甚则胸痛彻背",
-        "western": "胸骨后压榨性疼痛，可放射至左肩臂",
-        "classic": "《金匮要略》"
+        "western": "胸骨后压榨性疼痛，可放射至左肩臂"
       }
-    ],
-    "related_syndrome": "syndrome_029",
-    "id": "mapping_058"
+    ]
   },
   {
+    "id": "mapping_059",
+    "category": "症状",
     "chinese_term": "心悸",
     "modern_term": "心悸/心律失常 (Palpitations/Arrhythmia)",
-    "category": "症状",
+    "related_syndrome": "syndrome_032",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "心虚胆怯、心血不足、阴虚火旺、水饮凌心",
-        "western": "心律失常、心肌病、电解质紊乱、自主神经功能紊乱",
-        "classic": "《金匮要略》"
+        "western": "心律失常、心肌病、电解质紊乱、自主神经功能紊乱"
       }
-    ],
-    "related_syndrome": "syndrome_032",
-    "id": "mapping_059"
+    ]
   },
   {
+    "id": "mapping_060",
+    "category": "症状",
     "chinese_term": "便秘",
     "modern_term": "便秘 (Constipation)",
-    "category": "症状",
+    "related_syndrome": "syndrome_041",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "热结、气滞、寒凝、气虚、血虚、阴虚",
-        "western": "肠道蠕动减慢、水分吸收过多、出口梗阻",
-        "classic": "《金匮要略》"
+        "western": "肠道蠕动减慢、水分吸收过多、出口梗阻"
       }
-    ],
-    "related_syndrome": "syndrome_041",
-    "id": "mapping_060"
+    ]
   },
   {
+    "id": "mapping_061",
+    "category": "疾病",
     "chinese_term": "郁证",
     "modern_term": "抑郁症/焦虑障碍 (Depression/Anxiety Disorder)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_046",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "情志不遂、肝气郁结、心脾两虚",
-        "western": "神经递质失衡（5-HT、NE、DA）",
-        "classic": "《金匮要略》"
+        "western": "神经递质失衡（5-HT、NE、DA）"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "心情抑郁、情绪不宁、胸胁胀痛",
-        "western": "情绪低落、兴趣减退、焦虑、失眠",
-        "classic": "《金匮要略》"
+        "western": "情绪低落、兴趣减退、焦虑、失眠"
       }
-    ],
-    "related_syndrome": "syndrome_046",
-    "id": "mapping_061"
+    ]
   },
   {
+    "id": "mapping_062",
+    "category": "症状",
     "chinese_term": "胃痛",
     "modern_term": "上腹痛/胃炎/消化性溃疡 (Epigastric Pain/Gastritis/PUD)",
-    "category": "症状",
+    "related_syndrome": "syndrome_050",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "寒凝、食积、气滞、郁热、血瘀、虚寒",
-        "western": "胃酸过多、胃黏膜损伤、Hp感染、饮食刺激",
-        "classic": "《脾胃论》"
+        "western": "胃酸过多、胃黏膜损伤、Hp感染、饮食刺激"
       }
-    ],
-    "related_syndrome": "syndrome_050",
-    "id": "mapping_062"
+    ]
   },
   {
+    "id": "mapping_063",
+    "category": "症状",
     "chinese_term": "水肿",
     "modern_term": "水肿 (Edema)",
-    "category": "症状",
+    "related_syndrome": "syndrome_031",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "风邪袭表、水湿浸渍、脾肾阳虚",
-        "western": "心衰、肾病、肝病、低蛋白血症、静脉回流障碍",
-        "classic": "《温病条辨》"
+        "western": "心衰、肾病、肝病、低蛋白血症、静脉回流障碍"
       }
-    ],
-    "related_syndrome": "syndrome_031",
-    "id": "mapping_063"
+    ]
   },
   {
+    "id": "mapping_064",
+    "category": "疾病",
     "chinese_term": "气滞",
     "modern_term": "功能性胃肠病/平滑肌痉挛 (Functional GI Disorder/Smooth Muscle Spasm)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_058",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "情志抑郁、外邪侵袭、饮食不节致气机不畅",
-        "western": "自主神经功能紊乱、平滑肌运动异常",
-        "classic": "《金匮要略》"
+        "western": "自主神经功能紊乱、平滑肌运动异常"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "胀痛、窜痛、部位不定",
-        "western": "腹胀、肠易激综合征症状",
-        "classic": "《金匮要略》"
+        "western": "腹胀、肠易激综合征症状"
       }
-    ],
-    "related_syndrome": "syndrome_058",
-    "id": "mapping_064"
+    ]
   },
   {
+    "id": "mapping_065",
+    "category": "疾病",
     "chinese_term": "气虚",
     "modern_term": "免疫功能低下/代谢低下 (Immunodeficiency/Hypometabolism)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_059",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "先天不足、后天失养、久病耗气",
-        "western": "营养不良、慢性消耗性疾病、免疫缺陷",
-        "classic": "《金匮要略》"
+        "western": "营养不良、慢性消耗性疾病、免疫缺陷"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "少气懒言、神疲乏力、自汗",
-        "western": "疲劳、易感染、基础代谢率降低",
-        "classic": "《金匮要略》"
+        "western": "疲劳、易感染、基础代谢率降低"
       }
-    ],
-    "related_syndrome": "syndrome_059",
-    "id": "mapping_065"
+    ]
   },
   {
+    "id": "mapping_066",
+    "category": "疾病",
     "chinese_term": "血瘀",
     "modern_term": "微循环障碍/血栓前状态 (Microcirculatory Disorder/Prothrombotic State)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_060",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气滞、寒凝、热结、外伤致血液运行不畅",
-        "western": "血管内皮损伤、血小板活化、凝血功能异常",
-        "classic": "《金匮要略》"
+        "western": "血管内皮损伤、血小板活化、凝血功能异常"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "刺痛、固定不移、舌质紫暗",
-        "western": "缺血性疼痛、紫绀、血栓形成",
-        "classic": "《金匮要略》"
+        "western": "缺血性疼痛、紫绀、血栓形成"
       }
-    ],
-    "related_syndrome": "syndrome_060",
-    "id": "mapping_066"
+    ]
   },
   {
+    "id": "mapping_067",
+    "category": "疾病",
     "chinese_term": "食积",
     "modern_term": "功能性消化不良 (Functional Dyspepsia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_014",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《黄帝内经》",
         "tcm": "饮食不节，脾胃运化失职",
-        "western": "胃排空延迟、胃容受性舒张障碍",
-        "classic": "《黄帝内经》"
+        "western": "胃排空延迟、胃容受性舒张障碍"
       },
       {
         "aspect": "症状",
+        "classic": "《黄帝内经》",
         "tcm": "脘腹胀满、嗳腐吞酸、厌食",
-        "western": "早饱、上腹胀、恶心、嗳气",
-        "classic": "《黄帝内经》"
+        "western": "早饱、上腹胀、恶心、嗳气"
       }
-    ],
-    "related_syndrome": "syndrome_014",
-    "id": "mapping_067"
+    ]
   },
   {
+    "id": "mapping_068",
+    "category": "疾病",
     "chinese_term": "肺气虚",
     "modern_term": "呼吸功能减退/COPD早期 (Reduced Pulmonary Function/Early COPD)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_067",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "久咳伤肺、先天不足、他脏及肺",
-        "western": "吸烟、空气污染、反复呼吸道感染",
-        "classic": "《金匮要略》"
+        "western": "吸烟、空气污染、反复呼吸道感染"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "咳嗽无力、气短、自汗、易感冒",
-        "western": "活动后气促、肺功能下降",
-        "classic": "《金匮要略》"
+        "western": "活动后气促、肺功能下降"
       }
-    ],
-    "related_syndrome": "syndrome_067",
-    "id": "mapping_068"
+    ]
   },
   {
+    "id": "mapping_069",
+    "category": "疾病",
     "chinese_term": "肝血虚",
     "modern_term": "贫血/维生素缺乏 (Anemia/Vitamin Deficiency)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_066",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "失血过多、生血不足、久病耗伤肝血",
-        "western": "缺铁性贫血、维生素B12缺乏",
-        "classic": "《金匮要略》"
+        "western": "缺铁性贫血、维生素B12缺乏"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "头晕目眩、面色无华、爪甲不荣",
-        "western": "皮肤黏膜苍白、头晕、疲乏",
-        "classic": "《金匮要略》"
+        "western": "皮肤黏膜苍白、头晕、疲乏"
       }
-    ],
-    "related_syndrome": "syndrome_066",
-    "id": "mapping_069"
+    ]
   },
   {
+    "id": "mapping_070",
+    "category": "疾病",
     "chinese_term": "心阳虚",
     "modern_term": "心力衰竭早期/心功能不全 (Early Heart Failure/Cardiac Insufficiency)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_065",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "心气虚进一步发展、寒邪伤心阳",
-        "western": "心肌病、冠心病、高血压性心脏病",
-        "classic": "《金匮要略》"
+        "western": "心肌病、冠心病、高血压性心脏病"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "心悸怔忡、胸闷气短、畏寒肢冷",
-        "western": "心悸、活动耐力下降、肢冷",
-        "classic": "《金匮要略》"
+        "western": "心悸、活动耐力下降、肢冷"
       }
-    ],
-    "related_syndrome": "syndrome_065",
-    "id": "mapping_070"
+    ]
   },
   {
+    "id": "mapping_071",
+    "category": "疾病",
     "chinese_term": "卫气营血辨证",
     "modern_term": "感染性疾病分期 (Stages of Infectious Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_051",
     "comparison": [
       {
         "aspect": "卫分证",
+        "classic": "《温病条辨》",
         "tcm": "邪在皮毛，发热恶寒",
-        "western": "前驱期/感染早期",
-        "classic": "《温病条辨》"
+        "western": "前驱期/感染早期"
       },
       {
         "aspect": "气分证",
+        "classic": "《温病条辨》",
         "tcm": "邪入脏腑，高热不退",
-        "western": "感染极期/全身炎症反应",
-        "classic": "《温病条辨》"
+        "western": "感染极期/全身炎症反应"
       },
       {
         "aspect": "营分证",
+        "classic": "《温病条辨》",
         "tcm": "热入心营，神昏谵语",
-        "western": "败血症/中枢神经受累",
-        "classic": "《温病条辨》"
+        "western": "败血症/中枢神经受累"
       },
       {
         "aspect": "血分证",
+        "classic": "《温病条辨》",
         "tcm": "动血耗血，出血发斑",
-        "western": "DIC/多器官功能障碍",
-        "classic": "《温病条辨》"
+        "western": "DIC/多器官功能障碍"
       }
-    ],
-    "related_syndrome": "syndrome_051",
-    "id": "mapping_071"
+    ]
   },
   {
+    "id": "mapping_072",
+    "category": "疾病",
     "chinese_term": "三焦湿热",
     "modern_term": "全身性感染/炎症反应 (Systemic Infection/Inflammatory Response)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_055",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "湿热病邪侵犯三焦",
-        "western": "细菌/病毒感染引发全身炎症",
-        "classic": "《温病条辨》"
+        "western": "细菌/病毒感染引发全身炎症"
       },
       {
         "aspect": "上焦",
+        "classic": "《温病条辨》",
         "tcm": "湿热郁遏肺卫",
-        "western": "上呼吸道感染症状",
-        "classic": "《温病条辨》"
+        "western": "上呼吸道感染症状"
       },
       {
         "aspect": "中焦",
+        "classic": "《温病条辨》",
         "tcm": "湿热困阻脾胃",
-        "western": "消化道症状（恶心呕吐腹泻）",
-        "classic": "《温病条辨》"
+        "western": "消化道症状（恶心呕吐腹泻）"
       },
       {
         "aspect": "下焦",
+        "classic": "《温病条辨》",
         "tcm": "湿热下注膀胱大肠",
-        "western": "泌尿/肠道症状",
-        "classic": "《温病条辨》"
+        "western": "泌尿/肠道症状"
       }
-    ],
-    "related_syndrome": "syndrome_055",
-    "id": "mapping_072"
+    ]
   },
   {
+    "id": "mapping_073",
+    "category": "疾病",
     "chinese_term": "太阳中风",
     "modern_term": "感冒表虚证 (Common Cold with Deficiency Pattern)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_016",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "风邪袭表，卫外不固",
-        "western": "病毒感染伴免疫力下降",
-        "classic": "《伤寒论》"
+        "western": "病毒感染伴免疫力下降"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "头痛发热、汗出恶风、脉浮缓",
-        "western": "低热、出汗、畏风",
-        "classic": "《伤寒论》"
+        "western": "低热、出汗、畏风"
       }
-    ],
-    "related_syndrome": "syndrome_016",
-    "id": "mapping_073"
+    ]
   },
   {
+    "id": "mapping_074",
+    "category": "疾病",
     "chinese_term": "阳明腑实",
     "modern_term": "急腹症/肠梗阻 (Acute Abdomen/Intestinal Obstruction)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_019",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "热邪入里与肠中糟粕相结",
-        "western": "肠内容物通过障碍",
-        "classic": "《伤寒论》"
+        "western": "肠内容物通过障碍"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "潮热、谵语、腹满硬痛、大便秘结",
-        "western": "腹痛、腹胀、停止排气排便",
-        "classic": "《伤寒论》"
+        "western": "腹痛、腹胀、停止排气排便"
       }
-    ],
-    "related_syndrome": "syndrome_019",
-    "id": "mapping_074"
+    ]
   },
   {
+    "id": "mapping_075",
+    "category": "疾病",
     "chinese_term": "经络病证",
     "modern_term": "周围神经病变/神经根病变 (Peripheral Neuropathy/Radiculopathy)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_061",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "经络气血运行不畅",
-        "western": "神经受压、缺血、炎症",
-        "classic": "《针灸甲乙经》"
+        "western": "神经受压、缺血、炎症"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "沿经络走行部位的疼痛麻木",
-        "western": "神经分布区域的疼痛、麻木、感觉异常",
-        "classic": "《针灸甲乙经》"
+        "western": "神经分布区域的疼痛、麻木、感觉异常"
       }
-    ],
-    "related_syndrome": "syndrome_061",
-    "id": "mapping_075"
+    ]
   },
   {
+    "id": "mapping_076",
+    "category": "疾病",
     "chinese_term": "跌打损伤",
     "modern_term": "软组织损伤/创伤 (Soft Tissue Injury/Trauma)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_068",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《黄帝内经》",
         "tcm": "跌仆、撞击、闪挫致气血瘀滞",
-        "western": "机械外力导致组织损伤",
-        "classic": "《黄帝内经》"
+        "western": "机械外力导致组织损伤"
       },
       {
         "aspect": "症状",
+        "classic": "《黄帝内经》",
         "tcm": "局部肿胀疼痛、瘀斑、活动受限",
-        "western": "红肿热痛、功能障碍",
-        "classic": "《黄帝内经》"
+        "western": "红肿热痛、功能障碍"
       }
-    ],
-    "related_syndrome": "syndrome_068",
-    "id": "mapping_076"
+    ]
   },
   {
     "id": "mapping_077",
+    "category": "疾病",
     "chinese_term": "肝火犯胃",
     "modern_term": "胃食管反流/应激性胃炎 (GERD/Stress Gastritis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_077",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "肝气郁结化火，横逆犯胃",
-        "western": "自主神经紊乱导致胃酸分泌异常",
-        "classic": "《脾胃论》"
+        "western": "自主神经紊乱导致胃酸分泌异常"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "胃脘灼痛、嘈杂吞酸、急躁易怒",
-        "western": "烧心、反酸、上腹灼痛",
-        "classic": "《脾胃论》"
+        "western": "烧心、反酸、上腹灼痛"
       }
-    ],
-    "related_syndrome": "syndrome_077"
+    ]
   },
   {
     "id": "mapping_078",
+    "category": "疾病",
     "chinese_term": "肝胆湿热",
     "modern_term": "肝胆系统感染/炎症 (Hepatobiliary Infection/Inflammation)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_070",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿热蕴结肝胆",
-        "western": "细菌/病毒感染或胆道梗阻",
-        "classic": "《金匮要略》"
+        "western": "细菌/病毒感染或胆道梗阻"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "胁肋胀痛、口苦、黄疸、小便黄赤",
-        "western": "右上腹痛、黄疸、发热",
-        "classic": "《金匮要略》"
+        "western": "右上腹痛、黄疸、发热"
       }
-    ],
-    "related_syndrome": "syndrome_070"
+    ]
   },
   {
     "id": "mapping_079",
+    "category": "疾病",
     "chinese_term": "肾阴虚",
     "modern_term": "肾上腺皮质功能减退/更年期综合征 (Adrenal Insufficiency/Menopause)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_079",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "久病伤肾、房劳过度、热病伤阴",
-        "western": "内分泌轴功能减退",
-        "classic": "《金匮要略》"
+        "western": "内分泌轴功能减退"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "腰膝酸痛、头晕耳鸣、潮热盗汗",
-        "western": "潮热、盗汗、骨质疏松",
-        "classic": "《金匮要略》"
+        "western": "潮热、盗汗、骨质疏松"
       }
-    ],
-    "related_syndrome": "syndrome_079"
+    ]
   },
   {
     "id": "mapping_080",
+    "category": "疾病",
     "chinese_term": "脾肾阳虚",
     "modern_term": "慢性消耗性疾病/代谢低下 (Chronic Wasting/Hypometabolism)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_075",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "久病耗伤阳气",
-        "western": "慢性消耗性疾病、甲状腺功能减退",
-        "classic": "《脾胃论》"
+        "western": "慢性消耗性疾病、甲状腺功能减退"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "形寒肢冷、腰膝冷痛、五更泄泻",
-        "western": "畏寒、疲乏、代谢低下",
-        "classic": "《脾胃论》"
+        "western": "畏寒、疲乏、代谢低下"
       }
-    ],
-    "related_syndrome": "syndrome_075"
+    ]
   },
   {
     "id": "mapping_081",
+    "category": "疾病",
     "chinese_term": "痰瘀互结",
     "modern_term": "动脉粥样硬化/代谢综合征 (Atherosclerosis/Metabolic Syndrome)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_080",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "痰浊与瘀血相互搏结",
-        "western": "脂质沉积+血管内皮损伤",
-        "classic": "《金匮要略》"
+        "western": "脂质沉积+血管内皮损伤"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "胸闷刺痛、肢体麻木、舌质紫暗有瘀斑",
-        "western": "血管狭窄、组织缺血",
-        "classic": "《金匮要略》"
+        "western": "血管狭窄、组织缺血"
       }
-    ],
-    "related_syndrome": "syndrome_080"
+    ]
   },
   {
     "id": "mapping_082",
+    "category": "疾病",
     "chinese_term": "湿热蕴肤",
     "modern_term": "湿疹/皮炎 (Eczema/Dermatitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_078",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿热之邪蕴结皮肤",
-        "western": "免疫介导的皮肤炎症反应",
-        "classic": "《金匮要略》"
+        "western": "免疫介导的皮肤炎症反应"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "皮肤瘙痒、红斑、丘疹、糜烂渗出",
-        "western": "皮肤炎症、瘙痒、渗液",
-        "classic": "《金匮要略》"
+        "western": "皮肤炎症、瘙痒、渗液"
       }
-    ],
-    "related_syndrome": "syndrome_078"
+    ]
   },
   {
     "id": "mapping_083",
+    "category": "疾病",
     "chinese_term": "风寒湿痹",
     "modern_term": "风湿性关节炎/骨关节炎 (Rheumatic Arthritis/Osteoarthritis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_084",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风寒湿邪侵袭关节经络",
-        "western": "免疫或退行性关节病变",
-        "classic": "《针灸甲乙经》"
+        "western": "免疫或退行性关节病变"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "关节疼痛、重着、屈伸不利",
-        "western": "关节肿痛、晨僵、活动受限",
-        "classic": "《针灸甲乙经》"
+        "western": "关节肿痛、晨僵、活动受限"
       }
-    ],
-    "related_syndrome": "syndrome_084"
+    ]
   },
   {
     "id": "mapping_084",
+    "category": "疾病",
     "chinese_term": "瘀血阻络",
     "modern_term": "周围血管病/微循环障碍 (Peripheral Vascular Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_085",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "血行不畅、瘀阻脉络",
-        "western": "血管病变、血流障碍",
-        "classic": "《针灸甲乙经》"
+        "western": "血管病变、血流障碍"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "局部刺痛、青紫肿胀、脉络瘀阻",
-        "western": "缺血、瘀血、组织缺氧",
-        "classic": "《针灸甲乙经》"
+        "western": "缺血、瘀血、组织缺氧"
       }
-    ],
-    "related_syndrome": "syndrome_085"
+    ]
   },
   {
     "id": "mapping_085",
+    "category": "疾病",
     "chinese_term": "心脾两虚",
     "modern_term": "慢性疲劳综合征/神经衰弱 (Chronic Fatigue/Neurasthenia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_086",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "思虑过度、劳伤心脾",
-        "western": "长期应激导致的自主神经功能紊乱",
-        "classic": "《脾胃论》"
+        "western": "长期应激导致的自主神经功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "心悸失眠、食少倦怠、面色萎黄",
-        "western": "慢性疲劳、睡眠障碍、食欲减退",
-        "classic": "《脾胃论》"
+        "western": "慢性疲劳、睡眠障碍、食欲减退"
       }
-    ],
-    "related_syndrome": "syndrome_086"
+    ]
   },
   {
     "id": "mapping_086",
+    "category": "疾病",
     "chinese_term": "气虚血弱",
     "modern_term": "贫血/营养不良 (Anemia/Malnutrition)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_087",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "脾胃虚弱、气血生化不足",
-        "western": "营养摄入不足或吸收障碍",
-        "classic": "《金匮要略》"
+        "western": "营养摄入不足或吸收障碍"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "面色苍白、神疲乏力、头晕心悸",
-        "western": "贫血症状、免疫功能低下",
-        "classic": "《金匮要略》"
+        "western": "贫血症状、免疫功能低下"
       }
-    ],
-    "related_syndrome": "syndrome_087"
+    ]
   },
   {
     "id": "mapping_087",
+    "category": "疾病",
     "chinese_term": "风邪犯表",
     "modern_term": "过敏性鼻炎/荨麻疹 (Allergic Rhinitis/Urticaria)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_088",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《黄帝内经》",
         "tcm": "风邪外袭、郁于肌表",
-        "western": "过敏原刺激肥大细胞释放组胺",
-        "classic": "《黄帝内经》"
+        "western": "过敏原刺激肥大细胞释放组胺"
       },
       {
         "aspect": "症状",
+        "classic": "《黄帝内经》",
         "tcm": "鼻塞流涕、皮肤瘙痒、风团",
-        "western": "鼻塞流涕、皮疹、瘙痒",
-        "classic": "《黄帝内经》"
+        "western": "鼻塞流涕、皮疹、瘙痒"
       }
-    ],
-    "related_syndrome": "syndrome_088"
+    ]
   },
   {
     "id": "mapping_088",
+    "category": "疾病",
     "chinese_term": "湿热痔疾",
     "modern_term": "痔疮/肛周疾病 (Hemorrhoids/Perianal Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_089",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿热下注、气血瘀滞",
-        "western": "直肠静脉丛曲张、局部炎症",
-        "classic": "《金匮要略》"
+        "western": "直肠静脉丛曲张、局部炎症"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "肛门坠胀、疼痛、便血",
-        "western": "肛门疼痛、出血、脱出",
-        "classic": "《金匮要略》"
+        "western": "肛门疼痛、出血、脱出"
       }
-    ],
-    "related_syndrome": "syndrome_089"
+    ]
   },
   {
     "id": "mapping_089",
+    "category": "疾病",
     "chinese_term": "胃热炽盛",
     "modern_term": "急性胃炎/胃酸过多 (Acute Gastritis/Hyperacidity)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_072",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "过食辛辣、热邪犯胃",
-        "western": "胃酸分泌过多、胃黏膜损伤",
-        "classic": "《脾胃论》"
+        "western": "胃酸分泌过多、胃黏膜损伤"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "胃脘灼痛、消谷善饥、口臭齿衄",
-        "western": "上腹灼痛、反酸、口腔异味",
-        "classic": "《脾胃论》"
+        "western": "上腹灼痛、反酸、口腔异味"
       }
-    ],
-    "related_syndrome": "syndrome_072"
+    ]
   },
   {
     "id": "mapping_090",
+    "category": "疾病",
     "chinese_term": "暑湿感冒",
     "modern_term": "夏季热伤风/流感 (Summer Flu/Influenza)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_069",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "暑湿之邪外袭",
-        "western": "夏季病毒感染",
-        "classic": "《伤寒论》"
+        "western": "夏季病毒感染"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "发热微恶寒、头重如裹、胸闷脘痞",
-        "western": "发热、头痛、乏力、消化道症状",
-        "classic": "《伤寒论》"
+        "western": "发热、头痛、乏力、消化道症状"
       }
-    ],
-    "related_syndrome": "syndrome_069"
+    ]
   },
   {
     "id": "mapping_091",
+    "category": "疾病",
     "chinese_term": "风热犯表",
     "modern_term": "上呼吸道感染/咽炎 (URI/Pharyngitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_003",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "风热之邪外袭肺卫",
-        "western": "细菌/病毒感染咽部",
-        "classic": "《脾胃论》"
+        "western": "细菌/病毒感染咽部"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "发热重恶寒轻、咽痛、口渴",
-        "western": "咽痛、发热、扁桃体肿大",
-        "classic": "《脾胃论》"
+        "western": "咽痛、发热、扁桃体肿大"
       }
-    ],
-    "related_syndrome": "syndrome_003"
+    ]
   },
   {
     "id": "mapping_092",
+    "category": "疾病",
     "chinese_term": "胆石阻滞",
     "modern_term": "胆石症/胆囊炎 (Cholelithiasis/Cholecystitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_071",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝胆湿热煎熬胆汁成石",
-        "western": "胆汁成分改变形成结石",
-        "classic": "《金匮要略》"
+        "western": "胆汁成分改变形成结石"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "右胁绞痛、口苦、黄疸",
-        "western": "右上腹绞痛、Murphy征阳性",
-        "classic": "《金匮要略》"
+        "western": "右上腹绞痛、Murphy征阳性"
       }
-    ],
-    "related_syndrome": "syndrome_071"
+    ]
   },
   {
     "id": "mapping_093",
+    "category": "疾病",
     "chinese_term": "肝胃不和",
     "modern_term": "功能性消化不良/应激性溃疡 (Functional Dyspepsia/Stress Ulcer)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_073",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "肝气郁结、横逆犯胃",
-        "western": "自主神经功能紊乱影响胃肠功能",
-        "classic": "《脾胃论》"
+        "western": "自主神经功能紊乱影响胃肠功能"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "胃脘胀痛、嗳气、情志不畅加重",
-        "western": "腹胀、嗳气、与情绪相关的消化道症状",
-        "classic": "《脾胃论》"
+        "western": "腹胀、嗳气、与情绪相关的消化道症状"
       }
-    ],
-    "related_syndrome": "syndrome_073"
+    ]
   },
   {
     "id": "mapping_094",
+    "category": "疾病",
     "chinese_term": "肺阴虚",
     "modern_term": "慢性支气管炎/COPD阴虚型 (Chronic Bronchitis with Yin Deficiency)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_006",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "久咳伤阴、燥热伤肺",
-        "western": "慢性炎症消耗、免疫功能异常",
-        "classic": "《金匮要略》"
+        "western": "慢性炎症消耗、免疫功能异常"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "干咳少痰、咽干口燥、潮热盗汗",
-        "western": "慢性干咳、黏膜干燥",
-        "classic": "《金匮要略》"
+        "western": "慢性干咳、黏膜干燥"
       }
-    ],
-    "related_syndrome": "syndrome_006"
+    ]
   },
   {
     "id": "mapping_095",
+    "category": "疾病",
     "chinese_term": "血虚",
     "modern_term": "贫血 (Anemia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_010",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "失血过多、脾胃虚弱生血不足",
-        "western": "缺铁、维生素B12/叶酸缺乏、骨髓造血障碍",
-        "classic": "《金匮要略》"
+        "western": "缺铁、维生素B12/叶酸缺乏、骨髓造血障碍"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "面色萎黄、头晕眼花、心悸失眠",
-        "western": "皮肤黏膜苍白、疲乏、头晕",
-        "classic": "《金匮要略》"
+        "western": "皮肤黏膜苍白、疲乏、头晕"
       }
-    ],
-    "related_syndrome": "syndrome_010"
+    ]
   },
   {
     "id": "mapping_096",
+    "category": "疾病",
     "chinese_term": "气虚血瘀",
     "modern_term": "慢性缺血性疾病 (Chronic Ischemic Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_015",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气虚推动无力致血行瘀滞",
-        "western": "心功能减退致末梢循环障碍",
-        "classic": "《金匮要略》"
+        "western": "心功能减退致末梢循环障碍"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "疲乏无力、局部刺痛、舌质淡紫",
-        "western": "末梢循环不良、组织缺氧",
-        "classic": "《金匮要略》"
+        "western": "末梢循环不良、组织缺氧"
       }
-    ],
-    "related_syndrome": "syndrome_015"
+    ]
   },
   {
     "id": "mapping_097",
+    "category": "疾病",
     "chinese_term": "太阳伤寒",
     "modern_term": "重症感冒/流感 (Severe Cold/Flu)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_017",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "寒邪外束，卫阳被遏",
-        "western": "严重病毒感染",
-        "classic": "《伤寒论》"
+        "western": "严重病毒感染"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "恶寒、发热、无汗、头身疼痛",
-        "western": "高热、寒战、肌痛",
-        "classic": "《伤寒论》"
+        "western": "高热、寒战、肌痛"
       }
-    ],
-    "related_syndrome": "syndrome_017"
+    ]
   },
   {
     "id": "mapping_098",
+    "category": "疾病",
     "chinese_term": "阳明经证",
     "modern_term": "高热/全身炎症反应综合征 (Hyperthermia/SIRS)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_018",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "邪热炽盛于阳明经",
-        "western": "严重感染致全身炎症反应",
-        "classic": "《伤寒论》"
+        "western": "严重感染致全身炎症反应"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "大热、大汗、大渴、脉洪大",
-        "western": "高热39℃以上、心动过速、呼吸急促",
-        "classic": "《伤寒论》"
+        "western": "高热39℃以上、心动过速、呼吸急促"
       }
-    ],
-    "related_syndrome": "syndrome_018"
+    ]
   },
   {
     "id": "mapping_099",
+    "category": "疾病",
     "chinese_term": "太阴病",
     "modern_term": "慢性消化功能紊乱 (Chronic Digestive Dysfunction)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_021",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "脾阳虚衰，寒湿内生",
-        "western": "慢性胃肠功能减退",
-        "classic": "《伤寒论》"
+        "western": "慢性胃肠功能减退"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "腹满而吐、食不下、自利益甚",
-        "western": "腹胀、食欲不振、慢性腹泻",
-        "classic": "《伤寒论》"
+        "western": "腹胀、食欲不振、慢性腹泻"
       }
-    ],
-    "related_syndrome": "syndrome_021"
+    ]
   },
   {
     "id": "mapping_100",
+    "category": "疾病",
     "chinese_term": "少阴寒化",
     "modern_term": "休克/多器官功能衰竭早期 (Shock/Early MOF)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_022",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "心肾阳虚，阴寒内盛",
-        "western": "循环衰竭、组织灌注不足",
-        "classic": "《伤寒论》"
+        "western": "循环衰竭、组织灌注不足"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "脉微细、但欲寐、四肢厥冷",
-        "western": "低血压、意识障碍、四肢冷",
-        "classic": "《伤寒论》"
+        "western": "低血压、意识障碍、四肢冷"
       }
-    ],
-    "related_syndrome": "syndrome_022"
+    ]
   },
   {
     "id": "mapping_101",
+    "category": "疾病",
     "chinese_term": "少阴热化",
     "modern_term": "慢性消耗性发热 (Chronic Consumptive Fever)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_023",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "阴虚火旺，心肾不交",
-        "western": "慢性炎症、自主神经功能紊乱",
-        "classic": "《伤寒论》"
+        "western": "慢性炎症、自主神经功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "心烦不寐、口燥咽干",
-        "western": "失眠、口咽干燥、低热",
-        "classic": "《伤寒论》"
+        "western": "失眠、口咽干燥、低热"
       }
-    ],
-    "related_syndrome": "syndrome_023"
+    ]
   },
   {
     "id": "mapping_102",
+    "category": "疾病",
     "chinese_term": "厥阴病",
     "modern_term": "多系统功能紊乱 (Multi-system Dysfunction)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_024",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "寒热错杂，阴阳气不相顺接",
-        "western": "自主神经失调、内分泌紊乱",
-        "classic": "《伤寒论》"
+        "western": "自主神经失调、内分泌紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "消渴、气上撞心、心中疼热、饥而不欲食",
-        "western": "复杂多样的全身症状",
-        "classic": "《伤寒论》"
+        "western": "复杂多样的全身症状"
       }
-    ],
-    "related_syndrome": "syndrome_024"
+    ]
   },
   {
     "id": "mapping_103",
+    "category": "疾病",
     "chinese_term": "结胸证",
     "modern_term": "急性胸腹膜炎 (Acute Pleurisy/Peritonitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_025",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "水热互结于胸腹",
-        "western": "胸腹腔急性炎症渗出",
-        "classic": "《伤寒论》"
+        "western": "胸腹腔急性炎症渗出"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "心下痛、按之石硬、从心下至少腹硬满而痛",
-        "western": "急性腹痛、腹肌紧张、反跳痛",
-        "classic": "《伤寒论》"
+        "western": "急性腹痛、腹肌紧张、反跳痛"
       }
-    ],
-    "related_syndrome": "syndrome_025"
+    ]
   },
   {
     "id": "mapping_104",
+    "category": "疾病",
     "chinese_term": "痞证",
     "modern_term": "功能性消化不良/胃轻瘫 (Functional Dyspepsia/Gastroparesis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_026",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《伤寒论》",
         "tcm": "寒热错杂、脾胃升降失常",
-        "western": "胃动力障碍、幽门功能失调",
-        "classic": "《伤寒论》"
+        "western": "胃动力障碍、幽门功能失调"
       },
       {
         "aspect": "症状",
+        "classic": "《伤寒论》",
         "tcm": "心下痞满、按之濡",
-        "western": "上腹胀满、早饱感",
-        "classic": "《伤寒论》"
+        "western": "上腹胀满、早饱感"
       }
-    ],
-    "related_syndrome": "syndrome_026"
+    ]
   },
   {
     "id": "mapping_105",
+    "category": "疾病",
     "chinese_term": "咳嗽·风寒袭肺",
     "modern_term": "急性支气管炎(风寒型) (Acute Bronchitis - Wind-Cold)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_036",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "风寒袭肺、肺失宣降",
-        "western": "病毒/细菌感染致气道炎症",
-        "classic": "《金匮要略》"
+        "western": "病毒/细菌感染致气道炎症"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "咳嗽声重、痰白稀薄、恶寒发热",
-        "western": "咳嗽、白色稀痰",
-        "classic": "《金匮要略》"
+        "western": "咳嗽、白色稀痰"
       }
-    ],
-    "related_syndrome": "syndrome_036"
+    ]
   },
   {
     "id": "mapping_106",
+    "category": "疾病",
     "chinese_term": "咳嗽·痰热壅肺",
     "modern_term": "急性支气管炎/肺炎(痰热型) (Pneumonia/Bronchitis - Phlegm-Heat)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_037",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "痰热壅肺、肺失清肃",
-        "western": "细菌感染致脓性分泌物",
-        "classic": "《金匮要略》"
+        "western": "细菌感染致脓性分泌物"
       },
       {
         "aspect": "症状",
+        "classic": "《金匮要略》",
         "tcm": "咳嗽气粗、痰黄黏稠、发热口渴",
-        "western": "咳嗽、黄脓痰、发热",
-        "classic": "《金匮要略》"
+        "western": "咳嗽、黄脓痰、发热"
       }
-    ],
-    "related_syndrome": "syndrome_037"
+    ]
   },
   {
     "id": "mapping_107",
+    "category": "疾病",
     "chinese_term": "呕吐·寒邪犯胃",
     "modern_term": "急性胃炎/胃肠型感冒 (Acute Gastritis/Gastric Flu)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_039",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "寒邪犯胃、胃失和降",
-        "western": "寒冷刺激或感染致胃功能紊乱",
-        "classic": "《脾胃论》"
+        "western": "寒冷刺激或感染致胃功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "呕吐清水、胃脘冷痛",
-        "western": "恶心呕吐、上腹不适",
-        "classic": "《脾胃论》"
+        "western": "恶心呕吐、上腹不适"
       }
-    ],
-    "related_syndrome": "syndrome_039"
+    ]
   },
   {
     "id": "mapping_108",
+    "category": "疾病",
     "chinese_term": "泄泻·寒湿困脾",
     "modern_term": "急性肠炎/肠易激综合征(腹泻型) (Acute Enteritis/IBS-D)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_040",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "寒湿内侵、脾失健运",
-        "western": "肠道感染或功能紊乱",
-        "classic": "《脾胃论》"
+        "western": "肠道感染或功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "泄泻清稀、腹痛肠鸣",
-        "western": "水样便、腹痛",
-        "classic": "《脾胃论》"
+        "western": "水样便、腹痛"
       }
-    ],
-    "related_syndrome": "syndrome_040"
+    ]
   },
   {
     "id": "mapping_109",
+    "category": "症状",
     "chinese_term": "头痛·风寒头痛",
     "modern_term": "紧张性头痛/偏头痛(风寒型) (Tension Headache/Migraine)",
-    "category": "症状",
+    "related_syndrome": "syndrome_042",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风寒外袭、清阳被遏",
-        "western": "头颈部肌肉紧张、血管收缩",
-        "classic": "《针灸甲乙经》"
+        "western": "头颈部肌肉紧张、血管收缩"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "头痛连项、遇风加重",
-        "western": "颈部僵硬、头痛",
-        "classic": "《针灸甲乙经》"
+        "western": "颈部僵硬、头痛"
       }
-    ],
-    "related_syndrome": "syndrome_042"
+    ]
   },
   {
     "id": "mapping_110",
+    "category": "症状",
     "chinese_term": "腰痛·寒湿腰痛",
     "modern_term": "腰肌劳损/腰椎间盘突出 (Lumbar Strain/Disc Herniation)",
-    "category": "症状",
+    "related_syndrome": "syndrome_044",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "寒湿侵袭、气血凝滞",
-        "western": "肌肉劳损、椎间盘退行性变",
-        "classic": "《针灸甲乙经》"
+        "western": "肌肉劳损、椎间盘退行性变"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "腰部冷痛重着、转侧不利",
-        "western": "腰痛、活动受限",
-        "classic": "《针灸甲乙经》"
+        "western": "腰痛、活动受限"
       }
-    ],
-    "related_syndrome": "syndrome_044"
+    ]
   },
   {
     "id": "mapping_111",
+    "category": "心理",
     "chinese_term": "不寐·心脾两虚",
     "modern_term": "慢性失眠(心脾两虚型) (Chronic Insomnia - Heart-Spleen Deficiency)",
-    "category": "心理",
+    "related_syndrome": "syndrome_045",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "思虑过度、劳伤心脾",
-        "western": "心理应激、自主神经功能紊乱",
-        "classic": "《脾胃论》"
+        "western": "心理应激、自主神经功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《脾胃论》",
         "tcm": "入睡困难、多梦易醒、心悸健忘",
-        "western": "失眠、注意力不集中",
-        "classic": "《脾胃论》"
+        "western": "失眠、注意力不集中"
       }
-    ],
-    "related_syndrome": "syndrome_045"
+    ]
   },
   {
     "id": "mapping_112",
+    "category": "疾病",
     "chinese_term": "淋证·热淋",
     "modern_term": "急性泌尿系感染 (Acute UTI)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_047",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "湿热下注膀胱",
-        "western": "细菌感染尿道/膀胱",
-        "classic": "《温病条辨》"
+        "western": "细菌感染尿道/膀胱"
       },
       {
         "aspect": "症状",
+        "classic": "《温病条辨》",
         "tcm": "小便频急涩痛、小腹拘急",
-        "western": "尿频、尿急、尿痛",
-        "classic": "《温病条辨》"
+        "western": "尿频、尿急、尿痛"
       }
-    ],
-    "related_syndrome": "syndrome_047"
+    ]
   },
   {
     "id": "mapping_113",
+    "category": "疾病",
     "chinese_term": "痿证",
     "modern_term": "肌无力/运动神经元病 (Myasthenia/Motor Neuron Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_048",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "脾胃虚弱、肝肾亏虚致筋脉失养",
-        "western": "神经肌肉接头或运动神经元病变",
-        "classic": "《针灸甲乙经》"
+        "western": "神经肌肉接头或运动神经元病变"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "肢体痿软无力、肌肉萎缩",
-        "western": "肌力减退、肌肉萎缩",
-        "classic": "《针灸甲乙经》"
+        "western": "肌力减退、肌肉萎缩"
       }
-    ],
-    "related_syndrome": "syndrome_048"
+    ]
   },
   {
     "id": "mapping_114",
+    "category": "疾病",
     "chinese_term": "气分证",
     "modern_term": "感染极期/全身炎症反应 (Peak Infection/SIRS)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_052",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "邪热入里、正邪交争剧烈",
-        "western": "感染高峰期全身炎症反应",
-        "classic": "《温病条辨》"
+        "western": "感染高峰期全身炎症反应"
       },
       {
         "aspect": "症状",
+        "classic": "《温病条辨》",
         "tcm": "高热、大汗、口渴、脉洪大",
-        "western": "高热、心率增快、呼吸急促",
-        "classic": "《温病条辨》"
+        "western": "高热、心率增快、呼吸急促"
       }
-    ],
-    "related_syndrome": "syndrome_052"
+    ]
   },
   {
     "id": "mapping_115",
+    "category": "疾病",
     "chinese_term": "营分证",
     "modern_term": "败血症/脓毒症 (Sepsis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_053",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "热入营阴、心神被扰",
-        "western": "病原体入血、全身感染",
-        "classic": "《温病条辨》"
+        "western": "病原体入血、全身感染"
       },
       {
         "aspect": "症状",
+        "classic": "《温病条辨》",
         "tcm": "身热夜甚、心烦不寐、时有谵语",
-        "western": "发热、意识模糊、心率增快",
-        "classic": "《温病条辨》"
+        "western": "发热、意识模糊、心率增快"
       }
-    ],
-    "related_syndrome": "syndrome_053"
+    ]
   },
   {
     "id": "mapping_116",
+    "category": "疾病",
     "chinese_term": "血分证",
     "modern_term": "弥散性血管内凝血/多器官功能障碍 (DIC/MODS)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_054",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "热入血分、耗血动血",
-        "western": "凝血功能障碍、微循环衰竭",
-        "classic": "《温病条辨》"
+        "western": "凝血功能障碍、微循环衰竭"
       },
       {
         "aspect": "症状",
+        "classic": "《温病条辨》",
         "tcm": "出血、发斑、神昏谵语",
-        "western": "出血倾向、紫癜、意识障碍",
-        "classic": "《温病条辨》"
+        "western": "出血倾向、紫癜、意识障碍"
       }
-    ],
-    "related_syndrome": "syndrome_054"
+    ]
   },
   {
     "id": "mapping_117",
+    "category": "疾病",
     "chinese_term": "中焦湿热",
     "modern_term": "急性胃肠炎/消化不良 (Acute Gastroenteritis/Dyspepsia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_056",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "湿热困阻中焦脾胃",
-        "western": "急性胃肠道感染或功能紊乱",
-        "classic": "《温病条辨》"
+        "western": "急性胃肠道感染或功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《温病条辨》",
         "tcm": "脘腹痞闷、恶心呕吐、大便溏泄",
-        "western": "腹胀、恶心、腹泻",
-        "classic": "《温病条辨》"
+        "western": "腹胀、恶心、腹泻"
       }
-    ],
-    "related_syndrome": "syndrome_056"
+    ]
   },
   {
     "id": "mapping_118",
+    "category": "疾病",
     "chinese_term": "下焦湿热",
     "modern_term": "泌尿生殖系统感染 (Urogenital Infection)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_057",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "湿热下注膀胱大肠",
-        "western": "泌尿系或肠道感染",
-        "classic": "《温病条辨》"
+        "western": "泌尿系或肠道感染"
       },
       {
         "aspect": "症状",
+        "classic": "《温病条辨》",
         "tcm": "小便淋沥涩痛、大便黏滞不爽",
-        "western": "尿路刺激症状、排便异常",
-        "classic": "《温病条辨》"
+        "western": "尿路刺激症状、排便异常"
       }
-    ],
-    "related_syndrome": "syndrome_057"
+    ]
   },
   {
     "id": "mapping_119",
+    "category": "疾病",
     "chinese_term": "手阳明大肠经病证",
     "modern_term": "消化系统功能紊乱 (Digestive Dysfunction)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_062",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "大肠经气血失调",
-        "western": "肠道功能紊乱",
-        "classic": "《针灸甲乙经》"
+        "western": "肠道功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "腹痛、肠鸣、便秘或泄泻",
-        "western": "腹部不适、排便异常",
-        "classic": "《针灸甲乙经》"
+        "western": "腹部不适、排便异常"
       }
-    ],
-    "related_syndrome": "syndrome_062"
+    ]
   },
   {
     "id": "mapping_120",
+    "category": "疾病",
     "chinese_term": "足阳明胃经病证",
     "modern_term": "胃功能障碍 (Gastric Dysfunction)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_063",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "胃经气血失调",
-        "western": "胃动力或分泌功能紊乱",
-        "classic": "《针灸甲乙经》"
+        "western": "胃动力或分泌功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "胃痛、腹胀、呃逆",
-        "western": "上腹不适、消化不良",
-        "classic": "《针灸甲乙经》"
+        "western": "上腹不适、消化不良"
       }
-    ],
-    "related_syndrome": "syndrome_063"
+    ]
   },
   {
     "id": "mapping_121",
+    "category": "疾病",
     "chinese_term": "足太阳膀胱经病证",
     "modern_term": "泌尿/脊柱相关疾病 (Urological/Spinal Disorders)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_064",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "膀胱经气血失调",
-        "western": "泌尿或脊柱病变",
-        "classic": "《针灸甲乙经》"
+        "western": "泌尿或脊柱病变"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "小便不利、腰背疼痛",
-        "western": "排尿异常、腰背痛",
-        "classic": "《针灸甲乙经》"
+        "western": "排尿异常、腰背痛"
       }
-    ],
-    "related_syndrome": "syndrome_064"
+    ]
   },
   {
     "id": "mapping_122",
+    "category": "疾病",
     "chinese_term": "消渴·中消",
     "modern_term": "2型糖尿病(胃热型) (T2DM - Stomach Heat Pattern)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_082",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《温病条辨》",
         "tcm": "胃热炽盛、消谷耗津",
-        "western": "胰岛素抵抗、糖代谢异常",
-        "classic": "《温病条辨》"
+        "western": "胰岛素抵抗、糖代谢异常"
       },
       {
         "aspect": "症状",
+        "classic": "《温病条辨》",
         "tcm": "多食易饥、口渴、消瘦",
-        "western": "多食、体重下降、血糖升高",
-        "classic": "《温病条辨》"
+        "western": "多食、体重下降、血糖升高"
       }
-    ],
-    "related_syndrome": "syndrome_082"
+    ]
   },
   {
     "id": "mapping_123",
+    "category": "疾病",
     "chinese_term": "肺经风热",
     "modern_term": "上呼吸道感染/急性鼻炎 (URI/Acute Rhinitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_083",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风热犯肺、肺失清肃",
-        "western": "病毒/细菌感染上呼吸道",
-        "classic": "《针灸甲乙经》"
+        "western": "病毒/细菌感染上呼吸道"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "鼻塞、流黄涕、咽喉肿痛",
-        "western": "鼻塞、脓涕、咽痛",
-        "classic": "《针灸甲乙经》"
+        "western": "鼻塞、脓涕、咽痛"
       }
-    ],
-    "related_syndrome": "syndrome_083"
+    ]
   },
   {
     "id": "mapping_124",
+    "category": "疾病",
     "chinese_term": "痹证·行痹",
     "modern_term": "游走性关节炎 (Migratory Arthritis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_027",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风邪偏盛、痹阻经络",
-        "western": "自身免疫介导的关节炎",
-        "classic": "《针灸甲乙经》"
+        "western": "自身免疫介导的关节炎"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "肢体关节酸痛、游走不定",
-        "western": "关节游走性肿痛",
-        "classic": "《针灸甲乙经》"
+        "western": "关节游走性肿痛"
       }
-    ],
-    "related_syndrome": "syndrome_027"
+    ]
   },
   {
     "id": "mapping_125",
+    "category": "疾病",
     "chinese_term": "肝经郁热",
     "modern_term": "慢性肝炎/自主神经功能紊乱 (Chronic Hepatitis/Autonomic Dysfunction)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_081",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "情志不遂、肝气郁结化热",
-        "western": "慢性肝炎、自主神经功能紊乱",
-        "classic": "《针灸甲乙经》"
+        "western": "慢性肝炎、自主神经功能紊乱"
       },
       {
         "aspect": "症状",
+        "classic": "《针灸甲乙经》",
         "tcm": "胁肋灼痛、急躁易怒、口干口苦",
-        "western": "右上腹不适、情绪波动、口腔干燥",
-        "classic": "《针灸甲乙经》"
+        "western": "右上腹不适、情绪波动、口腔干燥"
       }
-    ],
-    "related_syndrome": "syndrome_081"
+    ]
   },
   {
     "id": "mapping_126",
+    "category": "疾病",
     "chinese_term": "乳腺增生",
     "modern_term": "乳腺增生症 (Hyperplasia of Mammary Glands)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝郁气滞，痰瘀互结于乳络",
-        "western": "雌激素/孕激素比例失调导致乳腺导管和小叶增生",
-        "classic": "《金匮要略》"
+        "western": "雌激素/孕激素比例失调导致乳腺导管和小叶增生"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "乳头属肝、乳房属胃，气滞痰凝发为乳癖",
-        "western": "终末导管小叶单位的上皮及间质增生，纤维囊性变",
-        "classic": "《金匮要略》"
+        "western": "终末导管小叶单位的上皮及间质增生，纤维囊性变"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_127",
+    "category": "疾病",
     "chinese_term": "乳腺结节",
     "modern_term": "乳腺结节 (Breast Nodule)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝郁痰凝，瘀血阻络",
-        "western": "乳腺组织局部增生形成孤立或多发结节",
-        "classic": "《金匮要略》"
+        "western": "乳腺组织局部增生形成孤立或多发结节"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "七情内伤致肝气不舒，气滞血瘀痰凝于乳",
-        "western": "纤维腺瘤、囊性增生或腺病等多种病理表现",
-        "classic": "《金匮要略》"
+        "western": "纤维腺瘤、囊性增生或腺病等多种病理表现"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_128",
+    "category": "疾病",
     "chinese_term": "乳腺炎",
     "modern_term": "乳腺炎 (Mastitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_081",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "肝胃郁热，乳汁淤积化热成痈",
-        "western": "细菌感染（多为金黄色葡萄球菌）致乳腺急性炎症",
-        "classic": "《针灸甲乙经》"
+        "western": "细菌感染（多为金黄色葡萄球菌）致乳腺急性炎症"
       },
       {
         "aspect": "病理机制",
+        "classic": "《针灸甲乙经》",
         "tcm": "厥阴肝经、阳明胃经郁热壅滞乳络",
-        "western": "乳腺导管阻塞→继发细菌感染→脓肿形成",
-        "classic": "《针灸甲乙经》"
+        "western": "乳腺导管阻塞→继发细菌感染→脓肿形成"
       }
-    ],
-    "related_syndrome": "syndrome_081"
+    ]
   },
   {
     "id": "mapping_129",
+    "category": "疾病",
     "chinese_term": "子宫内膜异位症",
     "modern_term": "子宫内膜异位症 (Endometriosis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_008",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "瘀血阻滞胞宫、冲任失调",
-        "western": "具有生长功能的子宫内膜组织异位至宫腔外",
-        "classic": "《金匮要略》"
+        "western": "具有生长功能的子宫内膜组织异位至宫腔外"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "经产留瘀、瘀血不去碍新血化生",
-        "western": "异位内膜周期性出血→炎症反应→纤维化粘连",
-        "classic": "《金匮要略》"
+        "western": "异位内膜周期性出血→炎症反应→纤维化粘连"
       }
-    ],
-    "related_syndrome": "syndrome_008"
+    ]
   },
   {
     "id": "mapping_130",
+    "category": "疾病",
     "chinese_term": "多囊卵巢综合征",
     "modern_term": "多囊卵巢综合征 (PCOS)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_094",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "肾虚为本、痰瘀为标",
-        "western": "下丘脑-垂体-卵巢轴功能紊乱及胰岛素抵抗",
-        "classic": "《脾胃论》"
+        "western": "下丘脑-垂体-卵巢轴功能紊乱及胰岛素抵抗"
       },
       {
         "aspect": "病理机制",
+        "classic": "《脾胃论》",
         "tcm": "肾虚不能化精，痰湿脂膜壅塞胞宫",
-        "western": "卵泡发育停滞→卵巢多囊样变→高雄激素血症",
-        "classic": "《脾胃论》"
+        "western": "卵泡发育停滞→卵巢多囊样变→高雄激素血症"
       }
-    ],
-    "related_syndrome": "syndrome_094"
+    ]
   },
   {
     "id": "mapping_131",
+    "category": "症状",
     "chinese_term": "产后缺乳",
     "modern_term": "产后缺乳 (Postpartum Hypogalactia)",
-    "category": "症状",
+    "related_syndrome": "syndrome_087",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气血虚弱或肝郁气滞",
-        "western": "垂体泌乳素分泌不足或乳腺对激素应答减弱",
-        "classic": "《金匮要略》"
+        "western": "垂体泌乳素分泌不足或乳腺对激素应答减弱"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "产后失血伤气或情志不畅致乳汁化源不足",
-        "western": "泌乳反射不充分、哺乳频率不足或乳腺发育问题",
-        "classic": "《金匮要略》"
+        "western": "泌乳反射不充分、哺乳频率不足或乳腺发育问题"
       }
-    ],
-    "related_syndrome": "syndrome_087"
+    ]
   },
   {
     "id": "mapping_132",
+    "category": "疾病",
     "chinese_term": "盆腔炎",
     "modern_term": "盆腔炎性疾病 (Pelvic Inflammatory Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_011",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿热瘀阻胞宫、冲任带脉受损",
-        "western": "病原体（衣原体、淋球菌等）上行感染盆腔",
-        "classic": "《金匮要略》"
+        "western": "病原体（衣原体、淋球菌等）上行感染盆腔"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "经行产后胞脉空虚、湿热邪毒乘虚而入",
-        "western": "子宫内膜→输卵管→盆腔腹膜→炎性渗出及粘连",
-        "classic": "《金匮要略》"
+        "western": "子宫内膜→输卵管→盆腔腹膜→炎性渗出及粘连"
       }
-    ],
-    "related_syndrome": "syndrome_011"
+    ]
   },
   {
     "id": "mapping_133",
+    "category": "疾病",
     "chinese_term": "卵巢囊肿",
     "modern_term": "卵巢囊肿 (Ovarian Cyst)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_008",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气血瘀滞、痰湿互结于少腹",
-        "western": "卵巢内液体积聚形成囊性结构",
-        "classic": "《金匮要略》"
+        "western": "卵巢内液体积聚形成囊性结构"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肝郁气滞、任脉不通，痰瘀凝结成癥",
-        "western": "卵泡持续增大不破裂或黄体囊肿形成",
-        "classic": "《金匮要略》"
+        "western": "卵泡持续增大不破裂或黄体囊肿形成"
       }
-    ],
-    "related_syndrome": "syndrome_008"
+    ]
   },
   {
     "id": "mapping_134",
+    "category": "疾病",
     "chinese_term": "消化性溃疡",
     "modern_term": "消化性溃疡 (Peptic Ulcer)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_073",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "饮食不节损伤脾胃，或肝气犯胃",
-        "western": "胃酸-胃蛋白酶对黏膜的自身消化，HP感染为关键因素",
-        "classic": "《脾胃论》"
+        "western": "胃酸-胃蛋白酶对黏膜的自身消化，HP感染为关键因素"
       },
       {
         "aspect": "病理机制",
+        "classic": "《脾胃论》",
         "tcm": "脾胃虚弱为本，气滞血瘀、湿热为标",
-        "western": "攻击因子（胃酸、HP）与防御因子（黏液-碳酸氢盐屏障）失衡",
-        "classic": "《脾胃论》"
+        "western": "攻击因子（胃酸、HP）与防御因子（黏液-碳酸氢盐屏障）失衡"
       }
-    ],
-    "related_syndrome": "syndrome_073"
+    ]
   },
   {
     "id": "mapping_135",
+    "category": "疾病",
     "chinese_term": "慢性肝炎",
     "modern_term": "慢性肝炎 (Chronic Hepatitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_081",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "湿热疫毒侵袭肝胆，肝失疏泄",
-        "western": "HBV/HCV持续感染、自身免疫、酒精性等多因素",
-        "classic": "《针灸甲乙经》"
+        "western": "HBV/HCV持续感染、自身免疫、酒精性等多因素"
       },
       {
         "aspect": "病理机制",
+        "classic": "《针灸甲乙经》",
         "tcm": "湿热疫毒蕴结→肝郁脾虚→瘀血阻络",
-        "western": "肝细胞持续性炎症坏死→纤维化→肝硬化",
-        "classic": "《针灸甲乙经》"
+        "western": "肝细胞持续性炎症坏死→纤维化→肝硬化"
       }
-    ],
-    "related_syndrome": "syndrome_081"
+    ]
   },
   {
     "id": "mapping_136",
+    "category": "疾病",
     "chinese_term": "肾病综合征",
     "modern_term": "肾病综合征 (Nephrotic Syndrome)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_074",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "脾肾阳虚、水湿内停",
-        "western": "肾小球滤过膜通透性增加致大量蛋白尿",
-        "classic": "《金匮要略》"
+        "western": "肾小球滤过膜通透性增加致大量蛋白尿"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肾失封藏、脾失运化，水精输布失常",
-        "western": "足细胞损伤→大量蛋白从尿中丢失→低蛋白血症→水肿",
-        "classic": "《金匮要略》"
+        "western": "足细胞损伤→大量蛋白从尿中丢失→低蛋白血症→水肿"
       }
-    ],
-    "related_syndrome": "syndrome_074"
+    ]
   },
   {
     "id": "mapping_137",
+    "category": "疾病",
     "chinese_term": "慢性支气管炎",
     "modern_term": "慢性支气管炎 (Chronic Bronchitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_106",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "外邪袭肺迁延不愈，肺脾肾三脏俱虚",
-        "western": "吸烟、空气污染、感染等因素致气道慢性炎症",
-        "classic": "《金匮要略》"
+        "western": "吸烟、空气污染、感染等因素致气道慢性炎症"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肺失宣降、脾虚生痰、肾不纳气",
-        "western": "支气管黏膜腺体增生→黏液分泌亢进→气道阻塞",
-        "classic": "《金匮要略》"
+        "western": "支气管黏膜腺体增生→黏液分泌亢进→气道阻塞"
       }
-    ],
-    "related_syndrome": "syndrome_106"
+    ]
   },
   {
     "id": "mapping_138",
+    "category": "疾病",
     "chinese_term": "慢性心力衰竭",
     "modern_term": "慢性心力衰竭 (Chronic Heart Failure)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_070",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "心阳气虚、水饮凌心",
-        "western": "各种心脏结构或功能疾病致心室充盈/射血受损",
-        "classic": "《金匮要略》"
+        "western": "各种心脏结构或功能疾病致心室充盈/射血受损"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "久病心阳耗伤，水饮不化上凌心肺",
-        "western": "心输出量下降→神经激素代偿激活（RAAS）→水钠潴留→恶化",
-        "classic": "《金匮要略》"
+        "western": "心输出量下降→神经激素代偿激活（RAAS）→水钠潴留→恶化"
       }
-    ],
-    "related_syndrome": "syndrome_070"
+    ]
   },
   {
     "id": "mapping_139",
+    "category": "疾病",
     "chinese_term": "脑卒中",
     "modern_term": "脑卒中 (Stroke)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_012",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "风、火、痰、瘀上犯于脑",
-        "western": "脑血管阻塞（缺血性）或破裂（出血性）",
-        "classic": "《金匮要略》"
+        "western": "脑血管阻塞（缺血性）或破裂（出血性）"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "阴虚阳亢、风阳上扰，痰瘀阻络蒙窍",
-        "western": "脑血流中断→神经细胞缺血缺氧坏死→神经功能缺损",
-        "classic": "《金匮要略》"
+        "western": "脑血流中断→神经细胞缺血缺氧坏死→神经功能缺损"
       }
-    ],
-    "related_syndrome": "syndrome_012"
+    ]
   },
   {
     "id": "mapping_140",
+    "category": "疾病",
     "chinese_term": "肝硬化",
     "modern_term": "肝硬化 (Liver Cirrhosis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_080",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝郁脾虚、瘀血内结、水湿停聚",
-        "western": "多种慢性肝病导致弥漫性肝纤维化及假小叶形成",
-        "classic": "《金匮要略》"
+        "western": "多种慢性肝病导致弥漫性肝纤维化及假小叶形成"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "湿热疫毒久恋→肝络瘀滞→脏腑虚损→水湿内积",
-        "western": "肝星状细胞激活→胶原沉积→肝小叶结构破坏→门脉高压",
-        "classic": "《金匮要略》"
+        "western": "肝星状细胞激活→胶原沉积→肝小叶结构破坏→门脉高压"
       }
-    ],
-    "related_syndrome": "syndrome_080"
+    ]
   },
   {
     "id": "mapping_141",
+    "category": "疾病",
     "chinese_term": "癫痫",
     "modern_term": "癫痫 (Epilepsy)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_098",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "先天禀赋不足，或惊恐外伤致气机逆乱",
-        "western": "大脑神经元异常同步放电致反复痫性发作",
-        "classic": "《金匮要略》"
+        "western": "大脑神经元异常同步放电致反复痫性发作"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "风痰闭阻清窍、心窍被蒙",
-        "western": "神经元离子通道异常→钙/钠内流增加→异常放电→痫性发作",
-        "classic": "《金匮要略》"
+        "western": "神经元离子通道异常→钙/钠内流增加→异常放电→痫性发作"
       }
-    ],
-    "related_syndrome": "syndrome_098"
+    ]
   },
   {
     "id": "mapping_142",
+    "category": "疾病",
     "chinese_term": "甲状腺结节",
     "modern_term": "甲状腺结节 (Thyroid Nodule)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气滞痰凝、瘀血阻于颈前",
-        "western": "甲状腺细胞局部异常增生形成团块",
-        "classic": "《金匮要略》"
+        "western": "甲状腺细胞局部异常增生形成团块"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肝郁不舒、脾虚生痰，痰气瘀互结于颈部",
-        "western": "TSH刺激、碘摄入异常、遗传等多因素导致滤泡细胞增生",
-        "classic": "《金匮要略》"
+        "western": "TSH刺激、碘摄入异常、遗传等多因素导致滤泡细胞增生"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_143",
+    "category": "疾病",
     "chinese_term": "帕金森病",
     "modern_term": "帕金森病 (Parkinson's Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_090",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝肾阴虚、髓海不足、风气内动",
-        "western": "黑质多巴胺能神经元进行性退变",
-        "classic": "《金匮要略》"
+        "western": "黑质多巴胺能神经元进行性退变"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "年老体衰、肝肾精血亏虚致虚风内动、筋脉失养",
-        "western": "α-突触核蛋白异常聚集（路易小体）→多巴胺减少→运动障碍",
-        "classic": "《金匮要略》"
+        "western": "α-突触核蛋白异常聚集（路易小体）→多巴胺减少→运动障碍"
       }
-    ],
-    "related_syndrome": "syndrome_090"
+    ]
   },
   {
     "id": "mapping_144",
+    "category": "疾病",
     "chinese_term": "阿尔茨海默病",
     "modern_term": "阿尔茨海默病 (Alzheimer's Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_092",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肾虚髓减、痰瘀阻窍",
-        "western": "β-淀粉样蛋白沉积及tau蛋白过度磷酸化致神经元退变",
-        "classic": "《金匮要略》"
+        "western": "β-淀粉样蛋白沉积及tau蛋白过度磷酸化致神经元退变"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "年老肾精亏虚、髓海空虚，痰瘀上蒙清窍",
-        "western": "Aβ斑块→突触功能障碍→神经元死亡→脑萎缩→认知衰退",
-        "classic": "《金匮要略》"
+        "western": "Aβ斑块→突触功能障碍→神经元死亡→脑萎缩→认知衰退"
       }
-    ],
-    "related_syndrome": "syndrome_092"
+    ]
   },
   {
     "id": "mapping_145",
+    "category": "疾病",
     "chinese_term": "银屑病",
     "modern_term": "银屑病 (Psoriasis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_008",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "血热内蕴、化燥生风",
-        "western": "免疫介导的慢性炎症性皮肤病",
-        "classic": "《金匮要略》"
+        "western": "免疫介导的慢性炎症性皮肤病"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "营血亏损、血热内蕴→化燥生风→肌肤失养",
-        "western": "T细胞介导的免疫异常→角质形成细胞过度增殖→银白色鳞屑",
-        "classic": "《金匮要略》"
+        "western": "T细胞介导的免疫异常→角质形成细胞过度增殖→银白色鳞屑"
       }
-    ],
-    "related_syndrome": "syndrome_008"
+    ]
   },
   {
     "id": "mapping_146",
+    "category": "疾病",
     "chinese_term": "白癜风",
     "modern_term": "白癜风 (Vitiligo)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_087",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "气血失和、风邪袭于肌表",
-        "western": "黑素细胞选择性破坏导致皮肤色素脱失",
-        "classic": "《金匮要略》"
+        "western": "黑素细胞选择性破坏导致皮肤色素脱失"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肝肾不足、气血亏虚，风邪搏于皮肤致白斑",
-        "western": "自身免疫攻击黑素细胞→局部黑色素合成障碍→皮肤白斑",
-        "classic": "《金匮要略》"
+        "western": "自身免疫攻击黑素细胞→局部黑色素合成障碍→皮肤白斑"
       }
-    ],
-    "related_syndrome": "syndrome_087"
+    ]
   },
   {
     "id": "mapping_147",
+    "category": "症状",
     "chinese_term": "黄褐斑",
     "modern_term": "黄褐斑 (Melasma)",
-    "category": "症状",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝气郁结或肾阴不足，面部气血失和",
-        "western": "黑色素在面部表皮或真皮上层过度沉着",
-        "classic": "《金匮要略》"
+        "western": "黑色素在面部表皮或真皮上层过度沉着"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "忧思恼怒伤肝、房劳过度伤肾致面色黧黑",
-        "western": "紫外线暴露+激素变化（妊娠/口服避孕药）→黑素细胞活性增加",
-        "classic": "《金匮要略》"
+        "western": "紫外线暴露+激素变化（妊娠/口服避孕药）→黑素细胞活性增加"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_148",
+    "category": "疾病",
     "chinese_term": "扁平疣",
     "modern_term": "扁平疣 (Verruca Plana)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_083",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风热毒邪搏于肌肤",
-        "western": "人类乳头瘤病毒（HPV）感染表皮所致",
-        "classic": "《针灸甲乙经》"
+        "western": "人类乳头瘤病毒（HPV）感染表皮所致"
       },
       {
         "aspect": "病理机制",
+        "classic": "《针灸甲乙经》",
         "tcm": "热毒蕴肤、气血凝滞皮肤",
-        "western": "HPV 3/10型感染→表皮棘层细胞增生→扁平丘疹",
-        "classic": "《针灸甲乙经》"
+        "western": "HPV 3/10型感染→表皮棘层细胞增生→扁平丘疹"
       }
-    ],
-    "related_syndrome": "syndrome_083"
+    ]
   },
   {
     "id": "mapping_149",
+    "category": "疾病",
     "chinese_term": "神经性皮炎",
     "modern_term": "神经性皮炎 (Lichen Simplex Chronicus)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "情志不遂、心肝火旺，兼夹风湿热邪",
-        "western": "神经精神因素诱发的慢性单纯性苔藓",
-        "classic": "《金匮要略》"
+        "western": "神经精神因素诱发的慢性单纯性苔藓"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肝郁化火、情志内伤→气血凝滞于皮肤→苔藓样变",
-        "western": "瘙痒-搔抓恶性循环→表皮棘细胞层增厚→皮纹加深呈苔藓化",
-        "classic": "《金匮要略》"
+        "western": "瘙痒-搔抓恶性循环→表皮棘细胞层增厚→皮纹加深呈苔藓化"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_150",
+    "category": "疾病",
     "chinese_term": "慢性荨麻疹",
     "modern_term": "慢性荨麻疹 (Chronic Urticaria)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_096",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "禀赋不耐、卫表不固，遇风冷或食发物即发",
-        "western": "肥大细胞脱颗粒释放组胺等炎症介质",
-        "classic": "《金匮要略》"
+        "western": "肥大细胞脱颗粒释放组胺等炎症介质"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "气血不足、风邪客于肌表，时发时止",
-        "western": "肥大细胞活化→组胺/白三烯释放→血管通透性增加→风团",
-        "classic": "《金匮要略》"
+        "western": "肥大细胞活化→组胺/白三烯释放→血管通透性增加→风团"
       }
-    ],
-    "related_syndrome": "syndrome_096"
+    ]
   },
   {
     "id": "mapping_151",
+    "category": "疾病",
     "chinese_term": "干眼症",
     "modern_term": "干眼症 (Dry Eye Syndrome)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_091",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝肾阴虚、泪液生化乏源",
-        "western": "泪膜稳定性下降伴眼部不适",
-        "classic": "《金匮要略》"
+        "western": "泪膜稳定性下降伴眼部不适"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肝开窍于目、肾主津液，肝肾不足则目失所养",
-        "western": "泪液蒸发过快（睑板腺功能障碍）或泪液分泌不足（泪腺功能减退）",
-        "classic": "《金匮要略》"
+        "western": "泪液蒸发过快（睑板腺功能障碍）或泪液分泌不足（泪腺功能减退）"
       }
-    ],
-    "related_syndrome": "syndrome_091"
+    ]
   },
   {
     "id": "mapping_152",
+    "category": "疾病",
     "chinese_term": "青光眼",
     "modern_term": "青光眼 (Glaucoma)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_091",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝火上炎或阴虚阳亢，目中玄府闭塞",
-        "western": "病理性眼压升高导致视神经进行性损害",
-        "classic": "《金匮要略》"
+        "western": "病理性眼压升高导致视神经进行性损害"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "七情过伤→肝气郁结化火→气火上逆→目中脉络瘀阻",
-        "western": "房水循环障碍→眼内压升高→筛板变形→视神经节细胞凋亡",
-        "classic": "《金匮要略》"
+        "western": "房水循环障碍→眼内压升高→筛板变形→视神经节细胞凋亡"
       }
-    ],
-    "related_syndrome": "syndrome_091"
+    ]
   },
   {
     "id": "mapping_153",
+    "category": "疾病",
     "chinese_term": "白内障",
     "modern_term": "白内障 (Cataract)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_091",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝肾精血不足、晶珠失荣",
-        "western": "晶状体蛋白质变性导致混浊",
-        "classic": "《金匮要略》"
+        "western": "晶状体蛋白质变性导致混浊"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "年老体衰、精血渐亏，不能上荣于目",
-        "western": "氧化应激→晶状体蛋白交联聚集→透明度下降→视力障碍",
-        "classic": "《金匮要略》"
+        "western": "氧化应激→晶状体蛋白交联聚集→透明度下降→视力障碍"
       }
-    ],
-    "related_syndrome": "syndrome_091"
+    ]
   },
   {
     "id": "mapping_154",
+    "category": "疾病",
     "chinese_term": "慢性咽炎",
     "modern_term": "慢性咽炎 (Chronic Pharyngitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_009",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肺肾阴虚、虚火上灼咽喉",
-        "western": "咽部黏膜、黏膜下及淋巴组织的慢性炎症",
-        "classic": "《金匮要略》"
+        "western": "咽部黏膜、黏膜下及淋巴组织的慢性炎症"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "阴液不足→虚火内生→上炎咽喉→咽干微痛",
-        "western": "长期刺激（粉尘/烟酒/反流）→咽黏膜充血增生或萎缩",
-        "classic": "《金匮要略》"
+        "western": "长期刺激（粉尘/烟酒/反流）→咽黏膜充血增生或萎缩"
       }
-    ],
-    "related_syndrome": "syndrome_009"
+    ]
   },
   {
     "id": "mapping_155",
+    "category": "疾病",
     "chinese_term": "复发性口腔溃疡",
     "modern_term": "复发性口腔溃疡 (Recurrent Aphthous Stomatitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_013",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "心脾积热或阴虚火旺",
-        "western": "口腔黏膜反复发作的疼痛性溃疡",
-        "classic": "《金匮要略》"
+        "western": "口腔黏膜反复发作的疼痛性溃疡"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "饮食辛辣厚味→心脾积热上蒸口舌；或阴虚火旺灼伤口腔",
-        "western": "T细胞介导的黏膜免疫异常→上皮细胞溶解→溃疡形成",
-        "classic": "《金匮要略》"
+        "western": "T细胞介导的黏膜免疫异常→上皮细胞溶解→溃疡形成"
       }
-    ],
-    "related_syndrome": "syndrome_013"
+    ]
   },
   {
     "id": "mapping_156",
+    "category": "疾病",
     "chinese_term": "突发性耳聋",
     "modern_term": "突发性耳聋 (Sudden Sensorineural Hearing Loss)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_091",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝火上壅清窍，或气滞血瘀耳络",
-        "western": "原因不明的感音神经性听力突然下降",
-        "classic": "《金匮要略》"
+        "western": "原因不明的感音神经性听力突然下降"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "暴怒伤肝→肝火上扰→闭塞耳窍；或气滞血瘀→耳脉不通",
-        "western": "内耳血管痉挛/血栓/病毒感染→耳蜗毛细胞缺血缺氧→听力突变",
-        "classic": "《金匮要略》"
+        "western": "内耳血管痉挛/血栓/病毒感染→耳蜗毛细胞缺血缺氧→听力突变"
       }
-    ],
-    "related_syndrome": "syndrome_091"
+    ]
   },
   {
     "id": "mapping_157",
+    "category": "疾病",
     "chinese_term": "骨质疏松症",
     "modern_term": "骨质疏松症 (Osteoporosis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_094",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "肾精亏虚、骨失所养",
-        "western": "骨量减低、骨微结构破坏致骨脆性增加",
-        "classic": "《脾胃论》"
+        "western": "骨量减低、骨微结构破坏致骨脆性增加"
       },
       {
         "aspect": "病理机制",
+        "classic": "《脾胃论》",
         "tcm": "肾主骨生髓，年老肾衰→骨髓空虚→骨枯",
-        "western": "破骨细胞活性>成骨细胞活性→骨吸收>骨形成→骨量丢失",
-        "classic": "《脾胃论》"
+        "western": "破骨细胞活性>成骨细胞活性→骨吸收>骨形成→骨量丢失"
       }
-    ],
-    "related_syndrome": "syndrome_094"
+    ]
   },
   {
     "id": "mapping_158",
+    "category": "疾病",
     "chinese_term": "肩周炎",
     "modern_term": "肩关节周围炎 (Periarthritis of Shoulder / Frozen Shoulder)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_084",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "风寒湿邪侵袭肩部，或劳损致气血凝滞",
-        "western": "肩关节囊及其周围韧带肌腱的慢性无菌性炎症",
-        "classic": "《针灸甲乙经》"
+        "western": "肩关节囊及其周围韧带肌腱的慢性无菌性炎症"
       },
       {
         "aspect": "病理机制",
+        "classic": "《针灸甲乙经》",
         "tcm": "年老体弱、气血不足，风寒湿邪乘虚而入致肩部筋脉拘急",
-        "western": "关节囊滑膜炎症→纤维化粘连→关节囊挛缩→活动受限",
-        "classic": "《针灸甲乙经》"
+        "western": "关节囊滑膜炎症→纤维化粘连→关节囊挛缩→活动受限"
       }
-    ],
-    "related_syndrome": "syndrome_084"
+    ]
   },
   {
     "id": "mapping_159",
+    "category": "疾病",
     "chinese_term": "股骨头坏死",
     "modern_term": "股骨头坏死 (Osteonecrosis of Femoral Head)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_008",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肾虚骨萎，或外伤后瘀血阻络",
-        "western": "股骨头血供中断致骨细胞和骨髓成分死亡",
-        "classic": "《金匮要略》"
+        "western": "股骨头血供中断致骨细胞和骨髓成分死亡"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肝肾亏虚、筋骨失养，或外伤致瘀→血脉不通→骨枯",
-        "western": "微循环障碍→骨内高压→缺血→骨坏死→塌陷",
-        "classic": "《金匮要略》"
+        "western": "微循环障碍→骨内高压→缺血→骨坏死→塌陷"
       }
-    ],
-    "related_syndrome": "syndrome_008"
+    ]
   },
   {
     "id": "mapping_160",
+    "category": "疾病",
     "chinese_term": "肾结石",
     "modern_term": "肾结石 (Kidney Stone / Nephrolithiasis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_111",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "下焦湿热蕴结、煎熬尿液成石",
-        "western": "尿中成石物质过饱和析出结晶并聚集",
-        "classic": "《金匮要略》"
+        "western": "尿中成石物质过饱和析出结晶并聚集"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "饮食不节→湿热内生注于下焦→尿液煎熬成砂石",
-        "western": "尿钙/草酸/尿酸过饱和→结晶成核→增长聚集→结石形成",
-        "classic": "《金匮要略》"
+        "western": "尿钙/草酸/尿酸过饱和→结晶成核→增长聚集→结石形成"
       }
-    ],
-    "related_syndrome": "syndrome_111"
+    ]
   },
   {
     "id": "mapping_161",
+    "category": "疾病",
     "chinese_term": "前列腺增生",
     "modern_term": "前列腺增生 (Benign Prostatic Hyperplasia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_005",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肾气亏虚、痰瘀互结于精室",
-        "western": "前列腺移行带细胞增生致尿道受压梗阻",
-        "classic": "《金匮要略》"
+        "western": "前列腺移行带细胞增生致尿道受压梗阻"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "年老肾阳衰微→膀胱气化不利→瘀浊阻窍",
-        "western": "雄激素（DHT）刺激→前列腺细胞增生→膀胱出口梗阻",
-        "classic": "《金匮要略》"
+        "western": "雄激素（DHT）刺激→前列腺细胞增生→膀胱出口梗阻"
       }
-    ],
-    "related_syndrome": "syndrome_005"
+    ]
   },
   {
     "id": "mapping_162",
+    "category": "疾病",
     "chinese_term": "尿路感染",
     "modern_term": "尿路感染 (Urinary Tract Infection)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_111",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "湿热下注膀胱，气化不利",
-        "western": "细菌（多为大肠杆菌）侵入尿路引起炎症",
-        "classic": "《金匮要略》"
+        "western": "细菌（多为大肠杆菌）侵入尿路引起炎症"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "过食辛辣肥甘→湿热内生→下注膀胱→水道不利",
-        "western": "细菌粘附尿路上皮→上行感染→黏膜充血水肿→尿频尿急尿痛",
-        "classic": "《金匮要略》"
+        "western": "细菌粘附尿路上皮→上行感染→黏膜充血水肿→尿频尿急尿痛"
       }
-    ],
-    "related_syndrome": "syndrome_111"
+    ]
   },
   {
     "id": "mapping_163",
+    "category": "心理",
     "chinese_term": "焦虑症",
     "modern_term": "焦虑症 (Anxiety Disorder)",
-    "category": "心理",
+    "related_syndrome": "syndrome_098",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "心胆气虚或肝郁化火",
-        "western": "大脑杏仁核-前额叶回路功能异常致过度恐惧反应",
-        "classic": "《金匮要略》"
+        "western": "大脑杏仁核-前额叶回路功能异常致过度恐惧反应"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "思虑过度→心神不宁、胆气不足",
-        "western": "GABA/5-HT/NE神经递质失衡→杏仁核过度激活→持续性焦虑",
-        "classic": "《金匮要略》"
+        "western": "GABA/5-HT/NE神经递质失衡→杏仁核过度激活→持续性焦虑"
       }
-    ],
-    "related_syndrome": "syndrome_098"
+    ]
   },
   {
     "id": "mapping_164",
+    "category": "心理",
     "chinese_term": "强迫症",
     "modern_term": "强迫症 (Obsessive-Compulsive Disorder)",
-    "category": "心理",
+    "related_syndrome": "syndrome_098",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "心肝火旺、痰热扰心",
-        "western": "皮层-纹状体-丘脑-皮层环路功能障碍",
-        "classic": "《金匮要略》"
+        "western": "皮层-纹状体-丘脑-皮层环路功能障碍"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "情志不遂、郁而化火，痰火扰心则思虑不休",
-        "western": "眶额皮层-尾状核回路异常→强迫思维/行为→焦虑缓解负强化",
-        "classic": "《金匮要略》"
+        "western": "眶额皮层-尾状核回路异常→强迫思维/行为→焦虑缓解负强化"
       }
-    ],
-    "related_syndrome": "syndrome_098"
+    ]
   },
   {
     "id": "mapping_165",
+    "category": "心理",
     "chinese_term": "恐惧症",
     "modern_term": "恐惧症 (Phobia)",
-    "category": "心理",
+    "related_syndrome": "syndrome_098",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "胆气虚怯、心神不守",
-        "western": "特定对象或情境触发的过度恐惧反应",
-        "classic": "《金匮要略》"
+        "western": "特定对象或情境触发的过度恐惧反应"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "先天禀赋胆气不足、卒受惊恐",
-        "western": "杏仁核-海马体异常激活→恐惧条件反射形成→回避行为",
-        "classic": "《金匮要略》"
+        "western": "杏仁核-海马体异常激活→恐惧条件反射形成→回避行为"
       }
-    ],
-    "related_syndrome": "syndrome_098"
+    ]
   },
   {
     "id": "mapping_166",
+    "category": "疾病",
     "chinese_term": "脂肪肝",
     "modern_term": "脂肪肝 (Fatty Liver Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_007",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "饮食不节、过食肥甘致痰湿内积",
-        "western": "肝细胞内甘油三酯异常积聚（>肝重5%）",
-        "classic": "《金匮要略》"
+        "western": "肝细胞内甘油三酯异常积聚（>肝重5%）"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "脾失健运→痰湿内生→蕴结于肝",
-        "western": "胰岛素抵抗→肝脏脂肪酸摄取增加+β-氧化减少→脂质沉积",
-        "classic": "《金匮要略》"
+        "western": "胰岛素抵抗→肝脏脂肪酸摄取增加+β-氧化减少→脂质沉积"
       }
-    ],
-    "related_syndrome": "syndrome_007"
+    ]
   },
   {
     "id": "mapping_167",
+    "category": "疾病",
     "chinese_term": "肠易激综合征",
     "modern_term": "肠易激综合征 (Irritable Bowel Syndrome)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_095",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "肝郁脾虚、大肠传导失常",
-        "western": "脑-肠轴紊乱导致腹痛伴随排便习惯改变",
-        "classic": "《脾胃论》"
+        "western": "脑-肠轴紊乱导致腹痛伴随排便习惯改变"
       },
       {
         "aspect": "病理机制",
+        "classic": "《脾胃论》",
         "tcm": "情志不舒→肝木乘脾→脾虚湿困→清浊不分",
-        "western": "内脏高敏感性+胃肠动力异常+肠道菌群失调→腹痛腹泻/便秘",
-        "classic": "《脾胃论》"
+        "western": "内脏高敏感性+胃肠动力异常+肠道菌群失调→腹痛腹泻/便秘"
       }
-    ],
-    "related_syndrome": "syndrome_095"
+    ]
   },
   {
     "id": "mapping_168",
+    "category": "疾病",
     "chinese_term": "胃食管反流病",
     "modern_term": "胃食管反流病 (Gastroesophageal Reflux Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_093",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝胃不和、胃气上逆",
-        "western": "胃十二指肠内容物反流入食管引起不适",
-        "classic": "《金匮要略》"
+        "western": "胃十二指肠内容物反流入食管引起不适"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "饮食不节或情志失调→胃失和降→浊气上泛",
-        "western": "食管下括约肌一过性松弛→胃酸反流→食管黏膜损伤",
-        "classic": "《金匮要略》"
+        "western": "食管下括约肌一过性松弛→胃酸反流→食管黏膜损伤"
       }
-    ],
-    "related_syndrome": "syndrome_093"
+    ]
   },
   {
     "id": "mapping_169",
+    "category": "疾病",
     "chinese_term": "小儿厌食",
     "modern_term": "小儿厌食症 (Infantile Anorexia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_096",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "喂养不当伤及脾胃，脾失健运",
-        "western": "排除器质性疾病的长期食欲减退或消失",
-        "classic": "《金匮要略》"
+        "western": "排除器质性疾病的长期食欲减退或消失"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "小儿脾常不足、饮食不节→脾胃受损→纳运失司",
-        "western": "喂养行为异常→胃排空延迟→饥饿感减弱→进食量减少",
-        "classic": "《金匮要略》"
+        "western": "喂养行为异常→胃排空延迟→饥饿感减弱→进食量减少"
       }
-    ],
-    "related_syndrome": "syndrome_096"
+    ]
   },
   {
     "id": "mapping_170",
+    "category": "疾病",
     "chinese_term": "小儿疳积",
     "modern_term": "小儿疳积 (Childhood Malnutrition)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_096",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "脾胃虚弱、饮食不化，气血亏耗",
-        "western": "慢性营养吸收障碍致生长发育迟缓",
-        "classic": "《金匮要略》"
+        "western": "慢性营养吸收障碍致生长发育迟缓"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "积滞伤脾→纳运失常→气血生化无源→形瘦骨立",
-        "western": "摄入不足/吸收障碍→蛋白质能量营养不良→生长迟缓",
-        "classic": "《金匮要略》"
+        "western": "摄入不足/吸收障碍→蛋白质能量营养不良→生长迟缓"
       }
-    ],
-    "related_syndrome": "syndrome_096"
+    ]
   },
   {
     "id": "mapping_171",
+    "category": "疾病",
     "chinese_term": "带状疱疹后遗神经痛",
     "modern_term": "带状疱疹后遗神经痛 (Postherpetic Neuralgia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_008",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "余毒未清、气滞血瘀、经络不通",
-        "western": "带状疱疹皮疹愈合后神经疼痛持续≥1个月",
-        "classic": "《金匮要略》"
+        "western": "带状疱疹皮疹愈合后神经疼痛持续≥1个月"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "热毒虽去、瘀血留滞络脉，不通则痛",
-        "western": "水痘-带状疱疹病毒→背根神经节炎症→中枢敏化→慢性疼痛",
-        "classic": "《金匮要略》"
+        "western": "水痘-带状疱疹病毒→背根神经节炎症→中枢敏化→慢性疼痛"
       }
-    ],
-    "related_syndrome": "syndrome_008"
-  },
-  {
-    "id": "mapping_172",
-    "chinese_term": "慢性肾炎",
-    "modern_term": "慢性肾小球肾炎 (Chronic Glomerulonephritis)",
-    "category": "疾病",
-    "comparison": [
-      {
-        "aspect": "病因",
-        "tcm": "肺脾肾三脏虚损，湿浊瘀毒内蕴",
-        "western": "多种病因导致的双侧肾小球弥漫性炎症损伤",
-        "classic": "《金匮要略》"
-      },
-      {
-        "aspect": "病理机制",
-        "tcm": "外邪侵袭或内伤久病→肾络瘀阻→精微下泄",
-        "western": "免疫复合物沉积→肾小球基底膜损伤→蛋白尿血尿→肾功能减退",
-        "classic": "《金匮要略》"
-      }
-    ],
-    "related_syndrome": "syndrome_074"
+    ]
   },
   {
     "id": "mapping_173",
+    "category": "疾病",
     "chinese_term": "足底筋膜炎",
     "modern_term": "足底筋膜炎 (Plantar Fasciitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_085",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《针灸甲乙经》",
         "tcm": "劳损过度、气血凝滞足底筋脉",
-        "western": "足底腱膜在跟骨附着处的退变及慢性微撕裂",
-        "classic": "《针灸甲乙经》"
+        "western": "足底腱膜在跟骨附着处的退变及慢性微撕裂"
       },
       {
         "aspect": "病理机制",
+        "classic": "《针灸甲乙经》",
         "tcm": "久行久立→足底筋脉过劳→气血运行不畅→不通则痛",
-        "western": "跖腱膜反复牵拉→胶原变性→局部炎症反应→晨起第一步剧痛",
-        "classic": "《针灸甲乙经》"
+        "western": "跖腱膜反复牵拉→胶原变性→局部炎症反应→晨起第一步剧痛"
       }
-    ],
-    "related_syndrome": "syndrome_085"
+    ]
   },
   {
     "id": "mapping_174",
+    "category": "症状",
     "chinese_term": "耳鸣",
     "modern_term": "耳鸣 (Tinnitus)",
-    "category": "症状",
+    "related_syndrome": "syndrome_079",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝肾阴虚、髓海不足，或肝火上扰清窍",
-        "western": "无外部声源时感知到的耳内或颅内声音",
-        "classic": "《金匮要略》"
+        "western": "无外部声源时感知到的耳内或颅内声音"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "肾开窍于耳，肾精亏耗则耳失濡养；肝火循经上冲则耳鸣如潮",
-        "western": "耳蜗毛细胞损伤→听觉通路异常自发放电→皮层感知为耳鸣",
-        "classic": "《金匮要略》"
+        "western": "耳蜗毛细胞损伤→听觉通路异常自发放电→皮层感知为耳鸣"
       }
-    ],
-    "related_syndrome": "syndrome_079"
+    ]
   },
   {
     "id": "mapping_175",
+    "category": "疾病",
     "chinese_term": "三叉神经痛",
     "modern_term": "三叉神经痛 (Trigeminal Neuralgia)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_091",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "风火痰瘀阻滞面部经络",
-        "western": "三叉神经分布区内反复发作的剧烈电击样疼痛",
-        "classic": "《金匮要略》"
+        "western": "三叉神经分布区内反复发作的剧烈电击样疼痛"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "风邪夹火上攻头面、经络痹阻不通",
-        "western": "血管压迫三叉神经根进出区→脱髓鞘→异位放电→剧痛",
-        "classic": "《金匮要略》"
+        "western": "血管压迫三叉神经根进出区→脱髓鞘→异位放电→剧痛"
       }
-    ],
-    "related_syndrome": "syndrome_091"
+    ]
   },
   {
     "id": "mapping_176",
+    "category": "疾病",
     "chinese_term": "梅尼埃病",
     "modern_term": "梅尼埃病 (Meniere's Disease)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_107",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《脾胃论》",
         "tcm": "脾虚湿困、痰浊中阻，清阳不升",
-        "western": "特发性内耳疾病，以膜迷路积水为特征",
-        "classic": "《脾胃论》"
+        "western": "特发性内耳疾病，以膜迷路积水为特征"
       },
       {
         "aspect": "病理机制",
+        "classic": "《脾胃论》",
         "tcm": "脾失健运→痰湿内生→上蒙清窍→眩晕耳鸣",
-        "western": "内淋巴产生过多/吸收障碍→膜迷路积水→前庭毛细胞受损→发作性眩晕",
-        "classic": "《脾胃论》"
+        "western": "内淋巴产生过多/吸收障碍→膜迷路积水→前庭毛细胞受损→发作性眩晕"
       }
-    ],
-    "related_syndrome": "syndrome_107"
+    ]
   },
   {
     "id": "mapping_177",
+    "category": "疾病",
     "chinese_term": "痔疮",
     "modern_term": "痔 (Hemorrhoids)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_088",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《黄帝内经》",
         "tcm": "饮食不节、湿热下注肛肠",
-        "western": "肛垫病理性肥大、移位及血管丛扩张",
-        "classic": "《黄帝内经》"
+        "western": "肛垫病理性肥大、移位及血管丛扩张"
       },
       {
         "aspect": "病理机制",
+        "classic": "《黄帝内经》",
         "tcm": "过食辛辣→湿热内生→下迫肛肠→血络瘀滞",
-        "western": "肛垫支持结构破坏→痔静脉丛曲张→充血水肿→脱出",
-        "classic": "《黄帝内经》"
+        "western": "肛垫支持结构破坏→痔静脉丛曲张→充血水肿→脱出"
       }
-    ],
-    "related_syndrome": "syndrome_088"
+    ]
   },
   {
     "id": "mapping_178",
+    "category": "症状",
     "chinese_term": "便秘·气秘",
     "modern_term": "气秘型便秘 (Qi-Stagnation Constipation)",
-    "category": "症状",
+    "related_syndrome": "syndrome_004",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "肝气郁结、气机壅滞",
-        "western": "结肠运动功能紊乱致排便障碍",
-        "classic": "《金匮要略》"
+        "western": "结肠运动功能紊乱致排便障碍"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "情志不畅→肝失疏泄→气机郁滞→大肠传导失司",
-        "western": "自主神经功能紊乱→结肠蠕动减弱/痉挛→粪便传输减慢",
-        "classic": "《金匮要略》"
+        "western": "自主神经功能紊乱→结肠蠕动减弱/痉挛→粪便传输减慢"
       }
-    ],
-    "related_syndrome": "syndrome_004"
+    ]
   },
   {
     "id": "mapping_179",
+    "category": "疾病",
     "chinese_term": "鼻窦炎",
     "modern_term": "鼻窦炎 (Sinusitis)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_114",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《金匮要略》",
         "tcm": "风热袭肺或胆腑郁热上攻鼻窍",
-        "western": "鼻窦黏膜的化脓性炎症",
-        "classic": "《金匮要略》"
+        "western": "鼻窦黏膜的化脓性炎症"
       },
       {
         "aspect": "病理机制",
+        "classic": "《金匮要略》",
         "tcm": "外邪犯肺或胆火上炎→鼻窍不利→浊涕不止",
-        "western": "窦口堵塞→引流不畅→细菌增殖→黏膜化脓性炎症",
-        "classic": "《金匮要略》"
+        "western": "窦口堵塞→引流不畅→细菌增殖→黏膜化脓性炎症"
       }
-    ],
-    "related_syndrome": "syndrome_114"
+    ]
   },
   {
     "id": "mapping_180",
+    "category": "疾病",
     "chinese_term": "面神经麻痹",
     "modern_term": "面神经麻痹 (Facial Nerve Palsy)",
-    "category": "疾病",
+    "related_syndrome": "syndrome_112",
     "comparison": [
       {
         "aspect": "病因",
+        "classic": "《黄帝内经》",
         "tcm": "脉络空虚、风邪乘虚入中面部经络",
-        "western": "面神经非特异性炎症导致面部表情肌瘫痪",
-        "classic": "《黄帝内经》"
+        "western": "面神经非特异性炎症导致面部表情肌瘫痪"
       },
       {
         "aspect": "病理机制",
+        "classic": "《黄帝内经》",
         "tcm": "正气不足→风邪中络→气血痹阻→口眼㖞斜",
-        "western": "面神经管内水肿→压迫缺血→神经传导阻滞→面部肌肉瘫痪",
-        "classic": "《黄帝内经》"
+        "western": "面神经管内水肿→压迫缺血→神经传导阻滞→面部肌肉瘫痪"
       }
-    ],
-    "related_syndrome": "syndrome_112"
+    ]
   }
 ]

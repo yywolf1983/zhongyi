@@ -1,0 +1,9524 @@
+[
+  {
+    "id": "syndrome_001",
+    "name": "风寒感冒",
+    "pathogenesis": "风寒之邪侵袭肌表，卫气被遏，营阴郁滞，肺气失宣",
+    "pinyin": "Feng Han Gan Mao",
+    "category": [
+      "八纲辨证",
+      "病因辨证",
+      "六淫辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "太阳病，或已发热，或未发热，必恶寒，体痛，呕逆，脉阴阳俱紧者，名为伤寒。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风寒之邪外束肌表，卫阳被郁",
+        "western": "鼻病毒(Rhinovirus)、冠状病毒等上呼吸道病毒感染"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风寒束表，肺气失宣，腠理闭塞",
+        "western": "病毒侵入上呼吸道黏膜上皮细胞，引发局部炎症反应和免疫应答"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "恶寒重发热轻、无汗、头身疼痛、鼻塞流清涕",
+        "western": "畏寒、低热(<38.5℃)、肌痛(Myalgia)、鼻塞、水样鼻涕(Rhinorrhea)"
+      }
+    ],
+    "diagnosis_points": [
+      "恶寒重，发热轻",
+      "无汗",
+      "鼻塞流清涕",
+      "头痛身痛",
+      "舌苔薄白",
+      "脉浮紧"
+    ],
+    "modern_medicine": [
+      "普通感冒",
+      "急性上呼吸道感染"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_006",
+      "effect_205"
+    ],
+    "related_formulas": [
+      "formula_001",
+      "formula_002",
+      "formula_152",
+      "formula_153",
+      "formula_154",
+      "formula_155",
+      "formula_175",
+      "formula_190",
+      "formula_195",
+      "formula_211",
+      "formula_233",
+      "formula_242",
+      "formula_258",
+      "formula_260",
+      "formula_262",
+      "formula_264",
+      "formula_268",
+      "formula_277",
+      "formula_278",
+      "formula_279",
+      "formula_281",
+      "formula_106"
+    ],
+    "related_needle": [
+      "needle_001",
+      "needle_021",
+      "needle_057",
+      "needle_076",
+      "needle_148",
+      "needle_169",
+      "prescription_053"
+    ],
+    "related_treatments": [
+      "treatment_001"
+    ]
+  },
+  {
+    "id": "syndrome_002",
+    "name": "风热感冒",
+    "pathogenesis": "风热之邪侵袭肌表，卫气被郁，肺失清肃，热邪上扰",
+    "pinyin": "Feng Re Gan Mao",
+    "category": [
+      "八纲辨证",
+      "病因辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《温病条辨》",
+        "text": "太阴风温，但咳，身不甚热，微渴者，辛凉轻剂桑菊饮主之。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《伤寒论》",
+        "tcm": "风热之邪侵袭肺卫",
+        "western": "流感病毒(Influenza virus)、腺病毒(Adenovirus)等"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《伤寒论》",
+        "tcm": "风热上受，首先犯肺，热邪内郁",
+        "western": "病毒诱发强烈免疫应答，炎症因子风暴(Cytokine Storm)"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "发热重恶寒轻、汗出、咽喉红肿痛、黄涕黄痰",
+        "western": "高热>39℃、咽部充血(Hyperemia)、脓涕、全身肌痛"
+      }
+    ],
+    "diagnosis_points": [
+      "发热重，恶寒轻",
+      "有汗或无汗",
+      "鼻塞流黄涕",
+      "咽喉肿痛",
+      "舌苔薄黄",
+      "脉浮数"
+    ],
+    "modern_medicine": [
+      "普通感冒",
+      "流行性感冒",
+      "急性咽喉炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_006",
+      "effect_073",
+      "effect_156",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_123",
+      "formula_294",
+      "formula_296",
+      "formula_298",
+      "formula_300",
+      "formula_302",
+      "formula_306",
+      "formula_124",
+      "formula_125"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_021",
+      "needle_041",
+      "needle_042",
+      "needle_047",
+      "needle_057",
+      "needle_078",
+      "needle_080",
+      "needle_092",
+      "needle_097",
+      "needle_125",
+      "needle_134",
+      "needle_150",
+      "needle_151",
+      "prescription_022",
+      "prescription_052"
+    ],
+    "related_treatments": [
+      "treatment_002"
+    ]
+  },
+  {
+    "id": "syndrome_003",
+    "name": "脾胃虚弱",
+    "pathogenesis": "脾胃气虚，运化无力，气血生化不足",
+    "pinyin": "Pi Wei Xu Ruo",
+    "category": [
+      "脏腑辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "脾气虚则四肢不用，五脏不安。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "饮食不节、劳倦过度、思虑伤脾",
+        "western": "胃肠动力障碍、内脏高敏感性、HPA轴失调"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "脾气虚弱，运化失职，升降失常",
+        "western": "胃排空延迟(Delayed Gastric Emptying)、胃容受性舒张障碍"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "食少腹胀、便溏、倦怠乏力、面色萎黄",
+        "western": "餐后饱胀(Postprandial Fullness)、早饱(Early Satiety)、上腹痛"
+      }
+    ],
+    "diagnosis_points": [
+      "食欲不振",
+      "脘腹胀满",
+      "大便溏薄",
+      "神疲乏力",
+      "面色萎黄",
+      "舌淡苔白",
+      "脉缓弱"
+    ],
+    "modern_medicine": [
+      "慢性胃炎",
+      "消化性溃疡",
+      "功能性消化不良"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_189"
+    ],
+    "related_formulas": [
+      "formula_030",
+      "formula_031",
+      "formula_178",
+      "formula_183",
+      "formula_191",
+      "formula_212",
+      "formula_218",
+      "formula_225",
+      "formula_226",
+      "formula_227",
+      "formula_228",
+      "formula_229",
+      "formula_250",
+      "formula_254",
+      "formula_276",
+      "formula_303",
+      "formula_329",
+      "formula_362",
+      "formula_113"
+    ],
+    "related_needle": [
+      "needle_003",
+      "needle_023",
+      "needle_029",
+      "needle_034",
+      "needle_046",
+      "needle_055",
+      "needle_066",
+      "needle_072",
+      "needle_105",
+      "needle_118",
+      "needle_149",
+      "needle_175",
+      "prescription_084",
+      "prescription_185",
+      "prescription_187"
+    ],
+    "related_treatments": [
+      "treatment_002",
+      "treatment_003"
+    ]
+  },
+  {
+    "id": "syndrome_004",
+    "name": "肝郁气滞",
+    "pathogenesis": "情志不舒，肝气郁结，气机不畅",
+    "pinyin": "Gan Yu Qi Zhi",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《丹溪心法》",
+        "text": "气血冲和，万病不生，一有怫郁，诸病生焉。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "情志抑郁、怒伤肝、气机郁滞",
+        "western": "慢性应激、5-HT/NE失衡、心理社会因素"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "肝失疏泄，气机郁结，横逆犯脾",
+        "western": "HPA轴过度激活(Hypercortisolism)、自主神经功能紊乱(Autonomic Dysfunction)"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "胸胁胀痛、善太息、烦躁易怒、月经不调",
+        "western": "胸闷心悸、过度换气(Hyperventilation)、肠易激(IBS)、PMS"
+      }
+    ],
+    "diagnosis_points": [
+      "胸闷胁痛",
+      "烦躁易怒",
+      "嗳气频繁",
+      "胃脘胀痛",
+      "月经不调",
+      "舌苔薄白",
+      "脉弦"
+    ],
+    "modern_medicine": [
+      "抑郁症",
+      "焦虑症",
+      "更年期综合征",
+      "慢性肝炎"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_042"
+    ],
+    "related_formulas": [
+      "formula_019",
+      "formula_021",
+      "formula_040",
+      "formula_052",
+      "formula_121"
+    ],
+    "related_needle": [
+      "needle_004",
+      "needle_028",
+      "needle_030",
+      "needle_035",
+      "needle_041",
+      "needle_045",
+      "needle_050",
+      "needle_070",
+      "needle_078",
+      "needle_095",
+      "needle_098",
+      "needle_114",
+      "needle_157",
+      "needle_171",
+      "prescription_035",
+      "prescription_042",
+      "prescription_063",
+      "prescription_070",
+      "prescription_104",
+      "prescription_196"
+    ],
+    "related_treatments": [
+      "treatment_004"
+    ]
+  },
+  {
+    "id": "syndrome_005",
+    "name": "肾阳虚",
+    "pathogenesis": "肾阳亏虚，温煦失职，气化无权",
+    "pinyin": "Shen Yang Xu",
+    "category": [
+      "脏腑辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《景岳全书》",
+        "text": "阳虚者，多寒；阴虚者，多热。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "先天不足、房劳过度、久病伤阳",
+        "western": "下丘脑-垂体-肾上腺/性腺轴功能减退"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "肾阳不足，温煦失职，气化无权",
+        "western": "皮质醇↓/醛固酮↓→代谢率下降；睾酮↓→性功能减退"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "畏寒肢冷、腰膝酸软、夜尿多、阳痿早泄",
+        "western": "怕冷、乏力(Fatigue)、低血压、性欲减退(Libido↓)、夜尿(Nocturia)"
+      }
+    ],
+    "diagnosis_points": [
+      "畏寒怕冷",
+      "四肢不温",
+      "腰膝酸软",
+      "夜尿多",
+      "小便清长",
+      "舌淡胖",
+      "脉沉迟"
+    ],
+    "modern_medicine": [
+      "慢性肾炎",
+      "性功能障碍",
+      "甲状腺功能减退"
+    ],
+    "related_effects": [
+      "effect_005",
+      "effect_066",
+      "effect_197"
+    ],
+    "related_formulas": [
+      "formula_018",
+      "formula_042",
+      "formula_062",
+      "formula_110",
+      "formula_184",
+      "formula_186",
+      "formula_213",
+      "formula_282",
+      "formula_284",
+      "formula_308",
+      "formula_310",
+      "formula_312",
+      "formula_314",
+      "formula_315",
+      "formula_317",
+      "formula_319",
+      "formula_349",
+      "formula_350",
+      "formula_351",
+      "formula_352",
+      "formula_353",
+      "formula_109",
+      "formula_122"
+    ],
+    "related_needle": [
+      "needle_005",
+      "needle_026",
+      "needle_036",
+      "needle_037",
+      "needle_039",
+      "needle_043",
+      "needle_044",
+      "needle_055",
+      "needle_058",
+      "needle_074",
+      "needle_083",
+      "needle_111",
+      "needle_112",
+      "needle_135",
+      "needle_140",
+      "needle_144",
+      "needle_146",
+      "needle_147",
+      "needle_172",
+      "prescription_093",
+      "prescription_096",
+      "prescription_157",
+      "prescription_171",
+      "prescription_198"
+    ],
+    "related_treatments": [
+      "treatment_005"
+    ]
+  },
+  {
+    "id": "syndrome_006",
+    "name": "肺阴虚",
+    "pathogenesis": "肺阴亏虚，虚热内生，肺失滋润",
+    "pinyin": "Fei Yin Xu",
+    "category": [
+      "脏腑辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "阴虚生内热。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "肺阴亏虚，虚热内生，肺失滋润",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "干咳无痰、或痰少黏稠、咽干声嘶、手足心热、舌红少苔、脉细数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "慢性支气管炎、肺结核、慢性咽炎",
+        "western": "现代医学对应：慢性支气管炎、肺结核、慢性咽炎"
+      }
+    ],
+    "diagnosis_points": [
+      "干咳无痰",
+      "或痰少黏稠",
+      "咽干声嘶",
+      "手足心热",
+      "舌红少苔",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "慢性支气管炎",
+      "肺结核",
+      "慢性咽炎"
+    ],
+    "related_effects": [
+      "effect_007",
+      "effect_058",
+      "effect_147"
+    ],
+    "related_formulas": [
+      "formula_037",
+      "formula_041",
+      "formula_376"
+    ],
+    "related_needle": [
+      "needle_006",
+      "needle_022",
+      "needle_042",
+      "needle_104",
+      "needle_113",
+      "needle_180",
+      "prescription_055",
+      "prescription_088"
+    ],
+    "related_treatments": [
+      "treatment_006"
+    ]
+  },
+  {
+    "id": "syndrome_007",
+    "name": "痰湿内阻",
+    "pathogenesis": "痰湿内生，阻滞气机，肺失宣降",
+    "pinyin": "Tan Shi Nei Zu",
+    "category": [
+      "病因辨证",
+      "脏腑辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《丹溪心法》",
+        "text": "脾为生痰之源，肺为贮痰之器。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "饮食不节、过食肥甘、脾失运化",
+        "western": "能量摄入过剩、久坐、遗传(Genetic Predisposition)"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "脾虚生湿，湿聚成痰，痰湿困脾",
+        "western": "胰岛素抵抗(Insulin Resistance)、内脏脂肪堆积、慢性低度炎症"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "形体肥胖、胸闷痰多、肢体困重",
+        "western": "腹型肥胖(Central Obesity)、高血压、高血糖、血脂异常(Dyslipidemia)"
+      }
+    ],
+    "diagnosis_points": [
+      "咳嗽痰多",
+      "黏稠难咯",
+      "胸闷气喘",
+      "肢体沉重",
+      "舌苔白腻",
+      "脉滑"
+    ],
+    "modern_medicine": [
+      "慢性支气管炎",
+      "哮喘",
+      "肺气肿"
+    ],
+    "related_effects": [
+      "effect_008",
+      "effect_061",
+      "effect_149",
+      "effect_150"
+    ],
+    "related_formulas": [
+      "formula_063",
+      "formula_072",
+      "formula_116",
+      "formula_159",
+      "formula_197",
+      "formula_208",
+      "formula_214",
+      "formula_267",
+      "formula_268",
+      "formula_273",
+      "formula_274",
+      "formula_275",
+      "formula_304",
+      "formula_306",
+      "formula_308",
+      "formula_317",
+      "formula_339"
+    ],
+    "related_needle": [
+      "needle_007",
+      "needle_022",
+      "needle_048",
+      "needle_049",
+      "needle_051",
+      "needle_067",
+      "needle_090",
+      "needle_099",
+      "needle_109",
+      "needle_117",
+      "prescription_116",
+      "prescription_196"
+    ],
+    "related_treatments": [
+      "treatment_007"
+    ]
+  },
+  {
+    "id": "syndrome_008",
+    "name": "气滞血瘀",
+    "pathogenesis": "气机郁滞，血行不畅，瘀血内阻",
+    "pinyin": "Qi Zhi Xue Yu",
+    "category": [
+      "病因辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "气行则血行，气滞则血瘀。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "气滞、寒凝、气虚、外伤致血行不畅",
+        "western": "血管内皮损伤(Endothelial Injury)、血液流变学异常"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "离经之血停积，脉道不利",
+        "western": "血小板聚集(Platelet Aggregation)、纤维蛋白溶解↓、血液黏度↑"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "舌紫暗瘀斑、肌肤甲错、脉涩、刺痛固定不移",
+        "western": "微循环障碍、皮肤瘀斑(Ecchymosis)或紫癜(Purpura)、局部缺血性疼痛"
+      }
+    ],
+    "diagnosis_points": [
+      "疼痛固定",
+      "拒按",
+      "夜间加重",
+      "面色晦暗",
+      "舌紫暗或有瘀斑",
+      "脉涩"
+    ],
+    "modern_medicine": [
+      "冠心病",
+      "脑血管疾病",
+      "痛经",
+      "慢性肝炎"
+    ],
+    "related_effects": [
+      "effect_009",
+      "effect_016",
+      "effect_186",
+      "effect_192"
+    ],
+    "related_formulas": [
+      "formula_055",
+      "formula_056",
+      "formula_058",
+      "formula_112",
+      "formula_118",
+      "formula_156",
+      "formula_157",
+      "formula_160",
+      "formula_161",
+      "formula_177",
+      "formula_179",
+      "formula_192",
+      "formula_204",
+      "formula_207",
+      "formula_219",
+      "formula_220",
+      "formula_237",
+      "formula_249",
+      "formula_256",
+      "formula_263",
+      "formula_305",
+      "formula_316",
+      "formula_323",
+      "formula_102",
+      "formula_111",
+      "formula_124"
+    ],
+    "related_needle": [
+      "needle_008",
+      "needle_037",
+      "needle_045",
+      "needle_056",
+      "needle_065",
+      "needle_084",
+      "needle_087",
+      "needle_091",
+      "needle_138",
+      "needle_158",
+      "needle_167",
+      "needle_177",
+      "prescription_013",
+      "prescription_027",
+      "prescription_104",
+      "prescription_137",
+      "prescription_168",
+      "prescription_195"
+    ],
+    "related_treatments": [
+      "treatment_008"
+    ]
+  },
+  {
+    "id": "syndrome_009",
+    "name": "阴虚火旺",
+    "pathogenesis": "阴液亏虚，虚火内生，灼伤津液",
+    "pinyin": "Yin Xu Huo Wang",
+    "category": [
+      "八纲辨证",
+      "脏腑辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "阴虚生内热。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "阴液亏损，阴不制阳，虚火上炎",
+        "western": "雌激素水平急剧下降(Estrogen Withdrawal)"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "阴虚生内热，虚火扰动心神",
+        "western": "血管舒缩不稳定(Vasomotor Instability)、5-HT波动"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "潮热盗汗、五心烦热、口干咽燥",
+        "western": "潮热(Hot Flashes)、夜间出汗、心悸(Palpitations)"
+      }
+    ],
+    "diagnosis_points": [
+      "潮热盗汗",
+      "口干咽燥",
+      "头晕耳鸣",
+      "心烦失眠",
+      "舌红少津",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "更年期综合征",
+      "甲状腺功能亢进",
+      "糖尿病"
+    ],
+    "related_effects": [
+      "effect_007",
+      "effect_010",
+      "effect_120",
+      "effect_141"
+    ],
+    "related_formulas": [
+      "formula_013",
+      "formula_039",
+      "formula_040",
+      "formula_108",
+      "formula_203",
+      "formula_361",
+      "formula_109",
+      "formula_120",
+      "formula_122"
+    ],
+    "related_needle": [
+      "needle_009",
+      "needle_032",
+      "needle_040",
+      "needle_052",
+      "needle_054",
+      "needle_058",
+      "needle_064",
+      "needle_071",
+      "needle_082",
+      "needle_096",
+      "needle_103",
+      "needle_128",
+      "needle_153",
+      "needle_165",
+      "prescription_112",
+      "prescription_147"
+    ],
+    "related_treatments": [
+      "treatment_009"
+    ]
+  },
+  {
+    "id": "syndrome_010",
+    "name": "血虚",
+    "pathogenesis": "血液亏虚，脏腑失养，心神不宁",
+    "pinyin": "Xue Xu",
+    "category": [
+      "八纲辨证",
+      "病因辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肝受血而能视，足受血而能步，掌受血而能握。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "血液亏虚，脏腑失养，心神不宁",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "面色苍白、头晕眼花、心悸失眠、月经量少、唇甲色淡、舌淡、脉细",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "贫血、低血压、神经衰弱",
+        "western": "现代医学对应：贫血、低血压、神经衰弱"
+      }
+    ],
+    "diagnosis_points": [
+      "面色苍白",
+      "头晕眼花",
+      "心悸失眠",
+      "月经量少",
+      "唇甲色淡",
+      "舌淡",
+      "脉细"
+    ],
+    "modern_medicine": [
+      "贫血",
+      "低血压",
+      "神经衰弱"
+    ],
+    "related_effects": [
+      "effect_011",
+      "effect_193",
+      "effect_201"
+    ],
+    "related_formulas": [
+      "formula_035",
+      "formula_036",
+      "formula_061",
+      "formula_117",
+      "formula_162",
+      "formula_246",
+      "formula_284",
+      "formula_330",
+      "formula_335",
+      "formula_336",
+      "formula_345",
+      "formula_375",
+      "formula_386",
+      "formula_120",
+      "formula_121"
+    ],
+    "related_needle": [
+      "needle_010",
+      "needle_045",
+      "needle_122",
+      "needle_162",
+      "prescription_103",
+      "prescription_107",
+      "prescription_134"
+    ],
+    "related_treatments": [
+      "treatment_010",
+      "treatment_025"
+    ]
+  },
+  {
+    "id": "syndrome_011",
+    "name": "湿热下注",
+    "pathogenesis": "湿热之邪下注，膀胱气化失常",
+    "pinyin": "Shi Re Xia Zhu",
+    "category": [
+      "病因辨证",
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "湿热不攘，大筋緛短，小筋弛长。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "湿热之邪下注，膀胱气化失常",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "小便短赤、灼热疼痛、口苦口黏、大便黏腻、舌苔黄腻、脉滑数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "尿路感染、前列腺炎、阴道炎",
+        "western": "现代医学对应：尿路感染、前列腺炎、阴道炎"
+      }
+    ],
+    "diagnosis_points": [
+      "小便短赤",
+      "灼热疼痛",
+      "口苦口黏",
+      "大便黏腻",
+      "舌苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "尿路感染",
+      "前列腺炎",
+      "阴道炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_012",
+      "effect_055",
+      "effect_088",
+      "effect_109",
+      "effect_116"
+    ],
+    "related_formulas": [
+      "formula_008",
+      "formula_079",
+      "formula_107",
+      "formula_176",
+      "formula_104",
+      "formula_105"
+    ],
+    "related_needle": [
+      "needle_011",
+      "needle_030",
+      "needle_038",
+      "needle_043",
+      "needle_046",
+      "needle_069",
+      "needle_075",
+      "needle_079",
+      "needle_081",
+      "needle_090",
+      "needle_124",
+      "needle_130",
+      "needle_156",
+      "prescription_015",
+      "prescription_043",
+      "prescription_081",
+      "prescription_144",
+      "prescription_186",
+      "prescription_192",
+      "prescription_197"
+    ],
+    "related_treatments": [
+      "treatment_011"
+    ]
+  },
+  {
+    "id": "syndrome_012",
+    "name": "肝阳上亢",
+    "pathogenesis": "肝肾阴虚，肝阳偏亢，上扰清窍",
+    "pinyin": "Gan Yang Shang Kang",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "诸风掉眩，皆属于肝。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "肝肾阴虚，肝阳偏亢，上扰清窍",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "头痛眩晕、面红目赤、烦躁易怒、失眠多梦、口苦咽干、脉弦",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "高血压、偏头痛、神经衰弱",
+        "western": "现代医学对应：高血压、偏头痛、神经衰弱"
+      }
+    ],
+    "diagnosis_points": [
+      "头痛眩晕",
+      "面红目赤",
+      "烦躁易怒",
+      "失眠多梦",
+      "口苦咽干",
+      "脉弦"
+    ],
+    "modern_medicine": [
+      "高血压",
+      "偏头痛",
+      "神经衰弱"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_013",
+      "effect_079",
+      "effect_110",
+      "effect_145",
+      "effect_195"
+    ],
+    "related_formulas": [
+      "formula_114",
+      "formula_155",
+      "formula_158",
+      "formula_234",
+      "formula_293"
+    ],
+    "related_needle": [
+      "needle_012",
+      "needle_024",
+      "needle_033",
+      "needle_040",
+      "needle_041",
+      "needle_049",
+      "needle_063",
+      "needle_070",
+      "needle_082",
+      "needle_101",
+      "prescription_008",
+      "prescription_011",
+      "prescription_047",
+      "prescription_072",
+      "prescription_079",
+      "prescription_158"
+    ],
+    "related_treatments": [
+      "treatment_012",
+      "treatment_026"
+    ]
+  },
+  {
+    "id": "syndrome_013",
+    "name": "心火亢盛",
+    "pathogenesis": "心火炽盛，扰乱心神，灼伤津液",
+    "pinyin": "Xin Huo Kang Sheng",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "诸痛痒疮，皆属于心。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "心火炽盛，扰乱心神，灼伤津液",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "心烦失眠、口舌生疮、舌尖红赤、小便短黄、脉数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "口腔溃疡、神经衰弱、尿道炎",
+        "western": "现代医学对应：口腔溃疡、神经衰弱、尿道炎"
+      }
+    ],
+    "diagnosis_points": [
+      "心烦失眠",
+      "口舌生疮",
+      "舌尖红赤",
+      "小便短黄",
+      "脉数"
+    ],
+    "modern_medicine": [
+      "口腔溃疡",
+      "神经衰弱",
+      "尿道炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_014",
+      "effect_089",
+      "effect_142",
+      "effect_190"
+    ],
+    "related_formulas": [
+      "formula_007",
+      "formula_120",
+      "formula_257",
+      "formula_309",
+      "formula_116"
+    ],
+    "related_needle": [
+      "needle_013",
+      "needle_032",
+      "needle_060",
+      "needle_127",
+      "prescription_083",
+      "prescription_085",
+      "prescription_089"
+    ],
+    "related_treatments": [
+      "treatment_009",
+      "treatment_013"
+    ]
+  },
+  {
+    "id": "syndrome_014",
+    "name": "食积停滞",
+    "pathogenesis": "饮食不节，食积停滞，脾胃运化失常",
+    "pinyin": "Shi Ji Ting Zhi",
+    "category": [
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "饮食自倍，肠胃乃伤。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《黄帝内经》",
+        "tcm": "饮食不节，食积停滞，脾胃运化失常",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《黄帝内经》",
+        "tcm": "脘腹胀满、嗳腐吞酸、不思饮食、大便酸臭、舌苔厚腻、脉滑",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《黄帝内经》",
+        "tcm": "消化不良、急性胃肠炎、积食",
+        "western": "现代医学对应：消化不良、急性胃肠炎、积食"
+      }
+    ],
+    "diagnosis_points": [
+      "脘腹胀满",
+      "嗳腐吞酸",
+      "不思饮食",
+      "大便酸臭",
+      "舌苔厚腻",
+      "脉滑"
+    ],
+    "modern_medicine": [
+      "消化不良",
+      "急性胃肠炎",
+      "积食"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_015",
+      "effect_076",
+      "effect_094",
+      "effect_124"
+    ],
+    "related_formulas": [
+      "formula_023",
+      "formula_024",
+      "formula_072",
+      "formula_206",
+      "formula_370",
+      "formula_384"
+    ],
+    "related_needle": [
+      "needle_014",
+      "needle_023",
+      "needle_034",
+      "prescription_082",
+      "prescription_130",
+      "prescription_175"
+    ],
+    "related_treatments": [
+      "treatment_013",
+      "treatment_014"
+    ]
+  },
+  {
+    "id": "syndrome_015",
+    "name": "气虚血瘀",
+    "pathogenesis": "气虚无力推动血行，导致瘀血内阻",
+    "pinyin": "Qi Xu Xue Yu",
+    "category": [
+      "八纲辨证",
+      "病因辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "气为血之帅，气行则血行。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚实夹杂"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "气虚无力推动血行，导致瘀血内阻",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "神疲乏力、少气懒言、肢体麻木、面色苍白或晦暗、舌淡紫、脉涩",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "脑梗死、冠心病、下肢静脉曲张",
+        "western": "现代医学对应：脑梗死、冠心病、下肢静脉曲张"
+      }
+    ],
+    "diagnosis_points": [
+      "神疲乏力",
+      "少气懒言",
+      "肢体麻木",
+      "面色苍白或晦暗",
+      "舌淡紫",
+      "脉涩"
+    ],
+    "modern_medicine": [
+      "脑梗死",
+      "冠心病",
+      "下肢静脉曲张"
+    ],
+    "related_effects": [
+      "effect_016",
+      "effect_044",
+      "effect_156",
+      "effect_192"
+    ],
+    "related_formulas": [
+      "formula_029",
+      "formula_056",
+      "formula_081",
+      "formula_113"
+    ],
+    "related_needle": [
+      "needle_015",
+      "needle_031",
+      "needle_054",
+      "needle_056",
+      "needle_084",
+      "prescription_010",
+      "prescription_122"
+    ],
+    "related_treatments": [
+      "treatment_015"
+    ]
+  },
+  {
+    "id": "syndrome_016",
+    "name": "太阳中风",
+    "pathogenesis": "风邪外袭，卫强营弱，营卫不和",
+    "pinyin": "Tai Yang Zhong Feng",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "太阳病，发热，汗出，恶风，脉缓者，名为中风。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "风邪外袭，卫强营弱，营卫不和",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "发热、汗出、恶风、脉浮缓、鼻鸣干呕",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "普通感冒、过敏性鼻炎、荨麻疹",
+        "western": "现代医学对应：普通感冒、过敏性鼻炎、荨麻疹"
+      }
+    ],
+    "diagnosis_points": [
+      "发热",
+      "汗出",
+      "恶风",
+      "脉浮缓",
+      "鼻鸣干呕"
+    ],
+    "modern_medicine": [
+      "普通感冒",
+      "过敏性鼻炎",
+      "荨麻疹"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_021",
+      "effect_205"
+    ],
+    "related_formulas": [
+      "formula_001",
+      "formula_002",
+      "formula_258"
+    ],
+    "related_needle": [
+      "needle_016",
+      "needle_076"
+    ],
+    "related_treatments": [
+      "treatment_001",
+      "treatment_016"
+    ]
+  },
+  {
+    "id": "syndrome_017",
+    "name": "太阳伤寒",
+    "pathogenesis": "寒邪束表，卫阳被遏，营阴郁滞，肺气失宣",
+    "pinyin": "Tai Yang Shang Han",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "太阳病，或已发热，或未发热，必恶寒，体痛，呕逆，脉阴阳俱紧者，名为伤寒。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "寒邪束表，卫阳被遏，营阴郁滞，肺气失宣",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "恶寒发热、无汗而喘、头项强痛、身疼腰痛、脉浮紧",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "流行性感冒、急性支气管炎",
+        "western": "现代医学对应：流行性感冒、急性支气管炎"
+      }
+    ],
+    "diagnosis_points": [
+      "恶寒发热",
+      "无汗而喘",
+      "头项强痛",
+      "身疼腰痛",
+      "脉浮紧"
+    ],
+    "modern_medicine": [
+      "流行性感冒",
+      "急性支气管炎"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_006",
+      "effect_021"
+    ],
+    "related_formulas": [
+      "formula_001",
+      "formula_089",
+      "formula_090"
+    ],
+    "related_needle": [
+      "needle_001",
+      "needle_148"
+    ],
+    "related_treatments": [
+      "treatment_001",
+      "treatment_017"
+    ]
+  },
+  {
+    "id": "syndrome_018",
+    "name": "阳明经证",
+    "pathogenesis": "热邪入里，阳明热盛，充斥内外",
+    "pinyin": "Yang Ming Jing Zheng",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "热证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "热邪入里，阳明热盛，充斥内外",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "大热、大汗、大渴、脉洪大、面赤、心烦",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "高热、中暑、感染性休克早期",
+        "western": "现代医学对应：高热、中暑、感染性休克早期"
+      }
+    ],
+    "diagnosis_points": [
+      "大热",
+      "大汗",
+      "大渴",
+      "脉洪大",
+      "面赤",
+      "心烦"
+    ],
+    "modern_medicine": [
+      "高热",
+      "中暑",
+      "感染性休克早期"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_020",
+      "effect_113"
+    ],
+    "related_formulas": [
+      "formula_006",
+      "formula_093",
+      "formula_101",
+      "formula_102",
+      "formula_103",
+      "formula_125"
+    ],
+    "related_needle": [
+      "needle_019",
+      "needle_038",
+      "needle_047",
+      "needle_060",
+      "needle_121",
+      "needle_152",
+      "prescription_152"
+    ],
+    "related_treatments": [
+      "treatment_019"
+    ]
+  },
+  {
+    "id": "syndrome_019",
+    "name": "阳明腑实",
+    "pathogenesis": "热邪与肠中糟粕相结，腑气不通",
+    "pinyin": "Yang Ming Fu Shi",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "热证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《伤寒论》",
+        "tcm": "热邪入里，与肠中糟粕相结",
+        "western": "肠梗阻(Intestinal Obstruction)、严重腹腔感染"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《伤寒论》",
+        "tcm": "阳明腑实，燥屎内结，气机不通",
+        "western": "肠管扩张、肠壁水肿、蠕动减弱或消失"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "日晡潮热、便秘、腹满痛拒按",
+        "western": "腹痛腹胀、停止排气排便、呕吐、发热>38.5℃"
+      }
+    ],
+    "diagnosis_points": [
+      "日晡潮热",
+      "手足汗出",
+      "腹满硬痛拒按",
+      "大便秘结",
+      "甚则谵语",
+      "舌苔黄燥",
+      "脉沉实"
+    ],
+    "modern_medicine": [
+      "肠梗阻",
+      "急性腹膜炎",
+      "急性胰腺炎"
+    ],
+    "related_effects": [
+      "effect_016",
+      "effect_020",
+      "effect_078",
+      "effect_208"
+    ],
+    "related_formulas": [
+      "formula_014",
+      "formula_015",
+      "formula_016"
+    ],
+    "related_needle": [
+      "needle_019"
+    ],
+    "related_treatments": [
+      "treatment_019"
+    ]
+  },
+  {
+    "id": "syndrome_020",
+    "name": "少阳病",
+    "pathogenesis": "邪入少阳，枢机不利，正邪分争于半表半里",
+    "pinyin": "Shao Yang Bing",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "少阳之为病，口苦，咽干，目眩也。"
+      }
+    ],
+    "classification": [
+      "半表半里证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "邪入少阳，枢机不利，正邪分争于半表半里",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "寒热往来、胸胁苦满、默默不欲饮食、心烦喜呕、口苦咽干、目眩、脉弦",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "间歇热、胆囊炎、胸膜炎、疟疾",
+        "western": "现代医学对应：间歇热、胆囊炎、胸膜炎、疟疾"
+      }
+    ],
+    "diagnosis_points": [
+      "寒热往来",
+      "胸胁苦满",
+      "默默不欲饮食",
+      "心烦喜呕",
+      "口苦咽干",
+      "目眩",
+      "脉弦"
+    ],
+    "modern_medicine": [
+      "间歇热",
+      "胆囊炎",
+      "胸膜炎",
+      "疟疾"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_017"
+    ],
+    "related_formulas": [
+      "formula_019",
+      "formula_092",
+      "formula_116"
+    ],
+    "related_needle": [
+      "needle_016",
+      "needle_035",
+      "needle_059",
+      "needle_061",
+      "prescription_154"
+    ],
+    "related_treatments": [
+      "treatment_016"
+    ]
+  },
+  {
+    "id": "syndrome_021",
+    "name": "太阴病",
+    "pathogenesis": "脾阳虚衰，寒湿内盛，运化失常",
+    "pinyin": "Tai Yin Bing",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "太阴之为病，腹满而吐，食不下，自利益甚，时腹自痛。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "脾阳虚衰，寒湿内盛，运化失常",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "腹满而吐、食不下、自利益甚、时腹自痛、舌淡苔白、脉缓弱",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "慢性肠炎、肠易激综合征、功能性消化不良",
+        "western": "现代医学对应：慢性肠炎、肠易激综合征、功能性消化不良"
+      }
+    ],
+    "diagnosis_points": [
+      "腹满而吐",
+      "食不下",
+      "自利益甚",
+      "时腹自痛",
+      "舌淡苔白",
+      "脉缓弱"
+    ],
+    "modern_medicine": [
+      "慢性肠炎",
+      "肠易激综合征",
+      "功能性消化不良"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_018",
+      "effect_063",
+      "effect_126"
+    ],
+    "related_formulas": [
+      "formula_025",
+      "formula_096"
+    ],
+    "related_needle": [
+      "needle_017",
+      "needle_029",
+      "needle_039",
+      "needle_106",
+      "needle_137"
+    ],
+    "related_treatments": [
+      "treatment_017"
+    ]
+  },
+  {
+    "id": "syndrome_022",
+    "name": "少阴寒化",
+    "pathogenesis": "心肾阳衰，阴寒内盛，水气不化",
+    "pinyin": "Shao Yin Han Hua",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "少阴病，脉微细，但欲寐，自利而渴者，属少阴也。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "心肾阳衰，阴寒内盛，水气不化",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "脉微细、但欲寐、恶寒蜷卧、四肢厥冷、下利清谷、舌淡苔白",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "休克、心力衰竭、肾上腺皮质功能减退",
+        "western": "现代医学对应：休克、心力衰竭、肾上腺皮质功能减退"
+      }
+    ],
+    "diagnosis_points": [
+      "脉微细",
+      "但欲寐",
+      "恶寒蜷卧",
+      "四肢厥冷",
+      "下利清谷",
+      "舌淡苔白"
+    ],
+    "modern_medicine": [
+      "休克",
+      "心力衰竭",
+      "肾上腺皮质功能减退"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_019",
+      "effect_063",
+      "effect_126",
+      "effect_222"
+    ],
+    "related_formulas": [
+      "formula_025",
+      "formula_026",
+      "formula_027",
+      "formula_200",
+      "formula_205",
+      "formula_224",
+      "formula_231",
+      "formula_236",
+      "formula_239",
+      "formula_248",
+      "formula_255",
+      "formula_259",
+      "formula_283",
+      "formula_289",
+      "formula_299",
+      "formula_311",
+      "formula_318",
+      "formula_320",
+      "formula_321",
+      "formula_322",
+      "formula_332",
+      "formula_333",
+      "formula_334",
+      "formula_341",
+      "formula_349",
+      "formula_351",
+      "formula_110",
+      "formula_117"
+    ],
+    "related_needle": [
+      "needle_018",
+      "needle_039",
+      "needle_115",
+      "needle_133"
+    ],
+    "related_treatments": [
+      "treatment_017",
+      "treatment_018"
+    ]
+  },
+  {
+    "id": "syndrome_023",
+    "name": "少阴热化",
+    "pathogenesis": "肾阴亏虚，心火独亢，水火不济",
+    "pinyin": "Shao Yin Re Hua",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "少阴病，得之二三日以上，心中烦，不得卧，黄连阿胶汤主之。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "肾阴亏虚，心火独亢，水火不济",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "心烦不寐、口燥咽干、舌尖红赤、脉细数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "失眠症、焦虑症、神经官能症",
+        "western": "现代医学对应：失眠症、焦虑症、神经官能症"
+      }
+    ],
+    "diagnosis_points": [
+      "心烦不寐",
+      "口燥咽干",
+      "舌尖红赤",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "失眠症",
+      "焦虑症",
+      "神经官能症"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_010",
+      "effect_080"
+    ],
+    "related_formulas": [
+      "formula_009",
+      "formula_103"
+    ],
+    "related_needle": [
+      "needle_009",
+      "needle_032"
+    ],
+    "related_treatments": [
+      "treatment_009"
+    ]
+  },
+  {
+    "id": "syndrome_024",
+    "name": "厥阴病",
+    "pathogenesis": "阴阳失调，寒热错杂，气机逆乱",
+    "pinyin": "Jue Yin Bing",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "厥阴之为病，消渴，气上撞心，心中疼热，饥而不欲食，食则吐蛔。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚实夹杂",
+      "寒热错杂"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "阴阳失调，寒热错杂，气机逆乱",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "消渴、气上撞心、心中疼热、饥不欲食、食则吐蛔、四肢厥冷",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "胆道蛔虫症、糖尿病、胃肠功能紊乱",
+        "western": "现代医学对应：胆道蛔虫症、糖尿病、胃肠功能紊乱"
+      }
+    ],
+    "diagnosis_points": [
+      "消渴",
+      "气上撞心",
+      "心中疼热",
+      "饥不欲食",
+      "食则吐蛔",
+      "四肢厥冷"
+    ],
+    "modern_medicine": [
+      "胆道蛔虫症",
+      "糖尿病",
+      "胃肠功能紊乱"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_026"
+    ],
+    "related_formulas": [
+      "formula_019",
+      "formula_026",
+      "formula_098",
+      "formula_117",
+      "formula_230"
+    ],
+    "related_needle": [
+      "needle_017",
+      "prescription_156"
+    ],
+    "related_treatments": [
+      "treatment_016",
+      "treatment_017"
+    ]
+  },
+  {
+    "id": "syndrome_025",
+    "name": "结胸证",
+    "pathogenesis": "邪热与水饮结聚于胸脘，气机受阻",
+    "pinyin": "Jie Xiong Zheng",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "按之痛，寸脉浮，关脉沉，名曰结胸也。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "邪热与水饮结聚于胸脘，气机受阻",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "心下硬满而痛、拒按、项强、发热、大便秘结、舌苔黄腻、脉沉紧",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "急性胰腺炎、急性胆囊炎、胸膜炎",
+        "western": "现代医学对应：急性胰腺炎、急性胆囊炎、胸膜炎"
+      }
+    ],
+    "diagnosis_points": [
+      "心下硬满而痛",
+      "拒按",
+      "项强",
+      "发热",
+      "大便秘结",
+      "舌苔黄腻",
+      "脉沉紧"
+    ],
+    "modern_medicine": [
+      "急性胰腺炎",
+      "急性胆囊炎",
+      "胸膜炎"
+    ],
+    "related_effects": [
+      "effect_016",
+      "effect_020",
+      "effect_078"
+    ],
+    "related_formulas": [
+      "formula_014",
+      "formula_066",
+      "formula_118"
+    ],
+    "related_needle": [
+      "needle_019",
+      "needle_061"
+    ],
+    "related_treatments": [
+      "treatment_019",
+      "treatment_023"
+    ]
+  },
+  {
+    "id": "syndrome_026",
+    "name": "痞证",
+    "pathogenesis": "寒热互结，中焦气机升降失常",
+    "pinyin": "Pi Zheng",
+    "category": [
+      "六经辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "但满而不痛者，此为痞。"
+      }
+    ],
+    "classification": [
+      "里证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "寒热互结，中焦气机升降失常",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "心下痞塞、按之软而不痛、呕恶、肠鸣、舌苔薄黄腻、脉弦滑",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "慢性胃炎、功能性消化不良、胃食管反流",
+        "western": "现代医学对应：慢性胃炎、功能性消化不良、胃食管反流"
+      }
+    ],
+    "diagnosis_points": [
+      "心下痞塞",
+      "按之软而不痛",
+      "呕恶",
+      "肠鸣",
+      "舌苔薄黄腻",
+      "脉弦滑"
+    ],
+    "modern_medicine": [
+      "慢性胃炎",
+      "功能性消化不良",
+      "胃食管反流"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_172",
+      "effect_199"
+    ],
+    "related_formulas": [
+      "formula_022",
+      "formula_023",
+      "formula_095",
+      "formula_182",
+      "formula_189",
+      "formula_234",
+      "formula_359",
+      "formula_366"
+    ],
+    "related_needle": [
+      "needle_003",
+      "needle_149"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_016"
+    ]
+  },
+  {
+    "id": "syndrome_027",
+    "name": "痹证·行痹",
+    "pathogenesis": "风邪偏盛，痹阻关节经络",
+    "pinyin": "Bi Zheng Xing Bi",
+    "category": [
+      "病因辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风邪偏盛，痹阻关节经络",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "关节游走性疼痛、屈伸不利、恶风、舌苔薄白、脉浮",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风湿性关节炎、类风湿关节炎、痛风",
+        "western": "现代医学对应：风湿性关节炎、类风湿关节炎、痛风"
+      }
+    ],
+    "diagnosis_points": [
+      "关节游走性疼痛",
+      "屈伸不利",
+      "恶风",
+      "舌苔薄白",
+      "脉浮"
+    ],
+    "modern_medicine": [
+      "风湿性关节炎",
+      "类风湿关节炎",
+      "痛风"
+    ],
+    "related_effects": [
+      "effect_013",
+      "effect_016",
+      "effect_023",
+      "effect_044",
+      "effect_087",
+      "effect_156",
+      "effect_169",
+      "effect_176",
+      "effect_194"
+    ],
+    "related_formulas": [
+      "formula_081",
+      "formula_115",
+      "formula_117"
+    ],
+    "related_needle": [
+      "needle_008",
+      "needle_027",
+      "needle_053",
+      "needle_068"
+    ],
+    "related_treatments": [
+      "treatment_018",
+      "treatment_021"
+    ]
+  },
+  {
+    "id": "syndrome_028",
+    "name": "痹证·痛痹",
+    "pathogenesis": "寒邪偏盛，凝滞关节经络",
+    "pinyin": "Bi Zheng Tong Bi",
+    "category": [
+      "病因辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "寒邪偏盛，凝滞关节经络",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "关节剧痛固定、得热痛减、遇寒加重、屈伸不利、舌苔白、脉弦紧",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "骨关节炎、风湿性关节炎、痛风性关节炎",
+        "western": "现代医学对应：骨关节炎、风湿性关节炎、痛风性关节炎"
+      }
+    ],
+    "diagnosis_points": [
+      "关节剧痛固定",
+      "得热痛减",
+      "遇寒加重",
+      "屈伸不利",
+      "舌苔白",
+      "脉弦紧"
+    ],
+    "modern_medicine": [
+      "骨关节炎",
+      "风湿性关节炎",
+      "痛风性关节炎"
+    ],
+    "related_effects": [
+      "effect_013",
+      "effect_023",
+      "effect_059",
+      "effect_087",
+      "effect_091",
+      "effect_169",
+      "effect_176",
+      "effect_194"
+    ],
+    "related_formulas": [
+      "formula_082",
+      "formula_115",
+      "formula_337"
+    ],
+    "related_needle": [
+      "needle_008",
+      "needle_027",
+      "needle_053",
+      "needle_068",
+      "needle_073",
+      "needle_085",
+      "needle_166"
+    ],
+    "related_treatments": [
+      "treatment_021",
+      "treatment_027"
+    ]
+  },
+  {
+    "id": "syndrome_029",
+    "name": "胸痹",
+    "pathogenesis": "胸阳不振，痰浊痹阻",
+    "pinyin": "Xiong Bi",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《金匮要略》",
+        "text": "阳微阴弦，即胸痹而痛。"
+      }
+    ],
+    "classification": [
+      "里证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "胸阳不振，痰瘀痹阻心脉",
+        "western": "冠状动脉粥样硬化(Atherosclerosis)→管腔狭窄"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "心脉痹阻，不通则痛",
+        "western": "心肌氧供需失衡→缺血→代谢产物堆积刺激神经末梢"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "胸痛彻背、胸闷气短、心悸",
+        "western": "胸骨后压榨性疼痛放射至左肩/背(Angina Pectoris)"
+      }
+    ],
+    "diagnosis_points": [
+      "胸闷痛",
+      "甚则胸痛彻背",
+      "喘息咳唾",
+      "短气",
+      "舌苔白腻",
+      "脉沉弦"
+    ],
+    "modern_medicine": [
+      "冠心病",
+      "心绞痛",
+      "心肌梗死"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_025",
+      "effect_082",
+      "effect_187"
+    ],
+    "related_formulas": [
+      "formula_054",
+      "formula_055",
+      "formula_186",
+      "formula_372"
+    ],
+    "related_needle": [
+      "needle_020",
+      "needle_028",
+      "needle_065",
+      "needle_139"
+    ],
+    "related_treatments": [
+      "treatment_005",
+      "treatment_008",
+      "treatment_023",
+      "treatment_030"
+    ]
+  },
+  {
+    "id": "syndrome_030",
+    "name": "黄疸·阳黄",
+    "pathogenesis": "湿热熏蒸，胆汁外溢肌肤",
+    "pinyin": "Huang Dan Yang Huang",
+    "category": [
+      "脏腑辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《金匮要略》",
+        "text": "黄家所得，从湿得之。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "湿热蕴结肝胆，胆汁外溢",
+        "western": "肝细胞损伤/胆道梗阻→胆红素代谢异常(Hyperbilirubinemia)"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "湿热交蒸，胆汁不循常道，溢于肌肤",
+        "western": "肝细胞处理胆红素能力下降或胆道排泄障碍"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "目黄、身黄、小便黄",
+        "western": "巩膜黄染(Scleral Icterus)、皮肤黄染、尿胆红素↑"
+      }
+    ],
+    "diagnosis_points": [
+      "身黄如橘色",
+      "目黄",
+      "小便黄",
+      "发热",
+      "口苦",
+      "舌苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "急性黄疸型肝炎",
+      "胆道感染",
+      "溶血性黄疸"
+    ],
+    "related_effects": [
+      "effect_012",
+      "effect_024",
+      "effect_211"
+    ],
+    "related_formulas": [
+      "formula_074",
+      "formula_359",
+      "formula_105",
+      "formula_112"
+    ],
+    "related_needle": [
+      "needle_011",
+      "needle_030",
+      "needle_062",
+      "prescription_190"
+    ],
+    "related_treatments": [
+      "treatment_022"
+    ]
+  },
+  {
+    "id": "syndrome_031",
+    "name": "水肿·风水",
+    "pathogenesis": "风邪外袭，肺失通调，水湿内停",
+    "pinyin": "Shui Zhong Feng Shui",
+    "category": [
+      "脏腑辨证",
+      "病因辨证",
+      "三焦辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《金匮要略》",
+        "text": "风水其脉自浮，外证骨节疼痛，恶风。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "风邪外袭，肺失通调，水湿内停",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "眼睑浮肿、继而四肢全身、恶风发热、肢节酸痛、小便不利、脉浮",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "急性肾小球肾炎、肾病综合征",
+        "western": "现代医学对应：急性肾小球肾炎、肾病综合征"
+      }
+    ],
+    "diagnosis_points": [
+      "眼睑浮肿",
+      "继而四肢全身",
+      "恶风发热",
+      "肢节酸痛",
+      "小便不利",
+      "脉浮"
+    ],
+    "modern_medicine": [
+      "急性肾小球肾炎",
+      "肾病综合征"
+    ],
+    "related_effects": [
+      "effect_008",
+      "effect_022",
+      "effect_136"
+    ],
+    "related_formulas": [
+      "formula_070",
+      "formula_163",
+      "formula_199",
+      "formula_217"
+    ],
+    "related_needle": [
+      "needle_005",
+      "needle_036",
+      "needle_083"
+    ],
+    "related_treatments": [
+      "treatment_010",
+      "treatment_020",
+      "treatment_021",
+      "treatment_029"
+    ]
+  },
+  {
+    "id": "syndrome_032",
+    "name": "心悸·水饮凌心",
+    "pathogenesis": "水饮内停，上凌于心，心阳被遏",
+    "pinyin": "Xin Ji Shui Yin Ling Xin",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "水饮内停，上凌于心，心阳被遏",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "心悸怔忡、胸闷气喘、头晕目眩、小便短少、舌淡胖、脉沉细",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "心力衰竭、心律失常、心包积液",
+        "western": "现代医学对应：心力衰竭、心律失常、心包积液"
+      }
+    ],
+    "diagnosis_points": [
+      "心悸怔忡",
+      "胸闷气喘",
+      "头晕目眩",
+      "小便短少",
+      "舌淡胖",
+      "脉沉细"
+    ],
+    "modern_medicine": [
+      "心力衰竭",
+      "心律失常",
+      "心包积液"
+    ],
+    "related_effects": [
+      "effect_005",
+      "effect_006",
+      "effect_022",
+      "effect_025",
+      "effect_135",
+      "effect_196",
+      "effect_218"
+    ],
+    "related_formulas": [
+      "formula_068",
+      "formula_069",
+      "formula_070",
+      "formula_170"
+    ],
+    "related_needle": [
+      "needle_020",
+      "needle_028",
+      "needle_036",
+      "needle_140"
+    ],
+    "related_treatments": [
+      "treatment_010",
+      "treatment_017",
+      "treatment_020",
+      "treatment_029"
+    ]
+  },
+  {
+    "id": "syndrome_033",
+    "name": "眩晕·痰浊中阻",
+    "pathogenesis": "痰浊中阻，清阳不升，浊阴不降",
+    "pinyin": "Xuan Yun Tan Zhuo Zhong Zu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《丹溪心法》",
+        "text": "无痰不作眩。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "暑湿外袭，湿困肌表",
+        "western": "高温高湿环境导致体温调节障碍"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "湿性重浊黏滞，困阻清阳",
+        "western": "脱水+电解质紊乱→肌肉痉挛、头痛、乏力"
+      }
+    ],
+    "diagnosis_points": [
+      "眩晕头重如裹",
+      "胸闷恶心",
+      "呕吐痰涎",
+      "食少多寐",
+      "舌苔白腻",
+      "脉濡滑"
+    ],
+    "modern_medicine": [
+      "梅尼埃病",
+      "高血压",
+      "脑供血不足"
+    ],
+    "related_effects": [
+      "effect_006",
+      "effect_008",
+      "effect_072",
+      "effect_154"
+    ],
+    "related_formulas": [
+      "formula_063",
+      "formula_067",
+      "formula_116",
+      "formula_104",
+      "formula_114"
+    ],
+    "related_needle": [
+      "needle_012",
+      "needle_033",
+      "needle_040",
+      "needle_049",
+      "needle_063",
+      "prescription_140",
+      "prescription_162"
+    ],
+    "related_treatments": [
+      "treatment_007"
+    ]
+  },
+  {
+    "id": "syndrome_034",
+    "name": "消渴·上消",
+    "pathogenesis": "肺热津伤，津液输布失常",
+    "pinyin": "Xiao Ke Shang Xiao",
+    "category": [
+      "脏腑辨证",
+      "三焦辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《金匮要略》",
+        "text": "渴欲饮水，口干舌燥者，白虎加人参汤主之。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "肺热津伤，津液输布失常",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "烦渴多饮、口干舌燥、尿频量多、舌边尖红、脉洪数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "糖尿病、尿崩症",
+        "western": "现代医学对应：糖尿病、尿崩症"
+      }
+    ],
+    "diagnosis_points": [
+      "烦渴多饮",
+      "口干舌燥",
+      "尿频量多",
+      "舌边尖红",
+      "脉洪数"
+    ],
+    "modern_medicine": [
+      "糖尿病",
+      "尿崩症"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_113"
+    ],
+    "related_formulas": [
+      "formula_006",
+      "formula_093",
+      "formula_174",
+      "formula_187",
+      "formula_193",
+      "formula_194",
+      "formula_202",
+      "formula_235",
+      "formula_251",
+      "formula_261",
+      "formula_270",
+      "formula_295",
+      "formula_297",
+      "formula_301",
+      "formula_313",
+      "formula_327",
+      "formula_108"
+    ],
+    "related_needle": [
+      "needle_009",
+      "needle_052",
+      "needle_054",
+      "needle_064",
+      "prescription_012"
+    ],
+    "related_treatments": [
+      "treatment_009"
+    ]
+  },
+  {
+    "id": "syndrome_035",
+    "name": "中风·中经络",
+    "pathogenesis": "正气亏虚，脉络瘀阻，风中经络",
+    "pinyin": "Zhong Feng Zhong Jing Luo",
+    "category": [
+      "脏腑辨证",
+      "病因辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《金匮要略》",
+        "text": "邪在于络，肌肤不仁；邪在于经，即重不胜。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "正气亏虚，脉络瘀阻，风中经络",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "半身不遂、口眼歪斜、语言不利、口角流涎、舌苔薄白、脉弦细",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "脑梗死、脑出血恢复期、面神经麻痹",
+        "western": "现代医学对应：脑梗死、脑出血恢复期、面神经麻痹"
+      }
+    ],
+    "diagnosis_points": [
+      "半身不遂",
+      "口眼歪斜",
+      "语言不利",
+      "口角流涎",
+      "舌苔薄白",
+      "脉弦细"
+    ],
+    "modern_medicine": [
+      "脑梗死",
+      "脑出血恢复期",
+      "面神经麻痹"
+    ],
+    "related_effects": [
+      "effect_009",
+      "effect_016",
+      "effect_044",
+      "effect_156",
+      "effect_192"
+    ],
+    "related_formulas": [
+      "formula_056",
+      "formula_081",
+      "formula_114",
+      "formula_149",
+      "formula_171",
+      "formula_172",
+      "formula_173",
+      "formula_185",
+      "formula_188",
+      "formula_252",
+      "formula_253",
+      "formula_272",
+      "formula_287",
+      "formula_291",
+      "formula_103"
+    ],
+    "related_needle": [
+      "needle_015",
+      "needle_025",
+      "needle_031",
+      "needle_077",
+      "needle_129",
+      "needle_132",
+      "needle_135"
+    ],
+    "related_treatments": [
+      "treatment_012",
+      "treatment_015",
+      "treatment_026",
+      "treatment_028"
+    ]
+  },
+  {
+    "id": "syndrome_036",
+    "name": "咳嗽·风寒袭肺",
+    "pathogenesis": "风寒袭肺，肺气不宣，气逆而咳",
+    "pinyin": "Ke Sou Feng Han Xi Fei",
+    "category": [
+      "脏腑辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《灵枢》",
+        "text": "形寒饮冷则伤肺。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "风寒袭肺，肺气不宣，气逆而咳",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "咳嗽声重、痰稀色白、鼻塞流清涕、恶寒无汗、舌苔薄白、脉浮紧",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "急性支气管炎、上呼吸道感染",
+        "western": "现代医学对应：急性支气管炎、上呼吸道感染"
+      }
+    ],
+    "diagnosis_points": [
+      "咳嗽声重",
+      "痰稀色白",
+      "鼻塞流清涕",
+      "恶寒无汗",
+      "舌苔薄白",
+      "脉浮紧"
+    ],
+    "modern_medicine": [
+      "急性支气管炎",
+      "上呼吸道感染"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_006"
+    ],
+    "related_formulas": [
+      "formula_001",
+      "formula_067",
+      "formula_260",
+      "formula_267",
+      "formula_269",
+      "formula_271",
+      "formula_273",
+      "formula_298",
+      "formula_326",
+      "formula_345",
+      "formula_346",
+      "formula_123"
+    ],
+    "related_needle": [
+      "needle_001",
+      "needle_022",
+      "needle_116",
+      "needle_159",
+      "prescription_181"
+    ],
+    "related_treatments": [
+      "treatment_001"
+    ]
+  },
+  {
+    "id": "syndrome_037",
+    "name": "咳嗽·痰热壅肺",
+    "pathogenesis": "痰热壅肺，肺失清肃，气逆而咳",
+    "pinyin": "Ke Sou Tan Re Yong Fei",
+    "category": [
+      "脏腑辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "痰热壅肺，肺失清肃，气逆而咳",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "咳嗽痰多、痰黄黏稠、咳吐不爽、发热口渴、舌苔黄腻、脉滑数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "急性支气管炎、肺炎",
+        "western": "现代医学对应：急性支气管炎、肺炎"
+      }
+    ],
+    "diagnosis_points": [
+      "咳嗽痰多",
+      "痰黄黏稠",
+      "咳吐不爽",
+      "发热口渴",
+      "舌苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "急性支气管炎",
+      "肺炎"
+    ],
+    "related_effects": [
+      "effect_006",
+      "effect_008",
+      "effect_107",
+      "effect_117",
+      "effect_151",
+      "effect_209"
+    ],
+    "related_formulas": [
+      "formula_005",
+      "formula_065",
+      "formula_196",
+      "formula_201",
+      "formula_210",
+      "formula_240",
+      "formula_123"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_150",
+      "prescription_002"
+    ],
+    "related_treatments": [
+      "treatment_002",
+      "treatment_007"
+    ]
+  },
+  {
+    "id": "syndrome_038",
+    "name": "喘证·实喘",
+    "pathogenesis": "痰浊壅肺，气道受阻，肺失宣降",
+    "pinyin": "Chuan Zheng Shi Chuan",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "痰浊壅肺，气道受阻，肺失宣降",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "喘促气急、胸闷憋气、不能平卧、痰多黏稠、舌苔白腻、脉滑",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "支气管哮喘、慢性阻塞性肺病",
+        "western": "现代医学对应：支气管哮喘、慢性阻塞性肺病"
+      }
+    ],
+    "diagnosis_points": [
+      "喘促气急",
+      "胸闷憋气",
+      "不能平卧",
+      "痰多黏稠",
+      "舌苔白腻",
+      "脉滑"
+    ],
+    "modern_medicine": [
+      "支气管哮喘",
+      "慢性阻塞性肺病"
+    ],
+    "related_effects": [
+      "effect_006",
+      "effect_008",
+      "effect_075",
+      "effect_107",
+      "effect_117",
+      "effect_209"
+    ],
+    "related_formulas": [
+      "formula_005",
+      "formula_066",
+      "formula_250",
+      "formula_369",
+      "formula_380"
+    ],
+    "related_needle": [
+      "needle_007",
+      "needle_051",
+      "needle_067"
+    ],
+    "related_treatments": [
+      "treatment_007",
+      "treatment_023"
+    ]
+  },
+  {
+    "id": "syndrome_039",
+    "name": "呕吐·寒邪犯胃",
+    "pathogenesis": "寒邪犯胃，胃失和降，浊气上逆",
+    "pinyin": "Ou Tu Han Xie Fan Wei",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《脾胃论》",
+        "tcm": "寒邪犯胃，胃失和降，浊气上逆",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "突然呕吐、吐物清稀、胃脘冷痛、恶寒喜暖、舌苔白、脉迟",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《脾胃论》",
+        "tcm": "急性胃肠炎、神经性呕吐",
+        "western": "现代医学对应：急性胃肠炎、神经性呕吐"
+      }
+    ],
+    "diagnosis_points": [
+      "突然呕吐",
+      "吐物清稀",
+      "胃脘冷痛",
+      "恶寒喜暖",
+      "舌苔白",
+      "脉迟"
+    ],
+    "modern_medicine": [
+      "急性胃肠炎",
+      "神经性呕吐"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_018",
+      "effect_205"
+    ],
+    "related_formulas": [
+      "formula_002",
+      "formula_026",
+      "formula_106"
+    ],
+    "related_needle": [
+      "needle_017",
+      "needle_034",
+      "needle_099",
+      "prescription_183"
+    ],
+    "related_treatments": [
+      "treatment_017"
+    ]
+  },
+  {
+    "id": "syndrome_040",
+    "name": "泄泻·寒湿困脾",
+    "pathogenesis": "寒湿困脾，运化失职，水湿下注肠道",
+    "pinyin": "Xie Xie Han Shi Kun Pi",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "湿胜则濡泻。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《脾胃论》",
+        "tcm": "寒湿困脾，运化失职，水湿下注肠道",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "大便稀溏、腹痛肠鸣、脘腹胀满、头身困重、舌苔白腻、脉濡缓",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《脾胃论》",
+        "tcm": "急性肠炎、肠易激综合征",
+        "western": "现代医学对应：急性肠炎、肠易激综合征"
+      }
+    ],
+    "diagnosis_points": [
+      "大便稀溏",
+      "腹痛肠鸣",
+      "脘腹胀满",
+      "头身困重",
+      "舌苔白腻",
+      "脉濡缓"
+    ],
+    "modern_medicine": [
+      "急性肠炎",
+      "肠易激综合征"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_008",
+      "effect_018",
+      "effect_062",
+      "effect_150",
+      "effect_164",
+      "effect_202"
+    ],
+    "related_formulas": [
+      "formula_029",
+      "formula_106",
+      "formula_180",
+      "formula_245",
+      "formula_266",
+      "formula_112"
+    ],
+    "related_needle": [
+      "needle_017",
+      "needle_029"
+    ],
+    "related_treatments": [
+      "treatment_017",
+      "treatment_029"
+    ]
+  },
+  {
+    "id": "syndrome_041",
+    "name": "便秘·热秘",
+    "pathogenesis": "热结肠道，津液耗伤，腑气不通",
+    "pinyin": "Bian Mi Re Bi",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "热结肠道，津液耗伤，腑气不通",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "大便干结、腹胀腹痛、口干口臭、面红身热、舌苔黄燥、脉滑数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "功能性便秘、肠梗阻",
+        "western": "现代医学对应：功能性便秘、肠梗阻"
+      }
+    ],
+    "diagnosis_points": [
+      "大便干结",
+      "腹胀腹痛",
+      "口干口臭",
+      "面红身热",
+      "舌苔黄燥",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "功能性便秘",
+      "肠梗阻"
+    ],
+    "related_effects": [
+      "effect_016",
+      "effect_020",
+      "effect_078",
+      "effect_097",
+      "effect_188"
+    ],
+    "related_formulas": [
+      "formula_014",
+      "formula_017",
+      "formula_165",
+      "formula_169",
+      "formula_307"
+    ],
+    "related_needle": [
+      "needle_019",
+      "needle_072",
+      "needle_160",
+      "prescription_005",
+      "prescription_153",
+      "prescription_188"
+    ],
+    "related_treatments": [
+      "treatment_013",
+      "treatment_019"
+    ]
+  },
+  {
+    "id": "syndrome_042",
+    "name": "头痛·风寒头痛",
+    "pathogenesis": "风寒外袭，上犯清空，经络不通",
+    "pinyin": "Tou Tong Feng Han Tou Tong",
+    "category": [
+      "病因辨证",
+      "六淫辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "表证",
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风寒外袭，上犯清空，经络不通",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "头痛连及项背、恶风畏寒、遇风加重、舌苔薄白、脉浮紧",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "紧张性头痛、颈源性头痛",
+        "western": "现代医学对应：紧张性头痛、颈源性头痛"
+      }
+    ],
+    "diagnosis_points": [
+      "头痛连及项背",
+      "恶风畏寒",
+      "遇风加重",
+      "舌苔薄白",
+      "脉浮紧"
+    ],
+    "modern_medicine": [
+      "紧张性头痛",
+      "颈源性头痛"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_155"
+    ],
+    "related_formulas": [
+      "formula_080",
+      "formula_167",
+      "formula_168",
+      "formula_216",
+      "formula_111"
+    ],
+    "related_needle": [
+      "needle_001",
+      "needle_024",
+      "prescription_150"
+    ],
+    "related_treatments": [
+      "treatment_001"
+    ]
+  },
+  {
+    "id": "syndrome_043",
+    "name": "头痛·肝阳头痛",
+    "pathogenesis": "肝阳上亢，扰于清空",
+    "pinyin": "Tou Tong Gan Yang Tou Tong",
+    "category": [
+      "脏腑辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "肝阳上亢，扰于清空",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "头胀痛而眩、心烦易怒、夜眠不宁、面红口苦、舌红苔黄、脉弦数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "高血压性头痛、偏头痛",
+        "western": "现代医学对应：高血压性头痛、偏头痛"
+      }
+    ],
+    "diagnosis_points": [
+      "头胀痛而眩",
+      "心烦易怒",
+      "夜眠不宁",
+      "面红口苦",
+      "舌红苔黄",
+      "脉弦数"
+    ],
+    "modern_medicine": [
+      "高血压性头痛",
+      "偏头痛"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_013",
+      "effect_079",
+      "effect_110",
+      "effect_145",
+      "effect_195"
+    ],
+    "related_formulas": [
+      "formula_114",
+      "formula_164",
+      "formula_166",
+      "formula_209",
+      "formula_221",
+      "formula_223",
+      "formula_234",
+      "formula_238",
+      "formula_244",
+      "formula_247",
+      "formula_295"
+    ],
+    "related_needle": [
+      "needle_012",
+      "needle_024",
+      "needle_033",
+      "needle_063",
+      "needle_070",
+      "needle_102"
+    ],
+    "related_treatments": [
+      "treatment_012",
+      "treatment_026"
+    ]
+  },
+  {
+    "id": "syndrome_044",
+    "name": "腰痛·寒湿腰痛",
+    "pathogenesis": "寒湿之邪侵袭腰部，阻滞经络",
+    "pinyin": "Yao Tong Han Shi Yao Tong",
+    "category": [
+      "病因辨证",
+      "六淫辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "寒湿之邪侵袭腰部，阻滞经络",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "腰部冷痛重着、转侧不利、阴雨天加重、舌苔白腻、脉沉缓",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "腰椎间盘突出、腰肌劳损、腰椎骨关节炎",
+        "western": "现代医学对应：腰椎间盘突出、腰肌劳损、腰椎骨关节炎"
+      }
+    ],
+    "diagnosis_points": [
+      "腰部冷痛重着",
+      "转侧不利",
+      "阴雨天加重",
+      "舌苔白腻",
+      "脉沉缓"
+    ],
+    "modern_medicine": [
+      "腰椎间盘突出",
+      "腰肌劳损",
+      "腰椎骨关节炎"
+    ],
+    "related_effects": [
+      "effect_013",
+      "effect_023",
+      "effect_087",
+      "effect_169",
+      "effect_176",
+      "effect_177",
+      "effect_194"
+    ],
+    "related_formulas": [
+      "formula_078",
+      "formula_115"
+    ],
+    "related_needle": [
+      "needle_005",
+      "needle_026",
+      "needle_074",
+      "needle_146",
+      "prescription_028"
+    ],
+    "related_treatments": [
+      "treatment_021",
+      "treatment_027"
+    ]
+  },
+  {
+    "id": "syndrome_045",
+    "name": "不寐·心脾两虚",
+    "pathogenesis": "心脾两虚，气血不足，心神失养",
+    "pinyin": "Bu Mei Xin Pi Liang Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《济生方》",
+        "text": "思虑过度，劳伤心脾，健忘怔忡。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《脾胃论》",
+        "tcm": "心脾两虚，气血不足，心神失养",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "难以入睡、多梦易醒、心悸健忘、神疲食少、面色少华、舌淡苔薄、脉细弱",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《脾胃论》",
+        "tcm": "失眠症、神经衰弱、慢性疲劳综合征",
+        "western": "现代医学对应：失眠症、神经衰弱、慢性疲劳综合征"
+      }
+    ],
+    "diagnosis_points": [
+      "难以入睡",
+      "多梦易醒",
+      "心悸健忘",
+      "神疲食少",
+      "面色少华",
+      "舌淡苔薄",
+      "脉细弱"
+    ],
+    "modern_medicine": [
+      "失眠症",
+      "神经衰弱",
+      "慢性疲劳综合征"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_007",
+      "effect_011",
+      "effect_081",
+      "effect_165"
+    ],
+    "related_formulas": [
+      "formula_033",
+      "formula_034",
+      "formula_121",
+      "formula_222",
+      "formula_120"
+    ],
+    "related_needle": [
+      "needle_010",
+      "needle_032",
+      "needle_071"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_010"
+    ]
+  },
+  {
+    "id": "syndrome_046",
+    "name": "郁证·肝气郁结",
+    "pathogenesis": "情志不遂，肝气郁结，气机不畅",
+    "pinyin": "Yu Zheng Gan Qi Yu Jie",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《丹溪心法》",
+        "text": "气血冲和，万病不生，一有怫郁，诸病生焉。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "情志不遂，肝气郁结，气机不畅",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "情绪低落、胸闷胁胀、善太息、不思饮食、失眠、舌苔薄白、脉弦",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "抑郁症、焦虑症",
+        "western": "现代医学对应：抑郁症、焦虑症"
+      }
+    ],
+    "diagnosis_points": [
+      "情绪低落",
+      "胸闷胁胀",
+      "善太息",
+      "不思饮食",
+      "失眠",
+      "舌苔薄白",
+      "脉弦"
+    ],
+    "modern_medicine": [
+      "抑郁症",
+      "焦虑症"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_042",
+      "effect_185",
+      "effect_221"
+    ],
+    "related_formulas": [
+      "formula_021",
+      "formula_052",
+      "formula_198",
+      "formula_232",
+      "formula_241",
+      "formula_243",
+      "formula_285",
+      "formula_330",
+      "formula_335",
+      "formula_336",
+      "formula_354",
+      "formula_355"
+    ],
+    "related_needle": [
+      "needle_004",
+      "needle_035",
+      "needle_050",
+      "needle_142"
+    ],
+    "related_treatments": [
+      "treatment_004",
+      "treatment_005"
+    ]
+  },
+  {
+    "id": "syndrome_047",
+    "name": "淋证·热淋",
+    "pathogenesis": "湿热下注膀胱，膀胱气化不利",
+    "pinyin": "Lin Zheng Re Lin",
+    "category": [
+      "脏腑辨证",
+      "三焦辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《诸病源候论》",
+        "text": "热淋者，小便赤涩，淋沥刺痛。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "湿热下注膀胱，膀胱气化不利",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "小便短数、灼热刺痛、小腹拘急、或有腰痛、舌苔黄腻、脉滑数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "急性膀胱炎、急性尿路感染、急性前列腺炎",
+        "western": "现代医学对应：急性膀胱炎、急性尿路感染、急性前列腺炎"
+      }
+    ],
+    "diagnosis_points": [
+      "小便短数",
+      "灼热刺痛",
+      "小腹拘急",
+      "或有腰痛",
+      "舌苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "急性膀胱炎",
+      "急性尿路感染",
+      "急性前列腺炎"
+    ],
+    "related_effects": [
+      "effect_012",
+      "effect_055",
+      "effect_109"
+    ],
+    "related_formulas": [
+      "formula_107"
+    ],
+    "related_needle": [
+      "needle_011",
+      "needle_043",
+      "needle_075",
+      "needle_143"
+    ],
+    "related_treatments": [
+      "treatment_011"
+    ]
+  },
+  {
+    "id": "syndrome_048",
+    "name": "痿证",
+    "pathogenesis": "脾胃虚弱，气血生化不足，肌肉失养",
+    "pinyin": "Wei Zheng",
+    "category": [
+      "脏腑辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "治痿者，独取阳明。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "脾胃虚弱，气血生化不足，肌肉失养",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "肢体软弱无力、肌肉萎缩、不能运动、舌淡、脉细弱",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "肌营养不良、重症肌无力、多发性肌炎",
+        "western": "现代医学对应：肌营养不良、重症肌无力、多发性肌炎"
+      }
+    ],
+    "diagnosis_points": [
+      "肢体软弱无力",
+      "肌肉萎缩",
+      "不能运动",
+      "舌淡",
+      "脉细弱"
+    ],
+    "modern_medicine": [
+      "肌营养不良",
+      "重症肌无力",
+      "多发性肌炎"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_016",
+      "effect_192"
+    ],
+    "related_formulas": [
+      "formula_030",
+      "formula_031",
+      "formula_056",
+      "formula_113",
+      "formula_115"
+    ],
+    "related_needle": [
+      "needle_003",
+      "needle_027",
+      "needle_044",
+      "needle_055",
+      "needle_077"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_008"
+    ]
+  },
+  {
+    "id": "syndrome_049",
+    "name": "哮病·冷哮",
+    "pathogenesis": "寒痰伏肺，遇感触发，痰阻气道",
+    "pinyin": "Xiao Bing Leng Xiao",
+    "category": [
+      "脏腑辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《金匮要略》",
+        "text": "寒饮伏肺，咳而上气，喉中水鸡声。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "寒痰伏肺，遇感触发，痰阻气道",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "喉中哮鸣如水鸡声、呼吸急促、胸膈满闷、痰白泡沫、舌苔白滑、脉浮紧",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "支气管哮喘、过敏性哮喘",
+        "western": "现代医学对应：支气管哮喘、过敏性哮喘"
+      }
+    ],
+    "diagnosis_points": [
+      "喉中哮鸣如水鸡声",
+      "呼吸急促",
+      "胸膈满闷",
+      "痰白泡沫",
+      "舌苔白滑",
+      "脉浮紧"
+    ],
+    "modern_medicine": [
+      "支气管哮喘",
+      "过敏性哮喘"
+    ],
+    "related_effects": [
+      "effect_006",
+      "effect_117",
+      "effect_209"
+    ],
+    "related_formulas": [
+      "formula_005",
+      "formula_089",
+      "formula_181",
+      "formula_215"
+    ],
+    "related_needle": [
+      "needle_007",
+      "needle_051",
+      "needle_067"
+    ],
+    "related_treatments": [
+      "treatment_001",
+      "treatment_007"
+    ]
+  },
+  {
+    "id": "syndrome_050",
+    "name": "胃痛·饮食停滞",
+    "pathogenesis": "饮食不节，宿食停滞，胃气失和",
+    "pinyin": "Wei Tong Yin Shi Ting Zhi",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《脾胃论》",
+        "tcm": "饮食不节，宿食停滞，胃气失和",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "胃脘胀满疼痛、嗳腐吞酸、吐食则舒、大便不畅、舌苔厚腻、脉滑",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《脾胃论》",
+        "tcm": "急性胃炎、功能性消化不良",
+        "western": "现代医学对应：急性胃炎、功能性消化不良"
+      }
+    ],
+    "diagnosis_points": [
+      "胃脘胀满疼痛",
+      "嗳腐吞酸",
+      "吐食则舒",
+      "大便不畅",
+      "舌苔厚腻",
+      "脉滑"
+    ],
+    "modern_medicine": [
+      "急性胃炎",
+      "功能性消化不良"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_015",
+      "effect_076",
+      "effect_094",
+      "effect_124"
+    ],
+    "related_formulas": [
+      "formula_023",
+      "formula_024",
+      "formula_063"
+    ],
+    "related_needle": [
+      "needle_014",
+      "needle_023",
+      "needle_161"
+    ],
+    "related_treatments": [
+      "treatment_013",
+      "treatment_014"
+    ]
+  },
+  {
+    "id": "syndrome_051",
+    "name": "卫分证",
+    "pathogenesis": "温邪袭表，卫气被郁，肺失宣降",
+    "pinyin": "Wei Fen Zheng",
+    "category": [
+      "卫气营血辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "表证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "温邪袭表，卫气被郁，肺失宣降",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "发热、微恶风寒、头痛、无汗或少汗、咳嗽、咽痛、舌边尖红、脉浮数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "上呼吸道感染、急性扁桃体炎、流行性感冒初期",
+        "western": "现代医学对应：上呼吸道感染、急性扁桃体炎、流行性感冒初期"
+      }
+    ],
+    "diagnosis_points": [
+      "发热",
+      "微恶风寒",
+      "头痛",
+      "无汗或少汗",
+      "咳嗽",
+      "咽痛",
+      "舌边尖红",
+      "脉浮数"
+    ],
+    "modern_medicine": [
+      "上呼吸道感染",
+      "急性扁桃体炎",
+      "流行性感冒初期"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_006",
+      "effect_073",
+      "effect_156",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_123"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_151",
+      "needle_155"
+    ],
+    "related_treatments": [
+      "treatment_002",
+      "treatment_024"
+    ]
+  },
+  {
+    "id": "syndrome_052",
+    "name": "气分证",
+    "pathogenesis": "温邪由表入里，邪正剧争，热炽气分",
+    "pinyin": "Qi Fen Zheng",
+    "category": [
+      "卫气营血辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "热证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "温邪由表入里，邪正剧争，热炽气分",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "大热、大汗、大渴、脉洪大、面赤心烦、舌红苔黄燥",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "重症感染高热期、中暑、败血症",
+        "western": "现代医学对应：重症感染高热期、中暑、败血症"
+      }
+    ],
+    "diagnosis_points": [
+      "大热",
+      "大汗",
+      "大渴",
+      "脉洪大",
+      "面赤心烦",
+      "舌红苔黄燥"
+    ],
+    "modern_medicine": [
+      "重症感染高热期",
+      "中暑",
+      "败血症"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_006",
+      "effect_020",
+      "effect_113",
+      "effect_117",
+      "effect_209"
+    ],
+    "related_formulas": [
+      "formula_005",
+      "formula_006",
+      "formula_093",
+      "formula_264",
+      "formula_265",
+      "formula_290",
+      "formula_292",
+      "formula_295",
+      "formula_342",
+      "formula_356",
+      "formula_357",
+      "formula_358"
+    ],
+    "related_needle": [
+      "needle_019",
+      "needle_152"
+    ],
+    "related_treatments": [
+      "treatment_019",
+      "treatment_024"
+    ]
+  },
+  {
+    "id": "syndrome_053",
+    "name": "营分证",
+    "pathogenesis": "热邪深入营分，灼伤营阴，扰乱心神",
+    "pinyin": "Ying Fen Zheng",
+    "category": [
+      "卫气营血辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "热邪深入营分，灼伤营阴，扰乱心神",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "身热夜甚、心烦不寐、斑疹隐隐、时有谵语、舌绛、脉细数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "败血症、感染性休克早期、重症传染性疾病",
+        "western": "现代医学对应：败血症、感染性休克早期、重症传染性疾病"
+      }
+    ],
+    "diagnosis_points": [
+      "身热夜甚",
+      "心烦不寐",
+      "斑疹隐隐",
+      "时有谵语",
+      "舌绛",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "败血症",
+      "感染性休克早期",
+      "重症传染性疾病"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_010",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_101",
+      "formula_103",
+      "formula_269",
+      "formula_271",
+      "formula_290",
+      "formula_294",
+      "formula_343",
+      "formula_344",
+      "formula_346",
+      "formula_357",
+      "formula_358"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_019",
+      "needle_153"
+    ],
+    "related_treatments": [
+      "treatment_009",
+      "treatment_024",
+      "treatment_028"
+    ]
+  },
+  {
+    "id": "syndrome_054",
+    "name": "血分证",
+    "pathogenesis": "热入血分，迫血妄行，心神被扰",
+    "pinyin": "Xue Fen Zheng",
+    "category": [
+      "卫气营血辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "热证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "热入血分，迫血妄行，心神被扰",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "持续高热、躁扰如狂、斑疹透露、吐血衄血、便血尿血、舌深绛、脉弦数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "弥散性血管内凝血、脑炎脑膜炎、败血症晚期",
+        "western": "现代医学对应：弥散性血管内凝血、脑炎脑膜炎、败血症晚期"
+      }
+    ],
+    "diagnosis_points": [
+      "持续高热",
+      "躁扰如狂",
+      "斑疹透露",
+      "吐血衄血",
+      "便血尿血",
+      "舌深绛",
+      "脉弦数"
+    ],
+    "modern_medicine": [
+      "弥散性血管内凝血",
+      "脑炎脑膜炎",
+      "败血症晚期"
+    ],
+    "related_effects": [
+      "effect_009",
+      "effect_016",
+      "effect_020",
+      "effect_078"
+    ],
+    "related_formulas": [
+      "formula_014",
+      "formula_102",
+      "formula_125",
+      "formula_378"
+    ],
+    "related_needle": [
+      "needle_012",
+      "needle_019",
+      "needle_154"
+    ],
+    "related_treatments": [
+      "treatment_019",
+      "treatment_024"
+    ]
+  },
+  {
+    "id": "syndrome_055",
+    "name": "上焦湿热",
+    "pathogenesis": "湿热之邪郁遏上焦，卫阳不宣",
+    "pinyin": "Shang Jiao Shi Re",
+    "category": [
+      "三焦辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "表证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "湿热之邪郁遏上焦，卫阳不宣",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "恶寒发热、身热不扬、头身重痛、胸闷脘痞、不渴、舌苔白腻、脉濡缓",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "夏秋季感冒、胃肠型感冒、流行性感冒",
+        "western": "现代医学对应：夏秋季感冒、胃肠型感冒、流行性感冒"
+      }
+    ],
+    "diagnosis_points": [
+      "恶寒发热",
+      "身热不扬",
+      "头身重痛",
+      "胸闷脘痞",
+      "不渴",
+      "舌苔白腻",
+      "脉濡缓"
+    ],
+    "modern_medicine": [
+      "夏秋季感冒",
+      "胃肠型感冒",
+      "流行性感冒"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_002",
+      "effect_004",
+      "effect_012",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_019",
+      "formula_104",
+      "formula_106",
+      "formula_265",
+      "formula_292",
+      "formula_300",
+      "formula_302",
+      "formula_338",
+      "formula_339",
+      "formula_340",
+      "formula_341",
+      "formula_342"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_007",
+      "needle_155"
+    ],
+    "related_treatments": [
+      "treatment_007",
+      "treatment_009",
+      "treatment_011"
+    ]
+  },
+  {
+    "id": "syndrome_056",
+    "name": "中焦湿热",
+    "pathogenesis": "湿热困阻中焦脾胃，升降失常",
+    "pinyin": "Zhong Jiao Shi Re",
+    "category": [
+      "三焦辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "湿热困阻中焦脾胃，升降失常",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "身热不扬、脘痞呕恶、口干不欲饮、大便溏泄、小便短黄、舌苔黄腻、脉滑数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "急性胃肠炎、肠伤寒、胆囊炎",
+        "western": "现代医学对应：急性胃肠炎、肠伤寒、胆囊炎"
+      }
+    ],
+    "diagnosis_points": [
+      "身热不扬",
+      "脘痞呕恶",
+      "口干不欲饮",
+      "大便溏泄",
+      "小便短黄",
+      "舌苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "急性胃肠炎",
+      "肠伤寒",
+      "胆囊炎"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_008",
+      "effect_012",
+      "effect_062",
+      "effect_150",
+      "effect_164",
+      "effect_202"
+    ],
+    "related_formulas": [
+      "formula_029",
+      "formula_105",
+      "formula_106",
+      "formula_279",
+      "formula_282",
+      "formula_326",
+      "formula_328",
+      "formula_354"
+    ],
+    "related_needle": [
+      "needle_003",
+      "needle_011",
+      "needle_156"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_009",
+      "treatment_011"
+    ]
+  },
+  {
+    "id": "syndrome_057",
+    "name": "下焦湿热",
+    "pathogenesis": "湿热下注膀胱大肠，气化不利，传导失常",
+    "pinyin": "Xia Jiao Shi Re",
+    "category": [
+      "三焦辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《温病条辨》",
+        "tcm": "湿热下注膀胱大肠，气化不利，传导失常",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "小腹胀满、小便频数涩痛、大便不畅、口苦口干、阴部潮湿瘙痒、舌苔黄腻、脉滑数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《温病条辨》",
+        "tcm": "泌尿系感染、前列腺炎、阴道炎、痔疮发作",
+        "western": "现代医学对应：泌尿系感染、前列腺炎、阴道炎、痔疮发作"
+      }
+    ],
+    "diagnosis_points": [
+      "小腹胀满",
+      "小便频数涩痛",
+      "大便不畅",
+      "口苦口干",
+      "阴部潮湿瘙痒",
+      "舌苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "泌尿系感染",
+      "前列腺炎",
+      "阴道炎",
+      "痔疮发作"
+    ],
+    "related_effects": [
+      "effect_012",
+      "effect_016",
+      "effect_055",
+      "effect_109",
+      "effect_179"
+    ],
+    "related_formulas": [
+      "formula_008",
+      "formula_016",
+      "formula_107"
+    ],
+    "related_needle": [
+      "needle_003",
+      "needle_011",
+      "needle_075",
+      "needle_081"
+    ],
+    "related_treatments": [
+      "treatment_009",
+      "treatment_011",
+      "treatment_020"
+    ]
+  },
+  {
+    "id": "syndrome_058",
+    "name": "气滞证",
+    "pathogenesis": "情志不畅或邪气阻滞，气机运行不畅",
+    "pinyin": "Qi Zhi Zheng",
+    "category": [
+      "气血津液辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "情志不畅或邪气阻滞，气机运行不畅",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "局部或全身胀痛窜痛、时轻时重、嗳气或矢气则舒、胸闷、善太息、舌淡暗、脉弦",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "功能性消化不良、经前期综合征、肠痉挛",
+        "western": "现代医学对应：功能性消化不良、经前期综合征、肠痉挛"
+      }
+    ],
+    "diagnosis_points": [
+      "局部或全身胀痛窜痛",
+      "时轻时重",
+      "嗳气或矢气则舒",
+      "胸闷",
+      "善太息",
+      "舌淡暗",
+      "脉弦"
+    ],
+    "modern_medicine": [
+      "功能性消化不良",
+      "经前期综合征",
+      "肠痉挛"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_042",
+      "effect_185",
+      "effect_221"
+    ],
+    "related_formulas": [
+      "formula_021",
+      "formula_052",
+      "formula_280",
+      "formula_286",
+      "formula_288",
+      "formula_321",
+      "formula_322",
+      "formula_324",
+      "formula_325",
+      "formula_333",
+      "formula_334",
+      "formula_355"
+    ],
+    "related_needle": [
+      "needle_004",
+      "needle_157",
+      "prescription_059",
+      "prescription_142"
+    ],
+    "related_treatments": [
+      "treatment_004",
+      "treatment_005"
+    ]
+  },
+  {
+    "id": "syndrome_059",
+    "name": "气虚证",
+    "pathogenesis": "先天不足或后天失养，元气亏虚，脏腑功能减退",
+    "pinyin": "Qi Xu Zheng",
+    "category": [
+      "气血津液辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "先天不足或后天失养，元气亏虚，脏腑功能减退",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "神疲乏力、少气懒言、动则气短、食欲不振、自汗、面色㿠白、舌淡苔白、脉弱",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "慢性疲劳综合征、免疫功能低下、贫血、病后体虚",
+        "western": "现代医学对应：慢性疲劳综合征、免疫功能低下、贫血、病后体虚"
+      }
+    ],
+    "diagnosis_points": [
+      "神疲乏力",
+      "少气懒言",
+      "动则气短",
+      "食欲不振",
+      "自汗",
+      "面色㿠白",
+      "舌淡苔白",
+      "脉弱"
+    ],
+    "modern_medicine": [
+      "慢性疲劳综合征",
+      "免疫功能低下",
+      "贫血",
+      "病后体虚"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_189"
+    ],
+    "related_formulas": [
+      "formula_030",
+      "formula_031",
+      "formula_032",
+      "formula_280",
+      "formula_286",
+      "formula_364",
+      "formula_383"
+    ],
+    "related_needle": [
+      "needle_003",
+      "needle_015",
+      "needle_107",
+      "needle_136",
+      "needle_144",
+      "prescription_053",
+      "prescription_142",
+      "prescription_155"
+    ],
+    "related_treatments": [
+      "treatment_001",
+      "treatment_003",
+      "treatment_025"
+    ]
+  },
+  {
+    "id": "syndrome_060",
+    "name": "血瘀证",
+    "pathogenesis": "血液运行不畅或离经之血停积，形成瘀血",
+    "pinyin": "Xue Yu Zheng",
+    "category": [
+      "气血津液辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "血液运行不畅或离经之血停积，形成瘀血",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "刺痛固定不移、拒按、夜间加重、面色黧黑、肌肤甲错、舌紫暗瘀斑、脉涩",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "血栓性疾病、动脉粥样硬化、慢性肝炎肝纤维化、痛经",
+        "western": "现代医学对应：血栓性疾病、动脉粥样硬化、慢性肝炎肝纤维化、痛经"
+      }
+    ],
+    "diagnosis_points": [
+      "刺痛固定不移",
+      "拒按",
+      "夜间加重",
+      "面色黧黑",
+      "肌肤甲错",
+      "舌紫暗瘀斑",
+      "脉涩"
+    ],
+    "modern_medicine": [
+      "血栓性疾病",
+      "动脉粥样硬化",
+      "慢性肝炎肝纤维化",
+      "痛经"
+    ],
+    "related_effects": [
+      "effect_009",
+      "effect_016",
+      "effect_186",
+      "effect_192"
+    ],
+    "related_formulas": [
+      "formula_055",
+      "formula_056",
+      "formula_057",
+      "formula_059",
+      "formula_111",
+      "formula_112",
+      "formula_385"
+    ],
+    "related_needle": [
+      "needle_008",
+      "needle_158",
+      "needle_163",
+      "prescription_077",
+      "prescription_101"
+    ],
+    "related_treatments": [
+      "treatment_005",
+      "treatment_008",
+      "treatment_030"
+    ]
+  },
+  {
+    "id": "syndrome_061",
+    "name": "手太阴肺经病证",
+    "pathogenesis": "外邪侵袭或内伤损及肺经，经气不利",
+    "pinyin": "Shou Tai Yin Fei Jing Bing Zheng",
+    "category": [
+      "经络辨证",
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "经证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "外邪侵袭或内伤损及肺经，经气不利",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "胸部胀满、哮喘、咳嗽、缺盆中痛、肩背痛、手掌心热、小便频数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "肋间神经痛、胸部软组织损伤、肩关节周围炎",
+        "western": "现代医学对应：肋间神经痛、胸部软组织损伤、肩关节周围炎"
+      }
+    ],
+    "diagnosis_points": [
+      "胸部胀满",
+      "哮喘",
+      "咳嗽",
+      "缺盆中痛",
+      "肩背痛",
+      "手掌心热",
+      "小便频数"
+    ],
+    "modern_medicine": [
+      "肋间神经痛",
+      "胸部软组织损伤",
+      "肩关节周围炎"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_006",
+      "effect_117",
+      "effect_209"
+    ],
+    "related_formulas": [
+      "formula_001",
+      "formula_002",
+      "formula_005",
+      "formula_123"
+    ],
+    "related_needle": [
+      "needle_001",
+      "needle_006",
+      "needle_159"
+    ],
+    "related_treatments": [
+      "treatment_001"
+    ]
+  },
+  {
+    "id": "syndrome_062",
+    "name": "手阳明大肠经病证",
+    "pathogenesis": "大肠经经气运行不畅，循行部位出现症状",
+    "pinyin": "Shou Yang Ming Da Chang Jing Bing Zheng",
+    "category": [
+      "经络辨证",
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "经证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "大肠经经气运行不畅，循行部位出现症状",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "齿痛、颈肿、鼻衄、咽喉肿痛、肩前臑痛、食指不用",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "牙周炎、颈淋巴结炎、上肢周围神经炎",
+        "western": "现代医学对应：牙周炎、颈淋巴结炎、上肢周围神经炎"
+      }
+    ],
+    "diagnosis_points": [
+      "齿痛",
+      "颈肿",
+      "鼻衄",
+      "咽喉肿痛",
+      "肩前臑痛",
+      "食指不用"
+    ],
+    "modern_medicine": [
+      "牙周炎",
+      "颈淋巴结炎",
+      "上肢周围神经炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_016",
+      "effect_097",
+      "effect_188",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_014",
+      "formula_017"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_160"
+    ],
+    "related_treatments": [
+      "treatment_002",
+      "treatment_019"
+    ]
+  },
+  {
+    "id": "syndrome_063",
+    "name": "足阳明胃经病证",
+    "pathogenesis": "胃经经气不畅，气血壅滞",
+    "pinyin": "Zu Yang Ming Wei Jing Bing Zheng",
+    "category": [
+      "经络辨证",
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "经证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "胃经经气不畅，气血壅滞",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "发热汗出、口唇生疮、咽喉肿痛、鼻痛、齿痛、颈肿、下肢前侧疼痛",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "鼻窦炎、牙龈炎、下肢坐骨神经痛（前侧）、甲状腺功能亢进",
+        "western": "现代医学对应：鼻窦炎、牙龈炎、下肢坐骨神经痛（前侧）、甲状腺功能亢进"
+      }
+    ],
+    "diagnosis_points": [
+      "发热汗出",
+      "口唇生疮",
+      "咽喉肿痛",
+      "鼻痛",
+      "齿痛",
+      "颈肿",
+      "下肢前侧疼痛"
+    ],
+    "modern_medicine": [
+      "鼻窦炎",
+      "牙龈炎",
+      "下肢坐骨神经痛（前侧）",
+      "甲状腺功能亢进"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_020",
+      "effect_089",
+      "effect_113"
+    ],
+    "related_formulas": [
+      "formula_006",
+      "formula_007",
+      "formula_009",
+      "formula_108"
+    ],
+    "related_needle": [
+      "needle_019",
+      "needle_161"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_019"
+    ]
+  },
+  {
+    "id": "syndrome_064",
+    "name": "足太阳膀胱经病证",
+    "pathogenesis": "风寒湿邪侵袭膀胱经，经气痹阻不通",
+    "pinyin": "Zu Tai Yang Pang Guang Jing Bing Zheng",
+    "category": [
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "经证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风寒湿邪侵袭膀胱经，经气痹阻不通",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "头痛项强、目痛如脱、脊背痛、腰痛如折、髋关节不利、腘窝疼痛、足小趾不用",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《针灸甲乙经》",
+        "tcm": "颈椎病、腰椎间盘突出、坐骨神经痛、腓肠肌痉挛",
+        "western": "现代医学对应：颈椎病、腰椎间盘突出、坐骨神经痛、腓肠肌痉挛"
+      }
+    ],
+    "diagnosis_points": [
+      "头痛项强",
+      "目痛如脱",
+      "脊背痛",
+      "腰痛如折",
+      "髋关节不利",
+      "腘窝疼痛",
+      "足小趾不用"
+    ],
+    "modern_medicine": [
+      "颈椎病",
+      "腰椎间盘突出",
+      "坐骨神经痛",
+      "腓肠肌痉挛"
+    ],
+    "related_effects": [
+      "effect_013",
+      "effect_023",
+      "effect_087",
+      "effect_169",
+      "effect_176",
+      "effect_177",
+      "effect_194"
+    ],
+    "related_formulas": [
+      "formula_002",
+      "formula_078",
+      "formula_115"
+    ],
+    "related_needle": [
+      "needle_001",
+      "needle_005",
+      "needle_073"
+    ],
+    "related_treatments": [
+      "treatment_001",
+      "treatment_007"
+    ]
+  },
+  {
+    "id": "syndrome_065",
+    "name": "心阳虚",
+    "pathogenesis": "心阳亏虚，鼓动无力，温煦失常",
+    "pinyin": "Xin Yang Xu",
+    "category": [
+      "脏腑辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "心阳亏虚，鼓动无力，温煦失常",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "心悸怔忡、胸闷气短、形寒肢冷、畏寒、自汗、舌淡胖、脉迟或结代",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "慢性心力衰竭、缓慢型心律失常、低血压",
+        "western": "现代医学对应：慢性心力衰竭、缓慢型心律失常、低血压"
+      }
+    ],
+    "diagnosis_points": [
+      "心悸怔忡",
+      "胸闷气短",
+      "形寒肢冷",
+      "畏寒",
+      "自汗",
+      "舌淡胖",
+      "脉迟或结代"
+    ],
+    "modern_medicine": [
+      "慢性心力衰竭",
+      "缓慢型心律失常",
+      "低血压"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_019",
+      "effect_063",
+      "effect_126",
+      "effect_222"
+    ],
+    "related_formulas": [
+      "formula_025",
+      "formula_026",
+      "formula_027",
+      "formula_368"
+    ],
+    "related_needle": [
+      "needle_018",
+      "needle_020",
+      "needle_119",
+      "needle_139",
+      "prescription_164"
+    ],
+    "related_treatments": [
+      "treatment_017",
+      "treatment_018"
+    ]
+  },
+  {
+    "id": "syndrome_066",
+    "name": "肝血虚",
+    "pathogenesis": "肝脏血液亏虚，筋目失于濡养",
+    "pinyin": "Gan Xue Xu",
+    "category": [
+      "脏腑辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肝受血而能视。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "肝脏血液亏虚，筋目失于濡养",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "头晕眼花、面色萎黄、视物模糊、肢体麻木、筋脉拘挛、月经量少色淡、舌淡、脉细",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "缺铁性贫血、维生素A缺乏、慢性肝病、干眼症",
+        "western": "现代医学对应：缺铁性贫血、维生素A缺乏、慢性肝病、干眼症"
+      }
+    ],
+    "diagnosis_points": [
+      "头晕眼花",
+      "面色萎黄",
+      "视物模糊",
+      "肢体麻木",
+      "筋脉拘挛",
+      "月经量少色淡",
+      "舌淡",
+      "脉细"
+    ],
+    "modern_medicine": [
+      "缺铁性贫血",
+      "维生素A缺乏",
+      "慢性肝病",
+      "干眼症"
+    ],
+    "related_effects": [
+      "effect_011",
+      "effect_193",
+      "effect_201"
+    ],
+    "related_formulas": [
+      "formula_033",
+      "formula_035",
+      "formula_036"
+    ],
+    "related_needle": [
+      "needle_010",
+      "needle_162",
+      "prescription_149"
+    ],
+    "related_treatments": [
+      "treatment_010"
+    ]
+  },
+  {
+    "id": "syndrome_067",
+    "name": "肺气虚",
+    "pathogenesis": "肺气不足，宣降无力，卫外不固",
+    "pinyin": "Fei Qi Xu",
+    "category": [
+      "脏腑辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肺气虚则鼻塞不利，少气。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "肺气不足，宣降无力，卫外不固",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "咳嗽无力、气短懒言、声音低微、自汗畏风、易感冒、面色㿠白、舌淡苔白、脉虚",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "慢性支气管炎、肺气肿、免疫功能低下",
+        "western": "现代医学对应：慢性支气管炎、肺气肿、免疫功能低下"
+      }
+    ],
+    "diagnosis_points": [
+      "咳嗽无力",
+      "气短懒言",
+      "声音低微",
+      "自汗畏风",
+      "易感冒",
+      "面色㿠白",
+      "舌淡苔白",
+      "脉虚"
+    ],
+    "modern_medicine": [
+      "慢性支气管炎",
+      "肺气肿",
+      "免疫功能低下"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_007",
+      "effect_058"
+    ],
+    "related_formulas": [
+      "formula_030",
+      "formula_041",
+      "formula_048",
+      "formula_068",
+      "formula_086"
+    ],
+    "related_needle": [
+      "needle_006",
+      "needle_076",
+      "prescription_146"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_006",
+      "treatment_025"
+    ]
+  },
+  {
+    "id": "syndrome_068",
+    "name": "跌打损伤",
+    "pathogenesis": "外力致伤，经脉破损，血溢脉外，瘀血停滞",
+    "pinyin": "Die Da Sun Shang",
+    "category": [
+      "病因辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《黄帝内经》",
+        "tcm": "外力致伤，经脉破损，血溢脉外，瘀血停滞",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《黄帝内经》",
+        "tcm": "局部疼痛、肿胀青紫、瘀斑、活动受限、压痛明显",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《黄帝内经》",
+        "tcm": "软组织挫伤、骨折、关节脱位、肌肉拉伤",
+        "western": "现代医学对应：软组织挫伤、骨折、关节脱位、肌肉拉伤"
+      }
+    ],
+    "diagnosis_points": [
+      "局部疼痛",
+      "肿胀青紫",
+      "瘀斑",
+      "活动受限",
+      "压痛明显"
+    ],
+    "modern_medicine": [
+      "软组织挫伤",
+      "骨折",
+      "关节脱位",
+      "肌肉拉伤"
+    ],
+    "related_effects": [
+      "effect_009",
+      "effect_016",
+      "effect_186",
+      "effect_192"
+    ],
+    "related_formulas": [
+      "formula_055",
+      "formula_056",
+      "formula_058"
+    ],
+    "related_needle": [
+      "needle_008",
+      "needle_163"
+    ],
+    "related_treatments": [
+      "treatment_008",
+      "treatment_015"
+    ]
+  },
+  {
+    "id": "syndrome_069",
+    "name": "暑湿感冒",
+    "pathogenesis": "暑湿之邪侵袭肌表，暑热内盛，湿邪困脾",
+    "pinyin": "Shu Shi Gan Mao",
+    "category": [
+      "病因辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《温病条辨》",
+        "text": "夏月伤暑，汗多，脉虚，新加香薷饮主之。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "暑湿之邪侵袭肌表，暑热内盛，湿邪困脾",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "身热汗出不解、微恶风、头昏重胀痛、胸闷脘痞、心烦口渴、小便短赤、舌苔黄腻、脉濡数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "夏季感冒、热射病先兆、急性胃肠炎",
+        "western": "现代医学对应：夏季感冒、热射病先兆、急性胃肠炎"
+      }
+    ],
+    "diagnosis_points": [
+      "身热汗出不解",
+      "微恶风",
+      "头昏重胀痛",
+      "胸闷脘痞",
+      "心烦口渴",
+      "小便短赤",
+      "舌苔黄腻",
+      "脉濡数"
+    ],
+    "modern_medicine": [
+      "夏季感冒",
+      "热射病先兆",
+      "急性胃肠炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_006",
+      "effect_073",
+      "effect_156",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_106",
+      "formula_123",
+      "formula_143"
+    ],
+    "related_needle": [
+      "needle_002",
+      "needle_019",
+      "needle_123",
+      "prescription_151"
+    ],
+    "related_treatments": [
+      "treatment_002",
+      "treatment_011"
+    ]
+  },
+  {
+    "id": "syndrome_070",
+    "name": "肝胆湿热",
+    "pathogenesis": "湿热蕴结肝胆，疏泄失常，胆汁外溢，气机不畅",
+    "pinyin": "Gan Dan Shi Re",
+    "category": [
+      "脏腑辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肝者，将军之官，谋虑出焉。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "外感湿热疫毒，或饮食不节嗜酒肥甘，湿热内生蕴结肝胆",
+        "western": "胆道结石嵌顿、细菌感染(E.coli/Klebsiella)、高脂饮食导致胆汁淤积"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "湿热熏蒸肝胆，胆汁不循常道外溢肌肤，气机郁滞不通",
+        "western": "胆道梗阻→胆汁淤积→细菌繁殖→炎症反应；胆囊壁水肿、充血"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "胁痛口苦、黄疸(阳黄)、小便黄赤、舌红苔黄腻",
+        "western": "右上腹痛(Murphy征阳性)、发热、黄疸、恶心呕吐、白细胞↑"
+      }
+    ],
+    "diagnosis_points": [
+      "胁肋胀痛灼热",
+      "脘腹胀满",
+      "口苦纳呆",
+      "恶心呕吐",
+      "小便短赤或黄",
+      "身目发黄",
+      "舌红苔黄腻",
+      "脉弦滑数"
+    ],
+    "modern_medicine": [
+      "急性胆囊炎",
+      "胆结石",
+      "急性黄疸型肝炎",
+      "慢性肝炎活动期",
+      "胆道感染"
+    ],
+    "related_effects": [
+      "effect_012",
+      "effect_024",
+      "effect_211"
+    ],
+    "related_formulas": [
+      "formula_008",
+      "formula_074"
+    ],
+    "related_needle": [
+      "needle_061",
+      "needle_062",
+      "needle_098",
+      "prescription_034",
+      "prescription_044",
+      "prescription_062"
+    ],
+    "related_treatments": [
+      "treatment_011",
+      "treatment_022"
+    ]
+  },
+  {
+    "id": "syndrome_071",
+    "name": "胆石阻滞",
+    "pathogenesis": "肝胆气滞，湿热蕴结日久，炼液成石，阻滞胆道",
+    "pinyin": "Dan Shi Zu Zhi",
+    "category": [
+      "脏腑辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "嗜食肥甘厚味、情志不畅致肝胆疏泄失常，湿热蕴结日久炼液成石",
+        "western": "胆汁中胆固醇过饱和、胆盐/卵磷脂比例失常、胆囊排空障碍→成核→结石形成"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "结石阻塞胆道，气机不通，不通则痛；胆汁外溢则为黄疸",
+        "western": "结石嵌顿于胆囊管/胆总管→胆道压力急剧升高→剧烈绞痛；胆汁排泄受阻→梗阻性黄疸"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "右胁绞痛放射肩背、黄疸、恶心呕吐、发热",
+        "western": "右上腹绞痛(胆绞痛/Biliary Colic)、Murphy征(+)、黄疸、超声示胆囊结石"
+      }
+    ],
+    "diagnosis_points": [
+      "右胁绞痛或胀痛",
+      "痛引肩背",
+      "口苦咽干",
+      "恶心呕吐",
+      "黄疸时发",
+      "腹胀纳呆",
+      "舌红苔黄腻或白腻",
+      "脉弦滑或弦紧"
+    ],
+    "modern_medicine": [
+      "胆囊结石",
+      "胆总管结石",
+      "肝内胆管结石",
+      "胆绞痛"
+    ],
+    "related_effects": [
+      "effect_012",
+      "effect_024",
+      "effect_211"
+    ],
+    "related_formulas": [
+      "formula_020",
+      "formula_074"
+    ],
+    "related_needle": [
+      "needle_062",
+      "prescription_062"
+    ],
+    "related_treatments": [
+      "treatment_004",
+      "treatment_011",
+      "treatment_022"
+    ]
+  },
+  {
+    "id": "syndrome_072",
+    "name": "胃热炽盛",
+    "pathogenesis": "火热之邪炽盛于胃，灼伤胃阴，胃失和降",
+    "pinyin": "Wei Re Chi Sheng",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "过食辛辣温燥、情志化火、外邪入里化热犯胃",
+        "western": "辛辣食物/酒精→胃黏膜化学性刺激；H.pylori感染→炎症反应"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "胃火炽盛，灼伤胃络，胃气上逆",
+        "western": "胃酸分泌亢进(Hyperacidity)→胃黏膜损伤→充血水肿→溃疡"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "胃脘灼痛、消谷善饥、口臭便秘、渴喜冷饮",
+        "western": "上腹烧灼感(Epigastric Burning)、反酸(Acid Reflux)、食欲亢进、口臭"
+      }
+    ],
+    "diagnosis_points": [
+      "胃脘灼痛拒按",
+      "消谷善饥",
+      "渴喜冷饮",
+      "口臭牙龈肿痛",
+      "大便秘结",
+      "小便短黄",
+      "舌红苔黄燥",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "急性胃炎",
+      "胃溃疡活动期",
+      "反流性食管炎",
+      "牙周炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_020",
+      "effect_089",
+      "effect_113"
+    ],
+    "related_formulas": [
+      "formula_006",
+      "formula_007",
+      "formula_009",
+      "formula_108"
+    ],
+    "related_needle": [
+      "needle_065",
+      "needle_066",
+      "prescription_021",
+      "prescription_033",
+      "prescription_113",
+      "prescription_133",
+      "prescription_184"
+    ],
+    "related_treatments": [
+      "treatment_013",
+      "treatment_019"
+    ]
+  },
+  {
+    "id": "syndrome_073",
+    "name": "肝胃不和",
+    "pathogenesis": "肝失疏泄，横逆犯胃，胃失和降",
+    "pinyin": "Gan Wei Bu He",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "情志不畅、郁怒伤肝，肝气横逆犯胃",
+        "western": "心理应激→迷走神经张力改变→胃动力障碍+胃酸分泌异常"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "肝气犯胃，胃失和降，气机上逆",
+        "western": "脑-肠轴(Brain-Gut Axis)失调→胃排空延迟、食管下括约肌压力↓→反流"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "胃脘胀痛连及胁肋、嗳气反酸、随情绪波动",
+        "western": "上腹痛+烧心(Heartburn)、反流(Regurgitation)、与情绪明显相关"
+      }
+    ],
+    "diagnosis_points": [
+      "胃脘胁肋胀痛",
+      "嗳气吞酸",
+      "嘈杂",
+      "烦躁易怒",
+      "善太息",
+      "每因情绪波动加重",
+      "舌苔薄白或薄黄",
+      "脉弦"
+    ],
+    "modern_medicine": [
+      "慢性胃炎",
+      "胃食管反流病",
+      "功能性消化不良",
+      "应激性胃病"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_004",
+      "effect_042",
+      "effect_172",
+      "effect_199"
+    ],
+    "related_formulas": [
+      "formula_021",
+      "formula_022"
+    ],
+    "related_needle": [
+      "needle_066",
+      "prescription_058",
+      "prescription_143"
+    ],
+    "related_treatments": [
+      "treatment_004"
+    ]
+  },
+  {
+    "id": "syndrome_074",
+    "name": "气阴两虚",
+    "pathogenesis": "气虚日久，阴液亦伤；或热病后期耗气伤阴",
+    "pinyin": "Qi Yin Liang Xu",
+    "category": [
+      "八纲辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《温病条辨》",
+        "text": "温热之邪，耗气伤阴。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "久病耗气伤阴，或高热大汗后气阴两伤",
+        "western": "慢性消耗性疾病(糖尿病、甲亢)→代谢亢进→能量+水分耗竭"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "气虚推动无力，阴虚滋润不足",
+        "western": "胰岛素相对不足→葡萄糖利用障碍(气虚)+渗透性利尿脱水(阴虚)"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "乏力口干、气短盗汗、舌红少苔",
+        "western": "疲劳(Fatigue)、烦渴多饮(Polydipsia)、体重下降、皮肤干燥"
+      }
+    ],
+    "diagnosis_points": [
+      "神疲乏力",
+      "口干咽燥",
+      "气短懒言",
+      "自汗盗汗",
+      "手足心热",
+      "食少纳呆",
+      "舌淡红少苔",
+      "脉细弱或细数"
+    ],
+    "modern_medicine": [
+      "糖尿病",
+      "慢性疲劳综合征",
+      "肿瘤放化疗后",
+      "大病恢复期"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_007",
+      "effect_011",
+      "effect_058"
+    ],
+    "related_formulas": [
+      "formula_030",
+      "formula_034",
+      "formula_041"
+    ],
+    "related_needle": [
+      "needle_064",
+      "needle_083"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_006",
+      "treatment_009"
+    ]
+  },
+  {
+    "id": "syndrome_075",
+    "name": "脾肾阳虚",
+    "pathogenesis": "脾阳久虚损及肾阳，或肾阳亏虚不能温煦脾阳",
+    "pinyin": "Pi Shen Yang Xu",
+    "category": [
+      "脏腑辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《景岳全书》",
+        "text": "阳虚者，多寒。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "久病耗伤阳气，或脾虚及肾，肾虚及脾",
+        "western": "慢性肾病→肾单位丢失→促红细胞生成素↓→贫血→代谢率↓"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "脾肾阳虚，温煦失职，气化无力",
+        "western": "肾小球滤过率↓→水钠潴留；心排血量↓→组织灌注不足→畏寒"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "畏寒肢冷、五更泻、水肿、腰膝酸软",
+        "western": "怕冷(Cold Intolerance)、晨起腹泻、下肢水肿(Edema)、腰背痛"
+      }
+    ],
+    "diagnosis_points": [
+      "面色㿠白",
+      "畏寒肢冷",
+      "腰膝酸软",
+      "腹部冷痛",
+      "五更泄泻",
+      "小便清长或不利",
+      "水肿",
+      "舌淡胖有齿痕",
+      "脉沉迟细"
+    ],
+    "modern_medicine": [
+      "慢性肾炎",
+      "肾病综合征",
+      "慢性心力衰竭",
+      "肾上腺皮质功能减退"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_019",
+      "effect_022",
+      "effect_063",
+      "effect_126",
+      "effect_222"
+    ],
+    "related_formulas": [
+      "formula_025",
+      "formula_026",
+      "formula_042",
+      "formula_110",
+      "formula_288",
+      "formula_296",
+      "formula_304",
+      "formula_310",
+      "formula_312",
+      "formula_314",
+      "formula_315",
+      "formula_319",
+      "formula_324",
+      "formula_325",
+      "formula_328",
+      "formula_331",
+      "formula_332",
+      "formula_337",
+      "formula_338",
+      "formula_340",
+      "formula_343",
+      "formula_344",
+      "formula_347",
+      "formula_348",
+      "formula_350",
+      "formula_352",
+      "formula_353",
+      "formula_356"
+    ],
+    "related_needle": [
+      "needle_036",
+      "needle_078",
+      "needle_080",
+      "prescription_071",
+      "prescription_179"
+    ],
+    "related_treatments": [
+      "treatment_005",
+      "treatment_018"
+    ]
+  },
+  {
+    "id": "syndrome_076",
+    "name": "风湿热痹",
+    "pathogenesis": "风湿热邪痹阻经络关节，气血运行不畅",
+    "pinyin": "Feng Shi Re Bi",
+    "category": [
+      "病因辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《针灸甲乙经》",
+        "tcm": "湿热之邪侵袭关节，或风寒湿痹日久化热",
+        "western": "链球菌感染后免疫复合物沉积→关节滑膜炎症"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《针灸甲乙经》",
+        "tcm": "湿热蕴结关节，气血壅滞不通",
+        "western": "免疫复合物激活补体→滑膜血管扩张渗出→红肿热痛"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "关节红肿灼热剧痛、不可触碰、口渴发热",
+        "western": "关节红热肿胀(Erythema/Swelling)、极度触痛、发热、ESR↑/CRP↑"
+      }
+    ],
+    "diagnosis_points": [
+      "关节红肿灼热",
+      "疼痛剧烈",
+      "屈伸不利",
+      "得冷则舒",
+      "发热口渴",
+      "心烦",
+      "舌红苔黄燥",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "风湿性关节炎急性期",
+      "痛风性关节炎急性发作",
+      "类风湿关节炎活动期"
+    ],
+    "related_effects": [
+      "effect_013",
+      "effect_023",
+      "effect_059",
+      "effect_087",
+      "effect_091",
+      "effect_169",
+      "effect_176",
+      "effect_194"
+    ],
+    "related_formulas": [
+      "formula_082",
+      "formula_115"
+    ],
+    "related_needle": [
+      "needle_068",
+      "needle_069",
+      "needle_085",
+      "prescription_050"
+    ],
+    "related_treatments": [
+      "treatment_012",
+      "treatment_021"
+    ]
+  },
+  {
+    "id": "syndrome_077",
+    "name": "肝火犯胃",
+    "pathogenesis": "肝郁化火，横逆犯胃，胃失和降",
+    "pinyin": "Gan Huo Fan Wei",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "情志不畅郁而化火，肝火犯胃",
+        "western": "精神应激→交感兴奋→胃肠功能紊乱"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "肝经火旺，横逆犯胃，胃气上逆",
+        "western": "应激→胃酸分泌↑+胃黏膜保护因子↓→黏膜损伤"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "胃脘灼痛、嘈杂反酸、烦躁易怒、口苦",
+        "western": "上腹烧灼感、反酸烧心、伴情绪紧张症状加重"
+      }
+    ],
+    "diagnosis_points": [
+      "胃脘灼痛",
+      "急躁易怒",
+      "口干口苦",
+      "嘈杂吞酸",
+      "心烦失眠",
+      "胸胁胀痛",
+      "舌红苔黄",
+      "脉弦数"
+    ],
+    "modern_medicine": [
+      "反流性食管炎",
+      "急性胃炎",
+      "消化性溃疡",
+      "功能性消化不良"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_004",
+      "effect_020",
+      "effect_042",
+      "effect_089"
+    ],
+    "related_formulas": [
+      "formula_007",
+      "formula_008",
+      "formula_021"
+    ],
+    "related_needle": [
+      "needle_066",
+      "needle_073",
+      "needle_074",
+      "needle_079",
+      "needle_085"
+    ],
+    "related_treatments": [
+      "treatment_004",
+      "treatment_022"
+    ]
+  },
+  {
+    "id": "syndrome_078",
+    "name": "湿热蕴肤",
+    "pathogenesis": "湿热内蕴，外发肌肤，气血壅滞",
+    "pinyin": "Shi Re Yun Fu",
+    "category": [
+      "病因辨证",
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "过食腥发辛辣、湿热内生，兼感外邪发为皮疹",
+        "western": "过敏原(IgE介导)或刺激物→肥大细胞脱颗粒→组胺释放→皮肤炎症"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "湿热蕴结，熏蒸肌肤，营卫不和",
+        "western": "Th2细胞介导的免疫反应→IL-4/IL-13→皮肤屏障破坏→渗出"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "红斑水疱、瘙痒渗出、舌红苔黄腻",
+        "western": "红斑(Erythema)、水疱/渗出(Vesicles/Exudate)、剧烈瘙痒(Pruritus)"
+      }
+    ],
+    "diagnosis_points": [
+      "皮肤红斑丘疹水疱",
+      "瘙痒剧烈",
+      "糜烂渗出",
+      "伴口渴心烦",
+      "小便黄",
+      "大便干",
+      "舌红苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "急性湿疹",
+      "荨麻疹",
+      "接触性皮炎",
+      "疱疹样皮炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_012",
+      "effect_055",
+      "effect_088",
+      "effect_109",
+      "effect_116"
+    ],
+    "related_formulas": [
+      "formula_008",
+      "formula_079",
+      "formula_107"
+    ],
+    "related_needle": [
+      "needle_071",
+      "needle_079",
+      "needle_086",
+      "needle_087",
+      "needle_088",
+      "needle_093",
+      "prescription_032"
+    ],
+    "related_treatments": [
+      "treatment_011"
+    ]
+  },
+  {
+    "id": "syndrome_079",
+    "name": "肾阴虚",
+    "pathogenesis": "肾阴亏虚，虚火内生，髓海不足",
+    "pinyin": "Shen Yin Xu",
+    "category": [
+      "脏腑辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肾者主蛰，封藏之本，精之处也。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "先天不足、房劳过度、热病伤阴、年高肾亏",
+        "western": "衰老→性激素↓→下丘脑-垂体轴敏感性改变"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "肾阴不足，髓海空虚，虚火上扰",
+        "western": "雌激素/雄激素↓→交感神经活性相对↑→血管舒缩不稳定"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "腰膝酸软、头晕耳鸣、五心烦热、潮热盗汗",
+        "western": "慢性腰痛、眩晕(Vertigo)、潮热(Hot Flashes)、夜间出汗"
+      }
+    ],
+    "diagnosis_points": [
+      "腰膝酸软",
+      "头晕耳鸣",
+      "失眠多梦",
+      "五心烦热",
+      "潮热盗汗",
+      "咽干颧红",
+      "男子遗精",
+      "女子经少经闭",
+      "舌红少苔",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "更年期综合征",
+      "高血压",
+      "2型糖尿病",
+      "神经衰弱"
+    ],
+    "related_effects": [
+      "effect_007",
+      "effect_010",
+      "effect_120",
+      "effect_141"
+    ],
+    "related_formulas": [
+      "formula_037",
+      "formula_039",
+      "formula_108",
+      "formula_109"
+    ],
+    "related_needle": [
+      "needle_009",
+      "needle_082"
+    ],
+    "related_treatments": [
+      "treatment_009"
+    ]
+  },
+  {
+    "id": "syndrome_080",
+    "name": "痰瘀互结",
+    "pathogenesis": "痰浊与瘀血相互搏结，阻滞经络脏腑",
+    "pinyin": "Tan Yu Hu Jie",
+    "category": [
+      "病因辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "痰浊久聚与瘀血相搏，气机不畅痰瘀互结",
+        "western": "动脉粥样硬化斑块=脂质核心(痰)+纤维帽+钙化(瘀)"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "痰瘀胶结，心脉痹阻，不通则痛",
+        "western": "动脉粥样硬化斑块不稳定→破裂→血栓形成→急性冠脉综合征"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "胸痛如刺有定处、胸闷痰多、舌暗红瘀斑",
+        "western": "劳力性胸痛→不稳定→静息痛；心电图ST段改变；肌钙蛋白↑"
+      }
+    ],
+    "diagnosis_points": [
+      "胸痛如刺如割",
+      "固定不移",
+      "胸闷痰多",
+      "或颈部结节",
+      "或皮下硬结",
+      "面色晦暗",
+      "舌暗红有瘀斑苔腻",
+      "脉弦滑或涩"
+    ],
+    "modern_medicine": [
+      "冠心病不稳定型心绞痛",
+      "颈动脉斑块",
+      "甲状腺结节",
+      "脑梗死"
+    ],
+    "related_effects": [
+      "effect_004",
+      "effect_009",
+      "effect_025",
+      "effect_082",
+      "effect_186",
+      "effect_187"
+    ],
+    "related_formulas": [
+      "formula_054",
+      "formula_055",
+      "formula_116"
+    ],
+    "related_needle": [
+      "needle_065",
+      "needle_079",
+      "needle_081",
+      "prescription_176"
+    ],
+    "related_treatments": [
+      "treatment_023",
+      "treatment_030"
+    ]
+  },
+  {
+    "id": "syndrome_081",
+    "name": "肝经郁热",
+    "pathogenesis": "肝经郁热化火，火毒外发肌肤，循经而发",
+    "pinyin": "Gan Jing Yu Re",
+    "category": [
+      "脏腑辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《针灸甲乙经》",
+        "tcm": "肝气郁结日久而化火，火毒循经外发",
+        "western": "水痘-带状疱疹病毒(VZV)潜伏于背根神经节，免疫力↓时激活"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《针灸甲乙经》",
+        "tcm": "肝经火毒外发皮肤，灼伤脉络",
+        "western": "病毒沿感觉神经纤维下行至皮肤→神经元炎症+出血性坏死→剧烈神经痛"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "沿肋间神经分布的簇集性水疱、灼热刺痛",
+        "western": "单侧沿皮节分布的簇集水疱(Vesicles)+剧烈神经痛(Neuropathic Pain)"
+      }
+    ],
+    "diagnosis_points": [
+      "胸胁部簇集性水疱",
+      "带状分布",
+      "灼热刺痛",
+      "烦躁易怒",
+      "口苦咽干",
+      "小便黄",
+      "舌红苔黄",
+      "脉弦数"
+    ],
+    "modern_medicine": [
+      "带状疱疹",
+      "带状疱疹后遗神经痛"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_004",
+      "effect_012",
+      "effect_210",
+      "effect_211"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_008",
+      "formula_074"
+    ],
+    "related_needle": [
+      "needle_078",
+      "needle_164"
+    ],
+    "related_treatments": [
+      "treatment_004",
+      "treatment_011"
+    ]
+  },
+  {
+    "id": "syndrome_082",
+    "name": "消渴·中消",
+    "pathogenesis": "胃火炽盛，消谷善饥，津液耗伤",
+    "pinyin": "Xiao Ke Zhong Xiao",
+    "category": [
+      "脏腑辨证",
+      "三焦辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《温病条辨》",
+        "tcm": "过食肥甘厚味，积热内蕴，化燥伤津",
+        "western": "胰岛素抵抗+β细胞功能减退→葡萄糖摄取障碍→细胞饥饿感"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《温病条辨》",
+        "tcm": "胃火炽盛灼伤津液，消谷善饥而形体消瘦",
+        "western": "高血糖→渗透性利尿→脱水；葡萄糖利用率↓→代偿性多食+体重下降"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《温病条辨》",
+        "tcm": "多食易饥、消瘦、口干便秘、小便多",
+        "western": "多食(Polyphagia)、体重下降、空腹血糖↑(>7.0mmol/L)、HbA1c↑"
+      }
+    ],
+    "diagnosis_points": [
+      "多食易饥",
+      "形体消瘦",
+      "口干欲饮",
+      "大便干结",
+      "小便频多",
+      "舌红苔黄燥",
+      "脉滑实有力"
+    ],
+    "modern_medicine": [
+      "2型糖尿病",
+      "甲状腺功能亢进"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_020",
+      "effect_089",
+      "effect_113"
+    ],
+    "related_formulas": [
+      "formula_006",
+      "formula_007",
+      "formula_093",
+      "formula_108"
+    ],
+    "related_needle": [
+      "needle_052",
+      "needle_165",
+      "prescription_012"
+    ],
+    "related_treatments": [
+      "treatment_009"
+    ]
+  },
+  {
+    "id": "syndrome_083",
+    "name": "肺经风热",
+    "pathogenesis": "风热之邪蕴于肺经，上熏面部肌肤",
+    "pinyin": "Fei Jing Feng Re",
+    "category": [
+      "脏腑辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "表证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风热外袭，蕴于肺经，上熏面部",
+        "western": "痤疮丙酸杆菌(Propionibacterium acnes)增殖+毛囊角化过度+皮脂分泌旺盛"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风热上扰，肺经郁热，血热瘀滞",
+        "western": "雄激素→皮脂腺分泌↑→毛囊口角化堵塞→细菌增殖→炎症反应"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "面部粉刺丘疹红肿疼痛、或脓疱",
+        "western": "面/胸背部粉刺(Comedones)、炎性丘疹(Papules)、脓疱(Pustules)"
+      }
+    ],
+    "diagnosis_points": [
+      "面部粉刺丘疹",
+      "色红疼痛",
+      "或有脓疱",
+      "皮肤油腻",
+      "口干咽燥",
+      "大便偏干",
+      "舌红苔薄黄",
+      "脉浮数"
+    ],
+    "modern_medicine": [
+      "痤疮",
+      "毛囊炎",
+      "脂溢性皮炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_006",
+      "effect_117",
+      "effect_209",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_005",
+      "formula_123"
+    ],
+    "related_needle": [
+      "needle_080",
+      "needle_091",
+      "needle_141",
+      "prescription_022",
+      "prescription_033",
+      "prescription_133"
+    ],
+    "related_treatments": [
+      "treatment_002"
+    ]
+  },
+  {
+    "id": "syndrome_084",
+    "name": "风寒湿痹",
+    "pathogenesis": "风寒湿邪侵袭关节经络，气血凝滞不通",
+    "pinyin": "Feng Han Shi Bi",
+    "category": [
+      "病因辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风寒湿邪乘虚入侵经络关节",
+        "western": "关节软骨退行性变+机械应力过载→软骨磨损→骨赘形成"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《针灸甲乙经》",
+        "tcm": "寒主收引凝滞，湿性重浊黏腻，痹阻气血",
+        "western": "软骨退化→关节间隙变窄→软骨下骨硬化+骨赘(Osteophyte)"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "关节冷痛、遇寒加重、晨僵、得热缓解",
+        "western": "关节活动时疼痛(Mechanical Pain)、晨僵<30分钟、X线关节间隙狭窄"
+      }
+    ],
+    "diagnosis_points": [
+      "关节肌肉疼痛",
+      "遇寒加重",
+      "得热痛减",
+      "关节肿胀",
+      "屈伸不利",
+      "局部怕冷",
+      "舌淡苔白腻",
+      "脉弦紧或濡缓"
+    ],
+    "modern_medicine": [
+      "骨关节炎",
+      "类风湿关节炎慢性期",
+      "肩周炎",
+      "肌筋膜炎"
+    ],
+    "related_effects": [
+      "effect_013",
+      "effect_016",
+      "effect_023",
+      "effect_044",
+      "effect_087",
+      "effect_156",
+      "effect_169",
+      "effect_176",
+      "effect_194"
+    ],
+    "related_formulas": [
+      "formula_081",
+      "formula_115",
+      "formula_374"
+    ],
+    "related_needle": [
+      "needle_027",
+      "needle_166",
+      "prescription_026",
+      "prescription_048",
+      "prescription_092",
+      "prescription_097",
+      "prescription_136",
+      "prescription_165",
+      "prescription_167",
+      "prescription_199"
+    ],
+    "related_treatments": [
+      "treatment_021",
+      "treatment_027"
+    ]
+  },
+  {
+    "id": "syndrome_085",
+    "name": "瘀血阻络",
+    "pathogenesis": "瘀血阻滞经络，气血运行受阻",
+    "pinyin": "Yu Xue Zu Luo",
+    "category": [
+      "病因辨证",
+      "经络辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《针灸甲乙经》",
+        "tcm": "外伤劳损、久坐久立致气血运行不畅，瘀阻经络",
+        "western": "椎间盘退变→纤维环破裂→髓核突出压迫神经根"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《针灸甲乙经》",
+        "tcm": "瘀血阻络，不通则痛，筋脉失养",
+        "western": "神经根受压→缺血水肿→炎症介质释放→放射性疼痛"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《针灸甲乙经》",
+        "tcm": "颈肩/腰腿刺痛固定不移、肢体麻木、夜间加重",
+        "western": "神经根性痛(Radicular Pain)→放射至肢体、相应皮节感觉异常"
+      }
+    ],
+    "diagnosis_points": [
+      "颈肩腰腿疼痛",
+      "如针刺刀割",
+      "固定不移",
+      "夜间加重",
+      "肢体麻木",
+      "活动受限",
+      "舌暗紫有瘀斑",
+      "脉细涩"
+    ],
+    "modern_medicine": [
+      "颈椎病",
+      "腰椎间盘突出症",
+      "坐骨神经痛",
+      "慢性软组织劳损"
+    ],
+    "related_effects": [
+      "effect_009",
+      "effect_016",
+      "effect_186",
+      "effect_192"
+    ],
+    "related_formulas": [
+      "formula_055",
+      "formula_056",
+      "formula_118",
+      "formula_367"
+    ],
+    "related_needle": [
+      "needle_073",
+      "needle_167",
+      "needle_176",
+      "prescription_030",
+      "prescription_065",
+      "prescription_098",
+      "prescription_102",
+      "prescription_125",
+      "prescription_200"
+    ],
+    "related_treatments": [
+      "treatment_008",
+      "treatment_030"
+    ]
+  },
+  {
+    "id": "syndrome_086",
+    "name": "心脾两虚",
+    "pathogenesis": "思虑过度，劳伤心脾，气血两虚",
+    "pinyin": "Xin Pi Liang Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "思虑过度耗伤心脾气血",
+        "western": "慢性精神压力→皮质醇持续升高→睡眠结构破坏"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "心脾两虚，气血不足，心神失养",
+        "western": "5-HT合成↓(脾虚吸收障碍)+皮质醇节律紊乱→入睡困难+早醒"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《脾胃论》",
+        "tcm": "心悸失眠、多梦易醒、食少神疲",
+        "western": "入睡困难(Sleep-Onset Insomnia)、早醒(Early Awakening)、食欲减低"
+      }
+    ],
+    "diagnosis_points": [
+      "心悸怔忡",
+      "失眠多梦",
+      "健忘",
+      "食欲不振",
+      "腹胀便溏",
+      "面色萎黄",
+      "神疲乏力",
+      "舌淡嫩",
+      "脉细弱"
+    ],
+    "modern_medicine": [
+      "失眠症",
+      "神经衰弱",
+      "缺铁性贫血",
+      "心律失常",
+      "心脏神经官能症"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_007",
+      "effect_011",
+      "effect_081",
+      "effect_165",
+      "effect_201"
+    ],
+    "related_formulas": [
+      "formula_033",
+      "formula_034",
+      "formula_035",
+      "formula_121"
+    ],
+    "related_needle": [
+      "needle_071",
+      "needle_094",
+      "prescription_006",
+      "prescription_109",
+      "prescription_139"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_010"
+    ]
+  },
+  {
+    "id": "syndrome_087",
+    "name": "气虚血弱",
+    "pathogenesis": "气血生化不足或失血过多，气血两亏",
+    "pinyin": "Qi Xu Xue Ruo",
+    "category": [
+      "气血津液辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "脾胃虚弱生化不足、慢性失血、久病耗伤",
+        "western": "铁摄入不足/吸收障碍→血红蛋白合成↓；月经过多→慢性失血"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "血液虚少，脏腑失养，心神不宁",
+        "western": "Hb↓→携氧能力↓→组织缺氧→乏力头晕；髓外造血代偿"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "面色苍白萎黄、头晕心悸、月经色淡量少",
+        "western": "皮肤黏膜苍白(Pallor)、乏力、Hb↓(<120g/L女/<130g/L男)、MCV↓"
+      }
+    ],
+    "diagnosis_points": [
+      "面色萎黄或苍白",
+      "头晕眼花",
+      "心悸气短",
+      "神疲乏力",
+      "少气懒言",
+      "月经色淡量少",
+      "舌淡苔薄白",
+      "脉细弱"
+    ],
+    "modern_medicine": [
+      "缺铁性贫血",
+      "巨幼细胞性贫血",
+      "月经过多",
+      "术后气血亏虚"
+    ],
+    "related_effects": [
+      "effect_011",
+      "effect_193",
+      "effect_201"
+    ],
+    "related_formulas": [
+      "formula_035",
+      "formula_036"
+    ],
+    "related_needle": [
+      "needle_010"
+    ],
+    "related_treatments": [
+      "treatment_003",
+      "treatment_010",
+      "treatment_025"
+    ]
+  },
+  {
+    "id": "syndrome_088",
+    "name": "风邪犯表",
+    "pathogenesis": "风邪外袭，客于肌肤，营卫不和",
+    "pinyin": "Feng Xie Fan Biao",
+    "category": [
+      "病因辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "表证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《黄帝内经》",
+        "tcm": "风邪乘虚而入，客于肌肤腠理",
+        "western": "过敏原(食物/药物/物理)触发肥大细胞脱颗粒→组胺释放"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《黄帝内经》",
+        "tcm": "风邪善行数变，时隐时现",
+        "western": "组胺→血管通透性↑→局部水肿(风团)；组胺代谢后风团消退"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《黄帝内经》",
+        "tcm": "皮肤风团此起彼伏、瘙痒难忍",
+        "western": "境界清楚的水肿性红斑(Wheals)、剧烈瘙痒、24h内自行消退"
+      }
+    ],
+    "diagnosis_points": [
+      "皮肤突发风团",
+      "此起彼伏",
+      "瘙痒难忍",
+      "融合成片",
+      "消退后不留痕迹",
+      "或伴恶风",
+      "舌淡红苔薄白",
+      "脉浮"
+    ],
+    "modern_medicine": [
+      "荨麻疹",
+      "过敏性皮炎",
+      "血管性水肿"
+    ],
+    "related_effects": [
+      "effect_001",
+      "effect_002",
+      "effect_205",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_002",
+      "formula_003",
+      "formula_079"
+    ],
+    "related_needle": [
+      "needle_079",
+      "needle_169",
+      "prescription_009",
+      "prescription_017",
+      "prescription_031",
+      "prescription_108",
+      "prescription_148",
+      "prescription_161",
+      "prescription_177"
+    ],
+    "related_treatments": [
+      "treatment_001"
+    ]
+  },
+  {
+    "id": "syndrome_089",
+    "name": "湿热痔疾",
+    "pathogenesis": "湿热下注大肠，气血壅滞，脉络损伤",
+    "pinyin": "Shi Re Zhi Ji",
+    "category": [
+      "脏腑辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "久坐久立、过食辛辣、湿热下注大肠",
+        "western": "便秘/久蹲→腹内压↑→直肠静脉丛充血扩张→痔核形成"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "湿热下注，灼伤肠络，血溢脉外",
+        "western": "直肠静脉丛曲张(Varicosity)→黏膜糜烂→破裂出血"
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "肛门灼痛、便血鲜红、痔核脱出",
+        "western": "便后滴血/喷射状出血(Bright Red Blood)、脱出(Prolapse)、疼痛"
+      }
+    ],
+    "diagnosis_points": [
+      "肛门灼热疼痛",
+      "便血鲜红",
+      "痔核脱出",
+      "大便干结或不爽",
+      "口苦",
+      "小便黄",
+      "舌红苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "痔疮",
+      "肛裂",
+      "肛周脓肿"
+    ],
+    "related_effects": [
+      "effect_009",
+      "effect_012",
+      "effect_016",
+      "effect_055",
+      "effect_109",
+      "effect_179"
+    ],
+    "related_formulas": [
+      "formula_011",
+      "formula_012",
+      "formula_016",
+      "formula_107"
+    ],
+    "related_needle": [
+      "needle_081",
+      "needle_095",
+      "needle_096"
+    ],
+    "related_treatments": [
+      "treatment_011"
+    ]
+  },
+  {
+    "id": "syndrome_090",
+    "name": "肝风内动",
+    "pathogenesis": "肝肾阴虚，阴不制阳，肝阳亢逆化风，或热极生风，筋膜失养而动风",
+    "pinyin": "Gan Feng Nei Dong",
+    "category": [
+      "脏腑辨证",
+      "病机辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "肝肾阴虚，阴不制阳，肝阳化风",
+        "western": "脑血管调节功能失常，基底节多巴胺能神经元变性"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "阳亢无制，风阳上扰清窍，筋膜失养",
+        "western": "脑血流自动调节障碍、锥体外系功能障碍"
+      }
+    ],
+    "diagnosis_points": [
+      "眩晕欲仆",
+      "头痛而摇",
+      "项强肢麻",
+      "肢体震颤",
+      "舌红苔黄",
+      "脉弦有力"
+    ],
+    "modern_medicine": [
+      "高血压",
+      "脑动脉硬化",
+      "帕金森病"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_004",
+      "effect_051",
+      "effect_069",
+      "effect_079",
+      "effect_110",
+      "effect_195"
+    ],
+    "related_formulas": [
+      "formula_085",
+      "formula_234"
+    ],
+    "related_needle": [
+      "needle_101",
+      "needle_132",
+      "prescription_066",
+      "prescription_173"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_091",
+    "name": "肝火上炎",
+    "pathogenesis": "肝气郁结日久化火，或过食辛辣、情志过极，肝火上扰清窍",
+    "pinyin": "Gan Huo Shang Yan",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "肝气郁结日久，或情志过极化火",
+        "western": "交感神经兴奋性增高，血管活性物质释放增多"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "肝火上扰头目、灼伤脉络",
+        "western": "血管痉挛、眼压升高"
+      }
+    ],
+    "diagnosis_points": [
+      "头目胀痛",
+      "眩晕耳鸣",
+      "面红目赤",
+      "急躁易怒",
+      "口苦咽干",
+      "舌红苔黄",
+      "脉弦数"
+    ],
+    "modern_medicine": [
+      "高血压",
+      "偏头痛",
+      "青光眼"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_088",
+      "effect_104",
+      "effect_116"
+    ],
+    "related_formulas": [
+      "formula_008",
+      "formula_126"
+    ],
+    "related_needle": [
+      "needle_102",
+      "needle_134",
+      "needle_164",
+      "prescription_073",
+      "prescription_085",
+      "prescription_132",
+      "prescription_169"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_092",
+    "name": "心肾不交",
+    "pathogenesis": "肾阴不足，不能上济心火，心火亢盛不能下交于肾，水火失济",
+    "pinyin": "Xin Shen Bu Jiao",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "少阴病，心中烦，不得卧。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "肾水亏于下，心火亢于上",
+        "western": "自主神经功能紊乱、内分泌失调"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "水火不济，心肾不交",
+        "western": "HPA轴功能紊乱、神经递质失衡"
+      }
+    ],
+    "diagnosis_points": [
+      "心烦不眠",
+      "心悸怔忡",
+      "头晕耳鸣",
+      "腰膝酸软",
+      "口燥咽干",
+      "舌尖红少苔",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "失眠",
+      "神经衰弱",
+      "更年期综合征"
+    ],
+    "related_effects": [
+      "effect_040",
+      "effect_105",
+      "effect_223"
+    ],
+    "related_formulas": [
+      "formula_087",
+      "formula_127",
+      "formula_128"
+    ],
+    "related_needle": [
+      "needle_103"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_093",
+    "name": "肝肾阴虚",
+    "pathogenesis": "久病失调、房事不节或情志内伤，耗伤肝肾之阴，精血亏虚",
+    "pinyin": "Gan Shen Yin Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《景岳全书》",
+        "text": "肝肾同源，精血互生。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "肝血肾精亏虚，阴液不足",
+        "western": "代谢障碍、微循环不良"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "精血不能上荣头目、濡养筋骨",
+        "western": "视网膜病变、骨关节退行性变"
+      }
+    ],
+    "diagnosis_points": [
+      "头晕目眩",
+      "视物模糊",
+      "耳鸣健忘",
+      "腰膝酸软",
+      "五心烦热",
+      "舌红少苔",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "高血压",
+      "糖尿病",
+      "视疲劳综合征"
+    ],
+    "related_effects": [
+      "effect_007",
+      "effect_084",
+      "effect_139",
+      "effect_146"
+    ],
+    "related_formulas": [
+      "formula_040",
+      "formula_129"
+    ],
+    "related_needle": [
+      "needle_092",
+      "needle_100",
+      "needle_104",
+      "needle_126",
+      "prescription_020",
+      "prescription_023",
+      "prescription_024",
+      "prescription_029",
+      "prescription_041",
+      "prescription_049",
+      "prescription_090",
+      "prescription_091",
+      "prescription_095",
+      "prescription_106",
+      "prescription_138",
+      "prescription_159",
+      "prescription_166"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_094",
+    "name": "脾气虚",
+    "pathogenesis": "饮食失调、劳倦过度或久病耗伤，脾胃气虚，运化无力",
+    "pinyin": "Pi Qi Xu",
+    "category": [
+      "脏腑辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "脾气虚则四肢不用，五脏不安。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "饮食劳倦伤脾，中气不足",
+        "western": "胃肠动力障碍、消化酶分泌不足"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "脾失健运，水谷精微生化不足",
+        "western": "胃肠功能障碍、营养吸收不良"
+      }
+    ],
+    "diagnosis_points": [
+      "食欲不振",
+      "腹胀便溏",
+      "神疲乏力",
+      "面色萎黄",
+      "气短懒言",
+      "舌淡胖有齿痕",
+      "脉缓弱"
+    ],
+    "modern_medicine": [
+      "功能性消化不良",
+      "慢性胃炎",
+      "营养不良"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_183"
+    ],
+    "related_formulas": [
+      "formula_030",
+      "formula_130",
+      "formula_363",
+      "formula_382"
+    ],
+    "related_needle": [
+      "needle_088",
+      "needle_105",
+      "needle_108",
+      "prescription_018",
+      "prescription_025",
+      "prescription_057",
+      "prescription_076",
+      "prescription_082"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_095",
+    "name": "脾阳虚",
+    "pathogenesis": "脾气虚久及阳，或过食生冷、寒邪直中，脾阳受损，虚寒内生",
+    "pinyin": "Pi Yang Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "自利不渴者，属太阴，以其脏有寒故也。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "脾虚及阳，寒从中生",
+        "western": "胃肠功能减退、代谢率降低"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "中焦虚寒，水谷不化",
+        "western": "胃肠道动力不足、消化吸收障碍"
+      }
+    ],
+    "diagnosis_points": [
+      "脘腹冷痛",
+      "喜温喜按",
+      "大便溏薄清稀",
+      "四肢不温",
+      "面色苍白",
+      "舌淡胖苔白滑",
+      "脉沉迟无力"
+    ],
+    "modern_medicine": [
+      "慢性胃肠炎",
+      "肠易激综合征",
+      "甲状腺功能减退"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_124",
+      "effect_137"
+    ],
+    "related_formulas": [
+      "formula_024",
+      "formula_131",
+      "formula_360"
+    ],
+    "related_needle": [
+      "needle_094",
+      "needle_106",
+      "needle_137",
+      "needle_147",
+      "prescription_004",
+      "prescription_060",
+      "prescription_061",
+      "prescription_141"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_096",
+    "name": "中气下陷",
+    "pathogenesis": "脾气虚弱日久，中气不足，升举无力而下陷",
+    "pinyin": "Zhong Qi Xia Xian",
+    "category": [
+      "脏腑辨证",
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《脾胃论》",
+        "text": "脾胃气虚，则下流于肾，阴火得以乘其土位。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "脾气久虚，升清无力",
+        "western": "平滑肌张力减退、盆底支持结构松弛"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "中气下陷、升举无权",
+        "western": "内脏韧带松弛、肌张力降低"
+      }
+    ],
+    "diagnosis_points": [
+      "脘腹坠胀",
+      "久泻脱肛",
+      "子宫脱垂",
+      "胃下垂",
+      "少气乏力",
+      "舌淡苔薄",
+      "脉弱"
+    ],
+    "modern_medicine": [
+      "胃下垂",
+      "脱肛",
+      "子宫脱垂",
+      "重症肌无力"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_160",
+      "effect_161",
+      "effect_189"
+    ],
+    "related_formulas": [
+      "formula_031",
+      "formula_113",
+      "formula_140"
+    ],
+    "related_needle": [
+      "needle_086",
+      "needle_093",
+      "needle_107",
+      "needle_120"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_097",
+    "name": "脾不统血",
+    "pathogenesis": "脾气虚弱，统摄无权，血不循经而外溢",
+    "pinyin": "Pi Bu Tong Xue",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《难经》",
+        "text": "脾主裹血，温五脏。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "脾虚气弱，统血无权",
+        "western": "血小板减少或功能异常"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "气不摄血，血溢脉外",
+        "western": "凝血功能障碍、血管脆性增加"
+      }
+    ],
+    "diagnosis_points": [
+      "便血",
+      "尿血",
+      "崩漏",
+      "月经过多",
+      "皮下紫斑",
+      "面色萎黄",
+      "舌淡",
+      "脉细弱"
+    ],
+    "modern_medicine": [
+      "功能失调性子宫出血",
+      "血小板减少性紫癜",
+      "消化道出血"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_041",
+      "effect_166"
+    ],
+    "related_formulas": [
+      "formula_033",
+      "formula_051"
+    ],
+    "related_needle": [
+      "needle_108"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_098",
+    "name": "痰蒙心窍",
+    "pathogenesis": "痰浊内生，上蒙心窍，心神被蔽，清阳不升",
+    "pinyin": "Tan Meng Xin Qiao",
+    "category": [
+      "脏腑辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《丹溪心法》",
+        "text": "痰迷心窍，则神识痴呆。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "痰浊蒙蔽心窍",
+        "western": "脑内神经递质失衡、异常放电"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "清窍被蒙、神明失用",
+        "western": "大脑皮层功能紊乱"
+      }
+    ],
+    "diagnosis_points": [
+      "神志痴呆",
+      "喃喃自语",
+      "举止失常",
+      "突然昏仆",
+      "喉中痰鸣",
+      "舌苔白腻",
+      "脉滑"
+    ],
+    "modern_medicine": [
+      "精神病",
+      "癫痫",
+      "脑血管病"
+    ],
+    "related_effects": [
+      "effect_096",
+      "effect_150"
+    ],
+    "related_formulas": [
+      "formula_047",
+      "formula_132"
+    ],
+    "related_needle": [
+      "needle_109",
+      "needle_131",
+      "needle_142",
+      "prescription_123"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_099",
+    "name": "心虚胆怯",
+    "pathogenesis": "心气不足，胆气虚弱，心神不宁，决断无权",
+    "pinyin": "Xin Xu Dan Qie",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《济生方》",
+        "text": "心虚则神不守舍，胆怯则善惊。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "心胆气虚，神不守舍",
+        "western": "焦虑障碍、自主神经功能紊乱"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "心虚则神摇，胆怯则善恐",
+        "western": "交感神经过度兴奋"
+      }
+    ],
+    "diagnosis_points": [
+      "心悸善惊",
+      "易恐不安",
+      "失眠多梦",
+      "坐卧不宁",
+      "气短自汗",
+      "舌淡",
+      "脉细弱或结代"
+    ],
+    "modern_medicine": [
+      "焦虑症",
+      "心脏神经官能症",
+      "惊恐障碍"
+    ],
+    "related_effects": [
+      "effect_071",
+      "effect_168"
+    ],
+    "related_formulas": [
+      "formula_133"
+    ],
+    "related_needle": [
+      "needle_110",
+      "needle_145",
+      "prescription_036",
+      "prescription_163",
+      "prescription_180"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_100",
+    "name": "肾精不足",
+    "pathogenesis": "先天禀赋不足或后天失养，肾精亏虚，不能充养骨髓、脑髓",
+    "pinyin": "Shen Jing Bu Zu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肾者主水，受五脏六腑之精而藏之。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "先天不足或后天失养",
+        "western": "基因缺陷、营养缺乏"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "精亏髓减，生长修复能力下降",
+        "western": "细胞衰老加速、干细胞功能减退"
+      }
+    ],
+    "diagnosis_points": [
+      "小儿发育迟缓",
+      "成人早衰",
+      "须发早白",
+      "牙齿松动",
+      "腰膝酸软",
+      "耳鸣耳聋",
+      "舌淡",
+      "脉沉细"
+    ],
+    "modern_medicine": [
+      "发育迟缓",
+      "衰老",
+      "骨质疏松",
+      "老年性痴呆"
+    ],
+    "related_effects": [
+      "effect_007",
+      "effect_066",
+      "effect_067",
+      "effect_144",
+      "effect_147"
+    ],
+    "related_formulas": [
+      "formula_018",
+      "formula_109",
+      "formula_134"
+    ],
+    "related_needle": [
+      "needle_111",
+      "needle_145",
+      "prescription_016",
+      "prescription_080",
+      "prescription_145",
+      "prescription_172"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_101",
+    "name": "肾气不固",
+    "pathogenesis": "肾气亏虚，封藏固摄无权，膀胱失约",
+    "pinyin": "Shen Qi Bu Gu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肾者，封藏之本。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "肾气虚衰，固摄失司",
+        "western": "括约肌松弛、逼尿肌不稳定"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "下元不固，气化失司",
+        "western": "膀胱颈关闭功能减退"
+      }
+    ],
+    "diagnosis_points": [
+      "尿频清长",
+      "夜尿增多",
+      "遗尿",
+      "滑精早泄",
+      "白带清稀",
+      "舌淡苔白",
+      "脉沉弱"
+    ],
+    "modern_medicine": [
+      "前列腺增生",
+      "压力性尿失禁",
+      "神经源性膀胱"
+    ],
+    "related_effects": [
+      "effect_005",
+      "effect_132",
+      "effect_181",
+      "effect_198"
+    ],
+    "related_formulas": [
+      "formula_050",
+      "formula_087",
+      "formula_122"
+    ],
+    "related_needle": [
+      "needle_112",
+      "prescription_019",
+      "prescription_067",
+      "prescription_069",
+      "prescription_110",
+      "prescription_129",
+      "prescription_193"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_102",
+    "name": "肺肾阴虚",
+    "pathogenesis": "久咳耗伤肺阴，金不生水，肾阴亦亏；或肾阴不足，虚火上灼肺金",
+    "pinyin": "Fei Shen Yin Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肺肾同源，金水相生。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "金水相生失调，肺肾阴虚",
+        "western": "慢性呼吸系统疾病致免疫低下"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "肺失润降，肾失摄纳",
+        "western": "肺功能减退、肾上腺皮质功能不足"
+      }
+    ],
+    "diagnosis_points": [
+      "咳嗽少痰",
+      "潮热盗汗",
+      "咽干口燥",
+      "腰膝酸软",
+      "形体消瘦",
+      "舌红少苔",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "慢性支气管炎",
+      "肺结核",
+      "肺癌"
+    ],
+    "related_effects": [
+      "effect_007",
+      "effect_058",
+      "effect_140",
+      "effect_178"
+    ],
+    "related_formulas": [
+      "formula_041",
+      "formula_135"
+    ],
+    "related_needle": [
+      "needle_113"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_103",
+    "name": "肝脾不和",
+    "pathogenesis": "肝气郁结横逆犯脾，脾失健运；或脾虚肝木乘之，导致肝脾失调",
+    "pinyin": "Gan Pi Bu He",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《金匮要略》",
+        "text": "见肝之病，知肝传脾，当先实脾。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "肝气克脾，木郁土壅",
+        "western": "脑-肠轴功能失调"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "肝脾失调，气机不畅",
+        "western": "胃肠动力与感觉异常"
+      }
+    ],
+    "diagnosis_points": [
+      "胸胁胀满",
+      "脘腹疼痛",
+      "嗳气呃逆",
+      "肠鸣泄泻",
+      "精神抑郁",
+      "舌苔薄白",
+      "脉弦缓"
+    ],
+    "modern_medicine": [
+      "肠易激综合征",
+      "功能性消化不良",
+      "慢性胆囊炎"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_004",
+      "effect_042",
+      "effect_172",
+      "effect_199"
+    ],
+    "related_formulas": [
+      "formula_021",
+      "formula_022",
+      "formula_088"
+    ],
+    "related_needle": [
+      "needle_114"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_104",
+    "name": "寒滞肝脉",
+    "pathogenesis": "寒邪客于肝经，寒凝气滞，肝脉收引",
+    "pinyin": "Han Zhi Gan Mai",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "寒厥于肝，则少腹疼痛。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "寒邪侵犯肝经",
+        "western": "局部血管收缩、组织缺血"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "寒主收引，筋脉拘急",
+        "western": "平滑肌痉挛、血供减少"
+      }
+    ],
+    "diagnosis_points": [
+      "少腹冷痛",
+      "睾丸坠胀冷痛",
+      "阴囊收缩",
+      "畏寒肢冷",
+      "舌淡苔白",
+      "脉沉弦或迟"
+    ],
+    "modern_medicine": [
+      "慢性睾丸炎",
+      "腹股沟疝",
+      "精索静脉曲张"
+    ],
+    "related_effects": [
+      "effect_085",
+      "effect_186"
+    ],
+    "related_formulas": [
+      "formula_054",
+      "formula_274"
+    ],
+    "related_needle": [
+      "needle_100",
+      "needle_115",
+      "needle_138",
+      "prescription_040",
+      "prescription_194"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_105",
+    "name": "燥邪伤肺",
+    "pathogenesis": "秋燥之邪侵犯肺卫，肺津受损，宣降失常",
+    "pinyin": "Zao Xie Shang Fei",
+    "category": [
+      "病因辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "燥胜则干。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《黄帝内经》",
+        "tcm": "燥邪犯肺，伤津耗液",
+        "western": "空气干燥致呼吸道黏膜屏障功能降低"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《黄帝内经》",
+        "tcm": "肺失润降，干咳少痰",
+        "western": "气道黏膜干燥、纤毛功能受损"
+      }
+    ],
+    "diagnosis_points": [
+      "干咳少痰",
+      "咽干鼻燥",
+      "口干欲饮",
+      "皮肤干燥",
+      "舌红少津",
+      "脉浮数"
+    ],
+    "modern_medicine": [
+      "急性支气管炎",
+      "上呼吸道感染"
+    ],
+    "related_effects": [
+      "effect_099",
+      "effect_102",
+      "effect_115",
+      "effect_159"
+    ],
+    "related_formulas": [
+      "formula_136",
+      "formula_137"
+    ],
+    "related_needle": [
+      "needle_116",
+      "needle_141"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_106",
+    "name": "痰湿阻肺",
+    "pathogenesis": "脾失健运，湿聚成痰，上渍于肺，肺失宣降",
+    "pinyin": "Tan Shi Zu Fei",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《丹溪心法》",
+        "text": "脾为生痰之源，肺为贮痰之器。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "脾虚生湿，聚湿成痰，痰贮于肺",
+        "western": "气道黏液分泌增多、清除减弱"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "肺失宣降，痰阻气逆",
+        "western": "支气管黏液腺增生、杯状细胞化生"
+      }
+    ],
+    "diagnosis_points": [
+      "咳嗽痰多",
+      "痰白易咯",
+      "胸闷气短",
+      "纳呆腹胀",
+      "舌苔白腻",
+      "脉滑"
+    ],
+    "modern_medicine": [
+      "慢性支气管炎",
+      "慢性阻塞性肺疾病"
+    ],
+    "related_effects": [
+      "effect_008",
+      "effect_133",
+      "effect_150",
+      "effect_174",
+      "effect_219"
+    ],
+    "related_formulas": [
+      "formula_063",
+      "formula_068",
+      "formula_250"
+    ],
+    "related_needle": [
+      "needle_089",
+      "needle_117",
+      "prescription_054"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_107",
+    "name": "胃阴虚",
+    "pathogenesis": "热病伤阴、过食辛辣或情志化火，耗伤胃阴，胃失濡养",
+    "pinyin": "Wei Yin Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "阳明病，渴欲饮水，口干舌燥。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《脾胃论》",
+        "tcm": "胃阴耗伤，润降失常",
+        "western": "胃黏膜萎缩、胃酸分泌减少"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《脾胃论》",
+        "tcm": "胃失濡润，受纳腐熟功能减退",
+        "western": "胃黏膜腺体萎缩、肠上皮化生"
+      }
+    ],
+    "diagnosis_points": [
+      "胃脘隐痛",
+      "饥不欲食",
+      "口燥咽干",
+      "大便干结",
+      "干呕呃逆",
+      "舌红少津",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "慢性萎缩性胃炎",
+      "糖尿病胃轻瘫"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_007",
+      "effect_048",
+      "effect_138",
+      "effect_152",
+      "effect_220"
+    ],
+    "related_formulas": [
+      "formula_138",
+      "formula_223",
+      "formula_376"
+    ],
+    "related_needle": [
+      "needle_089",
+      "needle_118"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_108",
+    "name": "心气虚",
+    "pathogenesis": "久病体虚、年老脏衰或汗下太过，损伤心气，心气不足无力推动血液运行",
+    "pinyin": "Xin Qi Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "心气不足，鼓动无力",
+        "western": "心肌收缩力减弱"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "心气推动血液运行无力",
+        "western": "心输出量下降"
+      }
+    ],
+    "diagnosis_points": [
+      "心悸怔忡",
+      "胸闷气短",
+      "活动后加重",
+      "自汗",
+      "面色淡白",
+      "舌淡苔薄",
+      "脉虚或结代"
+    ],
+    "modern_medicine": [
+      "心律失常",
+      "心力衰竭",
+      "冠心病"
+    ],
+    "related_effects": [
+      "effect_070",
+      "effect_158"
+    ],
+    "related_formulas": [
+      "formula_139"
+    ],
+    "related_needle": [
+      "needle_110",
+      "needle_119"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_109",
+    "name": "气陷证",
+    "pathogenesis": "气虚至极，升举无力，清阳不升而下陷",
+    "pinyin": "Qi Xian Zheng",
+    "category": [
+      "气血津液辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "气虚无力升举，清阳下陷",
+        "western": "平滑肌及韧带松弛"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "中气不足，升举无权",
+        "western": "结缔组织支持力减弱"
+      }
+    ],
+    "diagnosis_points": [
+      "头晕目眩",
+      "少气乏力",
+      "脘腹坠胀",
+      "久泄脱肛",
+      "内脏下垂",
+      "舌淡苔白",
+      "脉弱"
+    ],
+    "modern_medicine": [
+      "内脏下垂",
+      "体位性低血压"
+    ],
+    "related_effects": [
+      "effect_003",
+      "effect_160",
+      "effect_189"
+    ],
+    "related_formulas": [
+      "formula_031",
+      "formula_113",
+      "formula_140"
+    ],
+    "related_needle": [
+      "needle_120"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_110",
+    "name": "暑热证",
+    "pathogenesis": "暑热之邪侵袭，耗气伤津，扰乱心神",
+    "pinyin": "Shu Re Zheng",
+    "category": [
+      "病因辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《黄帝内经》",
+        "tcm": "暑邪为阳邪，耗气伤津",
+        "western": "高温环境致体温调节中枢功能紊乱"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《黄帝内经》",
+        "tcm": "暑热内盛，气津两伤",
+        "western": "脱水、电解质紊乱"
+      }
+    ],
+    "diagnosis_points": [
+      "身热多汗",
+      "口渴心烦",
+      "小便短赤",
+      "胸闷恶心",
+      "体倦乏力",
+      "舌红苔黄",
+      "脉数或虚"
+    ],
+    "modern_medicine": [
+      "中暑",
+      "热射病",
+      "热衰竭"
+    ],
+    "related_effects": [
+      "effect_103",
+      "effect_171"
+    ],
+    "related_formulas": [
+      "formula_143",
+      "formula_144",
+      "formula_377"
+    ],
+    "related_needle": [
+      "needle_121",
+      "needle_133"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_111",
+    "name": "气血两虚",
+    "pathogenesis": "久病不愈、失血过多或脾胃虚弱，气血生化不足，导致气血俱亏",
+    "pinyin": "Qi Xue Liang Xu",
+    "category": [
+      "气血津液辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "气血生化不足或耗伤过度",
+        "western": "造血原料缺乏或骨髓造血障碍"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "气虚推动无力、血虚濡养不足",
+        "western": "红细胞/血红蛋白减少"
+      }
+    ],
+    "diagnosis_points": [
+      "面色萎黄或苍白",
+      "头晕目眩",
+      "气短乏力",
+      "心悸失眠",
+      "爪甲淡白",
+      "舌淡嫩",
+      "脉细弱无力"
+    ],
+    "modern_medicine": [
+      "缺铁性贫血",
+      "再生障碍性贫血",
+      "慢性消耗性疾病"
+    ],
+    "related_effects": [
+      "effect_134",
+      "effect_166"
+    ],
+    "related_formulas": [
+      "formula_141",
+      "formula_142"
+    ],
+    "related_needle": [
+      "needle_122",
+      "needle_136",
+      "prescription_014",
+      "prescription_074",
+      "prescription_078",
+      "prescription_094",
+      "prescription_111",
+      "prescription_115",
+      "prescription_117",
+      "prescription_128",
+      "prescription_160",
+      "prescription_178",
+      "prescription_189"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_112",
+    "name": "暑湿证",
+    "pathogenesis": "暑天感受暑湿之邪，暑热夹湿，阻遏气机，困脾伤胃",
+    "pinyin": "Shu Shi Zheng",
+    "category": [
+      "病因辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "暑证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《黄帝内经》",
+        "tcm": "暑湿合邪，困遏肌表",
+        "western": "高温高湿环境影响体温调节"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《黄帝内经》",
+        "tcm": "暑湿困脾，气机不畅",
+        "western": "胃肠道功能紊乱"
+      }
+    ],
+    "diagnosis_points": [
+      "发热微恶寒",
+      "汗出不畅",
+      "胸闷脘痞",
+      "恶心呕吐",
+      "腹痛泄泻",
+      "舌苔黄腻",
+      "脉濡数"
+    ],
+    "modern_medicine": [
+      "夏季感冒",
+      "急性胃肠炎"
+    ],
+    "related_effects": [
+      "effect_103",
+      "effect_171"
+    ],
+    "related_formulas": [
+      "formula_143",
+      "formula_144"
+    ],
+    "related_needle": [
+      "needle_123",
+      "prescription_135"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_113",
+    "name": "膀胱湿热",
+    "pathogenesis": "湿热下注膀胱，气化不利，水道不通",
+    "pinyin": "Pang Guang Shi Re",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "膀胱者，州都之官，津液藏焉。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "湿热蕴结膀胱",
+        "western": "细菌感染（大肠杆菌等）"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "膀胱气化不利、水道不通",
+        "western": "尿道黏膜充血、水肿、炎性渗出"
+      }
+    ],
+    "diagnosis_points": [
+      "尿频尿急",
+      "尿痛灼热",
+      "小便黄赤",
+      "小腹拘急",
+      "舌红苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "泌尿系感染",
+      "膀胱炎",
+      "前列腺炎"
+    ],
+    "related_effects": [
+      "effect_012",
+      "effect_055",
+      "effect_109"
+    ],
+    "related_formulas": [
+      "formula_107",
+      "formula_274"
+    ],
+    "related_needle": [
+      "needle_124",
+      "needle_143",
+      "prescription_045",
+      "prescription_068"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_114",
+    "name": "风热犯肺",
+    "pathogenesis": "风热之邪侵犯肺卫，肺失清肃，卫表失和",
+    "pinyin": "Feng Re Fan Fei",
+    "category": [
+      "脏腑辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《温病条辨》",
+        "text": "太阴风温，邪袭肺卫。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "风热犯肺，肺失清肃",
+        "western": "上呼吸道病毒感染继发细菌感染"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "热伤肺络，炼液成痰",
+        "western": "支气管黏膜充血水肿、分泌物增多"
+      }
+    ],
+    "diagnosis_points": [
+      "咳嗽痰黄黏",
+      "发热微恶寒",
+      "咽痛口渴",
+      "鼻流黄涕",
+      "舌尖红苔薄黄",
+      "脉浮数"
+    ],
+    "modern_medicine": [
+      "急性支气管炎",
+      "上呼吸道感染",
+      "急性扁桃体炎"
+    ],
+    "related_effects": [
+      "effect_002",
+      "effect_006",
+      "effect_073",
+      "effect_156",
+      "effect_210"
+    ],
+    "related_formulas": [
+      "formula_003",
+      "formula_123",
+      "formula_250",
+      "formula_369"
+    ],
+    "related_needle": [
+      "needle_097",
+      "needle_125",
+      "prescription_086",
+      "prescription_182"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_115",
+    "name": "肝阴虚",
+    "pathogenesis": "情志不遂、气郁化火，或温病后期，耗伤肝阴，筋目失养",
+    "pinyin": "Gan Yin Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "肝藏血，血舍魂。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "热病或情志伤阴，阴不制阳",
+        "western": "肝功能异常、维生素A缺乏"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "肝阴不足，头目筋脉失养",
+        "western": "视功能障碍、锥体外系异常"
+      }
+    ],
+    "diagnosis_points": [
+      "头晕目眩",
+      "两目干涩",
+      "颧红耳鸣",
+      "胁肋隐痛",
+      "手足蠕动",
+      "舌红少津",
+      "脉弦细数"
+    ],
+    "modern_medicine": [
+      "慢性肝炎",
+      "干眼症",
+      "帕金森病"
+    ],
+    "related_effects": [
+      "effect_007",
+      "effect_084",
+      "effect_139",
+      "effect_146"
+    ],
+    "related_formulas": [
+      "formula_040",
+      "formula_129"
+    ],
+    "related_needle": [
+      "needle_126"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_116",
+    "name": "血热妄行",
+    "pathogenesis": "邪热入于血分，热迫血行，损伤脉络，血液不循常道而外溢",
+    "pinyin": "Xue Re Wang Xing",
+    "category": [
+      "气血津液辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "热入营血，迫血妄行",
+        "western": "血管炎症、凝血功能障碍"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "热灼脉络、血不循经",
+        "western": "血管壁损伤、血小板功能异常"
+      }
+    ],
+    "diagnosis_points": [
+      "各种出血（吐血、衄血、便血、尿血、崩漏）",
+      "血色鲜红",
+      "身热烦躁",
+      "舌红绛",
+      "脉数有力"
+    ],
+    "modern_medicine": [
+      "急性白血病",
+      "DIC",
+      "过敏性紫癜"
+    ],
+    "related_effects": [
+      "effect_052",
+      "effect_054"
+    ],
+    "related_formulas": [
+      "formula_102",
+      "formula_147",
+      "formula_359"
+    ],
+    "related_needle": [
+      "needle_127",
+      "needle_154",
+      "prescription_075",
+      "prescription_131"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_117",
+    "name": "津液亏虚",
+    "pathogenesis": "热病伤津、汗吐下太过或久病耗伤，津液生成不足或丢失过多",
+    "pinyin": "Jin Ye Kui Xu",
+    "category": [
+      "气血津液辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "津液化源不足或耗伤过多",
+        "western": "体液丢失或摄入不足"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "津亏失润、肠燥便秘",
+        "western": "脱水、电解质紊乱"
+      }
+    ],
+    "diagnosis_points": [
+      "口燥咽干",
+      "皮肤干燥",
+      "大便秘结",
+      "小便短少",
+      "舌红少津",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "脱水",
+      "干燥综合征"
+    ],
+    "related_effects": [
+      "effect_068"
+    ],
+    "related_formulas": [
+      "formula_148",
+      "formula_379"
+    ],
+    "related_needle": [
+      "needle_128"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_118",
+    "name": "风痰阻络",
+    "pathogenesis": "肝风夹痰，流窜经络，气血运行受阻，经络失养",
+    "pinyin": "Feng Tan Zu Luo",
+    "category": [
+      "病因辨证",
+      "经络辨证"
+    ],
+    "classic_excerpts": null,
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《针灸甲乙经》",
+        "tcm": "风痰互结，流窜经络",
+        "western": "神经受压或损伤"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《针灸甲乙经》",
+        "tcm": "经络气血运行受阻",
+        "western": "神经传导功能障碍"
+      }
+    ],
+    "diagnosis_points": [
+      "口眼歪斜",
+      "半身不遂",
+      "肢体麻木",
+      "舌强语謇",
+      "舌苔白腻",
+      "脉弦滑"
+    ],
+    "modern_medicine": [
+      "面神经麻痹",
+      "脑卒中后遗症"
+    ],
+    "related_effects": [
+      "effect_175",
+      "effect_215"
+    ],
+    "related_formulas": [
+      "formula_149"
+    ],
+    "related_needle": [
+      "needle_129"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_119",
+    "name": "大肠湿热",
+    "pathogenesis": "湿热之邪蕴结大肠，传导失司，气血壅滞，腐败为脓",
+    "pinyin": "Da Chang Shi Re",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "湿热积滞，下利赤白。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "湿热蕴结大肠",
+        "western": "肠道感染（细菌、病毒）"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "肠腑传导失职、气血壅滞",
+        "western": "肠道黏膜炎症、渗出"
+      }
+    ],
+    "diagnosis_points": [
+      "腹痛泄泻",
+      "下痢脓血",
+      "里急后重",
+      "肛门灼热",
+      "小便短赤",
+      "舌红苔黄腻",
+      "脉滑数"
+    ],
+    "modern_medicine": [
+      "急性肠炎",
+      "细菌性痢疾",
+      "溃疡性结肠炎"
+    ],
+    "related_effects": [
+      "effect_012",
+      "effect_111",
+      "effect_112",
+      "effect_204",
+      "effect_206"
+    ],
+    "related_formulas": [
+      "formula_011",
+      "formula_150",
+      "formula_365",
+      "formula_384"
+    ],
+    "related_needle": [
+      "needle_130",
+      "prescription_056"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_120",
+    "name": "痰火扰心",
+    "pathogenesis": "痰浊内生，郁而化火，痰火互结，上扰心神，神明逆乱",
+    "pinyin": "Tan Huo Rao Xin",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《丹溪心法》",
+        "text": "痰火扰心，则发狂。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病因",
+        "classic": "《金匮要略》",
+        "tcm": "痰火互结，上扰心神",
+        "western": "多巴胺系统功能亢进"
+      },
+      {
+        "aspect": "病理",
+        "classic": "《金匮要略》",
+        "tcm": "痰火蒙蔽心窍，神明逆乱",
+        "western": "大脑皮层兴奋与抑制失衡"
+      }
+    ],
+    "diagnosis_points": [
+      "神志狂乱",
+      "躁动不安",
+      "骂詈毁物",
+      "彻夜不眠",
+      "面红目赤",
+      "舌红苔黄厚腻",
+      "脉滑数有力"
+    ],
+    "modern_medicine": [
+      "精神分裂症",
+      "躁狂发作",
+      "谵妄状态"
+    ],
+    "related_effects": [
+      "effect_090",
+      "effect_217"
+    ],
+    "related_formulas": [
+      "formula_151",
+      "formula_381"
+    ],
+    "related_needle": [
+      "needle_131",
+      "needle_173"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_121",
+    "name": "太阳病",
+    "pathogenesis": "风寒外束肌表，卫阳被遏，营阴郁滞，营卫不和",
+    "pinyin": "Tai Yang Bing",
+    "category": [
+      "六经辨证",
+      "八纲辨证",
+      "病因辨证",
+      "六淫辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "太阳之为病，脉浮，头项强痛而恶寒。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "寒证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "风寒外束肌表，卫阳被遏，营阴郁滞，营卫不和",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "恶寒、发热、头项强痛、脉浮、苔薄白",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "上呼吸道感染、流行性感冒初期",
+        "western": "现代医学对应：上呼吸道感染、流行性感冒初期"
+      }
+    ],
+    "diagnosis_points": [
+      "恶寒",
+      "发热",
+      "头项强痛",
+      "脉浮",
+      "苔薄白"
+    ],
+    "modern_medicine": [
+      "上呼吸道感染",
+      "流行性感冒初期"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_001",
+      "formula_002"
+    ],
+    "related_needle": null,
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_122",
+    "name": "阳明病",
+    "pathogenesis": "伤寒化热入里，阳明燥热亢盛，胃肠实热结聚",
+    "pinyin": "Yang Ming Bing",
+    "category": [
+      "六经辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "阳明之为病，胃家实是也。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "热证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "伤寒化热入里，阳明燥热亢盛，胃肠实热结聚",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "发热不恶寒反恶热、大汗、大渴、脉洪大、或潮热谵语、腹满硬痛便秘、脉沉实",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "感染性疾病高热期、急性腹膜炎、肠梗阻",
+        "western": "现代医学对应：感染性疾病高热期、急性腹膜炎、肠梗阻"
+      }
+    ],
+    "diagnosis_points": [
+      "发热不恶寒反恶热",
+      "大汗",
+      "大渴",
+      "脉洪大",
+      "或潮热谵语、腹满硬痛便秘、脉沉实"
+    ],
+    "modern_medicine": [
+      "感染性疾病高热期",
+      "急性腹膜炎",
+      "肠梗阻"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_006",
+      "formula_014",
+      "formula_015",
+      "formula_016"
+    ],
+    "related_needle": [
+      "needle_019"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_123",
+    "name": "少阴病",
+    "pathogenesis": "心肾虚衰，阴阳气血俱虚，全身正气衰惫",
+    "pinyin": "Shao Yin Bing",
+    "category": [
+      "六经辨证",
+      "八纲辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《伤寒论》",
+        "text": "少阴之为病，脉微细，但欲寐也。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《伤寒论》",
+        "tcm": "心肾虚衰，阴阳气血俱虚，全身正气衰惫",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《伤寒论》",
+        "tcm": "脉微细、但欲寐、畏寒肢冷（寒化）、或心烦不得眠、舌红绛（热化）",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《伤寒论》",
+        "tcm": "休克、心力衰竭、严重感染衰竭期",
+        "western": "现代医学对应：休克、心力衰竭、严重感染衰竭期"
+      }
+    ],
+    "diagnosis_points": [
+      "脉微细",
+      "但欲寐",
+      "畏寒肢冷（寒化）",
+      "或心烦不得眠、舌红绛（热化）"
+    ],
+    "modern_medicine": [
+      "休克",
+      "心力衰竭",
+      "严重感染衰竭期"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_027",
+      "formula_069",
+      "formula_071",
+      "formula_127",
+      "formula_322"
+    ],
+    "related_needle": [
+      "needle_018"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_124",
+    "name": "心血虚",
+    "pathogenesis": "久病耗伤，或失血过多，心血亏虚，心神失养",
+    "pinyin": "Xin Xue Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "心主血，血虚则心悸失眠。"
+      }
+    ],
+    "classification": [
+      "虚证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "久病耗伤，或失血过多，心血亏虚，心神失养",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "心悸、失眠多梦、健忘、面色淡白无华、舌淡、脉细",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "神经衰弱、心律失常、贫血",
+        "western": "现代医学对应：神经衰弱、心律失常、贫血"
+      }
+    ],
+    "diagnosis_points": [
+      "心悸",
+      "失眠多梦",
+      "健忘",
+      "面色淡白无华",
+      "舌淡",
+      "脉细"
+    ],
+    "modern_medicine": [
+      "神经衰弱",
+      "心律失常",
+      "贫血"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_033",
+      "formula_139"
+    ],
+    "related_needle": [
+      "prescription_064"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_125",
+    "name": "心阴虚",
+    "pathogenesis": "劳神过度或热病伤阴，心阴亏虚，虚火内扰",
+    "pinyin": "Xin Yin Xu",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "心者，生之本，神之变也。"
+      }
+    ],
+    "classification": [
+      "虚证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "劳神过度或热病伤阴，心阴亏虚，虚火内扰",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "心悸、心烦、失眠多梦、口咽干燥、形体消瘦、手足心热、舌红少津、脉细数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "自主神经功能紊乱、冠心病、更年期综合征",
+        "western": "现代医学对应：自主神经功能紊乱、冠心病、更年期综合征"
+      }
+    ],
+    "diagnosis_points": [
+      "心悸",
+      "心烦",
+      "失眠多梦",
+      "口咽干燥",
+      "形体消瘦",
+      "手足心热",
+      "舌红少津",
+      "脉细数"
+    ],
+    "modern_medicine": [
+      "自主神经功能紊乱",
+      "冠心病",
+      "更年期综合征"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_120",
+      "formula_121"
+    ],
+    "related_needle": null,
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_126",
+    "name": "暑淫证",
+    "pathogenesis": "暑性炎热升散，耗气伤津，易挟湿",
+    "pinyin": "Shu Yin Zheng",
+    "category": [
+      "六淫辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "先夏至日者为病温，后夏至日者为病暑。"
+      }
+    ],
+    "classification": [
+      "表证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《黄帝内经》",
+        "tcm": "暑性炎热升散，耗气伤津，易挟湿",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《黄帝内经》",
+        "tcm": "发热恶热、汗出、口渴喜饮、心烦、体倦、舌红苔黄、脉洪大或虚数",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《黄帝内经》",
+        "tcm": "中暑、夏季热",
+        "western": "现代医学对应：中暑、夏季热"
+      }
+    ],
+    "diagnosis_points": [
+      "发热恶热",
+      "汗出",
+      "口渴喜饮",
+      "心烦",
+      "体倦",
+      "舌红苔黄",
+      "脉洪大或虚数"
+    ],
+    "modern_medicine": [
+      "中暑",
+      "夏季热"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_143",
+      "formula_144",
+      "formula_195",
+      "formula_230"
+    ],
+    "related_needle": [
+      "prescription_114"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_127",
+    "name": "湿淫证",
+    "pathogenesis": "湿性重浊黏滞，阻遏气机，易伤阳气",
+    "pinyin": "Shi Yin Zheng",
+    "category": [
+      "六淫辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "湿胜则濡泻。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《黄帝内经》",
+        "tcm": "湿性重浊黏滞，阻遏气机，易伤阳气",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《黄帝内经》",
+        "tcm": "头重如裹、肢体困重、胸闷脘痞、纳呆、苔腻、脉濡",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《黄帝内经》",
+        "tcm": "风湿病、水肿",
+        "western": "现代医学对应：风湿病、水肿"
+      }
+    ],
+    "diagnosis_points": [
+      "头重如裹",
+      "肢体困重",
+      "胸闷脘痞",
+      "纳呆",
+      "苔腻",
+      "脉濡"
+    ],
+    "modern_medicine": [
+      "风湿病",
+      "水肿"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_070",
+      "formula_072",
+      "formula_074",
+      "formula_104",
+      "formula_106"
+    ],
+    "related_needle": null,
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_128",
+    "name": "燥淫证",
+    "pathogenesis": "燥性干涩，易伤肺津胃津",
+    "pinyin": "Zao Yin Zheng",
+    "category": [
+      "六淫辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "燥胜则干。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "热证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《黄帝内经》",
+        "tcm": "燥性干涩，易伤肺津胃津",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《黄帝内经》",
+        "tcm": "皮肤干燥、口鼻咽喉干燥、干咳少痰、大便干结、舌红少津",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《黄帝内经》",
+        "tcm": "秋燥、干燥综合征",
+        "western": "现代医学对应：秋燥、干燥综合征"
+      }
+    ],
+    "diagnosis_points": [
+      "皮肤干燥",
+      "口鼻咽喉干燥",
+      "干咳少痰",
+      "大便干结",
+      "舌红少津"
+    ],
+    "modern_medicine": [
+      "秋燥",
+      "干燥综合征"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_041",
+      "formula_136",
+      "formula_137",
+      "formula_223"
+    ],
+    "related_needle": null,
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_129",
+    "name": "火淫证",
+    "pathogenesis": "火性炎上，耗气伤津，生风动血",
+    "pinyin": "Huo Yin Zheng",
+    "category": [
+      "六淫辨证",
+      "病因辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《素问》",
+        "text": "火淫所胜，则温病乃作。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "热证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《黄帝内经》",
+        "tcm": "火性炎上，耗气伤津，生风动血",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《黄帝内经》",
+        "tcm": "发热、面红目赤、口渴饮冷、烦躁、出血、舌红绛、脉数有力",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《黄帝内经》",
+        "tcm": "感染性疾病高热、炎症",
+        "western": "现代医学对应：感染性疾病高热、炎症"
+      }
+    ],
+    "diagnosis_points": [
+      "发热",
+      "面红目赤",
+      "口渴饮冷",
+      "烦躁",
+      "出血",
+      "舌红绛",
+      "脉数有力"
+    ],
+    "modern_medicine": [
+      "感染性疾病高热",
+      "炎症"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_007",
+      "formula_124",
+      "formula_157",
+      "formula_158"
+    ],
+    "related_needle": [
+      "prescription_170"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_130",
+    "name": "痰饮",
+    "pathogenesis": "脾失健运，水液停聚为痰为饮",
+    "pinyin": "Tan Yin",
+    "category": [
+      "气血津液辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《金匮要略》",
+        "text": "病患饮水多，必暴喘满，病溢饮。"
+      }
+    ],
+    "classification": [
+      "里证",
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "脾失健运，水液停聚为痰为饮",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "咳唾痰多、胸胁支满、眩晕、呕吐清水、苔白滑、脉弦",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "慢性支气管炎、胸腔积液",
+        "western": "现代医学对应：慢性支气管炎、胸腔积液"
+      }
+    ],
+    "diagnosis_points": [
+      "咳唾痰多",
+      "胸胁支满",
+      "眩晕",
+      "呕吐清水",
+      "苔白滑",
+      "脉弦"
+    ],
+    "modern_medicine": [
+      "慢性支气管炎",
+      "胸腔积液"
+    ],
+    "related_effects": null,
+    "related_formulas": [
+      "formula_089",
+      "formula_178",
+      "formula_290",
+      "formula_343",
+      "formula_344",
+      "formula_346",
+      "formula_371"
+    ],
+    "related_needle": [
+      "needle_089"
+    ],
+    "related_treatments": null
+  },
+  {
+    "id": "syndrome_132",
+    "name": "肝气郁结",
+    "pathogenesis": "肝失疏泄，气机郁滞",
+    "pinyin": "Gan Qi Yu Jie",
+    "category": [
+      "脏腑辨证"
+    ],
+    "classic_excerpts": [
+      {
+        "source": "《丹溪心法》",
+        "text": "气血冲和，万病不生，一有怫郁，诸病生焉。"
+      }
+    ],
+    "classification": [
+      "实证"
+    ],
+    "comparison": [
+      {
+        "aspect": "病机",
+        "classic": "《金匮要略》",
+        "tcm": "肝失疏泄，气机郁滞",
+        "western": ""
+      },
+      {
+        "aspect": "核心症状",
+        "classic": "《金匮要略》",
+        "tcm": "情志抑郁、胸胁胀痛、善太息、月经不调、脉弦",
+        "western": ""
+      },
+      {
+        "aspect": "西医对应",
+        "classic": "《金匮要略》",
+        "tcm": "抑郁症、乳腺增生",
+        "western": "现代医学对应：抑郁症、乳腺增生"
+      }
+    ],
+    "diagnosis_points": [
+      "情志抑郁",
+      "胸胁胀痛",
+      "善太息",
+      "月经不调",
+      "脉弦"
+    ],
+    "modern_medicine": [
+      "抑郁症",
+      "乳腺增生"
+    ],
+    "related_effects": null,
+    "related_formulas": null,
+    "related_needle": [
+      "prescription_191"
+    ],
+    "related_treatments": null
+  }
+]

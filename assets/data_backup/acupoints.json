@@ -1,0 +1,8380 @@
+[
+  {
+    "id": "acupoint_001",
+    "anatomy": "胸大肌、胸小肌处，有胸肩峰动、静脉，布有锁骨上神经中间支",
+    "location": "在胸前壁外上方，云门下1寸，平第一肋间隙，距前正中线6寸",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "向外斜刺或平刺0.5-0.8寸，不可向内深刺",
+    "name": "中府",
+    "pinyin": "Zhong Fu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "肩背痛"
+    ]
+  },
+  {
+    "id": "acupoint_002",
+    "anatomy": "胸肌、三角肌处，有头静脉、胸肩峰动静脉，布有锁骨上神经",
+    "location": "在胸前壁外上方，肩胛骨喙突上方，锁骨下窝凹陷处，距前正中线6寸",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "向外斜刺0.5-0.8寸",
+    "name": "云门",
+    "pinyin": "Yun Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "肩痛"
+    ]
+  },
+  {
+    "id": "acupoint_003",
+    "anatomy": "肱二头肌外侧沟中，有头静脉及肱动、静脉分支，布有臂外侧皮神经",
+    "location": "在臂内侧面，肱二头肌桡侧缘，腋前纹头下3寸",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "直刺0.5-1寸",
+    "name": "天府",
+    "pinyin": "Tian Fu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "鼻衄",
+      "上臂内侧痛"
+    ]
+  },
+  {
+    "id": "acupoint_004",
+    "anatomy": "肱二头肌外侧沟中，有头静脉及肱动、静脉分支，布有臂外侧皮神经",
+    "location": "在臂内侧面，肱二头肌桡侧缘，腋前纹头下4寸，或肘横纹上5寸",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "直刺0.5-1寸",
+    "name": "侠白",
+    "pinyin": "Xia Bai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "上臂内侧痛"
+    ]
+  },
+  {
+    "id": "acupoint_005",
+    "anatomy": "在肘关节处，有桡侧返动、静脉分支，布有前臂外侧皮神经",
+    "location": "在肘横纹中，肱二头肌腱桡侧凹陷处",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "直刺0.8-1.2寸，或点刺出血",
+    "name": "尺泽",
+    "pinyin": "Chi Ze",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "手太阴之合，在肘中动脉。主咳嗽、咯血、咽喉肿痛、肘臂挛痛。"
+      }
+    ],
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咯血",
+      "咽喉肿痛",
+      "肘臂挛痛",
+      "急性吐泻"
+    ]
+  },
+  {
+    "id": "acupoint_006",
+    "anatomy": "有肱桡肌及桡侧腕屈肌，有桡动、静脉，布有前臂外侧皮神经",
+    "location": "在前臂掌面桡侧，尺泽与太渊连线上，腕横纹上7寸",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "直刺0.5-1寸",
+    "name": "孔最",
+    "pinyin": "Kong Zui",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咯血",
+      "咽喉肿痛",
+      "肘臂挛痛",
+      "痔疾"
+    ]
+  },
+  {
+    "id": "acupoint_007",
+    "anatomy": "在肱桡肌腱与拇长展肌腱之间，有头静脉，桡动、静脉分支，布有前臂外侧皮神经",
+    "location": "在前臂桡侧缘，桡骨茎突上方，腕横纹上1.5寸，当肱桡肌与拇长展肌腱之间",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "向上斜刺0.3-0.5寸",
+    "name": "列缺",
+    "pinyin": "Lie Que",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《四总穴歌》",
+        "text": "头项寻列缺。手太阴之络，通任脉，主头痛、项强、咳嗽。"
+      }
+    ],
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咽喉肿痛",
+      "头痛",
+      "项强",
+      "口眼歪斜",
+      "齿痛"
+    ]
+  },
+  {
+    "id": "acupoint_008",
+    "anatomy": "桡侧腕屈肌腱外侧，有桡动、静脉，布有前臂外侧皮神经",
+    "location": "在前臂掌面桡侧，桡骨茎突与桡动脉之间凹陷处，腕横纹上1寸",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "避开桡动脉，直刺0.3-0.5寸",
+    "name": "经渠",
+    "pinyin": "Jing Qu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "咽喉肿痛",
+      "手腕痛"
+    ]
+  },
+  {
+    "id": "acupoint_009",
+    "anatomy": "桡侧腕屈肌腱外侧，有桡动、静脉，布有前臂外侧皮神经",
+    "location": "在腕掌侧横纹桡侧，桡动脉搏动处",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "避开桡动脉，直刺0.3-0.5寸",
+    "name": "太渊",
+    "pinyin": "Tai Yuan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咯血",
+      "胸痛",
+      "咽喉肿痛",
+      "腕臂痛",
+      "无脉症"
+    ]
+  },
+  {
+    "id": "acupoint_010",
+    "anatomy": "有拇短展肌和拇指对掌肌，有拇指静脉回流支，布有前臂外侧皮神经",
+    "location": "在手拇指本节后凹陷处，约当第一掌骨中点桡侧，赤白肉际处",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "直刺0.5-0.8寸",
+    "name": "鱼际",
+    "pinyin": "Yu Ji",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "咯血",
+      "咽喉肿痛",
+      "失音",
+      "发热"
+    ]
+  },
+  {
+    "id": "acupoint_011",
+    "anatomy": "有指掌侧固有动、静脉，布有前臂外侧皮神经",
+    "location": "在手拇指末节桡侧，距指甲角0.1寸",
+    "meridian": "手太阴肺经",
+    "meridian_id": "meridian_001",
+    "method": "浅刺0.1寸，或点刺出血",
+    "name": "少商",
+    "pinyin": "Shao Shang",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "手太阴之井，在拇指端内侧。主咽喉肿痛、咳嗽、发热、昏迷。"
+      }
+    ],
+    "indications": [
+      "咽喉肿痛",
+      "咳嗽",
+      "鼻衄",
+      "发热",
+      "昏迷",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_012",
+    "anatomy": "有指掌侧固有动、静脉，布有指掌侧固有神经",
+    "location": "在手食指末节桡侧，距指甲角0.1寸",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "浅刺0.1寸，或点刺出血",
+    "name": "商阳",
+    "pinyin": "Shang Yang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咽喉肿痛",
+      "齿痛",
+      "耳聋",
+      "热病",
+      "昏迷",
+      "手指麻木"
+    ]
+  },
+  {
+    "id": "acupoint_013",
+    "anatomy": "有指背动、静脉，布有指背神经",
+    "location": "微握拳，在手食指本节前桡侧凹陷处",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.2-0.3寸",
+    "name": "二间",
+    "pinyin": "Er Jian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "目痛",
+      "齿痛",
+      "咽喉肿痛",
+      "鼻衄",
+      "热病"
+    ]
+  },
+  {
+    "id": "acupoint_014",
+    "anatomy": "有第一骨间背侧肌，有指背动、静脉，布有指背神经",
+    "location": "微握拳，在手食指本节后桡侧凹陷处",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.3-0.5寸",
+    "name": "三间",
+    "pinyin": "San Jian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "目痛",
+      "齿痛",
+      "咽喉肿痛",
+      "手指肿痛",
+      "热病"
+    ]
+  },
+  {
+    "id": "acupoint_015",
+    "anatomy": "有第一骨间背侧肌，有手背静脉网，布有桡神经浅支",
+    "location": "在手背，第一、二掌骨间，第二掌骨桡侧中点处",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.5-1寸",
+    "name": "合谷",
+    "pinyin": "He Gu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《四总穴歌》",
+        "text": "面口合谷收。手阳明之原，主头痛、齿痛、口眼歪斜。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "鼻衄",
+      "齿痛",
+      "口眼歪斜",
+      "耳聋",
+      "热病",
+      "经闭",
+      "滞产",
+      "上肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_016",
+    "anatomy": "有拇短伸肌和拇长伸肌腱，有头静脉，桡动脉的腕背支，布有桡神经浅支",
+    "location": "在腕背横纹桡侧，拇指向上翘起时，当拇短伸肌腱与拇长伸肌腱之间的凹陷中",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.3-0.5寸",
+    "name": "阳溪",
+    "pinyin": "Yang Xi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "齿痛",
+      "咽喉肿痛",
+      "手腕痛"
+    ]
+  },
+  {
+    "id": "acupoint_017",
+    "anatomy": "有桡侧腕伸肌腱，有头静脉，布有前臂外侧皮神经",
+    "location": "屈肘，在前臂背面桡侧，阳溪与曲池连线上，腕横纹上3寸",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺或斜刺0.5-0.8寸",
+    "name": "偏历",
+    "pinyin": "Pian Li",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "目赤",
+      "耳鸣",
+      "鼻衄",
+      "水肿",
+      "手臂酸痛"
+    ]
+  },
+  {
+    "id": "acupoint_018",
+    "anatomy": "有拇长伸肌和前臂伸肌，有头静脉，布有前臂外侧皮神经",
+    "location": "屈肘，在前臂背面桡侧，阳溪与曲池连线上，腕横纹上5寸",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.5-1寸",
+    "name": "温溜",
+    "pinyin": "Wen Liu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "面肿",
+      "咽喉肿痛",
+      "肠鸣腹痛",
+      "肩背酸痛"
+    ]
+  },
+  {
+    "id": "acupoint_019",
+    "anatomy": "有前臂伸肌群，有桡动、静脉分支，布有前臂背侧皮神经",
+    "location": "屈肘，在前臂背面桡侧，阳溪与曲池连线上，肘横纹下4寸",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.5-1寸",
+    "name": "下廉",
+    "pinyin": "Xia Lian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "目痛",
+      "肘臂痛",
+      "腹痛"
+    ]
+  },
+  {
+    "id": "acupoint_020",
+    "anatomy": "有前臂伸肌群，有桡动、静脉分支，布有前臂背侧皮神经",
+    "location": "屈肘，在前臂背面桡侧，阳溪与曲池连线上，肘横纹下3寸",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.5-1寸",
+    "name": "上廉",
+    "pinyin": "Shang Lian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂酸痛",
+      "手臂麻木",
+      "上肢不遂",
+      "腹痛",
+      "肠鸣"
+    ]
+  },
+  {
+    "id": "acupoint_021",
+    "anatomy": "有桡侧腕伸肌，有桡返动、静脉的分支，布有前臂背侧皮神经",
+    "location": "屈肘，在前臂背面桡侧，阳溪与曲池连线上，肘横纹下2寸",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.8-1.2寸",
+    "name": "手三里",
+    "pinyin": "Shou San Li",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "腹泻",
+      "齿痛",
+      "颊肿",
+      "上肢不遂",
+      "肩背痛"
+    ]
+  },
+  {
+    "id": "acupoint_022",
+    "anatomy": "有桡侧腕长伸肌、桡侧腕短伸肌，有桡返动脉分支，布有前臂背侧皮神经",
+    "location": "屈肘成直角，在肘横纹外侧端与肱骨外上髁连线中点",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺1-1.5寸",
+    "name": "曲池",
+    "pinyin": "Qu Chi",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "手阳明之合，在肘外辅骨。主热病、高血压、皮肤病、上肢痿痹。"
+      }
+    ],
+    "indications": [
+      "热病",
+      "头痛",
+      "目赤肿痛",
+      "齿痛",
+      "咽喉肿痛",
+      "上肢不遂",
+      "腹痛吐泻",
+      "瘾疹",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_023",
+    "anatomy": "有肱三头肌腱，有肱深动脉的分支，布有臂背侧皮神经",
+    "location": "在肘外侧，屈肘，曲池上方1寸，当肱骨外上髁上缘凹陷中",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.5-1寸",
+    "name": "肘髎",
+    "pinyin": "Zhou Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肘臂酸痛",
+      "麻木",
+      "上肢不遂"
+    ]
+  },
+  {
+    "id": "acupoint_024",
+    "anatomy": "有肱三头肌，有肱深动脉的分支，布有臂背侧皮神经",
+    "location": "在臂外侧，曲池与肩髃连线上，曲池上3寸",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺1-1.5寸",
+    "name": "手五里",
+    "pinyin": "Shou Wu Li",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肘臂挛痛",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_025",
+    "anatomy": "有三角肌，有肱动脉肌支，布有臂背侧皮神经",
+    "location": "在臂外侧，三角肌止点处，曲池与肩髃连线上，曲池上7寸",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺或向上斜刺0.8-1.5寸",
+    "name": "臂臑",
+    "pinyin": "Bi Nao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂疼痛",
+      "颈项拘急",
+      "瘰疬",
+      "目疾"
+    ]
+  },
+  {
+    "id": "acupoint_026",
+    "anatomy": "有三角肌、三角肌下囊，有旋肱后动、静脉，布有锁骨上神经",
+    "location": "在肩部，三角肌上，臂外展或向前平伸时，当肩峰前下方凹陷处",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺或向下斜刺0.8-1.5寸",
+    "name": "肩髃",
+    "pinyin": "Jian Yu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂疼痛",
+      "上肢不遂",
+      "瘾疹",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_027",
+    "anatomy": "有斜方肌，有肩胛上动、静脉，布有锁骨上神经",
+    "location": "在肩上部，锁骨肩峰端与肩胛冈之间凹陷中",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.5-0.8寸，不可深刺",
+    "name": "巨骨",
+    "pinyin": "Ju Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂疼痛",
+      "上肢不遂",
+      "瘰疬",
+      "瘿气"
+    ]
+  },
+  {
+    "id": "acupoint_028",
+    "anatomy": "有胸锁乳突肌，有颈升动脉，布有颈皮神经",
+    "location": "在颈外侧部，胸锁乳突肌后缘，喉结旁，扶突与缺盆连线中点",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.3-0.5寸",
+    "name": "天鼎",
+    "pinyin": "Tian Ding",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咽喉肿痛",
+      "暴喑",
+      "瘰疬",
+      "瘿气"
+    ]
+  },
+  {
+    "id": "acupoint_029",
+    "anatomy": "有颈阔肌，胸锁乳突肌，有颈升动脉，布有耳大神经、颈皮神经",
+    "location": "在颈外侧部，喉结旁，胸锁乳突肌前、后缘之间",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺0.3-0.5寸",
+    "name": "扶突",
+    "pinyin": "Fu Tu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咽喉肿痛",
+      "暴喑",
+      "瘰疬",
+      "瘿气"
+    ]
+  },
+  {
+    "id": "acupoint_030",
+    "anatomy": "有上唇方肌，有面动、静脉的上唇支，布有三叉神经第二支",
+    "location": "在上唇部，鼻孔外缘直下，平水沟穴",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "直刺或斜刺0.3-0.5寸",
+    "name": "口禾髎",
+    "pinyin": "Kou He Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "鼻塞",
+      "鼻衄",
+      "口歪",
+      "口噤不开"
+    ]
+  },
+  {
+    "id": "acupoint_031",
+    "anatomy": "有上唇方肌，有面动、静脉及眶下动、静脉分支，布有面神经与眶下神经",
+    "location": "在鼻翼外缘中点旁，鼻唇沟中",
+    "meridian": "手阳明大肠经",
+    "meridian_id": "meridian_002",
+    "method": "斜刺或平刺0.3-0.5寸",
+    "name": "迎香",
+    "pinyin": "Ying Xiang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "鼻塞",
+      "鼻衄",
+      "鼻渊",
+      "口歪",
+      "面痒",
+      "胆道蛔虫症"
+    ]
+  },
+  {
+    "id": "acupoint_032",
+    "anatomy": "有眼轮匝肌，有眶下动、静脉分支，布有眶下神经",
+    "location": "在面部，瞳孔直下，当眼球与眶下缘之间",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "紧靠眶下缘缓慢直刺0.3-0.5寸，不宜提插",
+    "name": "承泣",
+    "pinyin": "Cheng Qi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "迎风流泪",
+      "夜盲",
+      "口眼歪斜",
+      "眼睑跳动"
+    ]
+  },
+  {
+    "id": "acupoint_033",
+    "anatomy": "有眼轮匝肌、上唇方肌，有眶下动、静脉，布有眶下神经",
+    "location": "在面部，瞳孔直下，当眶下孔凹陷处",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺或微向上斜刺0.3-0.5寸",
+    "name": "四白",
+    "pinyin": "Si Bai",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在目下眶孔。主目赤痛、目翳、口眼歪斜、头痛。"
+      }
+    ],
+    "indications": [
+      "目赤肿痛",
+      "目翳",
+      "眼睑跳动",
+      "口眼歪斜",
+      "面痛",
+      "三叉神经痛"
+    ]
+  },
+  {
+    "id": "acupoint_034",
+    "anatomy": "有上唇方肌，有面动、静脉及眶下动、静脉，布有面神经及眶下神经",
+    "location": "在面部，瞳孔直下，平鼻翼下缘处，当鼻唇沟外侧",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "斜刺或平刺0.3-0.5寸",
+    "name": "巨髎",
+    "pinyin": "Ju Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "口眼歪斜",
+      "眼睑跳动",
+      "鼻衄",
+      "齿痛",
+      "面痛"
+    ]
+  },
+  {
+    "id": "acupoint_035",
+    "anatomy": "有口轮匝肌，有面动、静脉，布有面神经颊支",
+    "location": "在面部，口角外侧，上直瞳孔",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "斜刺或平刺0.5-0.8寸，可向颊车透刺",
+    "name": "地仓",
+    "pinyin": "Di Cang",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在口角旁。主口歪、流涎、面痛。"
+      }
+    ],
+    "indications": [
+      "口眼歪斜",
+      "流涎",
+      "眼睑跳动",
+      "齿痛"
+    ]
+  },
+  {
+    "id": "acupoint_036",
+    "anatomy": "有咬肌，有面动、静脉，布有面神经",
+    "location": "在下颌角前方，咬肌附着部前缘，当面动脉搏动处",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "避开动脉，斜刺或平刺0.3-0.5寸",
+    "name": "大迎",
+    "pinyin": "Da Ying",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "口歪",
+      "口噤",
+      "颊肿",
+      "齿痛"
+    ]
+  },
+  {
+    "id": "acupoint_037",
+    "anatomy": "有咬肌，有咬肌动、静脉，布有耳大神经及面神经下颌缘支",
+    "location": "在面颊部，下颌角前上方约一横指，当咀嚼时咬肌隆起最高处",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.3-0.5寸，平刺0.5-1寸",
+    "name": "颊车",
+    "pinyin": "Jia Che",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在耳下曲颊端。主齿痛、牙关紧闭、面颊肿、口眼歪斜。"
+      }
+    ],
+    "indications": [
+      "口眼歪斜",
+      "颊肿",
+      "齿痛",
+      "口噤不语"
+    ]
+  },
+  {
+    "id": "acupoint_038",
+    "anatomy": "有咬肌，有面横动、静脉，布有面神经颧支及耳颞神经",
+    "location": "在面部耳前方，当颧弓与下颌切迹所形成的凹陷中",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.5-1寸",
+    "name": "下关",
+    "pinyin": "Xia Guan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在耳前动脉下。主齿痛、面疼、口眼歪斜、耳聋。"
+      }
+    ],
+    "indications": [
+      "耳聋",
+      "耳鸣",
+      "齿痛",
+      "口眼歪斜",
+      "面痛"
+    ]
+  },
+  {
+    "id": "acupoint_039",
+    "anatomy": "有耳上肌，有颞浅动、静脉的额支，布有耳颞神经",
+    "location": "在头侧部，当额角发际上0.5寸，头正中线旁4.5寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "平刺0.5-1寸",
+    "name": "头维",
+    "pinyin": "Tou Wei",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "目赤肿痛",
+      "迎风流泪",
+      "眼睑跳动"
+    ]
+  },
+  {
+    "id": "acupoint_040",
+    "anatomy": "有颈前浅静脉，有甲状腺上动脉，布有颈皮神经",
+    "location": "在颈部，喉结旁，当胸锁乳突肌前缘，颈总动脉搏动处",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "避开颈总动脉，直刺0.3-0.5寸",
+    "name": "人迎",
+    "pinyin": "Ren Ying",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咽喉肿痛",
+      "气喘",
+      "瘰疬",
+      "瘿气",
+      "高血压"
+    ]
+  },
+  {
+    "id": "acupoint_041",
+    "anatomy": "有颈阔肌，有甲状腺上动脉，布有颈皮神经",
+    "location": "在颈部，胸锁乳突肌前缘，当人迎与气舍连线的中点",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.3-0.5寸",
+    "name": "水突",
+    "pinyin": "Shui Tu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咽喉肿痛",
+      "瘰疬",
+      "瘿气"
+    ]
+  },
+  {
+    "id": "acupoint_042",
+    "anatomy": "有颈阔肌，有锁骨上神经，有颈前浅静脉",
+    "location": "在颈部，锁骨内侧端上缘，胸锁乳突肌的胸骨头与锁骨头之间",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.3-0.5寸",
+    "name": "气舍",
+    "pinyin": "Qi She",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咽喉肿痛",
+      "瘰疬",
+      "瘿气",
+      "颈项强痛"
+    ]
+  },
+  {
+    "id": "acupoint_043",
+    "anatomy": "有颈阔肌，有锁骨上神经，有颈横动脉",
+    "location": "在锁骨上窝中央，距前正中线4寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺或斜刺0.3-0.5寸，不可深刺",
+    "name": "缺盆",
+    "pinyin": "Que Pen",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咽喉肿痛",
+      "缺盆中痛",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_044",
+    "anatomy": "有胸大肌，有锁骨上神经，有胸肩峰动脉",
+    "location": "在胸部，锁骨中点下缘，距前正中线4寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "气户",
+    "pinyin": "Qi Hu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满",
+      "呃逆"
+    ]
+  },
+  {
+    "id": "acupoint_045",
+    "anatomy": "有胸大肌、胸小肌，有肋间动、静脉，布有肋间神经",
+    "location": "在胸部，第一肋间隙，距前正中线4寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "库房",
+    "pinyin": "Ku Fang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满"
+    ]
+  },
+  {
+    "id": "acupoint_046",
+    "anatomy": "有胸大肌、胸小肌，有肋间动、静脉，布有肋间神经",
+    "location": "在胸部，第二肋间隙，距前正中线4寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "屋翳",
+    "pinyin": "Wu Yi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满",
+      "乳痈"
+    ]
+  },
+  {
+    "id": "acupoint_047",
+    "anatomy": "有胸大肌，有肋间动、静脉，布有肋间神经",
+    "location": "在胸部，第三肋间隙，距前正中线4寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "膺窗",
+    "pinyin": "Ying Chuang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满",
+      "乳痈"
+    ]
+  },
+  {
+    "id": "acupoint_048",
+    "anatomy": "有胸大肌，有第四肋间动、静脉，布有第四肋间神经",
+    "location": "在胸部，第四肋间隙，乳头中央，距前正中线4寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "禁针，禁灸",
+    "name": "乳中",
+    "pinyin": "Ru Zhong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "本穴不针不灸，只作定位标志"
+    ]
+  },
+  {
+    "id": "acupoint_049",
+    "anatomy": "有胸大肌，有肋间动、静脉，布有肋间神经",
+    "location": "在胸部，第五肋间隙，距前正中线4寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "乳根",
+    "pinyin": "Ru Gen",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "乳痈",
+      "乳汁少"
+    ]
+  },
+  {
+    "id": "acupoint_050",
+    "anatomy": "有腹直肌鞘，有腹壁上动、静脉，布有第七肋间神经",
+    "location": "在上腹部，脐中上6寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.5-0.8寸",
+    "name": "不容",
+    "pinyin": "Bu Rong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "食欲不振",
+      "腹胀"
+    ]
+  },
+  {
+    "id": "acupoint_051",
+    "anatomy": "有腹直肌，有腹壁上动、静脉，布有第七肋间神经",
+    "location": "在上腹部，脐中上5寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.8-1寸",
+    "name": "承满",
+    "pinyin": "Cheng Man",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "食欲不振",
+      "腹胀"
+    ]
+  },
+  {
+    "id": "acupoint_052",
+    "anatomy": "有腹直肌，有腹壁上动、静脉，布有第八肋间神经",
+    "location": "在上腹部，脐中上4寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.8-1.2寸",
+    "name": "梁门",
+    "pinyin": "Liang Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "食欲不振",
+      "腹胀",
+      "泄泻"
+    ]
+  },
+  {
+    "id": "acupoint_053",
+    "anatomy": "有腹直肌，有腹壁上动、静脉，布有第八肋间神经",
+    "location": "在上腹部，脐中上3寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.8-1.2寸",
+    "name": "关门",
+    "pinyin": "Guan Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹胀",
+      "腹痛",
+      "肠鸣",
+      "泄泻",
+      "水肿"
+    ]
+  },
+  {
+    "id": "acupoint_054",
+    "anatomy": "有腹直肌，有腹壁上动、静脉，布有第九肋间神经",
+    "location": "在上腹部，脐中上2寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.8-1.2寸",
+    "name": "太乙",
+    "pinyin": "Tai Yi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "心烦",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_055",
+    "anatomy": "有腹直肌，有腹壁上动、静脉，布有第九肋间神经",
+    "location": "在上腹部，脐中上1寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.8-1.2寸",
+    "name": "滑肉门",
+    "pinyin": "Hua Rou Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_056",
+    "anatomy": "有腹直肌，有腹壁上、下动、静脉吻合支，布有第十肋间神经",
+    "location": "在腹中部，脐中旁开2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "天枢",
+    "pinyin": "Tian Shu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "大肠之募，在脐旁二寸。主腹胀肠鸣、泄泻、便秘、痛经。"
+      }
+    ],
+    "indications": [
+      "腹痛",
+      "腹胀",
+      "泄泻",
+      "便秘",
+      "月经不调",
+      "痛经"
+    ]
+  },
+  {
+    "id": "acupoint_057",
+    "anatomy": "有腹直肌，有腹壁下动、静脉，布有第十肋间神经",
+    "location": "在下腹部，脐中下1寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "外陵",
+    "pinyin": "Wai Ling",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "疝气",
+      "月经不调"
+    ]
+  },
+  {
+    "id": "acupoint_058",
+    "anatomy": "有腹直肌，有腹壁下动、静脉，布有第十一肋间神经",
+    "location": "在下腹部，脐中下2寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "大巨",
+    "pinyin": "Da Ju",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小腹胀满",
+      "小便不利",
+      "疝气",
+      "遗精",
+      "早泄"
+    ]
+  },
+  {
+    "id": "acupoint_059",
+    "anatomy": "有腹直肌，有腹壁下动、静脉，布有第十二肋间神经",
+    "location": "在下腹部，脐中下3寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "水道",
+    "pinyin": "Shui Dao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小腹胀满",
+      "小便不利",
+      "水肿",
+      "疝气",
+      "月经不调"
+    ]
+  },
+  {
+    "id": "acupoint_060",
+    "anatomy": "有腹直肌，有腹壁下动、静脉，布有髂腹下神经",
+    "location": "在下腹部，脐中下4寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "归来",
+    "pinyin": "Gui Lai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "疝气",
+      "月经不调",
+      "带下",
+      "阴挺"
+    ]
+  },
+  {
+    "id": "acupoint_061",
+    "anatomy": "有腹外斜肌腱膜，有腹壁下动脉，布有髂腹下神经",
+    "location": "在腹股沟稍上方，脐中下5寸，距前正中线2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.5-1寸",
+    "name": "气冲",
+    "pinyin": "Qi Chong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "疝气",
+      "月经不调",
+      "阳痿",
+      "不孕"
+    ]
+  },
+  {
+    "id": "acupoint_062",
+    "anatomy": "有股直肌，有旋股外侧动、静脉，布有股前皮神经",
+    "location": "在大腿前面，髂前上棘与髌底外侧端连线上，屈髋时平会阴",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-2寸",
+    "name": "髀关",
+    "pinyin": "Bi Guan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "下肢痿痹",
+      "腰腿痛",
+      "膝冷"
+    ]
+  },
+  {
+    "id": "acupoint_063",
+    "anatomy": "有股直肌，有旋股外侧动、静脉，布有股前皮神经",
+    "location": "在大腿前面，髂前上棘与髌底外侧端连线上，髌底上6寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-2寸",
+    "name": "伏兔",
+    "pinyin": "Fu Tu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "下肢痿痹",
+      "腰腿痛",
+      "膝冷",
+      "疝气"
+    ]
+  },
+  {
+    "id": "acupoint_064",
+    "anatomy": "有股外侧肌，有旋股外侧动脉降支，布有股前皮神经",
+    "location": "在大腿前面，髂前上棘与髌底外侧端连线上，髌底上3寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "阴市",
+    "pinyin": "Yin Shi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "下肢痿痹",
+      "膝关节痛",
+      "疝气"
+    ]
+  },
+  {
+    "id": "acupoint_065",
+    "anatomy": "有股外侧肌，有旋股外侧动脉降支，布有股前皮神经",
+    "location": "屈膝，在大腿前面，髂前上棘与髌底外侧端连线上，髌底上2寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.2寸",
+    "name": "梁丘",
+    "pinyin": "Liang Qiu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "足阳明郄，在膝上二寸。主胃痛、膝肿痛、乳痈。"
+      }
+    ],
+    "indications": [
+      "膝肿痛",
+      "下肢不遂",
+      "胃痛",
+      "乳痈"
+    ]
+  },
+  {
+    "id": "acupoint_066",
+    "anatomy": "有膝关节动、静脉网，布有腓肠外侧皮神经",
+    "location": "屈膝，在膝部，髌骨与髌韧带外侧凹陷中",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "向后内斜刺0.5-1寸",
+    "name": "犊鼻",
+    "pinyin": "Du Bi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "膝痛",
+      "下肢痿痹",
+      "屈伸不利"
+    ]
+  },
+  {
+    "id": "acupoint_067",
+    "anatomy": "有胫骨前肌，有胫前动、静脉，布有腓肠外侧皮神经",
+    "location": "在小腿外侧，犊鼻下3寸，犊鼻与解溪连线上",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-2寸",
+    "name": "足三里",
+    "pinyin": "Zu San Li",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "胃之下合穴，在膝下三寸。主胃痛、呕吐、腹胀、泄泻、虚劳。"
+      }
+    ],
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "腹胀",
+      "泄泻",
+      "便秘",
+      "下肢痿痹",
+      "虚劳赢瘦",
+      "癫狂",
+      "乳痈",
+      "水肿"
+    ]
+  },
+  {
+    "id": "acupoint_068",
+    "anatomy": "有胫骨前肌，有胫前动、静脉，布有腓肠外侧皮神经",
+    "location": "在小腿外侧，犊鼻下6寸，犊鼻与解溪连线上",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-2寸",
+    "name": "上巨虚",
+    "pinyin": "Shang Ju Xu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肠鸣",
+      "腹痛",
+      "泄泻",
+      "便秘",
+      "肠痈",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_069",
+    "anatomy": "有胫骨前肌，有胫前动、静脉，布有腓肠外侧皮神经",
+    "location": "在小腿外侧，犊鼻下8寸，犊鼻与解溪连线上",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "条口",
+    "pinyin": "Tiao Kou",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "下肢痿痹",
+      "肩臂痛",
+      "转筋"
+    ]
+  },
+  {
+    "id": "acupoint_070",
+    "anatomy": "有胫骨前肌，有胫前动、静脉，布有腓肠外侧皮神经",
+    "location": "在小腿外侧，犊鼻下9寸，犊鼻与解溪连线上",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "下巨虚",
+    "pinyin": "Xia Ju Xu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小腹痛",
+      "泄泻",
+      "腰脊痛引睾丸",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_071",
+    "anatomy": "有趾长伸肌和腓骨短肌，有胫前动脉，布有腓浅神经",
+    "location": "在小腿外侧，外踝尖上8寸，条口外1寸，犊鼻与解溪连线中点外侧",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺1-1.5寸",
+    "name": "丰隆",
+    "pinyin": "Feng Long",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "足阳明络，在踝上八寸。主痰多、咳嗽、头痛、眩晕、癫狂。"
+      }
+    ],
+    "indications": [
+      "咳嗽",
+      "痰多",
+      "哮喘",
+      "头痛",
+      "眩晕",
+      "癫狂",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_072",
+    "anatomy": "有胫前动、静脉，布有腓浅神经、腓深神经",
+    "location": "在足背与小腿交界处的横纹中央凹陷中，当伸趾长肌腱与伸趾短肌腱之间",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.5-1寸",
+    "name": "解溪",
+    "pinyin": "Jie Xi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "癫狂",
+      "腹胀",
+      "便秘",
+      "下肢痿痹",
+      "踝关节痛"
+    ]
+  },
+  {
+    "id": "acupoint_073",
+    "anatomy": "有足背动、静脉及足背静脉网，布有腓浅神经足背支",
+    "location": "在足背最高处，伸趾长肌腱外侧，当足背动脉搏动处",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "避开动脉，直刺0.3-0.5寸",
+    "name": "冲阳",
+    "pinyin": "Chong Yang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "口眼歪斜",
+      "面肿",
+      "齿痛",
+      "癫狂",
+      "足痿无力"
+    ]
+  },
+  {
+    "id": "acupoint_074",
+    "anatomy": "有第二骨间背侧肌，有足背静脉网，布有足背内侧皮神经",
+    "location": "在足背，第二、三跖骨结合部前方凹陷中",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺0.3-0.5寸，可灸",
+    "name": "陷谷",
+    "pinyin": "Xian Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "面浮身肿",
+      "目赤肿痛",
+      "肠鸣腹痛",
+      "足背肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_075",
+    "anatomy": "有足背静脉网，布有足背内侧皮神经",
+    "location": "在足背，第二、三趾间，趾蹼缘后方赤白肉际处",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "直刺或斜刺0.3-0.5寸",
+    "name": "内庭",
+    "pinyin": "Nei Ting",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "足阳明之荥，在足次趾外间。主齿痛、咽喉肿、腹胀、热病。"
+      }
+    ],
+    "indications": [
+      "齿痛",
+      "咽喉肿痛",
+      "口歪",
+      "鼻衄",
+      "胃痛吐酸",
+      "腹胀",
+      "泄泻",
+      "热病",
+      "足背肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_076",
+    "anatomy": "有足背动、静脉网，布有足背内侧皮神经",
+    "location": "在足第二趾末节外侧，距趾甲角0.1寸",
+    "meridian": "足阳明胃经",
+    "meridian_id": "meridian_003",
+    "method": "浅刺0.1-0.2寸",
+    "name": "厉兑",
+    "pinyin": "Li Dui",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "鼻衄",
+      "齿痛",
+      "咽喉肿痛",
+      "热病",
+      "多梦",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_077",
+    "anatomy": "有趾背动脉，布有足背内侧皮神经",
+    "location": "在足大趾末节内侧，距趾甲角0.1寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "浅刺0.1寸，或点刺出血",
+    "name": "隐白",
+    "pinyin": "Yin Bai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经过多",
+      "崩漏",
+      "便血",
+      "尿血",
+      "癫狂",
+      "多梦",
+      "惊风",
+      "腹胀"
+    ]
+  },
+  {
+    "id": "acupoint_078",
+    "anatomy": "有足底内侧动、静脉，布有足底内侧神经",
+    "location": "在足内侧缘，足大趾本节前下方赤白肉际凹陷处",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺0.3-0.5寸",
+    "name": "大都",
+    "pinyin": "Da Du",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹胀",
+      "胃痛",
+      "呕吐",
+      "泄泻",
+      "便秘",
+      "热病"
+    ]
+  },
+  {
+    "id": "acupoint_079",
+    "anatomy": "有足底内侧动、静脉，布有足底内侧神经",
+    "location": "在足内侧缘，足大趾本节后下方赤白肉际凹陷处",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺0.3-0.5寸",
+    "name": "太白",
+    "pinyin": "Tai Bai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "腹胀",
+      "腹痛",
+      "泄泻",
+      "便秘",
+      "痢疾",
+      "体重节痛"
+    ]
+  },
+  {
+    "id": "acupoint_080",
+    "anatomy": "有足底内侧动、静脉，布有足底内侧神经",
+    "location": "在足内侧缘，第一跖骨基底部前下方赤白肉际凹陷处",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺0.5-0.8寸",
+    "name": "公孙",
+    "pinyin": "Gong Sun",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《八脉交会穴歌》",
+        "text": "公孙冲脉胃心胸。足太阴之络，通冲脉，主胃痛、呕吐、腹痛、泄泻。"
+      }
+    ],
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "腹痛",
+      "泄泻",
+      "痢疾",
+      "月经不调",
+      "心烦失眠"
+    ]
+  },
+  {
+    "id": "acupoint_081",
+    "anatomy": "有内踝前动、静脉，布有隐神经及腓浅神经分支",
+    "location": "在足内踝前下方凹陷中，当舟骨结节与内踝尖连线中点",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺0.3-0.5寸",
+    "name": "商丘",
+    "pinyin": "Shang Qiu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹胀",
+      "泄泻",
+      "便秘",
+      "黄疸",
+      "足踝痛"
+    ]
+  },
+  {
+    "id": "acupoint_082",
+    "anatomy": "有胫骨后肌、趾长屈肌，有胫后动、静脉，布有隐神经、胫神经",
+    "location": "在小腿内侧，足内踝尖上3寸，胫骨内侧缘后方",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-1.5寸",
+    "name": "三阴交",
+    "pinyin": "San Yin Jiao",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "足太阴、少阴、厥阴之会，在内踝上三寸。主脾胃虚弱、月经不调、失眠、遗精。"
+      }
+    ],
+    "indications": [
+      "月经不调",
+      "痛经",
+      "崩漏",
+      "带下",
+      "遗精",
+      "阳痿",
+      "遗尿",
+      "水肿",
+      "腹胀",
+      "失眠",
+      "眩晕"
+    ]
+  },
+  {
+    "id": "acupoint_083",
+    "anatomy": "有腓肠肌，有胫后动、静脉，布有隐神经、胫神经",
+    "location": "在小腿内侧，内踝尖上6寸，胫骨内侧缘后方",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-1.5寸",
+    "name": "漏谷",
+    "pinyin": "Lou Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹胀",
+      "肠鸣",
+      "小便不利",
+      "遗精",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_084",
+    "anatomy": "有胫骨后肌，有胫后动、静脉，布有隐神经",
+    "location": "在小腿内侧，内踝尖与阴陵泉连线上，阴陵泉下3寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-1.5寸",
+    "name": "地机",
+    "pinyin": "Di Ji",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "泄泻",
+      "小便不利",
+      "月经不调",
+      "痛经",
+      "遗精",
+      "水肿"
+    ]
+  },
+  {
+    "id": "acupoint_085",
+    "anatomy": "有半腱肌腱、半膜肌腱，有胫后动、静脉，布有隐神经",
+    "location": "在小腿内侧，胫骨内侧髁后下方凹陷中",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-2寸",
+    "name": "阴陵泉",
+    "pinyin": "Yin Ling Quan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "脾之合，在膝下内侧辅骨下。主腹胀、水肿、小便不利、膝痛。"
+      }
+    ],
+    "indications": [
+      "腹胀",
+      "泄泻",
+      "水肿",
+      "黄疸",
+      "小便不利或失禁",
+      "膝痛"
+    ]
+  },
+  {
+    "id": "acupoint_086",
+    "anatomy": "有股四头肌内侧头，有股动脉肌支，布有股前皮神经",
+    "location": "屈膝，在大腿内侧，髌底内侧端上2寸，当股四头肌内侧头隆起处",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-1.5寸",
+    "name": "血海",
+    "pinyin": "Xue Hai",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在膝膑上内廉。主月经不调、痛经、瘾疹、皮肤瘙痒。"
+      }
+    ],
+    "indications": [
+      "月经不调",
+      "痛经",
+      "崩漏",
+      "瘾疹",
+      "湿疹",
+      "丹毒",
+      "膝股内侧痛"
+    ]
+  },
+  {
+    "id": "acupoint_087",
+    "anatomy": "有缝匠肌，有股动、静脉，布有股前皮神经、闭孔神经",
+    "location": "在大腿内侧，血海与冲门连线上，血海上6寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺0.5-1寸",
+    "name": "箕门",
+    "pinyin": "Ji Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小便不利",
+      "遗尿",
+      "腹股沟肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_088",
+    "anatomy": "有腹外斜肌腱膜，有髂外动、静脉，布有髂腹下神经",
+    "location": "在腹股沟外侧，距耻骨联合上缘中点3.5寸，当髂外动脉搏动处外侧",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "避开动脉，直刺0.5-1寸",
+    "name": "冲门",
+    "pinyin": "Chong Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "疝气",
+      "崩漏",
+      "带下"
+    ]
+  },
+  {
+    "id": "acupoint_089",
+    "anatomy": "有腹外斜肌，有腹壁下动、静脉，布有髂腹下神经",
+    "location": "在下腹部，脐中下4寸，距前正中线4寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-1.5寸",
+    "name": "府舍",
+    "pinyin": "Fu She",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "疝气",
+      "积聚"
+    ]
+  },
+  {
+    "id": "acupoint_090",
+    "anatomy": "有腹外斜肌、腹内斜肌，有腹壁浅动脉，布有第十一肋间神经",
+    "location": "在下腹部，脐中下1.3寸，距前正中线4寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-1.5寸",
+    "name": "腹结",
+    "pinyin": "Fu Jie",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "疝气",
+      "泄泻",
+      "便秘"
+    ]
+  },
+  {
+    "id": "acupoint_091",
+    "anatomy": "有腹外斜肌、腹横肌，布有第十肋间神经",
+    "location": "在腹中部，脐中旁开4寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-1.5寸",
+    "name": "大横",
+    "pinyin": "Da Heng",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "泄泻",
+      "便秘",
+      "痢疾"
+    ]
+  },
+  {
+    "id": "acupoint_092",
+    "anatomy": "有腹外斜肌、腹横肌，布有第八肋间神经",
+    "location": "在上腹部，脐中上3寸，距前正中线4寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "直刺1-1.5寸",
+    "name": "腹哀",
+    "pinyin": "Fu Ai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "消化不良",
+      "便秘",
+      "痢疾"
+    ]
+  },
+  {
+    "id": "acupoint_093",
+    "anatomy": "有前锯肌，有肋间动、静脉，布有胸长神经",
+    "location": "在胸外侧部，第五肋间隙，距前正中线6寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "食窦",
+    "pinyin": "Shi Dou",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸胁胀满",
+      "噫气",
+      "反胃",
+      "腹胀",
+      "水肿"
+    ]
+  },
+  {
+    "id": "acupoint_094",
+    "anatomy": "有前锯肌，有肋间动、静脉，布有胸长神经",
+    "location": "在胸外侧部，第四肋间隙，距前正中线6寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "天溪",
+    "pinyin": "Tian Xi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸胁胀痛",
+      "咳嗽",
+      "乳痈",
+      "乳汁少"
+    ]
+  },
+  {
+    "id": "acupoint_095",
+    "anatomy": "有胸大肌、前锯肌，有肋间动、静脉，布有胸长神经",
+    "location": "在胸外侧部，第三肋间隙，距前正中线6寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "胸乡",
+    "pinyin": "Xiong Xiang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸胁胀满",
+      "胸痛"
+    ]
+  },
+  {
+    "id": "acupoint_096",
+    "anatomy": "有胸大肌、前锯肌，有肋间动、静脉，布有胸长神经",
+    "location": "在胸外侧部，第二肋间隙，距前正中线6寸",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "周荣",
+    "pinyin": "Zhou Rong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "胸胁胀满",
+      "食不下"
+    ]
+  },
+  {
+    "id": "acupoint_097",
+    "anatomy": "有前锯肌，有肋间动、静脉，布有胸长神经",
+    "location": "在侧胸部，腋中线上，第六肋间隙中",
+    "meridian": "足太阴脾经",
+    "meridian_id": "meridian_004",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "大包",
+    "pinyin": "Da Bao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸胁痛",
+      "气喘",
+      "全身疼痛",
+      "四肢无力"
+    ]
+  },
+  {
+    "id": "acupoint_098",
+    "anatomy": "有腋动脉，有臂丛神经，布有尺神经、正中神经",
+    "location": "在腋窝顶点，腋动脉搏动处",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "避开腋动脉，直刺或斜刺0.3-0.5寸",
+    "name": "极泉",
+    "pinyin": "Ji Quan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "胸胁痛",
+      "肩臂疼痛",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_099",
+    "anatomy": "有肱二头肌内侧沟，有肱动脉，布有前臂内侧皮神经",
+    "location": "在臂内侧，极泉与少海的连线上，肘横纹上3寸，肱二头肌内侧沟中",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "直刺0.5-1寸",
+    "name": "青灵",
+    "pinyin": "Qing Ling",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "胁痛",
+      "肩臂疼痛"
+    ]
+  },
+  {
+    "id": "acupoint_100",
+    "anatomy": "有旋前圆肌，有肱动脉，布有前臂内侧皮神经",
+    "location": "屈肘，在肘横纹内侧端与肱骨内上髁连线的中点处",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "直刺0.5-1寸",
+    "name": "少海",
+    "pinyin": "Shao Hai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "肘臂挛痛",
+      "瘰疬",
+      "头项痛",
+      "腋胁痛"
+    ]
+  },
+  {
+    "id": "acupoint_101",
+    "anatomy": "有尺侧腕屈肌，有尺动脉，布有前臂内侧皮神经及尺神经",
+    "location": "在前臂掌侧，尺侧腕屈肌腱桡侧缘，腕横纹上1.5寸",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "直刺0.3-0.5寸",
+    "name": "灵道",
+    "pinyin": "Ling Dao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "暴喑",
+      "肘臂挛痛"
+    ]
+  },
+  {
+    "id": "acupoint_102",
+    "anatomy": "有尺侧腕屈肌，有尺动脉，布有前臂内侧皮神经及尺神经",
+    "location": "在前臂掌侧，尺侧腕屈肌腱桡侧缘，腕横纹上1寸",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "直刺0.3-0.5寸",
+    "name": "通里",
+    "pinyin": "Tong Li",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "手少阴之络，在腕后一寸。主心悸、怔忡、舌强不语、腕臂痛。"
+      }
+    ],
+    "indications": [
+      "心悸",
+      "怔忡",
+      "暴喑",
+      "舌强不语",
+      "腕臂痛"
+    ]
+  },
+  {
+    "id": "acupoint_103",
+    "anatomy": "有尺侧腕屈肌，有尺动脉，布有前臂内侧皮神经及尺神经",
+    "location": "在前臂掌侧，尺侧腕屈肌腱桡侧缘，腕横纹上0.5寸",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "直刺0.3-0.5寸",
+    "name": "阴郄",
+    "pinyin": "Yin Xi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "惊悸",
+      "骨蒸盗汗",
+      "吐血",
+      "衄血",
+      "暴喑"
+    ]
+  },
+  {
+    "id": "acupoint_104",
+    "anatomy": "有尺动脉，布有前臂内侧皮神经及尺神经",
+    "location": "在腕掌侧横纹尺侧端，尺侧腕屈肌腱桡侧凹陷处",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "直刺0.3-0.5寸",
+    "name": "神门",
+    "pinyin": "Shen Men",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "手少阴之原，在掌后锐骨端。主心痛、心烦、失眠、健忘、惊悸。"
+      }
+    ],
+    "indications": [
+      "心痛",
+      "心烦",
+      "惊悸",
+      "失眠",
+      "健忘",
+      "癫狂",
+      "胸胁痛"
+    ]
+  },
+  {
+    "id": "acupoint_105",
+    "anatomy": "有第四、五掌骨间肌，有指掌侧总动、静脉，布有尺神经",
+    "location": "在手掌面，第四、五掌骨之间，握拳时当小指尖处",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "直刺0.3-0.5寸",
+    "name": "少府",
+    "pinyin": "Shao Fu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心悸",
+      "胸痛",
+      "小便不利",
+      "遗尿",
+      "阴痒",
+      "小指挛痛"
+    ]
+  },
+  {
+    "id": "acupoint_106",
+    "anatomy": "有指掌侧固有动、静脉，布有指掌侧固有神经",
+    "location": "在手小指末节桡侧，距指甲角0.1寸",
+    "meridian": "手少阴心经",
+    "meridian_id": "meridian_011",
+    "method": "浅刺0.1-0.2寸，或点刺出血",
+    "name": "少冲",
+    "pinyin": "Shao Chong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心悸",
+      "心痛",
+      "胸胁痛",
+      "癫狂",
+      "热病",
+      "昏迷"
+    ]
+  },
+  {
+    "id": "acupoint_107",
+    "anatomy": "有指掌侧固有动、静脉，布有指掌侧固有神经",
+    "location": "在手小指末节尺侧，距指甲角0.1寸",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "浅刺0.1寸，或点刺出血",
+    "name": "少泽",
+    "pinyin": "Shao Ze",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目翳",
+      "咽喉肿痛",
+      "乳痈",
+      "乳汁少",
+      "昏迷",
+      "热病"
+    ]
+  },
+  {
+    "id": "acupoint_108",
+    "anatomy": "有指背动、静脉，布有指背神经",
+    "location": "在手尺侧，微握拳，第五掌指关节前，掌指横纹头赤白肉际处",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.2-0.3寸",
+    "name": "前谷",
+    "pinyin": "Qian Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目痛",
+      "耳鸣",
+      "咽喉肿痛",
+      "热病",
+      "手指麻木"
+    ]
+  },
+  {
+    "id": "acupoint_109",
+    "anatomy": "有指背动、静脉及手背静脉网，布有尺神经手背支",
+    "location": "在手掌尺侧，微握拳，第五掌指关节后尺侧，掌横纹头赤白肉际处",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.5-1寸",
+    "name": "后溪",
+    "pinyin": "Hou Xi",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "手太阳之俞，通督脉。主头项强痛、目赤、耳聋、癫狂、疟疾。"
+      }
+    ],
+    "indications": [
+      "头顶强痛",
+      "目赤",
+      "耳聋",
+      "咽喉肿痛",
+      "癫狂",
+      "疟疾",
+      "手指及时臂挛痛",
+      "盗汗"
+    ]
+  },
+  {
+    "id": "acupoint_110",
+    "anatomy": "有腕背侧动脉，手背静脉网，布有尺神经手背支",
+    "location": "在手掌尺侧，第五掌骨基底与三角骨之间的凹陷中，赤白肉际处",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.3-0.5寸",
+    "name": "腕骨",
+    "pinyin": "Wan Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头顶强痛",
+      "耳鸣",
+      "目翳",
+      "黄疸",
+      "热病",
+      "疟疾",
+      "指挛腕痛"
+    ]
+  },
+  {
+    "id": "acupoint_111",
+    "anatomy": "有腕背侧动脉，布有尺神经手背支",
+    "location": "在手腕尺侧，尺骨茎突与三角骨之间的凹陷中",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.3-0.5寸",
+    "name": "阳谷",
+    "pinyin": "Yang Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "耳鸣",
+      "耳聋",
+      "颈颔肿痛",
+      "腕痛"
+    ]
+  },
+  {
+    "id": "acupoint_112",
+    "anatomy": "有旋后肌腱，有前臂骨间背侧动脉，布有前臂背侧皮神经",
+    "location": "在前臂背面尺侧，尺骨小头近端桡侧凹陷中",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺或斜刺0.5-0.8寸",
+    "name": "养老",
+    "pinyin": "Yang Lao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "目视不明",
+      "肩背肘臂酸痛",
+      "落枕",
+      "急性腰痛"
+    ]
+  },
+  {
+    "id": "acupoint_113",
+    "anatomy": "有尺侧腕伸肌，有前臂骨间背侧动脉，布有前臂背侧皮神经",
+    "location": "在前臂背面尺侧，阳谷与小海的连线上，腕背横纹上5寸",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.5-0.8寸",
+    "name": "支正",
+    "pinyin": "Zhi Zheng",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "项强",
+      "目眩",
+      "肘臂酸痛",
+      "癫狂",
+      "热病"
+    ]
+  },
+  {
+    "id": "acupoint_114",
+    "anatomy": "有尺神经沟，有尺侧上副动脉，布有前臂内侧皮神经",
+    "location": "在肘内侧，尺骨鹰嘴与肱骨内上髁之间凹陷中",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.3-0.5寸",
+    "name": "小海",
+    "pinyin": "Xiao Hai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肘臂疼痛",
+      "癫痫",
+      "耳鸣",
+      "耳聋",
+      "头痛"
+    ]
+  },
+  {
+    "id": "acupoint_115",
+    "anatomy": "有三角肌后部，有大圆肌，有旋肩胛动脉，布有腋神经",
+    "location": "在肩关节后下方，臂内收时，腋后纹头上1寸",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺1-1.5寸",
+    "name": "肩贞",
+    "pinyin": "Jian Zhen",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂疼痛",
+      "上肢不遂",
+      "耳鸣",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_116",
+    "anatomy": "有三角肌后部，有冈下肌，有旋肩胛动脉，布有腋神经",
+    "location": "在肩部，腋后纹头直上，肩胛冈下缘凹陷中",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺或斜刺0.5-1.5寸",
+    "name": "臑俞",
+    "pinyin": "Nao Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂酸痛",
+      "上肢不遂",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_117",
+    "anatomy": "有冈下肌，有旋肩胛动脉，布有肩胛上神经",
+    "location": "在肩胛部，冈下窝中央凹陷处，与第四胸椎相平",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺或斜刺0.5-1寸",
+    "name": "天宗",
+    "pinyin": "Tian Zong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩胛疼痛",
+      "肘臂外后侧痛",
+      "气喘",
+      "乳痈"
+    ]
+  },
+  {
+    "id": "acupoint_118",
+    "anatomy": "有斜方肌、冈上肌，有肩胛上动脉，布有锁骨上神经",
+    "location": "在肩胛部，冈上窝中央，天宗直上，举臂有凹陷处",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺或斜刺0.5-1寸",
+    "name": "秉风",
+    "pinyin": "Bing Feng",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩胛疼痛",
+      "上肢酸麻",
+      "颈项强痛"
+    ]
+  },
+  {
+    "id": "acupoint_119",
+    "anatomy": "有斜方肌和冈上肌，有肩胛上动脉，布有锁骨上神经",
+    "location": "在肩胛部，冈上窝内侧端，臑俞与第二胸椎棘突连线的中点处",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺或斜刺0.5-1寸",
+    "name": "曲垣",
+    "pinyin": "Qu Yuan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩胛疼痛",
+      "颈项强痛"
+    ]
+  },
+  {
+    "id": "acupoint_120",
+    "anatomy": "有斜方肌、肩胛提肌，有颈横动脉，布有肩胛背神经",
+    "location": "在背部，第一胸椎棘突下旁开3寸",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "斜刺0.5-0.8寸",
+    "name": "肩外俞",
+    "pinyin": "Jian Wai Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩背酸痛",
+      "颈项强痛",
+      "肘臂冷痛"
+    ]
+  },
+  {
+    "id": "acupoint_121",
+    "anatomy": "有斜方肌、肩胛提肌，有颈横动脉，布有肩胛背神经",
+    "location": "在背部，第七颈椎棘突下旁开2寸",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "斜刺0.5-0.8寸",
+    "name": "肩中俞",
+    "pinyin": "Jian Zhong Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "肩背疼痛",
+      "颈项强痛"
+    ]
+  },
+  {
+    "id": "acupoint_122",
+    "anatomy": "有胸锁乳突肌，有颈升动脉，布有耳大神经",
+    "location": "在颈外侧部，胸锁乳突肌后缘，扶突后，与喉结相平",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.5-1寸",
+    "name": "天窗",
+    "pinyin": "Tian Chuang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳鸣",
+      "耳聋",
+      "咽喉肿痛",
+      "颈项强痛",
+      "暴喑"
+    ]
+  },
+  {
+    "id": "acupoint_123",
+    "anatomy": "有胸锁乳突肌前缘，有颈外动脉，布有耳大神经和面神经",
+    "location": "在颈外侧部，下颌角后方，胸锁乳突肌前缘凹陷中",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.5-1寸",
+    "name": "天容",
+    "pinyin": "Tian Rong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳鸣",
+      "耳聋",
+      "咽喉肿痛",
+      "颈项肿痛",
+      "瘿气",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_124",
+    "anatomy": "有咬肌，有面横动、静脉，布有面神经颧支、眶下神经",
+    "location": "在面部，目外眦直下，颧骨下缘凹陷中",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "直刺0.3-0.5寸",
+    "name": "颧髎",
+    "pinyin": "Quan Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "口眼歪斜",
+      "眼睑跳动",
+      "齿痛",
+      "面痛",
+      "颊肿"
+    ]
+  },
+  {
+    "id": "acupoint_125",
+    "anatomy": "有颞浅动脉耳前支，布有耳颞神经、面神经",
+    "location": "在面部，耳屏前，下颌骨髁状突的后方，张口时呈凹陷处",
+    "meridian": "手太阳小肠经",
+    "meridian_id": "meridian_013",
+    "method": "张口，直刺1-1.5寸",
+    "name": "听宫",
+    "pinyin": "Ting Gong",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在耳中珠子上。主耳鸣、耳聋、聤耳、齿痛。"
+      }
+    ],
+    "indications": [
+      "耳鸣",
+      "耳聋",
+      "聤耳",
+      "齿痛",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_126",
+    "anatomy": "有眼轮匝肌，有内眦动、静脉，布有滑车上、下神经",
+    "location": "在面部，目内眦角稍上方凹陷处",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺，将眼球轻推向外侧固定，缓慢刺入0.5-1寸，禁提插捻转",
+    "name": "睛明",
+    "pinyin": "Jing Ming",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在目内眦外。主目赤肿痛、流泪、视物不明、近视。"
+      }
+    ],
+    "indications": [
+      "目赤肿痛",
+      "迎风流泪",
+      "目眩",
+      "夜盲",
+      "近视",
+      "散光",
+      "口眼歪斜"
+    ]
+  },
+  {
+    "id": "acupoint_127",
+    "anatomy": "有额肌及皱眉肌，有额动、静脉，布有额神经内侧支",
+    "location": "在面部，眉头陷中，眶上切迹处",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "平刺0.3-0.5寸，或斜刺透鱼腰",
+    "name": "攒竹",
+    "pinyin": "Cuan Zhu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在眉头陷中。主头痛、目赤肿痛、眉棱骨痛、眼睑瞤动。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "眉棱骨痛",
+      "目赤肿痛",
+      "目眩",
+      "迎风流泪",
+      "口眼歪斜"
+    ]
+  },
+  {
+    "id": "acupoint_128",
+    "anatomy": "有额肌，有额动、静脉，布有额神经内侧支",
+    "location": "在头部，攒竹直上入发际0.5寸，神庭与曲差连线之间",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "平刺0.3-0.5寸",
+    "name": "眉冲",
+    "pinyin": "Mei Chong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "鼻塞",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_129",
+    "anatomy": "有额肌，有额动、静脉，布有额神经",
+    "location": "在头部，前发际正中直上0.5寸，旁开1.5寸，神庭与头维连线的内1/3与中1/3交点上",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "平刺0.3-0.5寸",
+    "name": "曲差",
+    "pinyin": "Qu Cha",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "鼻塞",
+      "鼻衄"
+    ]
+  },
+  {
+    "id": "acupoint_130",
+    "anatomy": "有额肌，有额动、静脉，布有额神经",
+    "location": "在头部，前发际正中直上1寸，旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "平刺0.3-0.5寸",
+    "name": "五处",
+    "pinyin": "Wu Chu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_131",
+    "anatomy": "有帽状腱膜，有颞浅动、静脉，布有额神经",
+    "location": "在头部，前发际正中直上2.5寸，旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "平刺0.3-0.5寸",
+    "name": "承光",
+    "pinyin": "Cheng Guang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "鼻塞",
+      "热病"
+    ]
+  },
+  {
+    "id": "acupoint_132",
+    "anatomy": "有帽状腱膜，有颞浅动、静脉和枕动、静脉的吻合网，布有枕大神经",
+    "location": "在头部，前发际正中直上4寸，旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "平刺0.3-0.5寸",
+    "name": "通天",
+    "pinyin": "Tong Tian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "鼻塞",
+      "鼻衄",
+      "鼻渊"
+    ]
+  },
+  {
+    "id": "acupoint_133",
+    "anatomy": "在枕肌停止处，有枕动、静脉分支，布有枕大神经",
+    "location": "在头部，前发际正中直上5.5寸，旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "平刺0.3-0.5寸",
+    "name": "络却",
+    "pinyin": "Luo Que",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "耳鸣",
+      "目视不明",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_134",
+    "anatomy": "有枕肌，有枕动、静脉，布有枕大神经",
+    "location": "在后头部，后发际正中直上2.5寸，旁开1.3寸，枕外隆凸上缘外侧",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "平刺0.3-0.5寸",
+    "name": "玉枕",
+    "pinyin": "Yu Zhen",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头项痛",
+      "目痛",
+      "鼻塞"
+    ]
+  },
+  {
+    "id": "acupoint_135",
+    "anatomy": "有斜方肌，有枕动、静脉的分支，布有枕大神经",
+    "location": "在项部，大筋（斜方肌）外缘之后发际凹陷中，约当后发际正中旁开1.3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺或斜刺0.5-0.8寸，不可向内上方深刺",
+    "name": "天柱",
+    "pinyin": "Tian Zhu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "项强",
+      "眩晕",
+      "目赤肿痛",
+      "鼻塞",
+      "肩背痛"
+    ]
+  },
+  {
+    "id": "acupoint_136",
+    "anatomy": "有斜方肌、菱形肌，有肋间动、静脉后支，布有第一胸神经后支",
+    "location": "在背部，第一胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸，不可深刺",
+    "name": "大杼",
+    "pinyin": "Da Zhu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "发热",
+      "头痛",
+      "项强",
+      "肩背痛",
+      "膝关节痛"
+    ]
+  },
+  {
+    "id": "acupoint_137",
+    "anatomy": "有斜方肌、菱形肌，有肋间动、静脉后支，布有第二胸神经后支",
+    "location": "在背部，第二胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "风门",
+    "pinyin": "Feng Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "伤风咳嗽",
+      "发热头痛",
+      "项强",
+      "肩背痛"
+    ]
+  },
+  {
+    "id": "acupoint_138",
+    "anatomy": "有斜方肌、菱形肌，有肋间动、静脉后支，布有第三胸神经后支",
+    "location": "在背部，第三胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "肺俞",
+    "pinyin": "Fei Shu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第三椎下两旁。主咳嗽、气喘、骨蒸潮热、盗汗。"
+      }
+    ],
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "咯血",
+      "骨蒸潮热",
+      "盗汗",
+      "胸满",
+      "背痛"
+    ]
+  },
+  {
+    "id": "acupoint_139",
+    "anatomy": "有斜方肌、菱形肌，有肋间动、静脉后支，布有第四胸神经后支",
+    "location": "在背部，第四胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "厥阴俞",
+    "pinyin": "Jue Yin Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "胸闷",
+      "咳嗽",
+      "呕吐"
+    ]
+  },
+  {
+    "id": "acupoint_140",
+    "anatomy": "有斜方肌、菱形肌，有肋间动、静脉后支，布有第五胸神经后支",
+    "location": "在背部，第五胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "心俞",
+    "pinyin": "Xin Shu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第五椎下两旁。主心痛、心悸、失眠、健忘、咳嗽。"
+      }
+    ],
+    "indications": [
+      "心痛",
+      "心悸",
+      "心烦",
+      "失眠",
+      "健忘",
+      "咳嗽",
+      "胸背痛"
+    ]
+  },
+  {
+    "id": "acupoint_141",
+    "anatomy": "有斜方肌、背阔肌，有肋间动、静脉后支，布有第六胸神经后支",
+    "location": "在背部，第六胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "督俞",
+    "pinyin": "Du Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "胸闷",
+      "腹胀",
+      "腹痛",
+      "呃逆"
+    ]
+  },
+  {
+    "id": "acupoint_142",
+    "anatomy": "有斜方肌、背阔肌，有肋间动、静脉后支，布有第七胸神经后支",
+    "location": "在背部，第七胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "膈俞",
+    "pinyin": "Ge Shu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第七椎下两旁，血会膈俞。主呕吐、呃逆、气喘、吐血、贫血。"
+      }
+    ],
+    "indications": [
+      "呕吐",
+      "呃逆",
+      "吐血",
+      "衄血",
+      "便血",
+      "瘾疹",
+      "咳嗽",
+      "潮热盗汗"
+    ]
+  },
+  {
+    "id": "acupoint_143",
+    "anatomy": "有背阔肌、最长肌，有肋间动、静脉后支，布有第九胸神经后支",
+    "location": "在背部，第九胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "肝俞",
+    "pinyin": "Gan Shu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第九椎下两旁。主黄疸、胁痛、目疾、癫狂。"
+      }
+    ],
+    "indications": [
+      "胁痛",
+      "黄疸",
+      "目赤",
+      "目眩",
+      "雀目",
+      "癫狂",
+      "脊背痛",
+      "吐血"
+    ]
+  },
+  {
+    "id": "acupoint_144",
+    "anatomy": "有背阔肌、最长肌，有肋间动、静脉后支，布有第十胸神经后支",
+    "location": "在背部，第十胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "胆俞",
+    "pinyin": "Dan Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "黄疸",
+      "口苦",
+      "胁痛",
+      "呕吐",
+      "肺痨",
+      "潮热"
+    ]
+  },
+  {
+    "id": "acupoint_145",
+    "anatomy": "有背阔肌、最长肌，有肋间动、静脉后支，布有第十一胸神经后支",
+    "location": "在背部，第十一胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "脾俞",
+    "pinyin": "Pi Shu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第十一椎下两旁。主腹胀、泄泻、呕吐、水肿、脾胃虚弱。"
+      }
+    ],
+    "indications": [
+      "腹胀",
+      "泄泻",
+      "呕吐",
+      "痢疾",
+      "便血",
+      "水肿",
+      "黄疸",
+      "背痛"
+    ]
+  },
+  {
+    "id": "acupoint_146",
+    "anatomy": "有背阔肌、最长肌，有肋间动、静脉后支，布有第十二胸神经后支",
+    "location": "在背部，第十二胸椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "胃俞",
+    "pinyin": "Wei Shu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第十二椎下两旁。主胃脘痛、呕吐、腹胀、肠鸣。"
+      }
+    ],
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "腹胀",
+      "肠鸣",
+      "胸胁痛"
+    ]
+  },
+  {
+    "id": "acupoint_147",
+    "anatomy": "有背阔肌、最长肌，有第一腰动、静脉后支，布有第一腰神经后支",
+    "location": "在腰部，第一腰椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.5-1寸",
+    "name": "三焦俞",
+    "pinyin": "San Jiao Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹胀",
+      "肠鸣",
+      "呕吐",
+      "泄泻",
+      "痢疾",
+      "水肿",
+      "腰背强痛",
+      "小便不利"
+    ]
+  },
+  {
+    "id": "acupoint_148",
+    "anatomy": "有背阔肌、最长肌，有第二腰动、静脉后支，布有第二腰神经后支",
+    "location": "在腰部，第二腰椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.5-1寸",
+    "name": "肾俞",
+    "pinyin": "Shen Shu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第十四椎下两旁各一寸五分。主遗精、阳痿、月经不调、肾虚腰痛。"
+      }
+    ],
+    "indications": [
+      "遗尿",
+      "遗精",
+      "阳痿",
+      "月经不调",
+      "带下",
+      "耳鸣",
+      "耳聋",
+      "腰痛",
+      "水肿",
+      "咳喘少气"
+    ]
+  },
+  {
+    "id": "acupoint_149",
+    "anatomy": "有背阔肌、最长肌，有第三腰动、静脉后支，布有第三腰神经后支",
+    "location": "在腰部，第三腰椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.5-1寸",
+    "name": "气海俞",
+    "pinyin": "Qi Hai Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肠鸣腹胀",
+      "痔漏",
+      "痛经",
+      "腰痛"
+    ]
+  },
+  {
+    "id": "acupoint_150",
+    "anatomy": "有背阔肌、最长肌，有第四腰动、静脉后支，布有第四腰神经后支",
+    "location": "在腰部，第四腰椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.8-1.2寸",
+    "name": "大肠俞",
+    "pinyin": "Da Chang Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "泄泻",
+      "便秘",
+      "痢疾",
+      "腰腿痛"
+    ]
+  },
+  {
+    "id": "acupoint_151",
+    "anatomy": "有骶棘肌，有腰最下动、静脉后支，布有第五腰神经后支",
+    "location": "在腰部，第五腰椎棘突下旁开1.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.8-1.2寸",
+    "name": "关元俞",
+    "pinyin": "Guan Yuan Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "泄泻",
+      "小便不利",
+      "遗尿",
+      "腰痛"
+    ]
+  },
+  {
+    "id": "acupoint_152",
+    "anatomy": "有臀大肌，有骶外侧动、静脉后支，布有第一骶神经后支",
+    "location": "在骶部，骶正中嵴旁1.5寸，平第一骶后孔",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺或斜刺0.8-1.2寸",
+    "name": "小肠俞",
+    "pinyin": "Xiao Chang Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "遗精",
+      "遗尿",
+      "尿血",
+      "带下",
+      "腹痛",
+      "泄泻",
+      "腰痛"
+    ]
+  },
+  {
+    "id": "acupoint_153",
+    "anatomy": "有臀大肌，有骶外侧动、静脉后支，布有第二骶神经后支",
+    "location": "在骶部，骶正中嵴旁1.5寸，平第二骶后孔",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺或斜刺0.8-1.2寸",
+    "name": "膀胱俞",
+    "pinyin": "Pang Guang Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小便不利",
+      "遗尿",
+      "泄泻",
+      "便秘",
+      "腰骶痛"
+    ]
+  },
+  {
+    "id": "acupoint_154",
+    "anatomy": "有臀大肌，有骶外侧动、静脉后支，布有第三骶神经后支",
+    "location": "在骶部，骶正中嵴旁1.5寸，平第三骶后孔",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸",
+    "name": "中膂俞",
+    "pinyin": "Zhong Lv Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "泄泻",
+      "疝气",
+      "腰骶痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_155",
+    "anatomy": "有臀大肌，有骶外侧动、静脉后支，布有臀下神经",
+    "location": "在骶部，骶正中嵴旁1.5寸，平第四骶后孔",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸",
+    "name": "白环俞",
+    "pinyin": "Bai Huan Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "遗尿",
+      "疝气",
+      "遗精",
+      "月经不调",
+      "腰骶痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_156",
+    "anatomy": "有骶棘肌，有骶外侧动、静脉后支，布有第一骶神经后支",
+    "location": "在骶部，髂后上棘与后正中线之间，第一骶后孔中",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸",
+    "name": "上髎",
+    "pinyin": "Shang Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "带下",
+      "遗精",
+      "阳痿",
+      "小便不利",
+      "腰骶痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_157",
+    "anatomy": "有臀大肌，有骶外侧动、静脉后支，布有第二骶神经后支",
+    "location": "在骶部，髂后上棘内下方，第二骶后孔中",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸",
+    "name": "次髎",
+    "pinyin": "Ci Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "痛经",
+      "带下",
+      "遗精",
+      "阳痿",
+      "小便不利",
+      "腰骶痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_158",
+    "anatomy": "有臀大肌，有骶外侧动、静脉后支，布有第三骶神经后支",
+    "location": "在骶部，次髎内下方，第三骶后孔中",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸",
+    "name": "中髎",
+    "pinyin": "Zhong Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "带下",
+      "小便不利",
+      "便秘",
+      "泄泻",
+      "腰骶痛"
+    ]
+  },
+  {
+    "id": "acupoint_159",
+    "anatomy": "有臀大肌，有骶外侧动、静脉后支，布有第四骶神经后支",
+    "location": "在骶部，中髎内下方，第四骶后孔中",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸",
+    "name": "下髎",
+    "pinyin": "Xia Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "泄泻",
+      "小便不利",
+      "月经不调",
+      "带下",
+      "腰骶痛"
+    ]
+  },
+  {
+    "id": "acupoint_160",
+    "anatomy": "有臀大肌，有臀下动、静脉分支，布有尾神经",
+    "location": "在骶部，尾骨尖旁开0.5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.5-1寸",
+    "name": "会阳",
+    "pinyin": "Hui Yang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "泄泻",
+      "痢疾",
+      "痔疮",
+      "便血",
+      "阳痿",
+      "带下"
+    ]
+  },
+  {
+    "id": "acupoint_161",
+    "anatomy": "有臀大肌下缘，有臀下动、静脉分支，布有股后皮神经及坐骨神经",
+    "location": "在大腿后面，臀下横纹中点",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-2寸",
+    "name": "承扶",
+    "pinyin": "Cheng Fu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腰腿痛",
+      "下肢痿痹",
+      "痔疮"
+    ]
+  },
+  {
+    "id": "acupoint_162",
+    "anatomy": "有股二头肌、半腱肌，有股深动脉穿支，布有股后皮神经及坐骨神经",
+    "location": "在大腿后面，承扶与委中连线上，承扶下6寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-2寸",
+    "name": "殷门",
+    "pinyin": "Yin Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腰腿痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_163",
+    "anatomy": "有股二头肌腱，有膝上外侧动、静脉，布有股后皮神经及腓总神经",
+    "location": "在腘横纹外侧端，股二头肌腱内侧，委阳上1寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.5-1寸",
+    "name": "浮郄",
+    "pinyin": "Fu Xi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "膝痛",
+      "下肢痿痹",
+      "小腿转筋"
+    ]
+  },
+  {
+    "id": "acupoint_164",
+    "anatomy": "有股二头肌腱，有膝上外侧动、静脉，布有股后皮神经及腓总神经",
+    "location": "在腘横纹外侧端，股二头肌腱内侧",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.5-1寸",
+    "name": "委阳",
+    "pinyin": "Wei Yang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "小便不利",
+      "腰脊强痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_165",
+    "anatomy": "有腘动脉、腘静脉，布有股后皮神经及胫神经",
+    "location": "在腘横纹中点，股二头肌腱与半腱肌腱之间",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸，或点刺静脉出血",
+    "name": "委中",
+    "pinyin": "Wei Zhong",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《四总穴歌》",
+        "text": "腰背委中求。膀胱之合，在腘中央，主腰背痛、下肢痿痹、腹痛。"
+      }
+    ],
+    "indications": [
+      "腰痛",
+      "下肢痿痹",
+      "腹痛",
+      "吐泻",
+      "小便不利",
+      "遗尿",
+      "丹毒",
+      "瘾疹"
+    ]
+  },
+  {
+    "id": "acupoint_166",
+    "anatomy": "有斜方肌、菱形肌，有颈横动脉降支，布有肩胛背神经",
+    "location": "在背部，第二胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "附分",
+    "pinyin": "Fu Fen",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "颈项强痛",
+      "肩背拘急",
+      "上肢不遂"
+    ]
+  },
+  {
+    "id": "acupoint_167",
+    "anatomy": "有斜方肌、菱形肌，有肋间动脉后支，布有第三、四胸神经后支",
+    "location": "在背部，第三胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "魄户",
+    "pinyin": "Po Hu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "肺痨",
+      "项强",
+      "肩背痛"
+    ]
+  },
+  {
+    "id": "acupoint_168",
+    "anatomy": "有斜方肌、菱形肌，有肋间动脉后支，布有第四、五胸神经后支",
+    "location": "在背部，第四胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "膏肓",
+    "pinyin": "Gao Huang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "肺痨",
+      "健忘",
+      "遗精",
+      "虚劳"
+    ]
+  },
+  {
+    "id": "acupoint_169",
+    "anatomy": "有斜方肌、菱形肌，有肋间动脉后支，布有第五、六胸神经后支",
+    "location": "在背部，第五胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "神堂",
+    "pinyin": "Shen Tang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "咳嗽",
+      "气喘",
+      "胸闷",
+      "肩背痛"
+    ]
+  },
+  {
+    "id": "acupoint_170",
+    "anatomy": "有斜方肌、背阔肌，有肋间动脉后支，布有第六、七胸神经后支",
+    "location": "在背部，第六胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "譩譆",
+    "pinyin": "Yi Xi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "疟疾",
+      "热病",
+      "肩背痛"
+    ]
+  },
+  {
+    "id": "acupoint_171",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第七、八胸神经后支",
+    "location": "在背部，第七胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "膈关",
+    "pinyin": "Ge Guan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "呕吐",
+      "呃逆",
+      "嗳气",
+      "脊背强痛"
+    ]
+  },
+  {
+    "id": "acupoint_172",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第九、十胸神经后支",
+    "location": "在背部，第九胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "魂门",
+    "pinyin": "Hun Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胁痛",
+      "呕吐",
+      "泄泻",
+      "背痛"
+    ]
+  },
+  {
+    "id": "acupoint_173",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第十、十一胸神经后支",
+    "location": "在背部，第十胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "阳纲",
+    "pinyin": "Yang Gang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肠鸣",
+      "腹痛",
+      "泄泻",
+      "黄疸",
+      "消渴"
+    ]
+  },
+  {
+    "id": "acupoint_174",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第十一、十二胸神经后支",
+    "location": "在背部，第十一胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "意舍",
+    "pinyin": "Yi She",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹胀",
+      "肠鸣",
+      "呕吐",
+      "泄泻"
+    ]
+  },
+  {
+    "id": "acupoint_175",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第十二胸神经和第一腰神经后支",
+    "location": "在背部，第十二胸椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "胃仓",
+    "pinyin": "Wei Cang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "腹胀",
+      "小儿食积",
+      "水肿",
+      "脊背痛"
+    ]
+  },
+  {
+    "id": "acupoint_176",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第一腰神经后支",
+    "location": "在腰部，第一腰椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "肓门",
+    "pinyin": "Huang Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "便秘",
+      "痞块",
+      "乳疾"
+    ]
+  },
+  {
+    "id": "acupoint_177",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第二腰神经后支",
+    "location": "在腰部，第二腰椎棘突下旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "斜刺0.5-0.8寸",
+    "name": "志室",
+    "pinyin": "Zhi Shi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "遗精",
+      "阳痿",
+      "小便不利",
+      "水肿",
+      "腰脊强痛"
+    ]
+  },
+  {
+    "id": "acupoint_178",
+    "anatomy": "有臀大肌、臀中肌，有臀上动、静脉，布有臀上皮神经",
+    "location": "在臀部，平第二骶后孔，骶正中嵴旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸",
+    "name": "胞肓",
+    "pinyin": "Bao Huang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肠鸣",
+      "腹胀",
+      "小便不利",
+      "腰脊痛"
+    ]
+  },
+  {
+    "id": "acupoint_179",
+    "anatomy": "有臀大肌，有臀下动、静脉，布有臀下神经及坐骨神经",
+    "location": "在臀部，平第四骶后孔，骶正中嵴旁开3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1.5-2寸",
+    "name": "秩边",
+    "pinyin": "Zhi Bian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腰骶痛",
+      "下肢痿痹",
+      "小便不利",
+      "遗尿",
+      "便秘",
+      "痔疮"
+    ]
+  },
+  {
+    "id": "acupoint_180",
+    "anatomy": "有腓肠肌，有胫后动、静脉，布有腓肠内侧皮神经",
+    "location": "在小腿后面，委中与承山连线上，委中下2寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-2寸",
+    "name": "合阳",
+    "pinyin": "He Yang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腰脊强痛",
+      "下肢痿痹",
+      "疝气",
+      "崩漏"
+    ]
+  },
+  {
+    "id": "acupoint_181",
+    "anatomy": "有腓肠肌，有胫后动、静脉，布有腓肠内侧皮神经",
+    "location": "在小腿后面，委中与承山连线上，腓肠肌肌腹中央，委中下5寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-2寸",
+    "name": "承筋",
+    "pinyin": "Cheng Jin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腰腿拘急疼痛",
+      "痔疮"
+    ]
+  },
+  {
+    "id": "acupoint_182",
+    "anatomy": "有腓肠肌，有胫后动、静脉，布有腓肠内侧皮神经",
+    "location": "在小腿后面正中，委中与昆仑之间，当伸直小腿或足跟上提时腓肠肌肌腹下出现尖角凹陷处",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-2寸",
+    "name": "承山",
+    "pinyin": "Cheng Shan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在兑腨肠下分肉间。主腰腿拘急、疼痛、痔疾、便秘。"
+      }
+    ],
+    "indications": [
+      "腰腿拘急疼痛",
+      "下肢痿痹",
+      "痔疮",
+      "便秘",
+      "脚气"
+    ]
+  },
+  {
+    "id": "acupoint_183",
+    "anatomy": "有腓肠肌和比目鱼肌，有胫后动、静脉，布有腓肠外侧皮神经",
+    "location": "在小腿后面，外踝后，昆仑直上7寸，承山外下方1寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺1-1.5寸",
+    "name": "飞扬",
+    "pinyin": "Fei Yang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "鼻塞",
+      "鼻衄",
+      "腰痛",
+      "下肢痿痹",
+      "痔疮"
+    ]
+  },
+  {
+    "id": "acupoint_184",
+    "anatomy": "有腓骨短肌，有腓动、静脉，布有腓肠外侧皮神经",
+    "location": "在小腿后面，外踝后，昆仑直上3寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.8-1.2寸",
+    "name": "跗阳",
+    "pinyin": "Fu Yang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "头重",
+      "下肢痿痹",
+      "外踝肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_185",
+    "anatomy": "有腓骨短肌，有小隐静脉及外踝后动、静脉，布有腓肠神经",
+    "location": "在足部外踝后方，外踝尖与跟腱之间凹陷处",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.5-0.8寸",
+    "name": "昆仑",
+    "pinyin": "Kun Lun",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "足太阳之经，在踝后跟骨上陷中。主头痛、项强、腰骶痛、足踝肿痛。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "项强",
+      "目眩",
+      "鼻衄",
+      "癫痫",
+      "难产",
+      "腰腿痛",
+      "足跟痛"
+    ]
+  },
+  {
+    "id": "acupoint_186",
+    "anatomy": "有腓骨长、短肌，有腓动、静脉的跟外侧支，布有腓肠神经",
+    "location": "在足外侧部，外踝后下方，昆仑直下，跟骨外侧赤白肉际处",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.3-0.5寸",
+    "name": "仆参",
+    "pinyin": "Pu Can",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "下肢痿痹",
+      "足跟痛",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_187",
+    "anatomy": "有腓骨长肌腱和腓骨短肌腱，有外踝动脉网，布有腓肠神经",
+    "location": "在足外侧部，外踝直下方凹陷中",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.3-0.5寸",
+    "name": "申脉",
+    "pinyin": "Shen Mai",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "阳跷脉所生，在足外踝下。主头痛、眩晕、失眠、腰腿酸痛、痫证。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "眩晕",
+      "癫狂",
+      "失眠",
+      "目赤肿痛",
+      "腰腿痛",
+      "项强足痛"
+    ]
+  },
+  {
+    "id": "acupoint_188",
+    "anatomy": "有腓骨长、短肌，有足底外侧动、静脉，布有足背外侧皮神经",
+    "location": "在足外侧部，外踝前缘直下，骰骨下缘凹陷中",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.3-0.5寸",
+    "name": "金门",
+    "pinyin": "Jin Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "癫痫",
+      "小儿惊风",
+      "腰腿痛",
+      "外踝痛"
+    ]
+  },
+  {
+    "id": "acupoint_189",
+    "anatomy": "有小趾展肌，有足底外侧动、静脉，布有足背外侧皮神经",
+    "location": "在足外侧部，第五跖骨粗隆下方，赤白肉际处",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.3-0.5寸",
+    "name": "京骨",
+    "pinyin": "Jing Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "项强",
+      "目翳",
+      "癫痫",
+      "腰腿痛"
+    ]
+  },
+  {
+    "id": "acupoint_190",
+    "anatomy": "有小趾展肌，有足底外侧动、静脉，布有足背外侧皮神经",
+    "location": "在足外侧部，第五跖趾关节后方，赤白肉际处",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.3-0.5寸",
+    "name": "束骨",
+    "pinyin": "Shu Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "项强",
+      "目眩",
+      "癫狂",
+      "腰腿痛"
+    ]
+  },
+  {
+    "id": "acupoint_191",
+    "anatomy": "有足底外侧动、静脉，布有足背外侧皮神经",
+    "location": "在足外侧部，第五跖趾关节前方，赤白肉际处",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "直刺0.2-0.3寸",
+    "name": "足通谷",
+    "pinyin": "Zu Tong Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "项强",
+      "目眩",
+      "鼻衄",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_192",
+    "anatomy": "有趾背动脉，布有趾背固有神经及其足背外侧皮神经",
+    "location": "在足小趾末节外侧，距趾甲角0.1寸",
+    "meridian": "足太阳膀胱经",
+    "meridian_id": "meridian_009",
+    "method": "浅刺0.1-0.2寸，艾灸矫正胎位",
+    "name": "至阴",
+    "pinyin": "Zhi Yin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目痛",
+      "鼻塞",
+      "鼻衄",
+      "胎位不正",
+      "难产"
+    ]
+  },
+  {
+    "id": "acupoint_193",
+    "anatomy": "有足底腱膜，有足底内侧动脉及足底外侧动脉，布有足底内侧神经及足底外侧神经",
+    "location": "在足底部，屈足卷趾时足心最凹陷中，约当足底第2、3趾蹼缘与足跟连线的前1/3与后2/3交点",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-1寸",
+    "name": "涌泉",
+    "pinyin": "Yong Quan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《灵枢》",
+        "text": "足少阴之井，在足心陷中。主头顶痛、眩晕、咽痛、足心热、急救。"
+      }
+    ],
+    "indications": [
+      "昏厥",
+      "头痛",
+      "眩晕",
+      "失眠",
+      "癫狂",
+      "咽喉肿痛",
+      "小便不利",
+      "便秘",
+      "足心热"
+    ]
+  },
+  {
+    "id": "acupoint_194",
+    "anatomy": "有足舟骨结节，有足底内侧动脉，布有足底内侧神经",
+    "location": "在足内侧缘，足舟骨粗隆下方，赤白肉际处",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-1寸",
+    "name": "然谷",
+    "pinyin": "Ran Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "带下",
+      "遗精",
+      "消渴",
+      "泄泻",
+      "小便不利",
+      "小儿脐风"
+    ]
+  },
+  {
+    "id": "acupoint_195",
+    "anatomy": "有胫后动、静脉，布有隐神经及胫神经",
+    "location": "在足内侧，内踝后方，内踝尖与跟腱之间凹陷处",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-1寸",
+    "name": "太溪",
+    "pinyin": "Tai Xi",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "足少阴之原，在足内踝后。主头痛、目眩、咽喉肿痛、齿痛、遗精。"
+      }
+    ],
+    "indications": [
+      "月经不调",
+      "遗精",
+      "阳痿",
+      "小便频数",
+      "消渴",
+      "咳血",
+      "气喘",
+      "咽喉肿痛",
+      "失眠",
+      "腰痛",
+      "耳鸣",
+      "耳聋"
+    ]
+  },
+  {
+    "id": "acupoint_196",
+    "anatomy": "有胫后动、静脉，布有隐神经及胫神经",
+    "location": "在足内侧，内踝后下方，跟腱附着部内侧前方凹陷处",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.3-0.5寸",
+    "name": "大钟",
+    "pinyin": "Da Zhong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "癃闭",
+      "遗尿",
+      "便秘",
+      "咯血",
+      "气喘",
+      "痴呆",
+      "腰脊强痛",
+      "足跟痛"
+    ]
+  },
+  {
+    "id": "acupoint_197",
+    "anatomy": "有胫后动脉跟内侧支，布有隐神经及胫神经",
+    "location": "在足内侧，内踝后下方，太溪直下1寸，跟骨结节内侧凹陷处",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.3-0.5寸",
+    "name": "水泉",
+    "pinyin": "Shui Quan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "痛经",
+      "经闭",
+      "小便不利",
+      "目视不明"
+    ]
+  },
+  {
+    "id": "acupoint_198",
+    "anatomy": "有胫后动脉，布有隐神经及胫神经",
+    "location": "在足内侧，内踝尖下方凹陷处",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-1寸",
+    "name": "照海",
+    "pinyin": "Zhao Hai",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "阴跷脉所生，在足内踝下一寸。主咽喉干燥、失眠、月经不调、痫证。"
+      }
+    ],
+    "indications": [
+      "月经不调",
+      "痛经",
+      "带下",
+      "子宫脱垂",
+      "小便频数",
+      "癃闭",
+      "便秘",
+      "失眠",
+      "咽喉干痛"
+    ]
+  },
+  {
+    "id": "acupoint_199",
+    "anatomy": "有比目鱼肌，有胫后动、静脉，布有隐神经及胫神经",
+    "location": "在小腿内侧，太溪直上2寸，跟腱前方",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-1寸",
+    "name": "复溜",
+    "pinyin": "Fu Liu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "水肿",
+      "泄泻",
+      "腹胀",
+      "肠鸣",
+      "盗汗",
+      "自汗",
+      "腰脊强痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_200",
+    "anatomy": "有趾长屈肌，有胫后动、静脉，布有隐神经及胫神经",
+    "location": "在小腿内侧，太溪直上2寸，复溜前0.5寸，胫骨内侧缘后方",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-1寸",
+    "name": "交信",
+    "pinyin": "Jiao Xin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "崩漏",
+      "子宫脱垂",
+      "泄泻",
+      "便秘",
+      "睾丸肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_201",
+    "anatomy": "有腓肠肌和比目鱼肌，有胫后动、静脉，布有隐神经及胫神经",
+    "location": "在小腿内侧，太溪与阴谷连线上，太溪上5寸，腓肠肌肌腹下方",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺1-1.5寸",
+    "name": "筑宾",
+    "pinyin": "Zhu Bin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "癫狂",
+      "呕吐",
+      "疝气",
+      "小腿内侧痛"
+    ]
+  },
+  {
+    "id": "acupoint_202",
+    "anatomy": "有半腱肌、半膜肌腱，有膝上内侧动、静脉，布有股后皮神经及胫神经",
+    "location": "在腘窝内侧，屈膝时半腱肌腱与半膜肌腱之间",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺1-1.5寸",
+    "name": "阴谷",
+    "pinyin": "Yin Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "阳痿",
+      "疝气",
+      "崩漏",
+      "小便不利",
+      "膝股内侧痛",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_203",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有髂腹下神经",
+    "location": "在下腹部，脐中下5寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺1-1.5寸",
+    "name": "横骨",
+    "pinyin": "Heng Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小腹胀痛",
+      "小便不利",
+      "遗尿",
+      "遗精",
+      "阳痿",
+      "疝气"
+    ]
+  },
+  {
+    "id": "acupoint_204",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十二肋间神经和髂腹下神经",
+    "location": "在下腹部，脐中下4寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺1-1.5寸",
+    "name": "大赫",
+    "pinyin": "Da He",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "遗精",
+      "阳痿",
+      "带下",
+      "子宫脱垂",
+      "阴茎痛"
+    ]
+  },
+  {
+    "id": "acupoint_205",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十二肋间神经",
+    "location": "在下腹部，脐中下3寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺1-1.5寸",
+    "name": "气穴",
+    "pinyin": "Qi Xue",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "带下",
+      "不孕",
+      "小便不利",
+      "泄泻"
+    ]
+  },
+  {
+    "id": "acupoint_206",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十一肋间神经",
+    "location": "在下腹部，脐中下2寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺1-1.5寸",
+    "name": "四满",
+    "pinyin": "Si Man",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "带下",
+      "遗精",
+      "疝气",
+      "腹痛",
+      "水肿"
+    ]
+  },
+  {
+    "id": "acupoint_207",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十肋间神经",
+    "location": "在下腹部，脐中下1寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺1-1.5寸",
+    "name": "中注",
+    "pinyin": "Zhong Zhu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "腹痛",
+      "便秘",
+      "泄泻"
+    ]
+  },
+  {
+    "id": "acupoint_208",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十肋间神经",
+    "location": "在腹中部，脐中旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺1-1.5寸",
+    "name": "肓俞",
+    "pinyin": "Huang Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "腹胀",
+      "呕吐",
+      "泄泻",
+      "便秘",
+      "月经不调"
+    ]
+  },
+  {
+    "id": "acupoint_209",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第九肋间神经",
+    "location": "在上腹部，脐中上2寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-0.8寸",
+    "name": "商曲",
+    "pinyin": "Shang Qu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "腹痛",
+      "泄泻",
+      "便秘",
+      "食积"
+    ]
+  },
+  {
+    "id": "acupoint_210",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第八肋间神经",
+    "location": "在上腹部，脐中上3寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-0.8寸",
+    "name": "石关",
+    "pinyin": "Shi Guan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "呕吐",
+      "胃痛",
+      "腹痛",
+      "不孕",
+      "产后腹痛"
+    ]
+  },
+  {
+    "id": "acupoint_211",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第七肋间神经",
+    "location": "在上腹部，脐中上4寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-0.8寸",
+    "name": "阴都",
+    "pinyin": "Yin Du",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "腹胀",
+      "呕吐",
+      "肠鸣",
+      "心烦"
+    ]
+  },
+  {
+    "id": "acupoint_212",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第七肋间神经",
+    "location": "在上腹部，脐中上5寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-0.8寸",
+    "name": "腹通谷",
+    "pinyin": "Fu Tong Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "腹胀",
+      "心痛",
+      "心悸"
+    ]
+  },
+  {
+    "id": "acupoint_213",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第六肋间神经",
+    "location": "在上腹部，脐中上6寸，前正中线旁开0.5寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "直刺0.5-0.8寸",
+    "name": "幽门",
+    "pinyin": "You Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "腹胀",
+      "泄泻"
+    ]
+  },
+  {
+    "id": "acupoint_214",
+    "anatomy": "有胸大肌，有肋间动脉，布有第五肋间神经",
+    "location": "在胸部，第五肋间隙，前正中线旁开2寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "步廊",
+    "pinyin": "Bu Lang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满",
+      "呕吐"
+    ]
+  },
+  {
+    "id": "acupoint_215",
+    "anatomy": "有胸大肌，有肋间动脉，布有第四肋间神经",
+    "location": "在胸部，第四肋间隙，前正中线旁开2寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "神封",
+    "pinyin": "Shen Feng",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满",
+      "乳痈"
+    ]
+  },
+  {
+    "id": "acupoint_216",
+    "anatomy": "有胸大肌，有肋间动脉，布有第三肋间神经",
+    "location": "在胸部，第三肋间隙，前正中线旁开2寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "灵墟",
+    "pinyin": "Ling Xu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满",
+      "乳痈",
+      "呕吐"
+    ]
+  },
+  {
+    "id": "acupoint_217",
+    "anatomy": "有胸大肌，有肋间动脉，布有第二肋间神经",
+    "location": "在胸部，第二肋间隙，前正中线旁开2寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "神藏",
+    "pinyin": "Shen Cang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "呕吐"
+    ]
+  },
+  {
+    "id": "acupoint_218",
+    "anatomy": "有胸大肌，有肋间动脉，布有第一肋间神经",
+    "location": "在胸部，第一肋间隙，前正中线旁开2寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "彧中",
+    "pinyin": "Yu Zhong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满"
+    ]
+  },
+  {
+    "id": "acupoint_219",
+    "anatomy": "有胸大肌，有锁骨上神经，布有锁骨下动脉分支",
+    "location": "在胸部，锁骨下缘，前正中线旁开2寸",
+    "meridian": "足少阴肾经",
+    "meridian_id": "meridian_012",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "俞府",
+    "pinyin": "Shu Fu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "呕吐"
+    ]
+  },
+  {
+    "id": "acupoint_220",
+    "anatomy": "有胸大肌，有肋间动脉，布有第四肋间神经及胸长神经",
+    "location": "在胸部，第四肋间隙，乳头外1寸，前正中线旁开5寸",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "斜刺或平刺0.3-0.5寸，不可深刺",
+    "name": "天池",
+    "pinyin": "Tian Chi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸闷",
+      "胸胁痛",
+      "乳痈",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_221",
+    "anatomy": "有肱二头肌，有肱动脉分支，布有臂内侧皮神经",
+    "location": "在臂内侧，腋前纹头下2寸，肱二头肌长、短头之间",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "直刺1-1.5寸",
+    "name": "天泉",
+    "pinyin": "Tian Quan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "咳嗽",
+      "胸胁痛",
+      "上臂内侧痛"
+    ]
+  },
+  {
+    "id": "acupoint_222",
+    "anatomy": "有肱动脉，布有正中神经及前臂内侧皮神经",
+    "location": "在肘横纹中，肱二头肌腱尺侧凹陷中",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "直刺0.8-1寸，或点刺出血",
+    "name": "曲泽",
+    "pinyin": "Qu Ze",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "胃痛",
+      "呕吐",
+      "泄泻",
+      "热病",
+      "肘臂挛痛"
+    ]
+  },
+  {
+    "id": "acupoint_223",
+    "anatomy": "有拇长屈肌，有前臂正中动、静脉及前臂掌侧骨间动、静脉，布有正中神经",
+    "location": "在前臂掌侧，曲泽与大陵连线上，腕横纹上5寸",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "直刺0.5-1寸",
+    "name": "郄门",
+    "pinyin": "Xi Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "呕血",
+      "咯血",
+      "衄血",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_224",
+    "anatomy": "有指浅屈肌，有前臂正中动、静脉，布有正中神经",
+    "location": "在前臂掌侧，曲泽与大陵连线上，腕横纹上3寸，掌长肌腱与桡侧腕屈肌腱之间",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "直刺0.5-1寸",
+    "name": "间使",
+    "pinyin": "Jian Shi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "胃痛",
+      "呕吐",
+      "热病",
+      "疟疾",
+      "癫狂",
+      "肘臂痛"
+    ]
+  },
+  {
+    "id": "acupoint_225",
+    "anatomy": "有指浅屈肌，有前臂正中动、静脉及前臂掌侧骨间动、静脉，布有正中神经",
+    "location": "在前臂掌侧，曲泽与大陵连线上，腕横纹上2寸，掌长肌腱与桡侧腕屈肌腱之间",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "直刺0.5-1寸",
+    "name": "内关",
+    "pinyin": "Nei Guan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《灵枢》",
+        "text": "手厥阴之络，通阴维。主心痛、心悸、胃痛、呕吐、失眠。"
+      }
+    ],
+    "indications": [
+      "心痛",
+      "心悸",
+      "胸闷",
+      "胃痛",
+      "呕吐",
+      "呃逆",
+      "失眠",
+      "眩晕",
+      "癫狂",
+      "中风偏瘫",
+      "肘臂挛痛"
+    ]
+  },
+  {
+    "id": "acupoint_226",
+    "anatomy": "有腕掌侧动、静脉网，布有正中神经掌支",
+    "location": "在腕掌横纹中点处，掌长肌腱与桡侧腕屈肌腱之间",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "直刺0.3-0.5寸",
+    "name": "大陵",
+    "pinyin": "Da Ling",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "胃痛",
+      "呕吐",
+      "癫狂",
+      "疮疡",
+      "胸胁痛",
+      "腕关节痛"
+    ]
+  },
+  {
+    "id": "acupoint_227",
+    "anatomy": "有掌腱膜，有指掌侧总动脉，布有正中神经掌支",
+    "location": "在手掌心，第二、三掌骨之间偏于第三掌骨，握拳屈指时中指尖处",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "直刺0.3-0.5寸",
+    "name": "劳宫",
+    "pinyin": "Lao Gong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "呕吐",
+      "癫狂",
+      "中风昏迷",
+      "口臭",
+      "口疮",
+      "鹅掌风"
+    ]
+  },
+  {
+    "id": "acupoint_228",
+    "anatomy": "有指掌侧固有动、静脉，布有正中神经的指掌侧固有神经",
+    "location": "在手中指末节尖端中央",
+    "meridian": "手厥阴心包经",
+    "meridian_id": "meridian_010",
+    "method": "浅刺0.1-0.2寸，或点刺出血",
+    "name": "中冲",
+    "pinyin": "Zhong Chong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "昏迷",
+      "中暑",
+      "昏厥",
+      "小儿夜啼",
+      "舌强不语",
+      "热病"
+    ]
+  },
+  {
+    "id": "acupoint_229",
+    "anatomy": "有指掌侧固有动、静脉，布有正中神经的指掌侧固有神经",
+    "location": "在手环指末节尺侧，距指甲角0.1寸",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "浅刺0.1-0.2寸，或点刺出血",
+    "name": "关冲",
+    "pinyin": "Guan Chong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤",
+      "耳聋",
+      "咽喉肿痛",
+      "热病",
+      "中暑"
+    ]
+  },
+  {
+    "id": "acupoint_230",
+    "anatomy": "有指背动、静脉，布有尺神经的手背支",
+    "location": "在手背部，第四、五指间，指蹼缘后方赤白肉际处",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.3-0.5寸",
+    "name": "液门",
+    "pinyin": "Ye Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤",
+      "耳聋",
+      "耳鸣",
+      "咽喉肿痛",
+      "疟疾",
+      "手臂痛"
+    ]
+  },
+  {
+    "id": "acupoint_231",
+    "anatomy": "有骨间背侧肌，有指背动、静脉及手背静脉网，布有尺神经手背支",
+    "location": "在手背部，第四、五掌骨小头后方凹陷中",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.3-0.5寸",
+    "name": "中渚",
+    "pinyin": "Zhong Zhu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤",
+      "耳聋",
+      "耳鸣",
+      "咽喉肿痛",
+      "热病",
+      "手指不能屈伸"
+    ]
+  },
+  {
+    "id": "acupoint_232",
+    "anatomy": "有腕背侧韧带，有腕背静脉网及腕背动脉，布有尺神经手背支",
+    "location": "在腕背横纹中，指伸肌腱尺侧凹陷处",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.3-0.5寸",
+    "name": "阳池",
+    "pinyin": "Yang Chi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "耳聋",
+      "咽喉肿痛",
+      "疟疾",
+      "消渴",
+      "腕痛"
+    ]
+  },
+  {
+    "id": "acupoint_233",
+    "anatomy": "有指伸肌，有前臂骨间背侧动脉，布有前臂背侧皮神经及前臂骨间背侧神经",
+    "location": "在前臂背侧，阳池与肘尖连线上，腕背横纹上2寸，尺骨与桡骨之间",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "外关",
+    "pinyin": "Wai Guan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "手少阳之络，通阳维。主热病、头痛、耳鸣、胁痛。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "耳鸣",
+      "耳聋",
+      "胁痛",
+      "上肢痿痹",
+      "热病",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_234",
+    "anatomy": "有小指伸肌，有前臂骨间背侧动脉，布有前臂背侧皮神经及骨间背侧神经",
+    "location": "在前臂背侧，阳池与肘尖连线上，腕背横纹上3寸，尺骨与桡骨之间",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "支沟",
+    "pinyin": "Zhi Gou",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳鸣",
+      "耳聋",
+      "暴喑",
+      "胁肋痛",
+      "便秘",
+      "热病",
+      "肩背酸痛"
+    ]
+  },
+  {
+    "id": "acupoint_235",
+    "anatomy": "有小指伸肌，有前臂骨间背侧动脉，布有前臂背侧皮神经及尺神经手背支",
+    "location": "在前臂背侧，腕背横纹上3寸，支沟尺侧约1寸",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "会宗",
+    "pinyin": "Hui Zong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳聋",
+      "耳鸣",
+      "癫痫",
+      "上肢痹痛"
+    ]
+  },
+  {
+    "id": "acupoint_236",
+    "anatomy": "有小指伸肌，有前臂骨间背侧动脉，布有前臂背侧皮神经及骨间背侧神经",
+    "location": "在前臂背侧，腕背横纹上4寸，尺骨与桡骨之间",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "三阳络",
+    "pinyin": "San Yang Luo",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳聋",
+      "暴喑",
+      "齿痛",
+      "上肢痹痛"
+    ]
+  },
+  {
+    "id": "acupoint_237",
+    "anatomy": "有指伸肌，有前臂骨间背侧动脉，布有前臂背侧皮神经及骨间背侧神经",
+    "location": "在前臂背侧，阳池与肘尖连线上，肘尖下5寸，尺骨与桡骨之间",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "四渎",
+    "pinyin": "Si Du",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳聋",
+      "暴喑",
+      "齿痛",
+      "咽喉肿痛",
+      "上肢痹痛"
+    ]
+  },
+  {
+    "id": "acupoint_238",
+    "anatomy": "有肱三头肌腱，有肘关节动、静脉网，布有臂背侧皮神经",
+    "location": "在臂外侧，屈肘时肘尖直上1寸凹陷中",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "天井",
+    "pinyin": "Tian Jing",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "耳聋",
+      "瘰疬",
+      "瘿气",
+      "癫痫",
+      "胁肋痛"
+    ]
+  },
+  {
+    "id": "acupoint_239",
+    "anatomy": "有肱三头肌，有肱深动脉肌支，布有臂背侧皮神经",
+    "location": "在臂外侧，屈肘时肘尖直上2寸",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "清冷渊",
+    "pinyin": "Qing Leng Yuan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目黄",
+      "肩臂痛"
+    ]
+  },
+  {
+    "id": "acupoint_240",
+    "anatomy": "有肱三头肌，有肱深动脉肌支，布有臂背侧皮神经及桡神经",
+    "location": "在臂外侧，清冷渊与臑会连线中点",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "消泺",
+    "pinyin": "Xiao Luo",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "齿痛",
+      "项强",
+      "肩臂痛"
+    ]
+  },
+  {
+    "id": "acupoint_241",
+    "anatomy": "有肱三头肌，有肱深动脉肌支，布有臂背侧皮神经及桡神经肌支",
+    "location": "在臂外侧，肩下3寸，三角肌后下缘",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "臑会",
+    "pinyin": "Nao Hui",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "瘿气",
+      "瘰疬",
+      "目疾",
+      "上肢痹痛"
+    ]
+  },
+  {
+    "id": "acupoint_242",
+    "anatomy": "有三角肌，有旋肱后动脉肌支，布有腋神经的肌支",
+    "location": "在肩部，肩髃后方，当臂外展时肩峰后下方凹陷中",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "向肩关节直刺1-1.5寸",
+    "name": "肩髎",
+    "pinyin": "Jian Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂痛",
+      "上肢不遂"
+    ]
+  },
+  {
+    "id": "acupoint_243",
+    "anatomy": "有斜方肌、冈上肌，有肩胛上动脉，布有锁骨上神经及副神经",
+    "location": "在肩胛部，肩井与曲垣连线中点，肩胛骨上角处",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-0.8寸",
+    "name": "天髎",
+    "pinyin": "Tian Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂痛",
+      "颈项强急"
+    ]
+  },
+  {
+    "id": "acupoint_244",
+    "anatomy": "有胸锁乳突肌，有颈升动脉，布有枕小神经及耳大神经",
+    "location": "在颈侧部，乳突后方直下，平下颌角，胸锁乳突肌后缘",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.5-1寸",
+    "name": "天牖",
+    "pinyin": "Tian You",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "项强",
+      "目痛",
+      "耳聋",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_245",
+    "anatomy": "有耳后动、静脉，颈外浅静脉，布有耳大神经及面神经干",
+    "location": "在耳垂后方，乳突与下颌角之间凹陷中",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "直刺0.8-1.2寸",
+    "name": "翳风",
+    "pinyin": "Yi Feng",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳鸣",
+      "耳聋",
+      "口眼歪斜",
+      "齿痛",
+      "颊肿",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_246",
+    "anatomy": "有耳后动、静脉，布有耳大神经",
+    "location": "在头部，耳后乳突中央，翳风与角孙沿耳轮连线的中、下1/3交点处",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "平刺0.3-0.5寸，或点刺出血",
+    "name": "瘈脉",
+    "pinyin": "Chi Mai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "耳鸣",
+      "耳聋",
+      "小儿惊风"
+    ]
+  },
+  {
+    "id": "acupoint_247",
+    "anatomy": "有耳后动、静脉，布有耳大神经和枕小神经",
+    "location": "在头部，翳风与角孙沿耳轮连线的上、中1/3交点处",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "平刺0.3-0.5寸",
+    "name": "颅息",
+    "pinyin": "Lu Xi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "耳鸣",
+      "耳聋",
+      "小儿惊风",
+      "呕吐"
+    ]
+  },
+  {
+    "id": "acupoint_248",
+    "anatomy": "有耳上肌，有颞浅动、静脉的耳前支，布有耳颞神经的分支",
+    "location": "在头部，折耳廓向前，耳尖直上入发际处",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "平刺0.3-0.5寸",
+    "name": "角孙",
+    "pinyin": "Jiao Sun",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "目翳",
+      "齿痛",
+      "痄腮",
+      "项强"
+    ]
+  },
+  {
+    "id": "acupoint_249",
+    "anatomy": "有颞浅动、静脉的耳前支，布有耳颞神经及面神经",
+    "location": "在面部，耳屏上切迹前方，下颌骨髁状突后缘，张口有凹陷中",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "张口，直刺0.5-1寸",
+    "name": "耳门",
+    "pinyin": "Er Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳鸣",
+      "耳聋",
+      "聤耳",
+      "齿痛",
+      "颈颔痛"
+    ]
+  },
+  {
+    "id": "acupoint_250",
+    "anatomy": "有耳前肌，有颞浅动、静脉，布有耳颞神经及面神经",
+    "location": "在头侧部，鬓发后缘，平耳廓根前方，颞浅动脉后缘",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "避开动脉，斜刺或平刺0.3-0.5寸",
+    "name": "耳和髎",
+    "pinyin": "Er He Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "耳鸣",
+      "牙关紧闭",
+      "口歪"
+    ]
+  },
+  {
+    "id": "acupoint_251",
+    "anatomy": "有眼轮匝肌，有颞浅动、静脉额支，布有面神经颧支及耳颞神经",
+    "location": "在面部，眉梢凹陷处",
+    "meridian": "手少阳三焦经",
+    "meridian_id": "meridian_014",
+    "method": "平刺0.5-1寸",
+    "name": "丝竹空",
+    "pinyin": "Si Zhu Kong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "目眩",
+      "眼睑跳动",
+      "齿痛",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_252",
+    "anatomy": "有眼轮匝肌，有颧眶动、静脉，布有面神经颧支及颧面神经",
+    "location": "在面部，目外眦旁，眶外侧缘凹陷处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "向后平刺或斜刺0.3-0.5寸",
+    "name": "瞳子髎",
+    "pinyin": "Tong Zi Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "目翳",
+      "青盲",
+      "口眼歪斜"
+    ]
+  },
+  {
+    "id": "acupoint_253",
+    "anatomy": "有颞浅动脉耳前支，布有耳大神经及耳颞神经",
+    "location": "在面部，耳屏间切迹前方，下颌骨髁状突后缘，张口有凹陷中",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "张口，直刺0.5-1寸",
+    "name": "听会",
+    "pinyin": "Ting Hui",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "耳鸣",
+      "耳聋",
+      "齿痛",
+      "口歪",
+      "面痛",
+      "下颌关节痛"
+    ]
+  },
+  {
+    "id": "acupoint_254",
+    "anatomy": "有颞肌，有颞浅动、静脉，布有面神经颧支及耳颞神经",
+    "location": "在耳前，下关直上，颧弓上缘凹陷中",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.5-1寸",
+    "name": "上关",
+    "pinyin": "Shang Guan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "耳鸣",
+      "耳聋",
+      "口眼歪斜",
+      "齿痛",
+      "口噤"
+    ]
+  },
+  {
+    "id": "acupoint_255",
+    "anatomy": "有颞肌，有颞浅动、静脉额支，布有耳颞神经",
+    "location": "在头部鬓发上，头维与曲鬓弧形连线的上1/4与下3/4交点处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "颔厌",
+    "pinyin": "Han Yan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "目眩",
+      "耳鸣",
+      "齿痛",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_256",
+    "anatomy": "有颞肌，有颞浅动、静脉额支，布有耳颞神经",
+    "location": "在头部鬓发上，头维与曲鬓弧形连线的中点处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "悬颅",
+    "pinyin": "Xuan Lu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "目赤肿痛",
+      "齿痛",
+      "面肿"
+    ]
+  },
+  {
+    "id": "acupoint_257",
+    "anatomy": "有颞肌，有颞浅动、静脉额支，布有耳颞神经",
+    "location": "在头部鬓发上，头维与曲鬓弧形连线的下1/4与上3/4交点处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "悬厘",
+    "pinyin": "Xuan Li",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "目赤肿痛",
+      "耳鸣",
+      "齿痛"
+    ]
+  },
+  {
+    "id": "acupoint_258",
+    "anatomy": "有颞肌，有颞浅动、静脉额支，布有耳颞神经",
+    "location": "在头部，耳前鬓角发际后缘的垂线与耳尖水平线交点处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "曲鬓",
+    "pinyin": "Qu Bin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "颊肿",
+      "齿痛",
+      "牙关紧闭",
+      "暴喑"
+    ]
+  },
+  {
+    "id": "acupoint_259",
+    "anatomy": "有颞肌，有颞浅动、静脉顶支，布有耳颞神经和枕大神经",
+    "location": "在头部，耳尖直上入发际1.5寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "率谷",
+    "pinyin": "Shuai Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "眩晕",
+      "小儿惊风"
+    ]
+  },
+  {
+    "id": "acupoint_260",
+    "anatomy": "有耳上肌，有耳后动、静脉，布有枕大神经和耳大神经",
+    "location": "在头部，耳根后缘直上入发际2寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "天冲",
+    "pinyin": "Tian Chong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "牙龈肿痛",
+      "癫痫",
+      "惊恐"
+    ]
+  },
+  {
+    "id": "acupoint_261",
+    "anatomy": "有耳上肌，有耳后动、静脉，布有耳大神经及枕小神经",
+    "location": "在头部，耳根上缘向后入发际横量1寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "浮白",
+    "pinyin": "Fu Bai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "耳鸣",
+      "耳聋",
+      "目痛",
+      "瘿气"
+    ]
+  },
+  {
+    "id": "acupoint_262",
+    "anatomy": "有耳后动、静脉，布有枕大神经和耳大神经",
+    "location": "在头部，耳根后缘直上入发际0.5寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "头窍阴",
+    "pinyin": "Tou Qiao Yin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "耳鸣",
+      "耳聋",
+      "目痛",
+      "颈项强痛"
+    ]
+  },
+  {
+    "id": "acupoint_263",
+    "anatomy": "有胸锁乳突肌，有耳后动、静脉，布有枕小神经及耳大神经",
+    "location": "在头部，耳后乳突后下方凹陷中",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "斜刺0.5-0.8寸",
+    "name": "完骨",
+    "pinyin": "Wan Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "颈项强痛",
+      "颊肿",
+      "齿痛",
+      "口眼歪斜",
+      "失眠"
+    ]
+  },
+  {
+    "id": "acupoint_264",
+    "anatomy": "有额肌，有颞浅动、静脉额支，布有额神经外侧支",
+    "location": "在头部，前发际上0.5寸，神庭旁开3寸，神庭与头维连线的内2/3与外1/3交点上",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "本神",
+    "pinyin": "Ben Shen",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "癫痫",
+      "小儿惊风",
+      "半身不遂"
+    ]
+  },
+  {
+    "id": "acupoint_265",
+    "anatomy": "有额肌，有额动、静脉，布有额神经外侧支",
+    "location": "在前额部，瞳孔直上，眉上1寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.3-0.5寸",
+    "name": "阳白",
+    "pinyin": "Yang Bai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "目眩",
+      "眼睑跳动",
+      "口眼歪斜"
+    ]
+  },
+  {
+    "id": "acupoint_266",
+    "anatomy": "有额肌，有额动、静脉，布有额神经",
+    "location": "在头部，瞳孔直上入前发际0.5寸，神庭与头维连线中点",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.3-0.5寸",
+    "name": "头临泣",
+    "pinyin": "Tou Lin Qi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "目赤肿痛",
+      "鼻塞",
+      "鼻渊",
+      "小儿惊风"
+    ]
+  },
+  {
+    "id": "acupoint_267",
+    "anatomy": "有帽状腱膜，有颞浅动、静脉额支，布有枕大神经及额神经",
+    "location": "在头部，前发际上1.5寸，头正中线旁开2.25寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "目窗",
+    "pinyin": "Mu Chuang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "青盲",
+      "鼻塞",
+      "癫痫",
+      "面浮肿"
+    ]
+  },
+  {
+    "id": "acupoint_268",
+    "anatomy": "有帽状腱膜，有颞浅动、静脉顶支，布有枕大神经及额神经",
+    "location": "在头部，前发际上2.5寸，头正中线旁开2.25寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "正营",
+    "pinyin": "Zheng Ying",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "目眩",
+      "齿痛",
+      "唇吻急强"
+    ]
+  },
+  {
+    "id": "acupoint_269",
+    "anatomy": "有帽状腱膜，有颞浅动、静脉顶支，布有枕大神经",
+    "location": "在头部，前发际上4寸，头正中线旁开2.25寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.5-0.8寸",
+    "name": "承灵",
+    "pinyin": "Cheng Ling",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "目痛",
+      "鼻塞",
+      "鼻衄"
+    ]
+  },
+  {
+    "id": "acupoint_270",
+    "anatomy": "有枕肌，有枕动、静脉，布有枕大神经",
+    "location": "在头部，枕外隆凸的上缘外侧，头正中线旁开2.25寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "平刺0.3-0.5寸",
+    "name": "脑空",
+    "pinyin": "Nao Kong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "颈项强痛",
+      "癫狂",
+      "惊悸"
+    ]
+  },
+  {
+    "id": "acupoint_271",
+    "anatomy": "有枕动、静脉分支，布有枕小神经及枕大神经",
+    "location": "在项部，枕骨之下，胸锁乳突肌与斜方肌上端之间凹陷中",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "向鼻尖方向斜刺0.8-1.2寸，或平刺透风府",
+    "name": "风池",
+    "pinyin": "Feng Chi",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在颞颥后发际陷者中。主头痛、眩晕、目赤痛、鼻渊、中风。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "眩晕",
+      "目赤肿痛",
+      "鼻渊",
+      "耳鸣",
+      "颈项强痛",
+      "感冒",
+      "中风",
+      "癫痫",
+      "失眠"
+    ]
+  },
+  {
+    "id": "acupoint_272",
+    "anatomy": "有斜方肌、冈上肌，有颈横动脉，布有锁骨上神经及副神经",
+    "location": "在肩上，大椎与肩峰端连线中点，肩部最高处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.5-0.8寸，孕妇禁针",
+    "name": "肩井",
+    "pinyin": "Jian Jing",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在肩上陷者中。主肩背痹痛、颈项强痛、乳痈。"
+      }
+    ],
+    "indications": [
+      "肩背痹痛",
+      "上肢不遂",
+      "颈项强痛",
+      "乳痈",
+      "乳汁不下",
+      "瘰疬",
+      "难产"
+    ]
+  },
+  {
+    "id": "acupoint_273",
+    "anatomy": "有前锯肌，有肋间动、静脉，布有第四肋间神经及胸长神经",
+    "location": "在侧胸部，举臂，腋中线上，腋下3寸，第四肋间隙中",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "渊腋",
+    "pinyin": "Yuan Ye",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸满",
+      "胁痛",
+      "上肢痹痛"
+    ]
+  },
+  {
+    "id": "acupoint_274",
+    "anatomy": "有前锯肌，有肋间动、静脉，布有第四肋间神经及胸长神经",
+    "location": "在侧胸部，渊腋前1寸，平第四肋间隙",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "辄筋",
+    "pinyin": "Zhe Jin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸胁痛",
+      "气喘",
+      "呕吐",
+      "吞酸"
+    ]
+  },
+  {
+    "id": "acupoint_275",
+    "anatomy": "有腹外斜肌，有第七肋间动、静脉，布有第七肋间神经",
+    "location": "在上腹部，乳头直下，第七肋间隙，前正中线旁开4寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "日月",
+    "pinyin": "Ri Yue",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "胆之募，在期门下。主胁痛、呕吐、吞酸、黄疸。"
+      }
+    ],
+    "indications": [
+      "黄疸",
+      "呕吐",
+      "吞酸",
+      "呃逆",
+      "胁肋胀痛"
+    ]
+  },
+  {
+    "id": "acupoint_276",
+    "anatomy": "有腹外斜肌、腹内斜肌，有第十二肋间动、静脉，布有第十二肋间神经",
+    "location": "在侧腰部，章门后1.8寸，第十二肋骨游离端下方",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.5-1寸",
+    "name": "京门",
+    "pinyin": "Jing Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小便不利",
+      "水肿",
+      "腰痛",
+      "胁痛",
+      "腹胀",
+      "泄泻"
+    ]
+  },
+  {
+    "id": "acupoint_277",
+    "anatomy": "有腹外斜肌、腹内斜肌，有第十二肋间动、静脉，布有第十二肋间神经",
+    "location": "在侧腹部，章门下1.8寸，第十一肋骨游离端下方垂线与脐水平线交点",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-1.5寸",
+    "name": "带脉",
+    "pinyin": "Dai Mai",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在季胁下一寸八分。主月经不调、带下、腰胁痛。"
+      }
+    ],
+    "indications": [
+      "月经不调",
+      "带下",
+      "腹痛",
+      "腰胁痛"
+    ]
+  },
+  {
+    "id": "acupoint_278",
+    "anatomy": "有腹外斜肌、腹横肌，有旋髂浅动脉，布有髂腹下神经",
+    "location": "在侧腹部，髂前上棘前方，平脐下3寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-1.5寸",
+    "name": "五枢",
+    "pinyin": "Wu Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "带下",
+      "月经不调",
+      "腹痛",
+      "疝气",
+      "腰胯痛"
+    ]
+  },
+  {
+    "id": "acupoint_279",
+    "anatomy": "有腹外斜肌、腹横肌，有旋髂浅动脉，布有髂腹下神经",
+    "location": "在侧腹部，髂前上棘前下方，五枢前下0.5寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺或斜刺1-1.5寸",
+    "name": "维道",
+    "pinyin": "Wei Dao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "带下",
+      "月经不调",
+      "水肿",
+      "腰胯痛",
+      "少腹痛"
+    ]
+  },
+  {
+    "id": "acupoint_280",
+    "anatomy": "有阔筋膜张肌，有旋髂浅动脉，布有股外侧皮神经",
+    "location": "在髋部，髂前上棘与股骨大转子最高点连线中点",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-1.5寸",
+    "name": "居髎",
+    "pinyin": "Ju Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腰腿痹痛",
+      "下肢痿痹",
+      "疝气"
+    ]
+  },
+  {
+    "id": "acupoint_281",
+    "anatomy": "有臀大肌，有臀上、下动脉，布有臀下神经及坐骨神经",
+    "location": "在臀部，股骨大转子最高点与骶管裂孔连线的外1/3与中1/3交点处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺2-3寸",
+    "name": "环跳",
+    "pinyin": "Huan Tiao",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在髀枢中。主腰胯疼痛、半身不遂、下肢痿痹。"
+      }
+    ],
+    "indications": [
+      "腰胯疼痛",
+      "下肢痿痹",
+      "半身不遂",
+      "遍身风疹"
+    ]
+  },
+  {
+    "id": "acupoint_282",
+    "anatomy": "有阔筋膜张肌及股外侧肌，有旋股外侧动脉降支，布有股外侧皮神经",
+    "location": "在大腿外侧部的中线上，腘横纹上7寸，直立垂手中指尖处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-2寸",
+    "name": "风市",
+    "pinyin": "Feng Shi",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸大成》",
+        "text": "在膝外廉两筋间。主中风半身不遂、下肢痿痹、遍身瘙痒。"
+      }
+    ],
+    "indications": [
+      "半身不遂",
+      "下肢痿痹",
+      "遍身瘙痒",
+      "脚气"
+    ]
+  },
+  {
+    "id": "acupoint_283",
+    "anatomy": "有股外侧肌，有旋股外侧动脉降支，布有股外侧皮神经",
+    "location": "在大腿外侧，风市下2寸，或腘横纹上5寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-2寸",
+    "name": "中渎",
+    "pinyin": "Zhong Du",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "下肢痿痹",
+      "半身不遂"
+    ]
+  },
+  {
+    "id": "acupoint_284",
+    "anatomy": "有股二头肌腱，有膝上外侧动脉，布有股外侧皮神经",
+    "location": "在膝外侧，阳陵泉上3寸，股骨外上髁上方凹陷中",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-1.5寸",
+    "name": "膝阳关",
+    "pinyin": "Xi Yang Guan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "膝肿痛",
+      "下肢痿痹",
+      "脚气"
+    ]
+  },
+  {
+    "id": "acupoint_285",
+    "anatomy": "有腓骨长、短肌，有胫前动脉分支及膝下外侧动脉，布有腓总神经",
+    "location": "在小腿外侧，腓骨小头前下方凹陷中",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-1.5寸",
+    "name": "阳陵泉",
+    "pinyin": "Yang Ling Quan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《四总穴歌》",
+        "text": "筋会阳陵泉。胆之合，主胁痛、口苦、下肢痿痹、抽筋、黄疸。"
+      }
+    ],
+    "indications": [
+      "胁痛",
+      "口苦",
+      "呕吐",
+      "黄疸",
+      "半身不遂",
+      "下肢痿痹",
+      "膝肿痛",
+      "小儿惊风"
+    ]
+  },
+  {
+    "id": "acupoint_286",
+    "anatomy": "有腓骨长肌，有腓动、静脉，布有腓肠外侧皮神经",
+    "location": "在小腿外侧，外踝尖上7寸，腓骨后缘",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-1.5寸",
+    "name": "阳交",
+    "pinyin": "Yang Jiao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸胁胀满",
+      "下肢痿痹",
+      "癫狂",
+      "惊悸"
+    ]
+  },
+  {
+    "id": "acupoint_287",
+    "anatomy": "有腓骨长肌，有胫前动脉分支，布有腓浅神经",
+    "location": "在小腿外侧，外踝尖上7寸，腓骨前缘，阳交前方约1寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-1.5寸",
+    "name": "外丘",
+    "pinyin": "Wai Qiu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸胁胀满",
+      "颈项强痛",
+      "下肢痿痹",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_288",
+    "anatomy": "有趾长伸肌和腓骨短肌，有胫前动脉分支，布有腓浅神经",
+    "location": "在小腿外侧，外踝尖上5寸，腓骨前缘",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺1-1.5寸",
+    "name": "光明",
+    "pinyin": "Guang Ming",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "目痛",
+      "目视不明",
+      "夜盲",
+      "膝痛",
+      "下肢痿痹",
+      "乳房胀痛"
+    ]
+  },
+  {
+    "id": "acupoint_289",
+    "anatomy": "有趾长伸肌和腓骨短肌，有胫前动脉分支，布有腓浅神经",
+    "location": "在小腿外侧，外踝尖上4寸，腓骨前缘稍前方",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.8-1.2寸",
+    "name": "阳辅",
+    "pinyin": "Yang Fu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "目外眦痛",
+      "咽喉肿痛",
+      "腋下肿痛",
+      "胸胁痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_290",
+    "anatomy": "有趾长伸肌，有胫前动脉分支，布有腓浅神经",
+    "location": "在小腿外侧，外踝尖上3寸，腓骨前缘",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.8-1.2寸",
+    "name": "悬钟",
+    "pinyin": "Xuan Zhong",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "髓会绝骨，在足外踝上三寸。主项强、胸胁痛、下肢痿痹。"
+      }
+    ],
+    "indications": [
+      "项强",
+      "胁痛",
+      "下肢痿痹",
+      "脚气",
+      "痔疮"
+    ]
+  },
+  {
+    "id": "acupoint_291",
+    "anatomy": "有趾长伸肌腱，有外踝前动脉分支，布有足背外侧皮神经",
+    "location": "在足外踝前下方，趾长伸肌腱外侧凹陷中",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.5-0.8寸",
+    "name": "丘墟",
+    "pinyin": "Qiu Xu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "足少阳之原，在足外踝前下。主颈项痛、胸胁痛、下肢痿痹。"
+      }
+    ],
+    "indications": [
+      "胸胁胀痛",
+      "下肢痿痹",
+      "外踝肿痛",
+      "疟疾",
+      "目赤肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_292",
+    "anatomy": "有骨间背侧肌，有足背动脉网，布有足背外侧皮神经",
+    "location": "在足背外侧，足四趾本节后方，小趾伸肌腱外侧凹陷处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.3-0.5寸",
+    "name": "足临泣",
+    "pinyin": "Zu Lin Qi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "偏头痛",
+      "目赤肿痛",
+      "胁痛",
+      "乳痈",
+      "月经不调",
+      "足跗肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_293",
+    "anatomy": "有骨间背侧肌，有足背动脉网，布有足背外侧皮神经",
+    "location": "在足背外侧，足四趾本节后方，第四、五跖骨之间，小趾伸肌腱内侧缘",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.3-0.5寸",
+    "name": "地五会",
+    "pinyin": "Di Wu Hui",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "耳鸣",
+      "内伤吐血",
+      "乳痈",
+      "胁痛"
+    ]
+  },
+  {
+    "id": "acupoint_294",
+    "anatomy": "有趾背动、静脉，布有足背外侧皮神经",
+    "location": "在足背外侧，第四、五趾间，趾蹼缘后方赤白肉际处",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "直刺0.3-0.5寸",
+    "name": "侠溪",
+    "pinyin": "Xia Xi",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "耳聋",
+      "耳鸣",
+      "胁痛",
+      "热病",
+      "乳痈"
+    ]
+  },
+  {
+    "id": "acupoint_295",
+    "anatomy": "有趾背动、静脉及趾底动、静脉网，布有足背外侧皮神经",
+    "location": "在足第四趾末节外侧，距趾甲角0.1寸",
+    "meridian": "足少阳胆经",
+    "meridian_id": "meridian_005",
+    "method": "浅刺0.1-0.2寸",
+    "name": "足窍阴",
+    "pinyin": "Zu Qiao Yin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "耳聋",
+      "咽喉肿痛",
+      "失眠",
+      "多梦",
+      "胁痛",
+      "热病"
+    ]
+  },
+  {
+    "id": "acupoint_296",
+    "anatomy": "有趾背动、静脉，布有足背内侧皮神经",
+    "location": "在足大趾末节外侧，距趾甲角0.1寸",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "浅刺0.1-0.2寸，或点刺出血",
+    "name": "大敦",
+    "pinyin": "Da Dun",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "疝气",
+      "遗尿",
+      "崩漏",
+      "月经不调",
+      "子宫脱垂",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_297",
+    "anatomy": "有足背静脉网，第一跖背动脉，布有腓深神经",
+    "location": "在足背侧，第一、二趾间，趾蹼缘后方赤白肉际处",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺0.5-0.8寸",
+    "name": "行间",
+    "pinyin": "Xing Jian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "目赤肿痛",
+      "胁痛",
+      "口苦",
+      "月经不调",
+      "痛经",
+      "带下",
+      "遗尿",
+      "疝气",
+      "中风"
+    ]
+  },
+  {
+    "id": "acupoint_298",
+    "anatomy": "有第一骨间背侧肌，有足背静脉网，有第一跖背动脉，布有腓深神经",
+    "location": "在足背侧，第一、二跖骨结合部前方凹陷中",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺0.5-0.8寸",
+    "name": "太冲",
+    "pinyin": "Tai Chong",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "足厥阴之原，在足大趾本节后。主头痛、眩晕、胁痛、月经不调、惊风。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "眩晕",
+      "目赤肿痛",
+      "口歪",
+      "胁痛",
+      "月经不调",
+      "痛经",
+      "遗尿",
+      "疝气",
+      "癫痫",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_299",
+    "anatomy": "有胫骨前肌腱，有足背静脉网及内踝前动脉，布有足背内侧皮神经",
+    "location": "在足背侧，内踝前1寸，商丘与解溪连线之间，胫骨前肌腱内侧凹陷中",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺0.5-0.8寸",
+    "name": "中封",
+    "pinyin": "Zhong Feng",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "疝气",
+      "遗精",
+      "小便不利",
+      "腰痛",
+      "少腹痛"
+    ]
+  },
+  {
+    "id": "acupoint_300",
+    "anatomy": "有胫骨内侧缘，有胫后动脉，布有隐神经及胫神经",
+    "location": "在小腿内侧，足内踝尖上5寸，胫骨内侧面的中央",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺0.5-0.8寸",
+    "name": "蠡沟",
+    "pinyin": "Li Gou",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "带下",
+      "小便不利",
+      "疝气",
+      "胫部酸痛"
+    ]
+  },
+  {
+    "id": "acupoint_301",
+    "anatomy": "有胫骨内侧缘，有胫后动脉，布有隐神经及胫神经",
+    "location": "在小腿内侧，足内踝尖上7寸，胫骨内侧面的中央",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺0.5-0.8寸",
+    "name": "中都",
+    "pinyin": "Zhong Du",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "疝气",
+      "崩漏",
+      "恶露不尽",
+      "腹痛",
+      "泄泻"
+    ]
+  },
+  {
+    "id": "acupoint_302",
+    "anatomy": "有腓肠肌内侧头，有胫后动脉，布有隐神经及胫神经",
+    "location": "在小腿内侧，胫骨内上髁后下方，阴陵泉后1寸",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺1-1.5寸",
+    "name": "膝关",
+    "pinyin": "Xi Guan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "膝肿痛",
+      "下肢痿痹",
+      "咽喉肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_303",
+    "anatomy": "有隐动、静脉，布有隐神经及股后皮神经",
+    "location": "在膝内侧，屈膝，膝关节内侧面横纹内侧端，半腱肌、半膜肌腱前缘凹陷中",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺1-1.5寸",
+    "name": "曲泉",
+    "pinyin": "Qu Quan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "痛经",
+      "带下",
+      "遗精",
+      "阳痿",
+      "小便不利",
+      "膝髌肿痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_304",
+    "anatomy": "有股内侧肌，有股动脉肌支，布有股前皮神经及闭孔神经",
+    "location": "在大腿内侧，股骨内上髁上4寸，缝匠肌后缘",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺1-2寸",
+    "name": "阴包",
+    "pinyin": "Yin Bao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "遗尿",
+      "小便不利",
+      "腰骶痛引少腹"
+    ]
+  },
+  {
+    "id": "acupoint_305",
+    "anatomy": "有长收肌，有股内侧动脉浅支，布有闭孔神经",
+    "location": "在大腿内侧，气冲直下3寸，大腿根部，耻骨结节下方",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺1-2寸",
+    "name": "足五里",
+    "pinyin": "Zu Wu Li",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "少腹胀痛",
+      "小便不利",
+      "遗尿",
+      "股内侧痛"
+    ]
+  },
+  {
+    "id": "acupoint_306",
+    "anatomy": "有长收肌，有股内侧动脉浅支，布有闭孔神经",
+    "location": "在大腿内侧，气冲直下2寸，大腿根部",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺1-2寸",
+    "name": "阴廉",
+    "pinyin": "Yin Lian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "带下",
+      "少腹痛",
+      "股内侧痛"
+    ]
+  },
+  {
+    "id": "acupoint_307",
+    "anatomy": "有耻骨肌，有阴部外动、静脉，布有阴部神经及髂腹下神经",
+    "location": "在腹股沟区，耻骨联合下缘，前正中线旁开2.5寸",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺0.5-1寸",
+    "name": "急脉",
+    "pinyin": "Ji Mai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "疝气",
+      "少腹痛",
+      "子宫脱垂"
+    ]
+  },
+  {
+    "id": "acupoint_308",
+    "anatomy": "有腹外斜肌、腹内斜肌，有肋间动、静脉，布有第十、十一肋间神经",
+    "location": "在侧腹部，第十一肋游离端下方",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "直刺0.8-1寸",
+    "name": "章门",
+    "pinyin": "Zhang Men",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "脾之募，脏会章门，在季胁端。主腹胀、泄泻、胁痛、痞块。"
+      }
+    ],
+    "indications": [
+      "腹胀",
+      "泄泻",
+      "胁痛",
+      "痞块",
+      "呕吐",
+      "黄疸"
+    ]
+  },
+  {
+    "id": "acupoint_309",
+    "anatomy": "有腹外斜肌、胸大肌，有第六肋间动、静脉，布有第六肋间神经",
+    "location": "在胸部，乳头直下，第六肋间隙，前正中线旁开4寸",
+    "meridian": "足厥阴肝经",
+    "meridian_id": "meridian_006",
+    "method": "斜刺或平刺0.5-0.8寸",
+    "name": "期门",
+    "pinyin": "Qi Men",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "肝之募，在乳下二肋端。主胸胁胀痛、呕吐、吞酸、乳痈。"
+      }
+    ],
+    "indications": [
+      "胸胁胀痛",
+      "腹胀",
+      "呕吐",
+      "呃逆",
+      "乳痈",
+      "奔豚气"
+    ]
+  },
+  {
+    "id": "acupoint_310",
+    "anatomy": "有肛尾韧带，有肛门动、静脉，布有尾神经及肛神经",
+    "location": "在尾骨端下，尾骨端与肛门连线中点",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺，针尖向上与骶骨平行刺入0.5-1寸",
+    "name": "长强",
+    "pinyin": "Chang Qiang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "泄泻",
+      "便血",
+      "痔疮",
+      "脱肛",
+      "便秘",
+      "腰脊痛",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_311",
+    "anatomy": "有骶尾韧带，有骶中动、静脉后支，布有骶神经",
+    "location": "在骶部，骶管裂孔处",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "向上斜刺0.5-1寸",
+    "name": "腰俞",
+    "pinyin": "Yao Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "腰脊强痛",
+      "痔疮",
+      "下肢痿痹",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_312",
+    "anatomy": "有腰背筋膜，有腰动、静脉后支，布有腰神经后支",
+    "location": "在腰部，后正中线上，第四腰椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "直刺0.5-1寸",
+    "name": "腰阳关",
+    "pinyin": "Yao Yang Guan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腰骶疼痛",
+      "下肢痿痹",
+      "月经不调",
+      "遗精",
+      "阳痿"
+    ]
+  },
+  {
+    "id": "acupoint_313",
+    "anatomy": "有腰背筋膜，有腰动、静脉后支，布有腰神经后支",
+    "location": "在腰部，后正中线上，第二腰椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "直刺0.5-1寸",
+    "name": "命门",
+    "pinyin": "Ming Men",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第十四椎节间。主腰痛、遗精、阳痿、月经不调、泄泻。"
+      }
+    ],
+    "indications": [
+      "腰脊强痛",
+      "遗精",
+      "阳痿",
+      "月经不调",
+      "带下",
+      "泄泻",
+      "遗尿",
+      "虚损腰痛"
+    ]
+  },
+  {
+    "id": "acupoint_314",
+    "anatomy": "有腰背筋膜，有腰动、静脉后支，布有腰神经后支",
+    "location": "在腰部，后正中线上，第一腰椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "悬枢",
+    "pinyin": "Xuan Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腰脊强痛",
+      "腹胀",
+      "泄泻",
+      "痢疾"
+    ]
+  },
+  {
+    "id": "acupoint_315",
+    "anatomy": "有腰背筋膜，有肋间动脉后支，布有第十一胸神经后支",
+    "location": "在背部，后正中线上，第十一胸椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "脊中",
+    "pinyin": "Ji Zhong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "泄泻",
+      "黄疸",
+      "痔疮",
+      "癫痫",
+      "腰脊强痛"
+    ]
+  },
+  {
+    "id": "acupoint_316",
+    "anatomy": "有腰背筋膜，有肋间动脉后支，布有第十胸神经后支",
+    "location": "在背部，后正中线上，第十胸椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "中枢",
+    "pinyin": "Zhong Shu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "腹胀满",
+      "黄疸",
+      "腰脊强痛"
+    ]
+  },
+  {
+    "id": "acupoint_317",
+    "anatomy": "有腰背筋膜，有肋间动脉后支，布有第九胸神经后支",
+    "location": "在背部，后正中线上，第九胸椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "筋缩",
+    "pinyin": "Jin Suo",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "黄疸",
+      "癫痫",
+      "抽搐",
+      "脊强"
+    ]
+  },
+  {
+    "id": "acupoint_318",
+    "anatomy": "有腰背筋膜，有肋间动脉后支，布有第七胸神经后支",
+    "location": "在背部，后正中线上，第七胸椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "至阳",
+    "pinyin": "Zhi Yang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "黄疸",
+      "胸胁胀满",
+      "咳嗽",
+      "气喘",
+      "脊强",
+      "背痛"
+    ]
+  },
+  {
+    "id": "acupoint_319",
+    "anatomy": "有腰背筋膜，有肋间动脉后支，布有第六胸神经后支",
+    "location": "在背部，后正中线上，第六胸椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "灵台",
+    "pinyin": "Ling Tai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "疔疮",
+      "脊背强痛"
+    ]
+  },
+  {
+    "id": "acupoint_320",
+    "anatomy": "有腰背筋膜，有肋间动脉后支，布有第五胸神经后支",
+    "location": "在背部，后正中线上，第五胸椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "神道",
+    "pinyin": "Shen Dao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "健忘",
+      "失眠",
+      "咳嗽",
+      "气喘",
+      "脊背强痛"
+    ]
+  },
+  {
+    "id": "acupoint_321",
+    "anatomy": "有腰背筋膜，有肋间动脉后支，布有第三胸神经后支",
+    "location": "在背部，后正中线上，第三胸椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "身柱",
+    "pinyin": "Shen Zhu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "发热",
+      "癫痫",
+      "脊背强痛",
+      "疔疮"
+    ]
+  },
+  {
+    "id": "acupoint_322",
+    "anatomy": "有腰背筋膜，有肋间动脉后支，布有第一胸神经后支",
+    "location": "在背部，后正中线上，第一胸椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "斜刺0.5-1寸",
+    "name": "陶道",
+    "pinyin": "Tao Dao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "发热",
+      "疟疾",
+      "癫痫",
+      "脊强"
+    ]
+  },
+  {
+    "id": "acupoint_323",
+    "anatomy": "有棘上韧带及棘间韧带，有颈横动脉分支，布有第八颈神经后支及副神经",
+    "location": "在项部，后正中线上，第七颈椎棘突下凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "向上斜刺0.5-1寸",
+    "name": "大椎",
+    "pinyin": "Da Zhui",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在第一椎陷者中，三阳督脉之会。主热病、疟疾、咳嗽、肩背痛。"
+      }
+    ],
+    "indications": [
+      "热病",
+      "疟疾",
+      "咳嗽",
+      "气喘",
+      "骨蒸盗汗",
+      "癫痫",
+      "头痛",
+      "项强",
+      "风疹",
+      "脊背强痛"
+    ]
+  },
+  {
+    "id": "acupoint_324",
+    "anatomy": "有项韧带、棘间韧带，有枕动、静脉分支，布有第三枕神经和枕大神经",
+    "location": "在项部，后发际正中直上0.5寸，第一、二颈椎之间",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "伏案正坐，头微前倾，向下颌方向缓慢刺入0.5-1寸，不可向上斜刺或深刺",
+    "name": "哑门",
+    "pinyin": "Ya Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "暴喑",
+      "舌强不语",
+      "头痛",
+      "项强",
+      "癫狂",
+      "癔病"
+    ]
+  },
+  {
+    "id": "acupoint_325",
+    "anatomy": "有项韧带，有枕动脉分支，布有第三枕神经及枕大神经",
+    "location": "在项部，后发际正中直上1寸，枕外隆凸直下，两侧斜方肌之间凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "伏案正坐，头微前倾，向下颌方向缓慢刺入0.5-1寸，不可深刺",
+    "name": "风府",
+    "pinyin": "Feng Fu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在项发际上一寸，大筋内宛宛中。主中风、头痛、项强、眩晕。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "项强",
+      "眩晕",
+      "咽喉肿痛",
+      "失音",
+      "癫狂",
+      "中风"
+    ]
+  },
+  {
+    "id": "acupoint_326",
+    "anatomy": "有枕肌，有枕动、静脉，布有枕大神经",
+    "location": "在头部，后发际正中直上2.5寸，枕外隆凸上缘凹陷中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "平刺0.3-0.5寸",
+    "name": "脑户",
+    "pinyin": "Nao Hu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "头晕",
+      "项强",
+      "失音",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_327",
+    "anatomy": "有帽状腱膜，有枕动、静脉，布有枕大神经",
+    "location": "在头部，后发际正中直上4寸",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "平刺0.5-0.8寸",
+    "name": "强间",
+    "pinyin": "Qiang Jian",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目眩",
+      "项强",
+      "癫狂",
+      "失眠"
+    ]
+  },
+  {
+    "id": "acupoint_328",
+    "anatomy": "有帽状腱膜，有枕动、静脉和颞浅动、静脉的吻合网，布有枕大神经",
+    "location": "在头部，后发际正中直上5.5寸",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "平刺0.5-0.8寸",
+    "name": "后顶",
+    "pinyin": "Hou Ding",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "项强",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_329",
+    "anatomy": "有帽状腱膜，有颞浅动、静脉和枕动、静脉的吻合网，布有枕大神经及额神经",
+    "location": "在头部，前发际正中直上5寸，或两耳尖连线中点处",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "平刺0.5-0.8寸",
+    "name": "百会",
+    "pinyin": "Bai Hui",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "百会，一名三阳五会，在前顶后一寸五分，顶中央旋毛中，陷可容指。主头痛、目眩、鼻塞、耳鸣、中风、脱肛。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "眩晕",
+      "中风失语",
+      "癫狂",
+      "脱肛",
+      "子宫脱垂",
+      "失眠",
+      "健忘"
+    ]
+  },
+  {
+    "id": "acupoint_330",
+    "anatomy": "有帽状腱膜，有颞浅动、静脉额支，布有额神经与枕大神经吻合支",
+    "location": "在头部，前发际正中直上3.5寸，百会前1.5寸",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "平刺0.5-0.8寸",
+    "name": "前顶",
+    "pinyin": "Qian Ding",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "鼻渊",
+      "癫痫",
+      "小儿惊风"
+    ]
+  },
+  {
+    "id": "acupoint_331",
+    "anatomy": "有帽状腱膜，有颞浅动、静脉额支，布有额神经",
+    "location": "在头部，前发际正中直上2寸",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "平刺0.3-0.5寸，小儿囟门未闭合者禁针",
+    "name": "囟会",
+    "pinyin": "Xin Hui",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "鼻渊",
+      "鼻衄",
+      "癫痫",
+      "小儿惊风"
+    ]
+  },
+  {
+    "id": "acupoint_332",
+    "anatomy": "有额肌，有额动、静脉，布有额神经内侧支",
+    "location": "在头部，前发际正中直上1寸",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "平刺0.3-0.5寸",
+    "name": "上星",
+    "pinyin": "Shang Xing",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "鼻渊",
+      "鼻衄",
+      "癫狂",
+      "热病",
+      "疟疾"
+    ]
+  },
+  {
+    "id": "acupoint_333",
+    "anatomy": "有额肌，有额动、静脉，布有额神经内侧支",
+    "location": "在头部，前发际正中直上0.5寸",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "平刺0.3-0.5寸",
+    "name": "神庭",
+    "pinyin": "Shen Ting",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "目赤肿痛",
+      "鼻渊",
+      "鼻衄",
+      "失眠",
+      "癫痫",
+      "惊悸"
+    ]
+  },
+  {
+    "id": "acupoint_334",
+    "anatomy": "有鼻背动脉，布有筛前神经分布",
+    "location": "在面部，鼻尖正中",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "向上斜刺0.3-0.5寸，或点刺出血",
+    "name": "素髎",
+    "pinyin": "Su Liao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "鼻渊",
+      "鼻衄",
+      "喘息",
+      "昏迷",
+      "惊厥",
+      "新生儿窒息"
+    ]
+  },
+  {
+    "id": "acupoint_335",
+    "anatomy": "有口轮匝肌，有上唇动、静脉，布有面神经颊支及眶下神经",
+    "location": "在面部，人中沟的上1/3与中1/3交点处",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "向上斜刺0.3-0.5寸，或指甲按掐",
+    "name": "水沟",
+    "pinyin": "Shui Gou",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "水沟，在鼻柱下人中，督脉手足阳明之会。主昏迷、晕厥、中暑、中风，为急救要穴。"
+      }
+    ],
+    "indications": [
+      "昏迷",
+      "晕厥",
+      "中风",
+      "癫狂",
+      "口眼歪斜",
+      "腰脊强痛",
+      "小儿惊风",
+      "消渴"
+    ]
+  },
+  {
+    "id": "acupoint_336",
+    "anatomy": "有口轮匝肌，有上唇动、静脉，布有面神经颊支及眶下神经",
+    "location": "在面部，上唇尖端，人中沟与红唇交界处",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "向上斜刺0.2-0.3寸",
+    "name": "兑端",
+    "pinyin": "Dui Duan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "癫狂",
+      "口歪",
+      "齿龈肿痛",
+      "鼻衄"
+    ]
+  },
+  {
+    "id": "acupoint_337",
+    "anatomy": "有上唇系带，有上唇动、静脉，布有上颌神经的分支",
+    "location": "在上唇内，上唇系带与上齿龈连接处",
+    "meridian": "督脉",
+    "meridian_id": "meridian_007",
+    "method": "向上斜刺0.2-0.3寸，或点刺出血",
+    "name": "龈交",
+    "pinyin": "Yin Jiao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "牙龈肿痛",
+      "口歪",
+      "鼻渊",
+      "癫狂",
+      "腰痛",
+      "痔疮"
+    ]
+  },
+  {
+    "id": "acupoint_338",
+    "anatomy": "有会阴浅横肌，有会阴动、静脉，布有会阴神经的分支",
+    "location": "在会阴部，男性阴囊根部与肛门连线中点；女性大阴唇后联合与肛门连线中点",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺0.5-1寸",
+    "name": "会阴",
+    "pinyin": "Hui Yin",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小便不利",
+      "痔疮",
+      "遗精",
+      "月经不调",
+      "癫狂",
+      "昏迷"
+    ]
+  },
+  {
+    "id": "acupoint_339",
+    "anatomy": "有腹直肌，有腹壁下动脉及闭孔动脉的分支，布有髂腹下神经",
+    "location": "在下腹部，前正中线上，耻骨联合上缘中点",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺0.5-1寸，排尿后针刺",
+    "name": "曲骨",
+    "pinyin": "Qu Gu",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小便不利",
+      "遗尿",
+      "遗精",
+      "阳痿",
+      "月经不调",
+      "带下"
+    ]
+  },
+  {
+    "id": "acupoint_340",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十二肋间神经及髂腹下神经",
+    "location": "在下腹部，前正中线上，脐中下4寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸，排尿后针刺",
+    "name": "中极",
+    "pinyin": "Zhong Ji",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "膀胱之募，在脐下四寸。主小便不利、遗尿、月经不调、带下。"
+      }
+    ],
+    "indications": [
+      "小便不利",
+      "遗尿",
+      "遗精",
+      "阳痿",
+      "月经不调",
+      "带下",
+      "疝气"
+    ]
+  },
+  {
+    "id": "acupoint_341",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十二肋间神经",
+    "location": "在下腹部，前正中线上，脐中下3寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸，排尿后针刺",
+    "name": "关元",
+    "pinyin": "Guan Yuan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在脐下三寸，小肠之募。主培元固本、补益下焦、遗精、阳痿、月经不调。"
+      }
+    ],
+    "indications": [
+      "遗尿",
+      "小便频数",
+      "遗精",
+      "阳痿",
+      "月经不调",
+      "痛经",
+      "带下",
+      "不孕",
+      "泄泻",
+      "虚劳",
+      "中风脱证"
+    ]
+  },
+  {
+    "id": "acupoint_342",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十一肋间神经",
+    "location": "在下腹部，前正中线上，脐中下2寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸",
+    "name": "石门",
+    "pinyin": "Shi Men",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "小便不利",
+      "遗精",
+      "阳痿",
+      "月经不调",
+      "带下",
+      "崩漏",
+      "腹痛",
+      "水肿"
+    ]
+  },
+  {
+    "id": "acupoint_343",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十一肋间神经",
+    "location": "在下腹部，前正中线上，脐中下1.5寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸",
+    "name": "气海",
+    "pinyin": "Qi Hai",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在脐下一寸五分，主脏气虚惫、真气不足、腹痛、遗尿、虚劳。"
+      }
+    ],
+    "indications": [
+      "腹痛",
+      "泄泻",
+      "便秘",
+      "遗尿",
+      "遗精",
+      "阳痿",
+      "月经不调",
+      "经闭",
+      "崩漏",
+      "虚脱",
+      "形体赢瘦"
+    ]
+  },
+  {
+    "id": "acupoint_344",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十肋间神经",
+    "location": "在下腹部，前正中线上，脐中下1寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸",
+    "name": "阴交",
+    "pinyin": "Yin Jiao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "腹痛",
+      "水肿",
+      "月经不调",
+      "带下",
+      "疝气"
+    ]
+  },
+  {
+    "id": "acupoint_345",
+    "anatomy": "有腹直肌，有腹壁下动脉，布有第十肋间神经",
+    "location": "在腹中部，脐中央",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "禁针，宜用艾灸或隔盐灸",
+    "name": "神阙",
+    "pinyin": "Shen Que",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "脐中也，主肠鸣、腹痛、泄泻、脱证、虚脱。"
+      }
+    ],
+    "indications": [
+      "腹痛",
+      "泄泻",
+      "脱肛",
+      "水肿",
+      "虚脱",
+      "中风脱证"
+    ]
+  },
+  {
+    "id": "acupoint_346",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第九肋间神经",
+    "location": "在上腹部，前正中线上，脐中上1寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸",
+    "name": "水分",
+    "pinyin": "Shui Fen",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "水肿",
+      "小便不利",
+      "泄泻",
+      "腹痛",
+      "反胃吐食"
+    ]
+  },
+  {
+    "id": "acupoint_347",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第九肋间神经",
+    "location": "在上腹部，前正中线上，脐中上2寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸",
+    "name": "下脘",
+    "pinyin": "Xia Wan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "腹胀",
+      "泄泻",
+      "食积不化"
+    ]
+  },
+  {
+    "id": "acupoint_348",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第八肋间神经",
+    "location": "在上腹部，前正中线上，脐中上3寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸",
+    "name": "建里",
+    "pinyin": "Jian Li",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "食欲不振",
+      "腹胀",
+      "腹痛",
+      "水肿"
+    ]
+  },
+  {
+    "id": "acupoint_349",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第七、八肋间神经",
+    "location": "在上腹部，前正中线上，脐中上4寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸",
+    "name": "中脘",
+    "pinyin": "Zhong Wan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "胃之募穴，在上脘下一寸，居心蔽骨与脐之中。主胃痛、腹胀、呕吐、泄泻。"
+      }
+    ],
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "呃逆",
+      "腹胀",
+      "泄泻",
+      "黄疸",
+      "癫狂",
+      "失眠"
+    ]
+  },
+  {
+    "id": "acupoint_350",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第七肋间神经",
+    "location": "在上腹部，前正中线上，脐中上5寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "直刺1-1.5寸",
+    "name": "上脘",
+    "pinyin": "Shang Wan",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "呃逆",
+      "腹胀",
+      "癫痫"
+    ]
+  },
+  {
+    "id": "acupoint_351",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第七肋间神经",
+    "location": "在上腹部，前正中线上，脐中上6寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "向下斜刺0.5-1寸，不可深刺",
+    "name": "巨阙",
+    "pinyin": "Ju Que",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胃痛",
+      "呕吐",
+      "吞酸",
+      "胸痛",
+      "心痛",
+      "心悸",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_352",
+    "anatomy": "有腹直肌，有腹壁上动脉，布有第六肋间神经",
+    "location": "在上腹部，前正中线上，胸剑结合部下1寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "向下斜刺0.5-1寸，不可深刺伤及肝脾",
+    "name": "鸠尾",
+    "pinyin": "Jiu Wei",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "心痛",
+      "心悸",
+      "心烦",
+      "咳嗽",
+      "气喘",
+      "呕吐",
+      "癫狂"
+    ]
+  },
+  {
+    "id": "acupoint_353",
+    "anatomy": "有胸骨体，有乳房内动脉穿支，布有第六肋间神经前皮支",
+    "location": "在胸部，前正中线上，平第五肋间，胸剑结合部中点",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "平刺0.3-0.5寸",
+    "name": "中庭",
+    "pinyin": "Zhong Ting",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "胸胁胀满",
+      "心痛",
+      "呕吐",
+      "小儿吐乳"
+    ]
+  },
+  {
+    "id": "acupoint_354",
+    "anatomy": "有胸骨体，有乳房内动脉穿支，布有第四肋间神经前皮支",
+    "location": "在胸部，前正中线上，平第四肋间，两乳头连线中点",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "平刺0.3-0.5寸",
+    "name": "膻中",
+    "pinyin": "Dan Zhong",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《灵枢·海论》",
+        "text": "膻中者，为气之海。在玉堂下，主气喘、咳嗽、胸闷、乳汁少。"
+      }
+    ],
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "心痛",
+      "心悸",
+      "乳汁少",
+      "噎膈",
+      "呕吐"
+    ]
+  },
+  {
+    "id": "acupoint_355",
+    "anatomy": "有胸骨体，有乳房内动脉穿支，布有第三肋间神经前皮支",
+    "location": "在胸部，前正中线上，平第三肋间",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "平刺0.3-0.5寸",
+    "name": "玉堂",
+    "pinyin": "Yu Tang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "呕吐",
+      "喉痹"
+    ]
+  },
+  {
+    "id": "acupoint_356",
+    "anatomy": "有胸骨体，有乳房内动脉穿支，布有第二肋间神经前皮支",
+    "location": "在胸部，前正中线上，平第二肋间",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "平刺0.3-0.5寸",
+    "name": "紫宫",
+    "pinyin": "Zi Gong",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸胁胀满",
+      "喉痹",
+      "吐血"
+    ]
+  },
+  {
+    "id": "acupoint_357",
+    "anatomy": "有胸骨柄，有乳房内动脉穿支，布有第一肋间神经前皮支",
+    "location": "在胸部，前正中线上，平第一肋间",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "平刺0.3-0.5寸",
+    "name": "华盖",
+    "pinyin": "Hua Gai",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "咽喉肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_358",
+    "anatomy": "有胸骨柄，有乳房内动脉穿支，布有第一肋间神经前皮支",
+    "location": "在胸部，前正中线上，胸骨柄中央，天突下1寸",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "平刺0.3-0.5寸",
+    "name": "璇玑",
+    "pinyin": "Xuan Ji",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "咽喉肿痛",
+      "小儿喉鸣"
+    ]
+  },
+  {
+    "id": "acupoint_359",
+    "anatomy": "有胸骨甲状腺肌，有颈前浅静脉，布有锁骨上神经前支",
+    "location": "在颈部，前正中线上，胸骨上窝中央",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "先直刺0.2寸，然后将针尖转向下方，沿胸骨柄后缘、气管前缘缓慢向下刺入0.5-1寸",
+    "name": "天突",
+    "pinyin": "Tian Tu",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在颈结喉下。主咳嗽、哮喘、咽喉肿痛、梅核气。"
+      }
+    ],
+    "indications": [
+      "咳嗽",
+      "气喘",
+      "胸痛",
+      "咽喉肿痛",
+      "暴喑",
+      "瘿气",
+      "梅核气",
+      "噎膈"
+    ]
+  },
+  {
+    "id": "acupoint_360",
+    "anatomy": "有颈前浅静脉，布有颈皮神经及面神经颈支",
+    "location": "在颈部，前正中线上，喉结上方，舌骨上缘凹陷中",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "向舌根方向斜刺0.5-0.8寸",
+    "name": "廉泉",
+    "pinyin": "Lian Quan",
+    "subcategory": null,
+    "classic_excerpts": [
+      {
+        "source": "《针灸甲乙经》",
+        "text": "在颔下结喉上。主舌下肿、舌缓、吞咽困难、喉痹。"
+      }
+    ],
+    "indications": [
+      "舌下肿痛",
+      "舌强不语",
+      "暴喑",
+      "吞咽困难",
+      "流涎",
+      "消渴"
+    ]
+  },
+  {
+    "id": "acupoint_361",
+    "anatomy": "有口轮匝肌及下唇方肌，有下唇动、静脉，布有面神经及颏神经",
+    "location": "在面部，颏唇沟正中凹陷处",
+    "meridian": "任脉",
+    "meridian_id": "meridian_008",
+    "method": "斜刺0.3-0.5寸",
+    "name": "承浆",
+    "pinyin": "Cheng Jiang",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "口歪",
+      "齿龈肿痛",
+      "流涎",
+      "暴喑",
+      "癫狂",
+      "消渴"
+    ]
+  },
+  {
+    "id": "acupoint_362",
+    "anatomy": "有帽状腱膜，有枕动、静脉和颞浅动、静脉吻合网，布有枕大神经及额神经",
+    "location": "在头顶部，百会前后左右各1寸，共4穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "平刺0.5-0.8寸",
+    "name": "四神聪",
+    "pinyin": "Si Shen Cong",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "眩晕",
+      "失眠",
+      "健忘",
+      "癫痫",
+      "中风偏瘫"
+    ]
+  },
+  {
+    "id": "acupoint_363",
+    "anatomy": "有额肌及皱眉肌，有额动、静脉分支，布有滑车神经分支",
+    "location": "在前额部，两眉头连线中点处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "提捏局部皮肤，平刺0.3-0.5寸",
+    "name": "印堂",
+    "pinyin": "Yin Tang",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": [
+      {
+        "source": "《针灸大成》",
+        "text": "经外奇穴，在两眉间，主头痛、眩晕、鼻炎、失眠、小儿惊风。"
+      }
+    ],
+    "indications": [
+      "头痛",
+      "眩晕",
+      "目赤肿痛",
+      "鼻渊",
+      "鼻衄",
+      "失眠",
+      "小儿惊风",
+      "产后血晕"
+    ]
+  },
+  {
+    "id": "acupoint_364",
+    "anatomy": "有眼轮匝肌，有眶上动、静脉，布有眶上神经",
+    "location": "在前额部，瞳孔直上，眉毛中",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "平刺0.3-0.5寸",
+    "name": "鱼腰",
+    "pinyin": "Yu Yao",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "眉棱骨痛",
+      "目赤肿痛",
+      "眼睑跳动",
+      "口眼歪斜",
+      "目翳"
+    ]
+  },
+  {
+    "id": "acupoint_365",
+    "anatomy": "有眼轮匝肌，有眶上动、静脉，布有眶上神经",
+    "location": "在前额部，眉弓中点，眶上缘下",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "轻压眼球向下，向眶上缘方向缓慢刺入0.5-1寸，不提插",
+    "name": "上明",
+    "pinyin": "Shang Ming",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "目翳",
+      "目视不明",
+      "眼睑下垂"
+    ]
+  },
+  {
+    "id": "acupoint_366",
+    "anatomy": "有眶下动、静脉，布有眶下神经",
+    "location": "在面部，眶下缘外1/4与内3/4交界处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "轻压眼球向上，沿眶下缘向眶尖缓慢刺入0.5-1.5寸，不提插",
+    "name": "球后",
+    "pinyin": "Qiu Hou",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "目翳",
+      "青盲",
+      "视神经萎缩",
+      "近视"
+    ]
+  },
+  {
+    "id": "acupoint_367",
+    "anatomy": "有颞筋膜及颞肌，有颞浅动、静脉，布有耳颞神经和面神经",
+    "location": "在颞部，眉梢与目外眦之间向后约一横指凹陷中",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺或斜刺0.3-0.5寸，或点刺出血",
+    "name": "太阳",
+    "pinyin": "Tai Yang",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "头痛",
+      "目赤肿痛",
+      "目眩",
+      "口眼歪斜",
+      "面痛",
+      "齿痛"
+    ]
+  },
+  {
+    "id": "acupoint_368",
+    "anatomy": "有耳后动、静脉，布有耳颞神经和枕小神经",
+    "location": "在耳廓上方，折耳向前，耳廓上方尖端处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.1-0.2寸，或点刺出血",
+    "name": "耳尖",
+    "pinyin": "Er Jian",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "目翳",
+      "偏头痛",
+      "咽喉肿痛",
+      "发热"
+    ]
+  },
+  {
+    "id": "acupoint_369",
+    "anatomy": "有鼻背动脉，布有筛前神经及眶下神经",
+    "location": "在面部，鼻翼软骨与鼻甲交界处，近鼻唇沟上端",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "向内上方斜刺0.3-0.5寸",
+    "name": "上迎香",
+    "pinyin": "Shang Ying Xiang",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "鼻塞",
+      "鼻渊",
+      "鼻衄",
+      "目赤肿痛",
+      "迎风流泪"
+    ]
+  },
+  {
+    "id": "acupoint_370",
+    "anatomy": "有鼻腔黏膜，有面动、静脉的鼻翼支，布有筛前神经的鼻外支",
+    "location": "在鼻腔内，鼻翼软骨与鼻甲交界处的黏膜上",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "用三棱针点刺出血",
+    "name": "内迎香",
+    "pinyin": "Nei Ying Xiang",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "鼻塞",
+      "鼻渊",
+      "咽喉肿痛",
+      "热病",
+      "中暑"
+    ]
+  },
+  {
+    "id": "acupoint_371",
+    "anatomy": "有舌肌，有舌动、静脉，布有舌神经及舌下神经",
+    "location": "在口腔内，舌背正中缝的中点处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.1-0.2寸，或点刺出血",
+    "name": "聚泉",
+    "pinyin": "Ju Quan",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "舌强",
+      "舌缓",
+      "消渴",
+      "哮喘",
+      "咳嗽",
+      "味觉减退"
+    ]
+  },
+  {
+    "id": "acupoint_372",
+    "anatomy": "有舌下腺，有舌动、静脉，布有舌神经及舌下神经",
+    "location": "在口腔内，舌下系带中点处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "点刺出血",
+    "name": "海泉",
+    "pinyin": "Hai Quan",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "舌缓不收",
+      "消渴",
+      "重舌肿胀",
+      "呕吐",
+      "呃逆"
+    ]
+  },
+  {
+    "id": "acupoint_373",
+    "anatomy": "有舌下腺，有舌下神经及舌神经",
+    "location": "在口腔内，舌下系带左侧静脉上",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "点刺出血",
+    "name": "金津",
+    "pinyin": "Jin Jin",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "舌强",
+      "舌肿",
+      "口疮",
+      "消渴",
+      "失语"
+    ]
+  },
+  {
+    "id": "acupoint_374",
+    "anatomy": "有舌下腺，有舌下神经及舌神经",
+    "location": "在口腔内，舌下系带右侧静脉上",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "点刺出血",
+    "name": "玉液",
+    "pinyin": "Yu Ye",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "舌强",
+      "舌肿",
+      "口疮",
+      "消渴",
+      "失语"
+    ]
+  },
+  {
+    "id": "acupoint_375",
+    "anatomy": "有腮腺及咬肌，有面动、静脉，布有面神经颊支及咬肌神经",
+    "location": "在面颊部，耳垂前0.5-1寸处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "向前斜刺0.5-0.8寸",
+    "name": "牵正",
+    "pinyin": "Qian Zheng",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "口眼歪斜",
+      "下牙痛",
+      "口疮"
+    ]
+  },
+  {
+    "id": "acupoint_376",
+    "anatomy": "有胸锁乳突肌，有耳后动、静脉，布有耳大神经及枕小神经",
+    "location": "在项部，翳风后1寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "翳明",
+    "pinyin": "Yi Ming",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "目翳",
+      "雀目",
+      "近视",
+      "耳鸣",
+      "失眠"
+    ]
+  },
+  {
+    "id": "acupoint_377",
+    "anatomy": "有胸锁乳突肌和头夹肌，有枕动、静脉，布有耳大神经及枕小神经",
+    "location": "在项部，翳风与风池连线中点",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.8-1.2寸",
+    "name": "安眠",
+    "pinyin": "An Mian",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "失眠",
+      "心悸",
+      "头痛",
+      "眩晕",
+      "癫狂",
+      "高血压"
+    ]
+  },
+  {
+    "id": "acupoint_378",
+    "anatomy": "有斜方肌、头夹肌，有枕动、静脉，布有枕大神经及第三枕神经",
+    "location": "在项部，大椎直上2寸，后正中线旁开1寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "颈百劳",
+    "pinyin": "Jing Bai Lao",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "颈项强痛",
+      "咳嗽",
+      "气喘",
+      "骨蒸潮热",
+      "盗汗",
+      "瘰疬"
+    ]
+  },
+  {
+    "id": "acupoint_379",
+    "anatomy": "有项韧带及棘间韧带，有颈横动脉分支，布有第八颈神经后支",
+    "location": "在项部，第六、七颈椎之间，后正中线上",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺或斜刺0.5-1寸",
+    "name": "崇骨",
+    "pinyin": "Chong Gu",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "项强",
+      "咳嗽",
+      "气喘",
+      "疟疾",
+      "癫痫",
+      "骨蒸盗汗"
+    ]
+  },
+  {
+    "id": "acupoint_380",
+    "anatomy": "有腹外斜肌和腹横肌，有腹壁下动脉，布有髂腹下神经",
+    "location": "在下腹部，脐中下4寸，中极旁开3寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.8-1.2寸",
+    "name": "子宫",
+    "pinyin": "Zi Gong",
+    "subcategory": "胸腹部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "子宫脱垂",
+      "月经不调",
+      "痛经",
+      "不孕",
+      "崩漏"
+    ]
+  },
+  {
+    "id": "acupoint_381",
+    "anatomy": "有腹外斜肌和腹横肌，有第十肋间神经",
+    "location": "在腹部，以患者两口角长度为一边，作一等边三角形，顶角置于脐中，底边呈水平线，两底角处是穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "艾炷灸5-7壮",
+    "name": "三角灸",
+    "pinyin": "San Jiao Jiu",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "疝气",
+      "少腹痛",
+      "奔豚气"
+    ]
+  },
+  {
+    "id": "acupoint_382",
+    "anatomy": "有斜方肌、菱形肌、上后锯肌，有颈横动脉及颈深动脉分支，布有第七、八颈神经后支",
+    "location": "在背部，第七颈椎棘突下旁开0.5寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺或向内侧斜刺0.5-1寸",
+    "name": "定喘",
+    "pinyin": "Ding Chuan",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "哮喘",
+      "咳嗽",
+      "落枕",
+      "肩背痛",
+      "上肢疼痛不举",
+      "荨麻疹"
+    ]
+  },
+  {
+    "id": "acupoint_383",
+    "anatomy": "在横突间韧带和肌肉中，位置不同，涉及的肌肉及神经也不同",
+    "location": "在背腰部，第一胸椎至第五腰椎各椎棘突下旁开0.5寸，左右共34穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.3-0.5寸，或斜刺0.5-1寸",
+    "name": "夹脊",
+    "pinyin": "Jia Ji",
+    "subcategory": "胸腹部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "适应范围广：上胸部夹脊治心肺及上肢疾病，下胸部夹脊治胃肠疾病，腰部夹脊治腰腹及下肢疾病"
+    ]
+  },
+  {
+    "id": "acupoint_384",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第八胸神经后支",
+    "location": "在背部，第八胸椎棘突下旁开1.5寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "斜刺0.3-0.5寸",
+    "name": "胃脘下俞",
+    "pinyin": "Wei Wan Xia Shu",
+    "subcategory": "胸腹部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "消渴",
+      "胃痛",
+      "胁痛",
+      "腹痛",
+      "呕吐"
+    ]
+  },
+  {
+    "id": "acupoint_385",
+    "anatomy": "有背阔肌、最长肌，有肋间动脉后支，布有第一腰神经后支",
+    "location": "在腰部，第一腰椎棘突下旁开3.5寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "痞根",
+    "pinyin": "Pi Gen",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "痞块",
+      "肝脾肿大",
+      "腰痛",
+      "疝气"
+    ]
+  },
+  {
+    "id": "acupoint_386",
+    "anatomy": "有棘上韧带及棘间韧带，有腰动、静脉后支，布有腰神经后支",
+    "location": "在腰部，第三腰椎棘突下凹陷中",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "下极俞",
+    "pinyin": "Xia Ji Shu",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "腰痛",
+      "腹痛",
+      "泄泻",
+      "小便不利",
+      "遗尿"
+    ]
+  },
+  {
+    "id": "acupoint_387",
+    "anatomy": "有背阔肌、骶棘肌，有腰动、静脉后支，布有腰神经后支",
+    "location": "在腰部，第四腰椎棘突下旁开3.5寸凹陷中",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺1-1.5寸",
+    "name": "腰眼",
+    "pinyin": "Yao Yan",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "腰痛",
+      "月经不调",
+      "带下",
+      "尿频",
+      "虚劳"
+    ]
+  },
+  {
+    "id": "acupoint_388",
+    "anatomy": "有棘上韧带及棘间韧带，有腰动、静脉后支，布有第五腰神经后支",
+    "location": "在腰骶部，后正中线上，第五腰椎棘突下凹陷中",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "十七椎",
+    "pinyin": "Shi Qi Zhui",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "腰骶痛",
+      "下肢痿痹",
+      "痛经",
+      "崩漏",
+      "遗尿"
+    ]
+  },
+  {
+    "id": "acupoint_389",
+    "anatomy": "有棘上韧带，有骶中动、静脉后支，布有尾神经",
+    "location": "在骶部，尾骨尖直上2寸，骶管裂孔中",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "向上斜刺1-1.5寸",
+    "name": "腰奇",
+    "pinyin": "Yao Qi",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "癫痫",
+      "失眠",
+      "头痛",
+      "便秘"
+    ]
+  },
+  {
+    "id": "acupoint_390",
+    "anatomy": "有三角肌前缘，肱二头肌长头腱，有肱动脉分支，布有腋神经及肌皮神经",
+    "location": "在肩部，正坐垂臂，腋前皱襞顶端与肩髃连线中点",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺1-1.5寸",
+    "name": "肩前",
+    "pinyin": "Jian Qian",
+    "subcategory": "上肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "肩臂痛",
+      "上肢不遂"
+    ]
+  },
+  {
+    "id": "acupoint_391",
+    "anatomy": "有尺骨鹰嘴滑囊，有肘关节动、静脉网，布有前臂背侧皮神经",
+    "location": "在肘后部，屈肘，尺骨鹰嘴的尖端",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "艾炷灸5-7壮",
+    "name": "肘尖",
+    "pinyin": "Zhou Jian",
+    "subcategory": "上肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "瘰疬",
+      "痈疽",
+      "疔疮"
+    ]
+  },
+  {
+    "id": "acupoint_392",
+    "anatomy": "有桡侧腕屈肌和指浅屈肌，有前臂正中动、静脉，布有前臂内侧皮神经及正中神经",
+    "location": "在前臂掌侧，腕横纹上4寸，桡侧腕屈肌腱两侧，一手2穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "二白",
+    "pinyin": "Er Bai",
+    "subcategory": "上肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "痔疮",
+      "脱肛",
+      "前臂痛"
+    ]
+  },
+  {
+    "id": "acupoint_393",
+    "anatomy": "有指背神经",
+    "location": "在中指背侧，近端指间关节横纹中点",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "艾炷灸3-7壮",
+    "name": "中魁",
+    "pinyin": "Zhong Kui",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "呕吐",
+      "呃逆",
+      "鼻衄",
+      "牙痛",
+      "白癜风"
+    ]
+  },
+  {
+    "id": "acupoint_394",
+    "anatomy": "有指背神经",
+    "location": "在拇指背侧，指间关节横纹中点",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "艾炷灸3-5壮",
+    "name": "大骨空",
+    "pinyin": "Da Gu Kong",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "目翳",
+      "风眩烂眼",
+      "呕吐",
+      "鼻衄"
+    ]
+  },
+  {
+    "id": "acupoint_395",
+    "anatomy": "有指背神经",
+    "location": "在小指背侧，近端指间关节横纹中点",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "艾炷灸3-5壮",
+    "name": "小骨空",
+    "pinyin": "Xiao Gu Kong",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "目赤肿痛",
+      "目翳",
+      "咽喉肿痛",
+      "指关节痛"
+    ]
+  },
+  {
+    "id": "acupoint_396",
+    "anatomy": "有骨间背侧肌，有手背静脉网及掌背动脉，布有桡神经浅支及尺神经手背支",
+    "location": "在手背侧，第二、三掌骨及第三、四掌骨之间，腕横纹与掌指关节中点处，一侧2穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.3-0.5寸，由两侧向掌中斜刺",
+    "name": "腰痛点",
+    "pinyin": "Yao Tong Dian",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "急性腰扭伤",
+      "头痛",
+      "小儿惊风"
+    ]
+  },
+  {
+    "id": "acupoint_397",
+    "anatomy": "有骨间背侧肌，有手背静脉网及掌背动脉，布有桡神经浅支及尺神经手背支",
+    "location": "在手背侧，第二、三掌骨之间，掌指关节后约0.5寸处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.3-0.5寸",
+    "name": "外劳宫",
+    "pinyin": "Wai Lao Gong",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "落枕",
+      "手指麻木",
+      "手指屈伸不利",
+      "小儿消化不良",
+      "腹痛"
+    ]
+  },
+  {
+    "id": "acupoint_398",
+    "anatomy": "有骨间肌，有手背静脉网，布有桡神经浅支和尺神经手背支",
+    "location": "在手背侧，微握拳，第一至五指间指蹼缘后方赤白肉际处，左右共8穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "向上斜刺0.5-0.8寸，或点刺出血",
+    "name": "八邪",
+    "pinyin": "Ba Xie",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "手指麻木",
+      "手背肿痛",
+      "烦热",
+      "目痛",
+      "齿痛",
+      "毒蛇咬伤"
+    ]
+  },
+  {
+    "id": "acupoint_399",
+    "anatomy": "有指掌侧固有动脉及神经",
+    "location": "在手指掌侧，第二至五指近端指间关节横纹中点，左右共8穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "点刺出血或挤出少许淡黄色透明黏液",
+    "name": "四缝",
+    "pinyin": "Si Feng",
+    "subcategory": "上肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "小儿疳积",
+      "百日咳",
+      "蛔虫症",
+      "手指关节炎"
+    ]
+  },
+  {
+    "id": "acupoint_400",
+    "anatomy": "有指掌侧固有动、静脉，布有指掌侧固有神经",
+    "location": "在手十指尖端，距指甲游离缘0.1寸，左右共10穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.1-0.2寸，或点刺出血",
+    "name": "十宣",
+    "pinyin": "Shi Xuan",
+    "subcategory": "上肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "昏迷",
+      "高热",
+      "中暑",
+      "晕厥",
+      "癫痫",
+      "小儿惊风",
+      "咽喉肿痛",
+      "指端麻木"
+    ]
+  },
+  {
+    "id": "acupoint_401",
+    "anatomy": "有股直肌，有旋股外侧动脉降支，布有股前皮神经",
+    "location": "在大腿前面，梁丘两旁各1.5寸，一侧2穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "髋骨",
+    "pinyin": "Kuan Gu",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "鹤膝风",
+      "膝痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_402",
+    "anatomy": "有股四头肌腱，有膝关节动脉网，布有股前皮神经",
+    "location": "在膝上部，髌底中点上方凹陷中",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "鹤顶",
+    "pinyin": "He Ding",
+    "subcategory": "下肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "膝关节痛",
+      "下肢痿痹",
+      "鹤膝风"
+    ]
+  },
+  {
+    "id": "acupoint_403",
+    "anatomy": "有膝关节动、静脉网，布有隐神经分支及腓肠外侧皮神经",
+    "location": "屈膝，在髌韧带两侧凹陷处，内侧为内膝眼，外侧为外膝眼（犊鼻）",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "向膝中斜刺0.5-1寸",
+    "name": "膝眼",
+    "pinyin": "Xi Yan",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "膝关节痛",
+      "下肢痿痹",
+      "脚气"
+    ]
+  },
+  {
+    "id": "acupoint_404",
+    "anatomy": "有腓骨长肌，有腓肠外侧皮神经，深部为腓深神经",
+    "location": "在小腿外侧，腓骨小头直下2寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺1-2寸",
+    "name": "胆囊",
+    "pinyin": "Dan Nang",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "急慢性胆囊炎",
+      "胆石症",
+      "胆道蛔虫症",
+      "胁痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_405",
+    "anatomy": "有胫骨前肌，有胫前动、静脉，布有腓肠外侧皮神经",
+    "location": "在小腿外侧，犊鼻下5寸，胫骨前缘旁开一横指",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺1.5-2寸",
+    "name": "阑尾",
+    "pinyin": "Lan Wei",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "急慢性阑尾炎",
+      "胃痛",
+      "腹痛",
+      "下肢痿痹"
+    ]
+  },
+  {
+    "id": "acupoint_406",
+    "anatomy": "有股内侧肌，有股动脉肌支，布有股前皮神经",
+    "location": "在大腿内侧，血海上1寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺1.5-2寸",
+    "name": "百虫窝",
+    "pinyin": "Bai Chong Wo",
+    "subcategory": "下肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "虫积",
+      "风湿痒疹",
+      "下部生疮",
+      "膝部肿痛"
+    ]
+  },
+  {
+    "id": "acupoint_407",
+    "anatomy": "有小腿十字韧带，有内踝前动脉及胫后动脉的踝支，布有隐神经",
+    "location": "在足内侧面，内踝的凸起处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "禁针，艾炷灸3-5壮",
+    "name": "内踝尖",
+    "pinyin": "Nei Huai Jian",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "下牙痛",
+      "舌强",
+      "咽喉肿痛",
+      "脚气"
+    ]
+  },
+  {
+    "id": "acupoint_408",
+    "anatomy": "有外踝前动脉网，布有腓肠神经及腓浅神经",
+    "location": "在足外侧面，外踝的凸起处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "禁针，艾炷灸3-5壮",
+    "name": "外踝尖",
+    "pinyin": "Wai Huai Jian",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "脚气",
+      "足趾拘急",
+      "踝关节肿痛",
+      "齿痛"
+    ]
+  },
+  {
+    "id": "acupoint_409",
+    "anatomy": "有跖骨间背侧肌，有足背动脉网，布有腓深神经及腓浅神经",
+    "location": "在足背侧，第一至五趾间，趾蹼缘后方赤白肉际处，左右共8穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "斜刺0.5-0.8寸，或点刺出血",
+    "name": "八风",
+    "pinyin": "Ba Feng",
+    "subcategory": "背腰部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "脚气",
+      "足跗肿痛",
+      "趾痛",
+      "头痛",
+      "牙痛",
+      "毒蛇咬伤"
+    ]
+  },
+  {
+    "id": "acupoint_410",
+    "anatomy": "有趾底动脉，布有趾底固有神经",
+    "location": "在足第二趾的跖侧远侧趾间关节横纹的中点",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "艾炷灸3-5壮",
+    "name": "独阴",
+    "pinyin": "Du Yin",
+    "subcategory": "下肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "疝气",
+      "月经不调",
+      "难产",
+      "死胎",
+      "胸胁痛"
+    ]
+  },
+  {
+    "id": "acupoint_411",
+    "anatomy": "有趾背动脉及趾底固有动脉形成的动脉网，布有趾底固有神经",
+    "location": "在足十趾尖端，距趾甲游离缘0.1寸，左右共10穴",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.1-0.2寸，或点刺出血",
+    "name": "气端",
+    "pinyin": "Qi Duan",
+    "subcategory": "下肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "脚气",
+      "足趾麻木",
+      "中风急救",
+      "趾痛"
+    ]
+  },
+  {
+    "id": "acupoint_418",
+    "anatomy": "在舌下静脉上",
+    "location": "在口腔内，舌下系带两侧静脉上",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "点刺放血",
+    "name": "金津玉液",
+    "pinyin": "Jin Jin Yu Ye",
+    "subcategory": "头颈部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "舌强不语",
+      "舌肿",
+      "口疮",
+      "消渴"
+    ]
+  },
+  {
+    "id": "acupoint_436",
+    "anatomy": "在腓骨长肌与趾长伸肌中",
+    "location": "在小腿外侧，阳陵泉穴直下2寸处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺1-1.5寸",
+    "name": "胆囊穴",
+    "pinyin": "Dan Nang Xue",
+    "subcategory": "下肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "胆囊炎",
+      "胆石症",
+      "胆道蛔虫症",
+      "胁痛"
+    ]
+  },
+  {
+    "id": "acupoint_437",
+    "anatomy": "在胫骨前肌中",
+    "location": "在小腿前外侧，足三里穴直下2寸处",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺1-1.5寸",
+    "name": "阑尾穴",
+    "pinyin": "Lan Wei Xue",
+    "subcategory": "下肢部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "阑尾炎",
+      "足痿痹",
+      "胃痛"
+    ]
+  },
+  {
+    "id": "acupoint_440",
+    "anatomy": "在腹直肌中",
+    "location": "在下腹部，脐中下4寸，前正中线旁开3寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸",
+    "name": "子宫穴",
+    "pinyin": "Zi Gong Xue",
+    "subcategory": "胸腹部奇穴",
+    "classic_excerpts": null,
+    "indications": [
+      "月经不调",
+      "痛经",
+      "不孕",
+      "子宫脱垂"
+    ]
+  },
+  {
+    "id": "acupoint_442",
+    "anatomy": "不定",
+    "location": "以压痛点或其他反应点作为穴位",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺或围刺",
+    "name": "阿是穴",
+    "pinyin": "A Shi Xue",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "局部疼痛",
+      "各科痛证"
+    ]
+  },
+  {
+    "id": "acupoint_443",
+    "anatomy": "骨间背侧肌",
+    "location": "手背第二三掌骨间，掌指关节后约0.5寸",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5-1寸，嘱患者活动颈部",
+    "name": "落枕穴",
+    "pinyin": "Lao Zhen Xue",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "落枕",
+      "颈项强痛",
+      "手指麻木"
+    ]
+  },
+  {
+    "id": "acupoint_444",
+    "anatomy": "在斜方肌、头颈夹肌中，布有枕动、静脉分支及颈横动、静脉；有第三、四颈神经后支分布。",
+    "location": "在颈部，后正中线上，大椎穴（第七颈椎棘突下）直上2寸处。",
+    "meridian": "经外奇穴",
+    "meridian_id": "extra_point",
+    "method": "直刺0.5～1寸；可灸。",
+    "name": "百劳",
+    "pinyin": "Bai Lao",
+    "subcategory": null,
+    "classic_excerpts": null,
+    "indications": [
+      "瘰疬",
+      "瘿气",
+      "虚劳",
+      "咳嗽",
+      "盗汗",
+      "颈项强痛"
+    ]
+  }
+]

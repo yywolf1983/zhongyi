@@ -1,6 +1,6 @@
 # 方剂数据查证方法论（确保出自经典）
 
-> 目标：对 `assets/data/formulas.json` 中的 **每一个方剂**，逐条核查其全部字段是否出自公认中医经典，
+> 目标：对 SQLite 数据库 `db/zhongyi.db` 的 `formulas` 表（及迁移前 `assets/data/formulas.json`）中的 **每一个方剂**，逐条核查其全部字段是否出自公认中医经典，
 > 并将查证结果记录在数据本身的 `verification` 字段中，同时在本仓库 `docs/formulas_verification.md`
 > 生成逐条可读报告。
 
@@ -52,7 +52,7 @@
 
 ## 四、数据中的 verification 字段 schema
 
-`formulas.json` 每个方剂对象新增：
+`formulas` 表（或原 `formulas.json`）每个方剂记录新增：
 
 ```json
 "verification": {

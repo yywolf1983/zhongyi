@@ -1,6 +1,8 @@
 # 针方（针灸处方）数据逐条查证报告
 
-> 本报告由 AI 依据公认针灸典籍与中医理论，逐一核对合并后的 `assets/data/needle_prescriptions.json` 全部 371 首针方生成。
+> ⚠️ 本报告为 **JSON 时代**的针方逐条查证快照；数据已迁移至 SQLite（`needle_prescriptions` 表，当前共 371 首）。结论仅反映当时数据状态。
+
+> 本报告由 AI 依据公认针灸典籍与中医理论，逐一核对合并后的 `assets/data/needle_prescriptions.json` 全部 371 首针方生成（JSON 时代快照）。
 > 原 `acupuncture_prescriptions.json`（针灸处方，198 条）已并入本文件并去除 `subtype` 区分，合并为单一「针方」数据集。
 > 每首针方的逐条结论同时记录在数据自身的 `verification` 字段中。
 
