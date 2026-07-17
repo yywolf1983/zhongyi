@@ -3,7 +3,6 @@ import medicinesData from '../../assets/data/medicines.json'
 import acupointsData from '../../assets/data/acupoints.json'
 import formulasData from '../../assets/data/formulas.json'
 import needlePrescriptionsData from '../../assets/data/needle_prescriptions.json'
-import acupuncturePrescriptionsData from '../../assets/data/acupuncture_prescriptions.json'
 import treatmentsData from '../../assets/data/treatments.json'
 import meridiansData from '../../assets/data/meridians.json'
 import effectsData from '../../assets/data/effects.json'
@@ -15,7 +14,6 @@ export const DATA_TYPES = {
   ACUPOINTS: 'acupoints',
   FORMULAS: 'formulas',
   NEEDLE_PRESCRIPTIONS: 'needle_prescriptions',
-  ACUPUNCTURE_PRESCRIPTIONS: 'acupuncture_prescriptions',
   TREATMENTS: 'treatments',
   MERIDIANS: 'meridians',
   EFFECTS: 'effects',
@@ -31,7 +29,6 @@ const DATA_SOURCES = {
   [DATA_TYPES.ACUPOINTS]: acupointsData,
   [DATA_TYPES.FORMULAS]: formulasData,
   [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: needlePrescriptionsData,
-  [DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS]: acupuncturePrescriptionsData,
   [DATA_TYPES.TREATMENTS]: treatmentsData,
   [DATA_TYPES.MERIDIANS]: meridiansData,
   [DATA_TYPES.EFFECTS]: effectsData,
@@ -67,7 +64,6 @@ function _validateDataset(type, data) {
     [DATA_TYPES.ACUPOINTS]: ['id', 'name'],
     [DATA_TYPES.FORMULAS]: ['id', 'name'],
     [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: ['id', 'name'],
-    [DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS]: ['id', 'name'],
     [DATA_TYPES.TREATMENTS]: ['id', 'name'],
     [DATA_TYPES.MERIDIANS]: ['id', 'name'],
     [DATA_TYPES.EFFECTS]: ['id', 'name'],
@@ -269,8 +265,7 @@ export class DataManager {
       [DATA_TYPES.MEDICINES]: ['name', 'pinyin', 'latin_name', 'effects', 'indications'],
       [DATA_TYPES.ACUPOINTS]: ['name', 'pinyin', 'code', 'location', 'indications', 'meridian'],
       [DATA_TYPES.FORMULAS]: ['name', 'pinyin', 'source', 'composition[].name', 'indications'],
-      [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: ['name', 'pinyin', 'acupoints[].name', 'indications'],
-      [DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS]: ['name', 'pinyin', 'indications', 'effects'],
+      [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: ['name', 'pinyin', 'subcategory', 'syndrome', 'acupoints[].name', 'indications', 'effects'],
       [DATA_TYPES.TREATMENTS]: ['name', 'category', 'indications'],
       [DATA_TYPES.MERIDIANS]: ['name', 'pinyin', 'main_points'],
       [DATA_TYPES.EFFECTS]: ['name', 'description', 'indications'],
@@ -405,7 +400,6 @@ export class DataManager {
       [DATA_TYPES.ACUPOINTS]: 'acupoint',
       [DATA_TYPES.FORMULAS]: 'formula',
       [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: 'needle',
-      [DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS]: 'acu_presc',
       [DATA_TYPES.TREATMENTS]: 'treatment',
       [DATA_TYPES.MERIDIANS]: 'meridian',
       [DATA_TYPES.EFFECTS]: 'effect',

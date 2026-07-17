@@ -13,7 +13,6 @@ export class SearchService {
       medicines: [],
       acupoints: [],
       needles: [],
-      acupuncture_prescriptions: [],
       treatments: [],
       meridians: [],
       effects: [],
@@ -26,7 +25,6 @@ export class SearchService {
       { type: DATA_TYPES.MEDICINES, key: 'medicines' },
       { type: DATA_TYPES.ACUPOINTS, key: 'acupoints' },
       { type: DATA_TYPES.NEEDLE_PRESCRIPTIONS, key: 'needles' },
-      { type: DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS, key: 'acupuncture_prescriptions' },
       { type: DATA_TYPES.TREATMENTS, key: 'treatments' },
       { type: DATA_TYPES.MERIDIANS, key: 'meridians' },
       { type: DATA_TYPES.EFFECTS, key: 'effects' },
@@ -95,13 +93,9 @@ export class SearchService {
       case DATA_TYPES.NEEDLE_PRESCRIPTIONS:
         return {
           category: item.category || '',
-          acupoints: (item.acupoints || []).map(a => a.name).slice(0, 5),
-          effects: (item.effects || []).slice(0, 3)
-        }
-      case DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS:
-        return {
-          category: item.category || '',
           subcategory: item.subcategory || '',
+          syndrome: item.syndrome || '',
+          pinyin: item.pinyin || '',
           acupoints: (item.acupoints || []).map(a => a.name).slice(0, 5),
           effects: (item.effects || []).slice(0, 3)
         }
@@ -208,7 +202,6 @@ export class SearchService {
       [DATA_TYPES.ACUPOINTS]: '穴位',
       [DATA_TYPES.FORMULAS]: '方剂',
       [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: '针方',
-      [DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS]: '针灸处方',
       [DATA_TYPES.TREATMENTS]: '治疗',
       [DATA_TYPES.MERIDIANS]: '经络',
       [DATA_TYPES.EFFECTS]: '功效',

@@ -7,7 +7,6 @@ const ROUTE_BY_TYPE = {
   [DATA_TYPES.MEDICINES]: (id) => `/formulas/medicine/${id}`,
   [DATA_TYPES.ACUPOINTS]: (id) => `/acupuncture/${id}`,
   [DATA_TYPES.NEEDLE_PRESCRIPTIONS]: (id) => `/acupuncture/needle/${id}`,
-  [DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS]: (id) => `/acupuncture/acu-presc/${id}`,
   [DATA_TYPES.TREATMENTS]: (id) => `/syndromes?treatment=${id}`,
   [DATA_TYPES.MERIDIANS]: (id) => `/acupuncture?meridian=${id}`,
   [DATA_TYPES.EFFECTS]: (id) => `/syndromes?effect=${id}`,
@@ -18,16 +17,16 @@ const ROUTE_BY_TYPE = {
 const ANY_TO_TYPE = {
   // 中文标签（搜索建议用）
   '证型': DATA_TYPES.SYNDROMES, '方剂': DATA_TYPES.FORMULAS, '中药': DATA_TYPES.MEDICINES,
-  '穴位': DATA_TYPES.ACUPOINTS, '针方': DATA_TYPES.NEEDLE_PRESCRIPTIONS, '针灸处方': DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS,
+  '穴位': DATA_TYPES.ACUPOINTS, '针方': DATA_TYPES.NEEDLE_PRESCRIPTIONS, '针灸处方': DATA_TYPES.NEEDLE_PRESCRIPTIONS,
   '治疗': DATA_TYPES.TREATMENTS, '治法': DATA_TYPES.TREATMENTS, '经络': DATA_TYPES.MERIDIANS,
   '功效': DATA_TYPES.EFFECTS, '中西对照': DATA_TYPES.MODERN_MAPPING,
   // 搜索结果 key（globalSearch 用）
   'syndromes': DATA_TYPES.SYNDROMES, 'formulas': DATA_TYPES.FORMULAS, 'medicines': DATA_TYPES.MEDICINES,
-  'acupoints': DATA_TYPES.ACUPOINTS, 'needles': DATA_TYPES.NEEDLE_PRESCRIPTIONS, 'acupuncture_prescriptions': DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS,
+  'acupoints': DATA_TYPES.ACUPOINTS, 'needles': DATA_TYPES.NEEDLE_PRESCRIPTIONS, 'acupuncture_prescriptions': DATA_TYPES.NEEDLE_PRESCRIPTIONS,
   'treatments': DATA_TYPES.TREATMENTS, 'meridians': DATA_TYPES.MERIDIANS, 'effects': DATA_TYPES.EFFECTS, 'modern_mapping': DATA_TYPES.MODERN_MAPPING,
   // 书签存储使用的 type
   'syndrome': DATA_TYPES.SYNDROMES, 'formula': DATA_TYPES.FORMULAS, 'medicine': DATA_TYPES.MEDICINES,
-  'acupoint': DATA_TYPES.ACUPOINTS, 'needle': DATA_TYPES.NEEDLE_PRESCRIPTIONS, 'acu-presc': DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS
+  'acupoint': DATA_TYPES.ACUPOINTS, 'needle': DATA_TYPES.NEEDLE_PRESCRIPTIONS, 'acu-presc': DATA_TYPES.NEEDLE_PRESCRIPTIONS
 }
 
 function normalizeType(typeInput) {

@@ -12,47 +12,35 @@ const EXTRA_POINT_SUBCATEGORIES = ['头颈部奇穴', '胸腹部奇穴', '背腰
 
 export default function AcupunctureModule() {
   const navigate = useNavigate()
-  const { acupointId, needleId, acuPrescId } = useParams()
+  const { acupointId, needleId, acuPrescId, prescId } = useParams()
   const [searchParams] = useSearchParams()
 
   const [acupoints, setAcupoints] = useState(() => DataManager.getAll(DATA_TYPES.ACUPOINTS))
-  const [needles, setNeedles] = useState(() => DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS))
-  const [acuPrescs, setAcuPrescs] = useState(() => DataManager.getAll(DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS))
+  const [prescriptions, setPrescriptions] = useState(() => DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS))
   const [selectedAcupoint, setSelectedAcupoint] = useState(null)
-  const [selectedNeedle, setSelectedNeedle] = useState(null)
-  const [selectedAcuPresc, setSelectedAcuPresc] = useState(null)
+  const [selectedPresc, setSelectedPresc] = useState(null)
   const [viewMode, setViewMode] = useState('acupoints')
   const [expandedMeridian, setExpandedMeridian] = useState(false)
-  const [acuPrescCategoryFilter, setAcuPrescCategoryFilter] = useState('all')
 
-  // 针灸处方分类选项与过滤
-  const acuPrescCategoryOptions = useMemo(() => {
+  // 针方（已合并原“针灸处方”，统一为单一针方数据集）：分类筛选
+  const [prescCategoryFilter, setPrescCategoryFilter] = useState('all')
+
+  const prescCategoryOptions = useMemo(() => {
     const cats = new Set()
-    acuPrescs.forEach(n => { if (n.category) cats.add(n.category) })
+    prescriptions.forEach(n => { if (n.category) cats.add(n.category) })
     return ['all', ...Array.from(cats).sort()]
-  }, [acuPrescs])
+  }, [prescriptions])
 
-  const filteredAcuPrescs = useMemo(() => {
-    if (acuPrescCategoryFilter === 'all') return acuPrescs
-    return acuPrescs.filter(n => n.category === acuPrescCategoryFilter)
-  }, [acuPrescs, acuPrescCategoryFilter])
-
-  // 构造针灸处方关联（复用穴位/证型数据）
-  const buildAcuPrescRelations = (acuPresc) => {
-    const relationAcupoints = (acuPresc.acupoints || []).map(a => {
-      const ap = DataManager.getById(DATA_TYPES.ACUPOINTS, a.acupoint_id)
-      return ap ? { ...ap, method: a.method } : null
-    }).filter(Boolean)
-    const syndromes = (acuPresc.related_syndromes || [])
-      .map(id => DataManager.getById(DATA_TYPES.SYNDROMES, id))
-      .filter(Boolean)
-    return { acuPresc, acupoints: relationAcupoints, syndromes }
-  }
+  const filteredPrescs = useMemo(() => {
+    let list = prescriptions
+    if (prescCategoryFilter !== 'all') list = list.filter(p => p.category === prescCategoryFilter)
+    return list
+  }, [prescriptions, prescCategoryFilter])
 
   // 两级穴位筛选
   const [acupointCatFilter, setAcupointCatFilter] = useState('all')   // 全部 / 十二正经 / 奇经八脉 / 经外奇穴
   const [acupointSubFilter, setAcupointSubFilter] = useState('all')   // 具体经络名 / 部位名
-  const [needleCategoryFilter, setNeedleCategoryFilter] = useState('all')
+
   const [meridianCategoryFilter, setMeridianCategoryFilter] = useState('all')
   const [meridianSubFilter, setMeridianSubFilter] = useState('all')
 
@@ -112,32 +100,23 @@ export default function AcupunctureModule() {
       if (found) {
         const relations = RelationService.getAcupointRelations(found.id)
         setSelectedAcupoint(relations)
-        setSelectedNeedle(null)
-        setSelectedAcuPresc(null)
+        setSelectedPresc(null)
         setExpandedMeridian(false)
       }
-    } else if (needleId) {
-      const found = DataManager.getById(DATA_TYPES.NEEDLE_PRESCRIPTIONS, needleId)
+    } else if (needleId || acuPrescId || prescId) {
+      const id = needleId || acuPrescId || prescId
+      const found = DataManager.getById(DATA_TYPES.NEEDLE_PRESCRIPTIONS, id)
       if (found) {
         const relations = RelationService.getNeedleRelations(found.id)
-        setSelectedNeedle(relations)
+        setSelectedPresc(relations)
         setSelectedAcupoint(null)
-        setSelectedAcuPresc(null)
-      }
-    } else if (acuPrescId) {
-      const found = DataManager.getById(DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS, acuPrescId)
-      if (found) {
-        setSelectedAcuPresc(buildAcuPrescRelations(found))
-        setSelectedAcupoint(null)
-        setSelectedNeedle(null)
       }
     } else {
       setSelectedAcupoint(null)
-      setSelectedNeedle(null)
-      setSelectedAcuPresc(null)
+      setSelectedPresc(null)
       setExpandedMeridian(false)
       setAcupoints(DataManager.getAll(DATA_TYPES.ACUPOINTS))
-      setNeedles(DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS))
+      setPrescriptions(DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS))
       // Handle ?meridian= param for deep linking
       const meridianId = searchParams.get('meridian')
       if (meridianId) {
@@ -149,18 +128,14 @@ export default function AcupunctureModule() {
         }
       }
     }
-  }, [acupointId, needleId, acuPrescId, searchParams])
+  }, [acupointId, needleId, acuPrescId, prescId, searchParams])
 
   const handleSelectAcupoint = (acupoint) => {
     navigate(`/acupuncture/${acupoint.id}`)
   }
 
   const handleSelectNeedle = (needle) => {
-    navigate(`/acupuncture/needle/${needle.id}`)
-  }
-
-  const handleSelectAcuPresc = (acuPresc) => {
-    navigate(`/acupuncture/acu-presc/${acuPresc.id}`)
+    navigate(`/acupuncture/presc/${needle.id}`)
   }
 
   const handleBack = () => {
@@ -187,8 +162,7 @@ export default function AcupunctureModule() {
   const handleViewModeChange = (mode) => {
     setViewMode(mode)
     setSelectedAcupoint(null)
-    setSelectedNeedle(null)
-    setSelectedAcuPresc(null)
+    setSelectedPresc(null)
     setExpandedMeridian(false)
     if (mode === 'acupoints') {
       setAcupoints(DataManager.getAll(DATA_TYPES.ACUPOINTS))
@@ -196,12 +170,9 @@ export default function AcupunctureModule() {
       setAcupointSubFilter('all')
       setMeridianCategoryFilter('all')
       setMeridianSubFilter('all')
-    } else if (mode === 'needles') {
-      setNeedles(DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS))
-      setNeedleCategoryFilter('all')
-    } else if (mode === 'acu-presc') {
-      setAcuPrescs(DataManager.getAll(DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS))
-      setAcuPrescCategoryFilter('all')
+    } else if (mode === 'prescriptions') {
+      setPrescriptions(DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS))
+      setPrescCategoryFilter('all')
     }
   }
 
@@ -379,9 +350,9 @@ export default function AcupunctureModule() {
     )
   }
 
-  // ============ Needle Detail ============
-  if (selectedNeedle) {
-    const { needle, acupoints: needleAcupoints, syndromes } = selectedNeedle
+  // ============ Unified Prescription Detail ============
+  if (selectedPresc) {
+    const { needle: presc, acupoints: prescAcupoints, syndromes } = selectedPresc
 
     return (
       <div className="detail-container">
@@ -389,163 +360,41 @@ export default function AcupunctureModule() {
 
         <div className="detail-header-row">
           <div className="detail-header">
-            <h1 className="detail-title">{needle.name}</h1>
+            <h1 className="detail-title">{presc.name}</h1>
+            {presc.pinyin && <p className="detail-pinyin">{presc.pinyin}</p>}
             <div className="detail-category">
-              <span className="category-tag">{needle.category}</span>
-              {needle.source && (
+              <span className="category-tag" style={{ background: 'var(--color-acupoint-bg)', color: 'var(--color-acupoint)' }}>
+                针方
+              </span>
+              {presc.category && <span className="category-tag">{presc.category}</span>}
+              {presc.subcategory && <span className="category-tag">{presc.subcategory}</span>}
+              {presc.source && (
                 <span className="category-tag" style={{ background: 'var(--color-accent-bg)', color: 'var(--color-accent-dark)', marginLeft: '6px' }}>
-                  {needle.source}
+                  {presc.source}
                 </span>
               )}
             </div>
           </div>
-          <BookmarkButton item={needle} type="needle" />
+          <BookmarkButton item={presc} type="needle" />
         </div>
 
-        {needle.effects && needle.effects.length > 0 && (
+        {presc.effects && presc.effects.length > 0 && (
           <div className="section">
             <h2 className="section-title">功效</h2>
             <div className="tag-list">
-              {needle.effects.map((effect, i) => (
+              {presc.effects.map((effect, i) => (
                 <span key={i} className="tag-item primary clickable-tag" onClick={() => navigateToEntityByName(navigate, DATA_TYPES.EFFECTS, effect)}>{effect}</span>
               ))}
             </div>
           </div>
         )}
 
-        {needle.indications && needle.indications.length > 0 && (
+        {presc.indications && presc.indications.length > 0 && (
           <div className="section">
             <h2 className="section-title">适应症</h2>
             <div className="tag-list">
-              {needle.indications.map((indication, i) => (
+              {presc.indications.map((indication, i) => (
                 <span key={i} className="tag-item clickable-tag" onClick={() => handleSearchClick(indication)}>{indication}</span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {needleAcupoints && needleAcupoints.length > 0 && (
-          <div className="section">
-            <h2 className="section-title">穴位组成</h2>
-            <div className="table-wrapper">
-              <table className="composition-table">
-                <thead>
-                  <tr>
-                    <th>穴位</th>
-                    <th>归经（子类）</th>
-                    <th>操作方法</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {needleAcupoints.map(acupoint => {
-                    const m = DataManager.getById(DATA_TYPES.MERIDIANS, acupoint.meridian_id)
-                    const subcat = m?.subcategory || acupoint.subcategory || ''
-                    return (
-                      <tr key={acupoint.id} onClick={() => handleSelectAcupoint(acupoint)} style={{ cursor: 'pointer' }}>
-                        <td><strong>{acupoint.name}</strong> ({acupoint.code})</td>
-                        <td>
-                          {acupoint.meridian}
-                          {subcat && <span style={{ fontSize: '0.8rem', color: 'var(--color-text-hint)', marginLeft: '4px' }}>({subcat})</span>}
-                        </td>
-                        <td><span className="tag-item">{acupoint.method}</span></td>
-                      </tr>
-                    )
-                  })}
-                </tbody>
-              </table>
-            </div>
-          </div>
-        )}
-
-        {syndromes && syndromes.length > 0 && (
-          <div className="section">
-            <h2 className="section-title">适用证型</h2>
-            <div className="tag-list">
-              {syndromes.map(syndrome => (
-                <span key={syndrome.id} className="tag-item clickable-tag"
-                  onClick={() => navigate(`/syndromes/${syndrome.id}`)}>{syndrome.name}</span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {needle.method && (
-          <div className="section">
-            <h2 className="section-title">操作说明</h2>
-            <p className="section-content">{needle.method}</p>
-          </div>
-        )}
-
-        {needle.modern_applications && needle.modern_applications.length > 0 && (
-          <div className="section secondary">
-            <h2 className="section-title">现代应用</h2>
-            <div className="tag-list">
-              {needle.modern_applications.map((app, i) => (
-                <span key={i} className="tag-item warning clickable-tag" onClick={() => handleSearchClick(app)}>{app}</span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {needle.beginner_note && (
-          <div className="section secondary">
-            <h2 className="section-title">初学者要点</h2>
-            <p className="section-content">{needle.beginner_note}</p>
-          </div>
-        )}
-
-        {needle.advanced_clinical_note && (
-          <div className="section secondary">
-            <h2 className="section-title">进阶要点</h2>
-            <p className="section-content">{needle.advanced_clinical_note}</p>
-          </div>
-        )}
-      </div>
-    )
-  }
-
-  // ============ Acupuncture Prescription Detail ============
-  if (selectedAcuPresc) {
-    const { acuPresc, acupoints: prescAcupoints, syndromes } = selectedAcuPresc
-
-    return (
-      <div className="detail-container">
-        <button className="back-button" onClick={handleBack}>← 返回</button>
-
-        <div className="detail-header-row">
-          <div className="detail-header">
-            <h1 className="detail-title">{acuPresc.name}</h1>
-            <p className="detail-pinyin">{acuPresc.pinyin}</p>
-            <div className="detail-category">
-              <span className="category-tag">{acuPresc.category}</span>
-              {acuPresc.subcategory && <span className="category-tag">{acuPresc.subcategory}</span>}
-              {acuPresc.source && (
-                <span className="category-tag" style={{ background: 'var(--color-accent-bg)', color: 'var(--color-accent-dark)', marginLeft: '6px' }}>
-                  {acuPresc.source}
-                </span>
-              )}
-            </div>
-          </div>
-          <BookmarkButton item={acuPresc} type="acu-presc" />
-        </div>
-
-        {acuPresc.effects && acuPresc.effects.length > 0 && (
-          <div className="section">
-            <h2 className="section-title">功效</h2>
-            <div className="tag-list">
-              {acuPresc.effects.map((effect, i) => (
-                <span key={i} className="tag-item primary clickable-tag" onClick={() => navigateToEntityByName(navigate, DATA_TYPES.EFFECTS, effect)}>{effect}</span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {acuPresc.indications && acuPresc.indications.length > 0 && (
-          <div className="section">
-            <h2 className="section-title">适应症</h2>
-            <div className="tag-list">
-              {acuPresc.indications.map((ind, i) => (
-                <span key={i} className="tag-item clickable-tag" onClick={() => handleSearchClick(ind)}>{ind}</span>
               ))}
             </div>
           </div>
@@ -577,46 +426,47 @@ export default function AcupunctureModule() {
           </div>
         )}
 
-        {acuPresc.method && (
-          <div className="section">
-            <h2 className="section-title">操作说明</h2>
-            <p className="section-content">{acuPresc.method}</p>
-          </div>
-        )}
-
         {syndromes && syndromes.length > 0 && (
           <div className="section">
             <h2 className="section-title">适用证型</h2>
             <div className="tag-list">
-              {syndromes.map(s => (
-                <span key={s.id} className="tag-item clickable-tag" onClick={() => navigate(`/syndromes/${s.id}`)}>{s.name}</span>
+              {syndromes.map(syndrome => (
+                <span key={syndrome.id} className="tag-item clickable-tag"
+                  onClick={() => navigate(`/syndromes/${syndrome.id}`)}>{syndrome.name}</span>
               ))}
             </div>
           </div>
         )}
 
-        {acuPresc.modern_applications && acuPresc.modern_applications.length > 0 && (
+        {presc.method && (
+          <div className="section">
+            <h2 className="section-title">操作说明</h2>
+            <p className="section-content">{presc.method}</p>
+          </div>
+        )}
+
+        {presc.modern_applications && presc.modern_applications.length > 0 && (
           <div className="section secondary">
             <h2 className="section-title">现代应用</h2>
             <div className="tag-list">
-              {acuPresc.modern_applications.map((app, i) => (
+              {presc.modern_applications.map((app, i) => (
                 <span key={i} className="tag-item warning clickable-tag" onClick={() => handleSearchClick(app)}>{app}</span>
               ))}
             </div>
           </div>
         )}
 
-        {acuPresc.beginner_note && (
+        {presc.beginner_note && (
           <div className="section secondary">
             <h2 className="section-title">初学者要点</h2>
-            <p className="section-content">{acuPresc.beginner_note}</p>
+            <p className="section-content">{presc.beginner_note}</p>
           </div>
         )}
 
-        {acuPresc.advanced_clinical_note && (
+        {presc.advanced_clinical_note && (
           <div className="section secondary">
             <h2 className="section-title">进阶要点</h2>
-            <p className="section-content">{acuPresc.advanced_clinical_note}</p>
+            <p className="section-content">{presc.advanced_clinical_note}</p>
           </div>
         )}
       </div>
@@ -644,19 +494,6 @@ export default function AcupunctureModule() {
     return inCat.filter(a => a.meridian === acupointSubFilter)
   })()
 
-  // Needle category filter options
-  const needleCategoryOptions = (() => {
-    const all = DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS)
-    const cats = new Set()
-    all.forEach(n => { if (n.category) cats.add(n.category) })
-    return ['all', ...Array.from(cats).sort()]
-  })()
-
-  const filteredNeedles = (() => {
-    if (needleCategoryFilter === 'all') return needles
-    return needles.filter(n => n.category === needleCategoryFilter)
-  })()
-
   // Meridian filter options
   const meridianCategoryOptions = ['all', '十二正经', '奇经八脉', '经外奇穴']
 
@@ -676,16 +513,10 @@ export default function AcupunctureModule() {
           穴位查询（{DataManager.getAll(DATA_TYPES.ACUPOINTS).length}）
         </button>
         <button
-          className={`toggle-btn ${viewMode === 'needles' ? 'active' : ''}`}
-          onClick={() => handleViewModeChange('needles')}
+          className={`toggle-btn ${viewMode === 'prescriptions' ? 'active' : ''}`}
+          onClick={() => handleViewModeChange('prescriptions')}
         >
-          针方查询（{DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS).length}）
-        </button>
-        <button
-          className={`toggle-btn ${viewMode === 'acu-presc' ? 'active' : ''}`}
-          onClick={() => handleViewModeChange('acu-presc')}
-        >
-          针灸处方（{DataManager.getAll(DATA_TYPES.ACUPUNCTURE_PRESCRIPTIONS).length}）
+          针方（{DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS).length}）
         </button>
       </div>
 
@@ -812,76 +643,38 @@ export default function AcupunctureModule() {
         </>
       )}
 
-      {/* ========== NEEDLE VIEW ========== */}
-      {viewMode === 'needles' && (
+      {/* ========== PRESCRIPTIONS VIEW（针方，已合并原“针灸处方”） ========== */}
+      {viewMode === 'prescriptions' && (
         <>
-          {/* Category filter */}
+          {/* 分类筛选 */}
           <div className="tag-filter-bar" style={{ marginBottom: '16px', display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
-            {needleCategoryOptions.map(cat => (
+            {prescCategoryOptions.map(cat => (
               <button
                 key={cat}
-                className={`tag-filter-btn ${needleCategoryFilter === cat ? 'active' : ''}`}
-                onClick={() => setNeedleCategoryFilter(cat)}
+                className={`tag-filter-btn ${prescCategoryFilter === cat ? 'active' : ''}`}
+                onClick={() => setPrescCategoryFilter(cat)}
               >
                 {cat === 'all' ? '全部类别' : cat}
               </button>
             ))}
           </div>
 
-          {filteredNeedles.length === 0 ? (
+          {filteredPrescs.length === 0 ? (
             <EmptyState message="未找到匹配的针方" icon="🔍" />
           ) : (
             <div className="list-container">
-              {filteredNeedles.map(needle => (
-                <div key={needle.id} className="list-item needle" onClick={() => handleSelectNeedle(needle)}>
+              {filteredPrescs.map(presc => (
+                <div key={presc.id} className="list-item needle" onClick={() => handleSelectNeedle(presc)}>
                   <div className="list-item-title">
-                    {needle.name}
-                    {needle.source && (
-                      <span style={{ fontSize: '0.85rem', color: 'var(--color-mapping)', marginLeft: '8px', fontWeight: 'normal' }}>
-                        {needle.source}
+                    {presc.name}
+                    {presc.subcategory && (
+                      <span style={{ fontSize: '0.78rem', color: 'var(--color-mapping)', marginLeft: '8px', fontWeight: 'normal' }}>
+                        {presc.subcategory}
                       </span>
                     )}
                   </div>
-                  <div className="list-item-pinyin">{needle.category}</div>
-                  <div className="list-item-desc">{needle.effects?.join('、')}</div>
-                </div>
-              ))}
-            </div>
-          )}
-        </>
-      )}
-
-      {/* ========== ACUPUNCTURE PRESCRIPTION VIEW ========== */}
-      {viewMode === 'acu-presc' && (
-        <>
-          <div className="tag-filter-bar" style={{ marginBottom: '16px', display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
-            {acuPrescCategoryOptions.map(cat => (
-              <button
-                key={cat}
-                className={`tag-filter-btn ${acuPrescCategoryFilter === cat ? 'active' : ''}`}
-                onClick={() => setAcuPrescCategoryFilter(cat)}
-              >
-                {cat === 'all' ? '全部类别' : cat}
-              </button>
-            ))}
-          </div>
-
-          {filteredAcuPrescs.length === 0 ? (
-            <EmptyState message="未找到匹配的针灸处方" icon="🔍" />
-          ) : (
-            <div className="list-container">
-              {filteredAcuPrescs.map(acuPresc => (
-                <div key={acuPresc.id} className="list-item acu-presc" onClick={() => handleSelectAcuPresc(acuPresc)}>
-                  <div className="list-item-title">
-                    {acuPresc.name}
-                    {acuPresc.subcategory && (
-                      <span style={{ fontSize: '0.85rem', color: 'var(--color-mapping)', marginLeft: '8px', fontWeight: 'normal' }}>
-                        {acuPresc.subcategory}
-                      </span>
-                    )}
-                  </div>
-                  <div className="list-item-pinyin">{acuPresc.category}</div>
-                  <div className="list-item-desc">{acuPresc.effects?.join('、')}</div>
+                  <div className="list-item-pinyin">{presc.category}</div>
+                  <div className="list-item-desc">{presc.effects?.join('、')}</div>
                 </div>
               ))}
             </div>

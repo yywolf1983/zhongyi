@@ -218,6 +218,7 @@ export default function App() {
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/:acupointId" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/needle/:needleId" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/acu-presc/:acuPrescId" />
+          <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/presc/:prescId" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas/:formulaId" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas/medicine/:medicineId" />

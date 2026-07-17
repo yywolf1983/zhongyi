@@ -28,10 +28,34 @@
     ],
     "related_formulas": [
       "formula_001",
-      "formula_002"
+      "formula_002",
+      "formula_152",
+      "formula_153",
+      "formula_154",
+      "formula_155",
+      "formula_175",
+      "formula_190",
+      "formula_195",
+      "formula_211",
+      "formula_233",
+      "formula_242",
+      "formula_258",
+      "formula_260",
+      "formula_262",
+      "formula_264",
+      "formula_268",
+      "formula_277",
+      "formula_278",
+      "formula_279",
+      "formula_281"
     ],
     "related_needle": [
-      "needle_001"
+      "needle_001",
+      "needle_021",
+      "needle_057",
+      "needle_076",
+      "needle_148",
+      "needle_169"
     ],
     "related_treatments": [
       "treatment_001"
@@ -90,10 +114,30 @@
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004"
+      "formula_123",
+      "formula_294",
+      "formula_296",
+      "formula_298",
+      "formula_300",
+      "formula_302",
+      "formula_306"
     ],
     "related_needle": [
-      "needle_002"
+      "needle_002",
+      "needle_021",
+      "needle_041",
+      "needle_042",
+      "needle_047",
+      "needle_057",
+      "needle_078",
+      "needle_080",
+      "needle_092",
+      "needle_097",
+      "needle_125",
+      "needle_134",
+      "needle_150",
+      "needle_151",
+      "prescription_022"
     ],
     "related_treatments": [
       "treatment_002"
@@ -152,12 +196,42 @@
     ],
     "related_formulas": [
       "formula_030",
-      "formula_031"
+      "formula_031",
+      "formula_178",
+      "formula_183",
+      "formula_191",
+      "formula_212",
+      "formula_218",
+      "formula_225",
+      "formula_226",
+      "formula_227",
+      "formula_228",
+      "formula_229",
+      "formula_250",
+      "formula_254",
+      "formula_276",
+      "formula_303",
+      "formula_329"
     ],
     "related_needle": [
-      "needle_003"
+      "needle_003",
+      "needle_023",
+      "needle_029",
+      "needle_034",
+      "needle_046",
+      "needle_055",
+      "needle_066",
+      "needle_072",
+      "needle_105",
+      "needle_118",
+      "needle_149",
+      "needle_175",
+      "prescription_084",
+      "prescription_185",
+      "prescription_187"
     ],
     "related_treatments": [
+      "treatment_002",
       "treatment_003"
     ],
     "related_effects": [
@@ -212,11 +286,28 @@
       "慢性肝炎"
     ],
     "related_formulas": [
+      "formula_019",
       "formula_021",
-      "formula_019"
+      "formula_040",
+      "formula_052"
     ],
     "related_needle": [
-      "needle_004"
+      "needle_004",
+      "needle_028",
+      "needle_030",
+      "needle_035",
+      "needle_041",
+      "needle_045",
+      "needle_050",
+      "needle_070",
+      "needle_078",
+      "needle_095",
+      "needle_098",
+      "needle_114",
+      "needle_157",
+      "needle_171",
+      "prescription_035",
+      "prescription_042"
     ],
     "related_treatments": [
       "treatment_004"
@@ -275,10 +366,45 @@
     ],
     "related_formulas": [
       "formula_042",
-      "formula_043"
+      "formula_110",
+      "formula_184",
+      "formula_186",
+      "formula_213",
+      "formula_282",
+      "formula_284",
+      "formula_308",
+      "formula_310",
+      "formula_312",
+      "formula_314",
+      "formula_315",
+      "formula_317",
+      "formula_319",
+      "formula_349",
+      "formula_350",
+      "formula_351",
+      "formula_352",
+      "formula_353"
     ],
     "related_needle": [
-      "needle_005"
+      "needle_005",
+      "needle_026",
+      "needle_036",
+      "needle_037",
+      "needle_039",
+      "needle_043",
+      "needle_044",
+      "needle_055",
+      "needle_058",
+      "needle_074",
+      "needle_083",
+      "needle_111",
+      "needle_112",
+      "needle_135",
+      "needle_140",
+      "needle_144",
+      "needle_146",
+      "needle_147",
+      "needle_172"
     ],
     "related_treatments": [
       "treatment_005"
@@ -334,11 +460,16 @@
       "慢性咽炎"
     ],
     "related_formulas": [
-      "formula_041",
-      "formula_037"
+      "formula_037",
+      "formula_041"
     ],
     "related_needle": [
-      "needle_006"
+      "needle_006",
+      "needle_022",
+      "needle_042",
+      "needle_104",
+      "needle_113",
+      "needle_180"
     ],
     "related_treatments": [
       "treatment_006"
@@ -396,10 +527,34 @@
     ],
     "related_formulas": [
       "formula_063",
-      "formula_064"
+      "formula_072",
+      "formula_116",
+      "formula_159",
+      "formula_197",
+      "formula_208",
+      "formula_214",
+      "formula_267",
+      "formula_268",
+      "formula_273",
+      "formula_274",
+      "formula_275",
+      "formula_304",
+      "formula_306",
+      "formula_308",
+      "formula_317",
+      "formula_339"
     ],
     "related_needle": [
-      "needle_007"
+      "needle_007",
+      "needle_022",
+      "needle_048",
+      "needle_049",
+      "needle_051",
+      "needle_067",
+      "needle_090",
+      "needle_099",
+      "needle_109",
+      "needle_117"
     ],
     "related_treatments": [
       "treatment_007"
@@ -457,10 +612,46 @@
     ],
     "related_formulas": [
       "formula_055",
-      "formula_056"
+      "formula_056",
+      "formula_058",
+      "formula_118",
+      "formula_156",
+      "formula_157",
+      "formula_160",
+      "formula_161",
+      "formula_177",
+      "formula_179",
+      "formula_192",
+      "formula_204",
+      "formula_207",
+      "formula_219",
+      "formula_220",
+      "formula_237",
+      "formula_249",
+      "formula_256",
+      "formula_263",
+      "formula_305",
+      "formula_316",
+      "formula_323"
     ],
     "related_needle": [
-      "needle_008"
+      "needle_008",
+      "needle_037",
+      "needle_045",
+      "needle_056",
+      "needle_065",
+      "needle_084",
+      "needle_087",
+      "needle_091",
+      "needle_138",
+      "needle_158",
+      "needle_167",
+      "needle_177",
+      "prescription_013",
+      "prescription_027",
+      "prescription_137",
+      "prescription_168",
+      "prescription_195"
     ],
     "related_treatments": [
       "treatment_008"
@@ -519,10 +710,27 @@
     ],
     "related_formulas": [
       "formula_039",
-      "formula_010"
+      "formula_040",
+      "formula_108",
+      "formula_203"
     ],
     "related_needle": [
-      "needle_009"
+      "needle_009",
+      "needle_032",
+      "needle_040",
+      "needle_052",
+      "needle_054",
+      "needle_058",
+      "needle_064",
+      "needle_071",
+      "needle_082",
+      "needle_096",
+      "needle_103",
+      "needle_128",
+      "needle_153",
+      "needle_165",
+      "prescription_112",
+      "prescription_147"
     ],
     "related_treatments": [
       "treatment_009"
@@ -582,13 +790,27 @@
     ],
     "related_formulas": [
       "formula_035",
-      "formula_036"
+      "formula_036",
+      "formula_162",
+      "formula_246",
+      "formula_284",
+      "formula_330",
+      "formula_335",
+      "formula_336",
+      "formula_345"
     ],
     "related_needle": [
-      "needle_010"
+      "needle_010",
+      "needle_045",
+      "needle_122",
+      "needle_162",
+      "prescription_103",
+      "prescription_107",
+      "prescription_134"
     ],
     "related_treatments": [
-      "treatment_010"
+      "treatment_010",
+      "treatment_025"
     ],
     "related_effects": [
       "effect_011"
@@ -641,11 +863,32 @@
       "阴道炎"
     ],
     "related_formulas": [
-      "formula_075",
-      "formula_008"
+      "formula_008",
+      "formula_079",
+      "formula_107",
+      "formula_176"
     ],
     "related_needle": [
-      "needle_011"
+      "needle_011",
+      "needle_030",
+      "needle_038",
+      "needle_043",
+      "needle_046",
+      "needle_069",
+      "needle_075",
+      "needle_079",
+      "needle_081",
+      "needle_090",
+      "needle_124",
+      "needle_130",
+      "needle_156",
+      "prescription_015",
+      "prescription_043",
+      "prescription_081",
+      "prescription_144",
+      "prescription_186",
+      "prescription_192",
+      "prescription_197"
     ],
     "related_treatments": [
       "treatment_011"
@@ -701,14 +944,33 @@
       "神经衰弱"
     ],
     "related_formulas": [
-      "formula_083",
-      "formula_084"
+      "formula_114",
+      "formula_155",
+      "formula_158",
+      "formula_234",
+      "formula_293"
     ],
     "related_needle": [
-      "needle_012"
+      "needle_012",
+      "needle_024",
+      "needle_033",
+      "needle_040",
+      "needle_041",
+      "needle_049",
+      "needle_063",
+      "needle_070",
+      "needle_082",
+      "needle_101",
+      "prescription_008",
+      "prescription_011",
+      "prescription_047",
+      "prescription_072",
+      "prescription_079",
+      "prescription_158"
     ],
     "related_treatments": [
-      "treatment_012"
+      "treatment_012",
+      "treatment_026"
     ],
     "related_effects": [
       "effect_004",
@@ -761,12 +1023,18 @@
     ],
     "related_formulas": [
       "formula_007",
-      "formula_045"
+      "formula_120",
+      "formula_257",
+      "formula_309"
     ],
     "related_needle": [
-      "needle_013"
+      "needle_013",
+      "needle_032",
+      "needle_060",
+      "needle_127"
     ],
     "related_treatments": [
+      "treatment_009",
       "treatment_013"
     ],
     "related_effects": [
@@ -820,13 +1088,18 @@
       "积食"
     ],
     "related_formulas": [
+      "formula_023",
       "formula_024",
-      "formula_023"
+      "formula_072",
+      "formula_206"
     ],
     "related_needle": [
-      "needle_014"
+      "needle_014",
+      "needle_023",
+      "needle_034"
     ],
     "related_treatments": [
+      "treatment_013",
       "treatment_014"
     ],
     "related_effects": [
@@ -886,7 +1159,13 @@
       "formula_081"
     ],
     "related_needle": [
-      "needle_015"
+      "needle_015",
+      "needle_031",
+      "needle_054",
+      "needle_056",
+      "needle_084",
+      "prescription_010",
+      "prescription_122"
     ],
     "related_treatments": [
       "treatment_015"
@@ -940,12 +1219,16 @@
       "荨麻疹"
     ],
     "related_formulas": [
-      "formula_002"
+      "formula_001",
+      "formula_002",
+      "formula_258"
     ],
     "related_needle": [
-      "needle_016"
+      "needle_016",
+      "needle_076"
     ],
     "related_treatments": [
+      "treatment_001",
       "treatment_016"
     ],
     "related_effects": [
@@ -997,13 +1280,16 @@
       "急性支气管炎"
     ],
     "related_formulas": [
-      "formula_001"
+      "formula_001",
+      "formula_089"
     ],
     "related_needle": [
-      "needle_001"
+      "needle_001",
+      "needle_148"
     ],
     "related_treatments": [
-      "treatment_001"
+      "treatment_001",
+      "treatment_017"
     ],
     "related_effects": [
       "effect_001",
@@ -1058,10 +1344,16 @@
       "感染性休克早期"
     ],
     "related_formulas": [
-      "formula_006"
+      "formula_006",
+      "formula_093"
     ],
     "related_needle": [
-      "needle_019"
+      "needle_019",
+      "needle_038",
+      "needle_047",
+      "needle_060",
+      "needle_121",
+      "needle_152"
     ],
     "related_treatments": [
       "treatment_019"
@@ -1120,7 +1412,8 @@
     ],
     "related_formulas": [
       "formula_014",
-      "formula_015"
+      "formula_015",
+      "formula_016"
     ],
     "related_needle": [
       "needle_019"
@@ -1181,10 +1474,14 @@
       "疟疾"
     ],
     "related_formulas": [
-      "formula_019"
+      "formula_019",
+      "formula_092"
     ],
     "related_needle": [
-      "needle_016"
+      "needle_016",
+      "needle_035",
+      "needle_059",
+      "needle_061"
     ],
     "related_treatments": [
       "treatment_016"
@@ -1241,10 +1538,15 @@
       "功能性消化不良"
     ],
     "related_formulas": [
-      "formula_025"
+      "formula_025",
+      "formula_096"
     ],
     "related_needle": [
-      "needle_017"
+      "needle_017",
+      "needle_029",
+      "needle_039",
+      "needle_106",
+      "needle_137"
     ],
     "related_treatments": [
       "treatment_017"
@@ -1302,12 +1604,40 @@
     ],
     "related_formulas": [
       "formula_025",
-      "formula_026"
+      "formula_026",
+      "formula_027",
+      "formula_200",
+      "formula_205",
+      "formula_224",
+      "formula_231",
+      "formula_236",
+      "formula_239",
+      "formula_248",
+      "formula_255",
+      "formula_259",
+      "formula_283",
+      "formula_289",
+      "formula_299",
+      "formula_311",
+      "formula_318",
+      "formula_320",
+      "formula_321",
+      "formula_322",
+      "formula_332",
+      "formula_333",
+      "formula_334",
+      "formula_341",
+      "formula_349",
+      "formula_351"
     ],
     "related_needle": [
-      "needle_018"
+      "needle_018",
+      "needle_039",
+      "needle_115",
+      "needle_133"
     ],
     "related_treatments": [
+      "treatment_017",
       "treatment_018"
     ],
     "related_effects": [
@@ -1360,10 +1690,12 @@
       "神经官能症"
     ],
     "related_formulas": [
-      "formula_046"
+      "formula_009",
+      "formula_103"
     ],
     "related_needle": [
-      "needle_009"
+      "needle_009",
+      "needle_032"
     ],
     "related_treatments": [
       "treatment_009"
@@ -1420,13 +1752,17 @@
       "胃肠功能紊乱"
     ],
     "related_formulas": [
-      "formula_019"
+      "formula_019",
+      "formula_026",
+      "formula_098",
+      "formula_230"
     ],
     "related_needle": [
       "needle_017"
     ],
     "related_treatments": [
-      "treatment_016"
+      "treatment_016",
+      "treatment_017"
     ],
     "related_effects": [
       "effect_004",
@@ -1481,13 +1817,16 @@
       "胸膜炎"
     ],
     "related_formulas": [
-      "formula_014"
+      "formula_014",
+      "formula_066"
     ],
     "related_needle": [
-      "needle_019"
+      "needle_019",
+      "needle_061"
     ],
     "related_treatments": [
-      "treatment_019"
+      "treatment_019",
+      "treatment_023"
     ],
     "related_effects": [
       "effect_016",
@@ -1539,13 +1878,20 @@
       "胃食管反流"
     ],
     "related_formulas": [
-      "formula_022"
+      "formula_022",
+      "formula_023",
+      "formula_095",
+      "formula_182",
+      "formula_189",
+      "formula_234"
     ],
     "related_needle": [
-      "needle_003"
+      "needle_003",
+      "needle_149"
     ],
     "related_treatments": [
-      "treatment_003"
+      "treatment_003",
+      "treatment_016"
     ],
     "related_effects": [
       "effect_003"
@@ -1598,12 +1944,16 @@
     ],
     "related_formulas": [
       "formula_081",
-      "formula_077"
+      "formula_115"
     ],
     "related_needle": [
-      "needle_008"
+      "needle_008",
+      "needle_027",
+      "needle_053",
+      "needle_068"
     ],
     "related_treatments": [
+      "treatment_018",
       "treatment_021"
     ],
     "related_effects": [
@@ -1661,13 +2011,21 @@
     ],
     "related_formulas": [
       "formula_082",
-      "formula_077"
+      "formula_115",
+      "formula_337"
     ],
     "related_needle": [
-      "needle_008"
+      "needle_008",
+      "needle_027",
+      "needle_053",
+      "needle_068",
+      "needle_073",
+      "needle_085",
+      "needle_166"
     ],
     "related_treatments": [
-      "treatment_021"
+      "treatment_021",
+      "treatment_027"
     ],
     "related_effects": [
       "effect_013",
@@ -1719,13 +2077,21 @@
       "心肌梗死"
     ],
     "related_formulas": [
-      "formula_054"
+      "formula_054",
+      "formula_055",
+      "formula_186"
     ],
     "related_needle": [
-      "needle_020"
+      "needle_020",
+      "needle_028",
+      "needle_065",
+      "needle_139"
     ],
     "related_treatments": [
-      "treatment_023"
+      "treatment_005",
+      "treatment_008",
+      "treatment_023",
+      "treatment_030"
     ],
     "related_effects": [
       "effect_004",
@@ -1784,7 +2150,9 @@
       "formula_074"
     ],
     "related_needle": [
-      "needle_011"
+      "needle_011",
+      "needle_030",
+      "needle_062"
     ],
     "related_treatments": [
       "treatment_022"
@@ -1841,13 +2209,21 @@
       "肾病综合征"
     ],
     "related_formulas": [
-      "formula_070"
+      "formula_070",
+      "formula_163",
+      "formula_199",
+      "formula_217"
     ],
     "related_needle": [
-      "needle_005"
+      "needle_005",
+      "needle_036",
+      "needle_083"
     ],
     "related_treatments": [
-      "treatment_020"
+      "treatment_010",
+      "treatment_020",
+      "treatment_021",
+      "treatment_029"
     ],
     "related_effects": [
       "effect_008",
@@ -1901,13 +2277,21 @@
     ],
     "related_formulas": [
       "formula_068",
-      "formula_069"
+      "formula_069",
+      "formula_070",
+      "formula_170"
     ],
     "related_needle": [
-      "needle_020"
+      "needle_020",
+      "needle_028",
+      "needle_036",
+      "needle_140"
     ],
     "related_treatments": [
-      "treatment_020"
+      "treatment_010",
+      "treatment_017",
+      "treatment_020",
+      "treatment_029"
     ],
     "related_effects": [
       "effect_005",
@@ -1962,10 +2346,18 @@
       "脑供血不足"
     ],
     "related_formulas": [
-      "formula_067"
+      "formula_063",
+      "formula_067",
+      "formula_116"
     ],
     "related_needle": [
-      "needle_012"
+      "needle_012",
+      "needle_033",
+      "needle_040",
+      "needle_049",
+      "needle_063",
+      "prescription_140",
+      "prescription_162"
     ],
     "related_treatments": [
       "treatment_007"
@@ -2015,10 +2407,28 @@
       "尿崩症"
     ],
     "related_formulas": [
-      "formula_006"
+      "formula_006",
+      "formula_093",
+      "formula_174",
+      "formula_187",
+      "formula_193",
+      "formula_194",
+      "formula_202",
+      "formula_235",
+      "formula_251",
+      "formula_261",
+      "formula_270",
+      "formula_295",
+      "formula_297",
+      "formula_301",
+      "formula_313",
+      "formula_327"
     ],
     "related_needle": [
-      "needle_009"
+      "needle_009",
+      "needle_052",
+      "needle_054",
+      "needle_064"
     ],
     "related_treatments": [
       "treatment_009"
@@ -2076,13 +2486,34 @@
     ],
     "related_formulas": [
       "formula_056",
-      "formula_081"
+      "formula_081",
+      "formula_114",
+      "formula_149",
+      "formula_171",
+      "formula_172",
+      "formula_173",
+      "formula_185",
+      "formula_188",
+      "formula_252",
+      "formula_253",
+      "formula_272",
+      "formula_287",
+      "formula_291"
     ],
     "related_needle": [
-      "needle_015"
+      "needle_015",
+      "needle_025",
+      "needle_031",
+      "needle_077",
+      "needle_129",
+      "needle_132",
+      "needle_135"
     ],
     "related_treatments": [
-      "treatment_015"
+      "treatment_012",
+      "treatment_015",
+      "treatment_026",
+      "treatment_028"
     ],
     "related_effects": [
       "effect_009",
@@ -2136,10 +2567,23 @@
       "上呼吸道感染"
     ],
     "related_formulas": [
-      "formula_001"
+      "formula_001",
+      "formula_067",
+      "formula_260",
+      "formula_267",
+      "formula_269",
+      "formula_271",
+      "formula_273",
+      "formula_298",
+      "formula_326",
+      "formula_345",
+      "formula_346"
     ],
     "related_needle": [
-      "needle_001"
+      "needle_001",
+      "needle_022",
+      "needle_116",
+      "needle_159"
     ],
     "related_treatments": [
       "treatment_001"
@@ -2197,12 +2641,18 @@
     ],
     "related_formulas": [
       "formula_005",
-      "formula_065"
+      "formula_065",
+      "formula_196",
+      "formula_201",
+      "formula_210",
+      "formula_240"
     ],
     "related_needle": [
-      "needle_002"
+      "needle_002",
+      "needle_150"
     ],
     "related_treatments": [
+      "treatment_002",
       "treatment_007"
     ],
     "related_effects": [
@@ -2256,13 +2706,17 @@
     ],
     "related_formulas": [
       "formula_005",
-      "formula_066"
+      "formula_066",
+      "formula_250"
     ],
     "related_needle": [
-      "needle_007"
+      "needle_007",
+      "needle_051",
+      "needle_067"
     ],
     "related_treatments": [
-      "treatment_007"
+      "treatment_007",
+      "treatment_023"
     ],
     "related_effects": [
       "effect_006",
@@ -2314,10 +2768,14 @@
       "神经性呕吐"
     ],
     "related_formulas": [
-      "formula_002"
+      "formula_002",
+      "formula_026"
     ],
     "related_needle": [
-      "needle_017"
+      "needle_017",
+      "needle_034",
+      "needle_099",
+      "prescription_183"
     ],
     "related_treatments": [
       "treatment_017"
@@ -2374,13 +2832,18 @@
     ],
     "related_formulas": [
       "formula_029",
-      "formula_073"
+      "formula_106",
+      "formula_180",
+      "formula_245",
+      "formula_266"
     ],
     "related_needle": [
-      "needle_017"
+      "needle_017",
+      "needle_029"
     ],
     "related_treatments": [
-      "treatment_017"
+      "treatment_017",
+      "treatment_029"
     ],
     "related_effects": [
       "effect_003",
@@ -2435,12 +2898,20 @@
     ],
     "related_formulas": [
       "formula_014",
-      "formula_017"
+      "formula_017",
+      "formula_165",
+      "formula_169",
+      "formula_307"
     ],
     "related_needle": [
-      "needle_019"
+      "needle_019",
+      "needle_072",
+      "needle_160",
+      "prescription_005",
+      "prescription_153"
     ],
     "related_treatments": [
+      "treatment_013",
       "treatment_019"
     ],
     "related_effects": [
@@ -2495,10 +2966,14 @@
       "颈源性头痛"
     ],
     "related_formulas": [
-      "formula_080"
+      "formula_080",
+      "formula_167",
+      "formula_168",
+      "formula_216"
     ],
     "related_needle": [
-      "needle_001"
+      "needle_001",
+      "needle_024"
     ],
     "related_treatments": [
       "treatment_001"
@@ -2553,14 +3028,29 @@
       "偏头痛"
     ],
     "related_formulas": [
-      "formula_083",
-      "formula_084"
+      "formula_114",
+      "formula_164",
+      "formula_166",
+      "formula_209",
+      "formula_221",
+      "formula_223",
+      "formula_234",
+      "formula_238",
+      "formula_244",
+      "formula_247",
+      "formula_295"
     ],
     "related_needle": [
-      "needle_012"
+      "needle_012",
+      "needle_024",
+      "needle_033",
+      "needle_063",
+      "needle_070",
+      "needle_102"
     ],
     "related_treatments": [
-      "treatment_012"
+      "treatment_012",
+      "treatment_026"
     ],
     "related_effects": [
       "effect_004",
@@ -2615,14 +3105,19 @@
       "腰椎骨关节炎"
     ],
     "related_formulas": [
-      "formula_077",
-      "formula_078"
+      "formula_078",
+      "formula_115"
     ],
     "related_needle": [
-      "needle_005"
+      "needle_005",
+      "needle_026",
+      "needle_074",
+      "needle_146",
+      "prescription_028"
     ],
     "related_treatments": [
-      "treatment_021"
+      "treatment_021",
+      "treatment_027"
     ],
     "related_effects": [
       "effect_013",
@@ -2676,12 +3171,18 @@
       "慢性疲劳综合征"
     ],
     "related_formulas": [
-      "formula_034"
+      "formula_033",
+      "formula_034",
+      "formula_121",
+      "formula_222"
     ],
     "related_needle": [
-      "needle_010"
+      "needle_010",
+      "needle_032",
+      "needle_071"
     ],
     "related_treatments": [
+      "treatment_003",
       "treatment_010"
     ],
     "related_effects": [
@@ -2737,13 +3238,27 @@
     ],
     "related_formulas": [
       "formula_021",
-      "formula_052"
+      "formula_052",
+      "formula_198",
+      "formula_232",
+      "formula_241",
+      "formula_243",
+      "formula_285",
+      "formula_330",
+      "formula_335",
+      "formula_336",
+      "formula_354",
+      "formula_355"
     ],
     "related_needle": [
-      "needle_004"
+      "needle_004",
+      "needle_035",
+      "needle_050",
+      "needle_142"
     ],
     "related_treatments": [
-      "treatment_004"
+      "treatment_004",
+      "treatment_005"
     ],
     "related_effects": [
       "effect_004"
@@ -2797,10 +3312,13 @@
       "急性前列腺炎"
     ],
     "related_formulas": [
-      "formula_075"
+      "formula_107"
     ],
     "related_needle": [
-      "needle_011"
+      "needle_011",
+      "needle_043",
+      "needle_075",
+      "needle_143"
     ],
     "related_treatments": [
       "treatment_011"
@@ -2856,13 +3374,19 @@
     ],
     "related_formulas": [
       "formula_030",
+      "formula_031",
       "formula_056"
     ],
     "related_needle": [
-      "needle_003"
+      "needle_003",
+      "needle_027",
+      "needle_044",
+      "needle_055",
+      "needle_077"
     ],
     "related_treatments": [
-      "treatment_003"
+      "treatment_003",
+      "treatment_008"
     ],
     "related_effects": [
       "effect_003",
@@ -2916,13 +3440,19 @@
       "过敏性哮喘"
     ],
     "related_formulas": [
-      "formula_005"
+      "formula_005",
+      "formula_089",
+      "formula_181",
+      "formula_215"
     ],
     "related_needle": [
-      "needle_007"
+      "needle_007",
+      "needle_051",
+      "needle_067"
     ],
     "related_treatments": [
-      "treatment_001"
+      "treatment_001",
+      "treatment_007"
     ],
     "related_effects": [
       "effect_006"
@@ -2974,12 +3504,16 @@
     ],
     "related_formulas": [
       "formula_023",
-      "formula_024"
+      "formula_024",
+      "formula_063"
     ],
     "related_needle": [
-      "needle_014"
+      "needle_014",
+      "needle_023",
+      "needle_161"
     ],
     "related_treatments": [
+      "treatment_013",
       "treatment_014"
     ],
     "related_effects": [
@@ -3036,13 +3570,16 @@
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004"
+      "formula_123"
     ],
     "related_needle": [
-      "needle_002"
+      "needle_002",
+      "needle_151",
+      "needle_155"
     ],
     "related_treatments": [
-      "treatment_002"
+      "treatment_002",
+      "treatment_024"
     ],
     "related_effects": [
       "effect_002",
@@ -3096,14 +3633,26 @@
       "败血症"
     ],
     "related_formulas": [
+      "formula_005",
       "formula_006",
-      "formula_005"
+      "formula_093",
+      "formula_264",
+      "formula_265",
+      "formula_290",
+      "formula_292",
+      "formula_295",
+      "formula_342",
+      "formula_356",
+      "formula_357",
+      "formula_358"
     ],
     "related_needle": [
-      "needle_019"
+      "needle_019",
+      "needle_152"
     ],
     "related_treatments": [
-      "treatment_019"
+      "treatment_019",
+      "treatment_024"
     ],
     "related_effects": [
       "effect_002",
@@ -3157,14 +3706,28 @@
       "重症传染性疾病"
     ],
     "related_formulas": [
-      "formula_003"
+      "formula_003",
+      "formula_101",
+      "formula_103",
+      "formula_269",
+      "formula_271",
+      "formula_290",
+      "formula_294",
+      "formula_343",
+      "formula_344",
+      "formula_346",
+      "formula_357",
+      "formula_358"
     ],
     "related_needle": [
       "needle_002",
-      "needle_019"
+      "needle_019",
+      "needle_153"
     ],
     "related_treatments": [
-      "treatment_009"
+      "treatment_009",
+      "treatment_024",
+      "treatment_028"
     ],
     "related_effects": [
       "effect_002",
@@ -3219,14 +3782,18 @@
       "败血症晚期"
     ],
     "related_formulas": [
-      "formula_014"
+      "formula_014",
+      "formula_102",
+      "formula_125"
     ],
     "related_needle": [
+      "needle_012",
       "needle_019",
-      "needle_012"
+      "needle_154"
     ],
     "related_treatments": [
-      "treatment_019"
+      "treatment_019",
+      "treatment_024"
     ],
     "related_effects": [
       "effect_009",
@@ -3283,14 +3850,28 @@
     ],
     "related_formulas": [
       "formula_003",
-      "formula_019"
+      "formula_019",
+      "formula_104",
+      "formula_106",
+      "formula_265",
+      "formula_292",
+      "formula_300",
+      "formula_302",
+      "formula_338",
+      "formula_339",
+      "formula_340",
+      "formula_341",
+      "formula_342"
     ],
     "related_needle": [
       "needle_002",
-      "needle_007"
+      "needle_007",
+      "needle_155"
     ],
     "related_treatments": [
-      "treatment_007"
+      "treatment_007",
+      "treatment_009",
+      "treatment_011"
     ],
     "related_effects": [
       "effect_001",
@@ -3348,14 +3929,23 @@
     ],
     "related_formulas": [
       "formula_029",
-      "formula_073"
+      "formula_105",
+      "formula_106",
+      "formula_279",
+      "formula_282",
+      "formula_326",
+      "formula_328",
+      "formula_354"
     ],
     "related_needle": [
       "needle_003",
-      "needle_011"
+      "needle_011",
+      "needle_156"
     ],
     "related_treatments": [
-      "treatment_003"
+      "treatment_003",
+      "treatment_009",
+      "treatment_011"
     ],
     "related_effects": [
       "effect_003",
@@ -3412,15 +4002,20 @@
       "痔疮发作"
     ],
     "related_formulas": [
-      "formula_075",
-      "formula_016"
+      "formula_008",
+      "formula_016",
+      "formula_107"
     ],
     "related_needle": [
+      "needle_003",
       "needle_011",
-      "needle_003"
+      "needle_075",
+      "needle_081"
     ],
     "related_treatments": [
-      "treatment_011"
+      "treatment_009",
+      "treatment_011",
+      "treatment_020"
     ],
     "related_effects": [
       "effect_012",
@@ -3475,13 +4070,25 @@
     ],
     "related_formulas": [
       "formula_021",
-      "formula_052"
+      "formula_052",
+      "formula_280",
+      "formula_286",
+      "formula_288",
+      "formula_321",
+      "formula_322",
+      "formula_324",
+      "formula_325",
+      "formula_333",
+      "formula_334",
+      "formula_355"
     ],
     "related_needle": [
-      "needle_004"
+      "needle_004",
+      "needle_157"
     ],
     "related_treatments": [
-      "treatment_004"
+      "treatment_004",
+      "treatment_005"
     ],
     "related_effects": [
       "effect_004"
@@ -3538,14 +4145,22 @@
     ],
     "related_formulas": [
       "formula_030",
-      "formula_031"
+      "formula_031",
+      "formula_032",
+      "formula_280",
+      "formula_286"
     ],
     "related_needle": [
       "needle_003",
-      "needle_015"
+      "needle_015",
+      "needle_107",
+      "needle_136",
+      "needle_144"
     ],
     "related_treatments": [
-      "treatment_003"
+      "treatment_001",
+      "treatment_003",
+      "treatment_025"
     ],
     "related_effects": [
       "effect_003"
@@ -3600,13 +4215,19 @@
     ],
     "related_formulas": [
       "formula_055",
-      "formula_056"
+      "formula_056",
+      "formula_057",
+      "formula_111"
     ],
     "related_needle": [
-      "needle_008"
+      "needle_008",
+      "needle_158",
+      "needle_163"
     ],
     "related_treatments": [
-      "treatment_008"
+      "treatment_005",
+      "treatment_008",
+      "treatment_030"
     ],
     "related_effects": [
       "effect_009",
@@ -3661,11 +4282,14 @@
     ],
     "related_formulas": [
       "formula_001",
-      "formula_005"
+      "formula_002",
+      "formula_005",
+      "formula_123"
     ],
     "related_needle": [
       "needle_001",
-      "needle_006"
+      "needle_006",
+      "needle_159"
     ],
     "related_treatments": [
       "treatment_001"
@@ -3722,13 +4346,16 @@
     ],
     "related_formulas": [
       "formula_003",
+      "formula_014",
       "formula_017"
     ],
     "related_needle": [
-      "needle_002"
+      "needle_002",
+      "needle_160"
     ],
     "related_treatments": [
-      "treatment_002"
+      "treatment_002",
+      "treatment_019"
     ],
     "related_effects": [
       "effect_002",
@@ -3784,12 +4411,16 @@
     ],
     "related_formulas": [
       "formula_006",
-      "formula_007"
+      "formula_007",
+      "formula_009",
+      "formula_108"
     ],
     "related_needle": [
-      "needle_019"
+      "needle_019",
+      "needle_161"
     ],
     "related_treatments": [
+      "treatment_003",
       "treatment_019"
     ],
     "related_effects": [
@@ -3844,14 +4475,17 @@
       "腓肠肌痉挛"
     ],
     "related_formulas": [
-      "formula_077",
-      "formula_078"
+      "formula_002",
+      "formula_078",
+      "formula_115"
     ],
     "related_needle": [
       "needle_001",
-      "needle_005"
+      "needle_005",
+      "needle_073"
     ],
     "related_treatments": [
+      "treatment_001",
       "treatment_007"
     ],
     "related_effects": [
@@ -3909,13 +4543,17 @@
     ],
     "related_formulas": [
       "formula_025",
-      "formula_026"
+      "formula_026",
+      "formula_027"
     ],
     "related_needle": [
       "needle_018",
-      "needle_020"
+      "needle_020",
+      "needle_119",
+      "needle_139"
     ],
     "related_treatments": [
+      "treatment_017",
       "treatment_018"
     ],
     "related_effects": [
@@ -3973,11 +4611,13 @@
       "干眼症"
     ],
     "related_formulas": [
+      "formula_033",
       "formula_035",
       "formula_036"
     ],
     "related_needle": [
-      "needle_010"
+      "needle_010",
+      "needle_162"
     ],
     "related_treatments": [
       "treatment_010"
@@ -4035,14 +4675,18 @@
       "免疫功能低下"
     ],
     "related_formulas": [
+      "formula_030",
       "formula_041",
-      "formula_030"
+      "formula_086"
     ],
     "related_needle": [
-      "needle_006"
+      "needle_006",
+      "needle_076"
     ],
     "related_treatments": [
-      "treatment_006"
+      "treatment_003",
+      "treatment_006",
+      "treatment_025"
     ],
     "related_effects": [
       "effect_003",
@@ -4095,13 +4739,16 @@
     ],
     "related_formulas": [
       "formula_055",
-      "formula_056"
+      "formula_056",
+      "formula_058"
     ],
     "related_needle": [
-      "needle_008"
+      "needle_008",
+      "needle_163"
     ],
     "related_treatments": [
-      "treatment_008"
+      "treatment_008",
+      "treatment_015"
     ],
     "related_effects": [
       "effect_009",
@@ -4158,14 +4805,19 @@
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004"
+      "formula_106",
+      "formula_123",
+      "formula_143"
     ],
     "related_needle": [
       "needle_002",
-      "needle_019"
+      "needle_019",
+      "needle_123",
+      "prescription_151"
     ],
     "related_treatments": [
-      "treatment_002"
+      "treatment_002",
+      "treatment_011"
     ],
     "related_effects": [
       "effect_002",
@@ -4224,13 +4876,19 @@
       "胆道感染"
     ],
     "related_formulas": [
+      "formula_008",
       "formula_074"
     ],
     "related_needle": [
-      "needle_061"
+      "needle_061",
+      "needle_062",
+      "needle_098",
+      "prescription_034",
+      "prescription_044"
     ],
     "related_treatments": [
-      "treatment_011"
+      "treatment_011",
+      "treatment_022"
     ],
     "related_effects": [
       "effect_012",
@@ -4287,14 +4945,16 @@
       "胆绞痛"
     ],
     "related_formulas": [
+      "formula_020",
       "formula_074"
     ],
     "related_needle": [
       "needle_062"
     ],
     "related_treatments": [
+      "treatment_004",
       "treatment_011",
-      "treatment_004"
+      "treatment_022"
     ],
     "related_effects": [
       "effect_012",
@@ -4351,13 +5011,19 @@
       "牙周炎"
     ],
     "related_formulas": [
+      "formula_006",
       "formula_007",
-      "formula_006"
+      "formula_009",
+      "formula_108"
     ],
     "related_needle": [
-      "needle_066"
+      "needle_065",
+      "needle_066",
+      "prescription_113",
+      "prescription_184"
     ],
     "related_treatments": [
+      "treatment_013",
       "treatment_019"
     ],
     "related_effects": [
@@ -4479,13 +5145,16 @@
     ],
     "related_formulas": [
       "formula_030",
+      "formula_034",
       "formula_041"
     ],
     "related_needle": [
-      "needle_064"
+      "needle_064",
+      "needle_083"
     ],
     "related_treatments": [
       "treatment_003",
+      "treatment_006",
       "treatment_009"
     ],
     "related_effects": [
@@ -4547,12 +5216,42 @@
     ],
     "related_formulas": [
       "formula_025",
-      "formula_026"
+      "formula_026",
+      "formula_042",
+      "formula_110",
+      "formula_288",
+      "formula_296",
+      "formula_304",
+      "formula_310",
+      "formula_312",
+      "formula_314",
+      "formula_315",
+      "formula_319",
+      "formula_324",
+      "formula_325",
+      "formula_328",
+      "formula_331",
+      "formula_332",
+      "formula_337",
+      "formula_338",
+      "formula_340",
+      "formula_343",
+      "formula_344",
+      "formula_347",
+      "formula_348",
+      "formula_350",
+      "formula_352",
+      "formula_353",
+      "formula_356"
     ],
     "related_needle": [
-      "needle_036"
+      "needle_036",
+      "needle_078",
+      "needle_080",
+      "prescription_071"
     ],
     "related_treatments": [
+      "treatment_005",
       "treatment_018"
     ],
     "related_effects": [
@@ -4611,13 +5310,16 @@
       "类风湿关节炎活动期"
     ],
     "related_formulas": [
-      "formula_077",
-      "formula_082"
+      "formula_082",
+      "formula_115"
     ],
     "related_needle": [
-      "needle_068"
+      "needle_068",
+      "needle_069",
+      "needle_085"
     ],
     "related_treatments": [
+      "treatment_012",
       "treatment_021"
     ],
     "related_effects": [
@@ -4675,14 +5377,20 @@
       "功能性消化不良"
     ],
     "related_formulas": [
-      "formula_021",
-      "formula_007"
+      "formula_007",
+      "formula_008",
+      "formula_021"
     ],
     "related_needle": [
-      "needle_066"
+      "needle_066",
+      "needle_073",
+      "needle_074",
+      "needle_079",
+      "needle_085"
     ],
     "related_treatments": [
-      "treatment_004"
+      "treatment_004",
+      "treatment_022"
     ],
     "related_effects": [
       "effect_002",
@@ -4741,11 +5449,17 @@
       "疱疹样皮炎"
     ],
     "related_formulas": [
-      "formula_075",
-      "formula_008"
+      "formula_008",
+      "formula_079",
+      "formula_107"
     ],
     "related_needle": [
-      "needle_079"
+      "needle_071",
+      "needle_079",
+      "needle_086",
+      "needle_087",
+      "needle_088",
+      "needle_093"
     ],
     "related_treatments": [
       "treatment_011"
@@ -4808,11 +5522,14 @@
       "神经衰弱"
     ],
     "related_formulas": [
+      "formula_037",
       "formula_039",
-      "formula_010"
+      "formula_108",
+      "formula_109"
     ],
     "related_needle": [
-      "needle_009"
+      "needle_009",
+      "needle_082"
     ],
     "related_treatments": [
       "treatment_009"
@@ -4873,13 +5590,17 @@
     ],
     "related_formulas": [
       "formula_054",
-      "formula_055"
+      "formula_055",
+      "formula_116"
     ],
     "related_needle": [
-      "needle_065"
+      "needle_065",
+      "needle_079",
+      "needle_081"
     ],
     "related_treatments": [
-      "treatment_023"
+      "treatment_023",
+      "treatment_030"
     ],
     "related_effects": [
       "effect_004",
@@ -4937,10 +5658,12 @@
     ],
     "related_formulas": [
       "formula_003",
+      "formula_008",
       "formula_074"
     ],
     "related_needle": [
-      "needle_078"
+      "needle_078",
+      "needle_164"
     ],
     "related_treatments": [
       "treatment_004",
@@ -5001,10 +5724,13 @@
     ],
     "related_formulas": [
       "formula_006",
-      "formula_007"
+      "formula_007",
+      "formula_093",
+      "formula_108"
     ],
     "related_needle": [
-      "needle_052"
+      "needle_052",
+      "needle_165"
     ],
     "related_treatments": [
       "treatment_009"
@@ -5065,10 +5791,14 @@
     ],
     "related_formulas": [
       "formula_003",
-      "formula_005"
+      "formula_005",
+      "formula_123"
     ],
     "related_needle": [
-      "needle_080"
+      "needle_080",
+      "needle_091",
+      "needle_141",
+      "prescription_022"
     ],
     "related_treatments": [
       "treatment_002"
@@ -5129,14 +5859,19 @@
       "肌筋膜炎"
     ],
     "related_formulas": [
-      "formula_077",
-      "formula_081"
+      "formula_081",
+      "formula_115"
     ],
     "related_needle": [
-      "needle_027"
+      "needle_027",
+      "needle_166",
+      "prescription_026",
+      "prescription_097",
+      "prescription_136"
     ],
     "related_treatments": [
-      "treatment_021"
+      "treatment_021",
+      "treatment_027"
     ],
     "related_effects": [
       "effect_013",
@@ -5196,13 +5931,18 @@
     ],
     "related_formulas": [
       "formula_055",
-      "formula_056"
+      "formula_056",
+      "formula_118"
     ],
     "related_needle": [
-      "needle_073"
+      "needle_073",
+      "needle_167",
+      "needle_176",
+      "prescription_065"
     ],
     "related_treatments": [
-      "treatment_008"
+      "treatment_008",
+      "treatment_030"
     ],
     "related_effects": [
       "effect_009",
@@ -5260,13 +6000,20 @@
       "心脏神经官能症"
     ],
     "related_formulas": [
+      "formula_033",
       "formula_034",
-      "formula_035"
+      "formula_035",
+      "formula_121"
     ],
     "related_needle": [
-      "needle_071"
+      "needle_071",
+      "needle_094",
+      "prescription_006",
+      "prescription_109",
+      "prescription_139"
     ],
     "related_treatments": [
+      "treatment_003",
       "treatment_010"
     ],
     "related_effects": [
@@ -5332,7 +6079,9 @@
       "needle_010"
     ],
     "related_treatments": [
-      "treatment_010"
+      "treatment_003",
+      "treatment_010",
+      "treatment_025"
     ],
     "related_effects": [
       "effect_011"
@@ -5387,11 +6136,13 @@
       "血管性水肿"
     ],
     "related_formulas": [
+      "formula_002",
       "formula_003",
-      "formula_002"
+      "formula_079"
     ],
     "related_needle": [
-      "needle_079"
+      "needle_079",
+      "needle_169"
     ],
     "related_treatments": [
       "treatment_001"
@@ -5451,11 +6202,15 @@
       "肛周脓肿"
     ],
     "related_formulas": [
+      "formula_011",
+      "formula_012",
       "formula_016",
-      "formula_075"
+      "formula_107"
     ],
     "related_needle": [
-      "needle_081"
+      "needle_081",
+      "needle_095",
+      "needle_096"
     ],
     "related_treatments": [
       "treatment_011"
@@ -5513,9 +6268,13 @@
     ],
     "related_formulas": [
       "formula_085",
-      "formula_083"
+      "formula_234"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_101",
+      "needle_132",
+      "prescription_066"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_002",
@@ -5567,7 +6326,11 @@
       "formula_008",
       "formula_126"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_102",
+      "needle_134",
+      "needle_164"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_002"
@@ -5618,7 +6381,9 @@
       "formula_127",
       "formula_128"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_103"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -5666,7 +6431,17 @@
       "formula_040",
       "formula_129"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_092",
+      "needle_100",
+      "needle_104",
+      "needle_126",
+      "prescription_024",
+      "prescription_041",
+      "prescription_049",
+      "prescription_091",
+      "prescription_159"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_007"
@@ -5717,7 +6492,12 @@
       "formula_030",
       "formula_130"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_088",
+      "needle_105",
+      "needle_108",
+      "prescription_025"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_003"
@@ -5768,7 +6548,12 @@
       "formula_024",
       "formula_131"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_094",
+      "needle_106",
+      "needle_137",
+      "needle_147"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_003"
@@ -5821,7 +6606,12 @@
       "formula_113",
       "formula_140"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_086",
+      "needle_093",
+      "needle_107",
+      "needle_120"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_003"
@@ -5871,7 +6661,9 @@
     "related_formulas": [
       "formula_033"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_108"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_003"
@@ -5921,7 +6713,11 @@
     "related_formulas": [
       "formula_132"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_109",
+      "needle_131",
+      "needle_142"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -5968,7 +6764,11 @@
     "related_formulas": [
       "formula_133"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_110",
+      "needle_145",
+      "prescription_163"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6015,10 +6815,13 @@
       "老年性痴呆"
     ],
     "related_formulas": [
-      "formula_038",
+      "formula_109",
       "formula_134"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_111",
+      "needle_145"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_007"
@@ -6065,10 +6868,15 @@
       "神经源性膀胱"
     ],
     "related_formulas": [
-      "formula_049",
-      "formula_050"
+      "formula_050",
+      "formula_122"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_112",
+      "prescription_069",
+      "prescription_110",
+      "prescription_193"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_005"
@@ -6118,7 +6926,9 @@
       "formula_041",
       "formula_135"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_113"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_007"
@@ -6168,7 +6978,9 @@
       "formula_021",
       "formula_022"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_114"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_003",
@@ -6216,9 +7028,13 @@
       "精索静脉曲张"
     ],
     "related_formulas": [
-      "formula_145"
+      "formula_274"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_100",
+      "needle_115",
+      "needle_138"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6265,7 +7081,10 @@
       "formula_136",
       "formula_137"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_116",
+      "needle_141"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6309,9 +7128,13 @@
     ],
     "related_formulas": [
       "formula_063",
-      "formula_146"
+      "formula_250"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_089",
+      "needle_117",
+      "prescription_054"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_008"
@@ -6357,10 +7180,13 @@
       "糖尿病胃轻瘫"
     ],
     "related_formulas": [
-      "formula_100",
-      "formula_138"
+      "formula_138",
+      "formula_223"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_089",
+      "needle_118"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_003",
@@ -6410,7 +7236,10 @@
     "related_formulas": [
       "formula_139"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_110",
+      "needle_119"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6458,7 +7287,9 @@
       "formula_031",
       "formula_140"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_120"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_003"
@@ -6509,7 +7340,10 @@
       "formula_143",
       "formula_144"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_121",
+      "needle_133"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6557,7 +7391,12 @@
       "formula_141",
       "formula_142"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_122",
+      "needle_136",
+      "prescription_078",
+      "prescription_115"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6604,7 +7443,9 @@
       "formula_143",
       "formula_144"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_123"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6649,10 +7490,13 @@
       "前列腺炎"
     ],
     "related_formulas": [
-      "formula_075",
-      "formula_107"
+      "formula_107",
+      "formula_274"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_124",
+      "needle_143"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_012"
@@ -6701,9 +7545,14 @@
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004"
+      "formula_123",
+      "formula_250"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_097",
+      "needle_125",
+      "prescription_182"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_002",
@@ -6754,7 +7603,9 @@
       "formula_040",
       "formula_129"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_126"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_007"
@@ -6803,7 +7654,12 @@
       "formula_102",
       "formula_147"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_127",
+      "needle_154",
+      "prescription_075",
+      "prescription_131"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6848,7 +7704,9 @@
     "related_formulas": [
       "formula_148"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_128"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6894,7 +7752,9 @@
     "related_formulas": [
       "formula_149"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_129"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -6940,10 +7800,12 @@
       "溃疡性结肠炎"
     ],
     "related_formulas": [
-      "formula_150",
-      "formula_011"
+      "formula_011",
+      "formula_150"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_130"
+    ],
     "related_treatments": [],
     "related_effects": [
       "effect_012"
@@ -6993,7 +7855,10 @@
     "related_formulas": [
       "formula_151"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "needle_131",
+      "needle_173"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -7092,8 +7957,15 @@
       "急性腹膜炎",
       "肠梗阻"
     ],
-    "related_formulas": [],
-    "related_needle": [],
+    "related_formulas": [
+      "formula_006",
+      "formula_014",
+      "formula_015",
+      "formula_016"
+    ],
+    "related_needle": [
+      "needle_019"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -7141,8 +8013,16 @@
       "心力衰竭",
       "严重感染衰竭期"
     ],
-    "related_formulas": [],
-    "related_needle": [],
+    "related_formulas": [
+      "formula_027",
+      "formula_069",
+      "formula_071",
+      "formula_127",
+      "formula_322"
+    ],
+    "related_needle": [
+      "needle_018"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -7190,7 +8070,10 @@
       "心律失常",
       "贫血"
     ],
-    "related_formulas": [],
+    "related_formulas": [
+      "formula_033",
+      "formula_139"
+    ],
     "related_needle": [],
     "related_treatments": [],
     "related_effects": [],
@@ -7242,7 +8125,10 @@
       "冠心病",
       "更年期综合征"
     ],
-    "related_formulas": [],
+    "related_formulas": [
+      "formula_120",
+      "formula_121"
+    ],
     "related_needle": [],
     "related_treatments": [],
     "related_effects": [],
@@ -7293,8 +8179,15 @@
       "中暑",
       "夏季热"
     ],
-    "related_formulas": [],
-    "related_needle": [],
+    "related_formulas": [
+      "formula_143",
+      "formula_144",
+      "formula_195",
+      "formula_230"
+    ],
+    "related_needle": [
+      "prescription_114"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -7343,7 +8236,13 @@
       "风湿病",
       "水肿"
     ],
-    "related_formulas": [],
+    "related_formulas": [
+      "formula_070",
+      "formula_072",
+      "formula_074",
+      "formula_104",
+      "formula_106"
+    ],
     "related_needle": [],
     "related_treatments": [],
     "related_effects": [],
@@ -7392,7 +8291,12 @@
       "秋燥",
       "干燥综合征"
     ],
-    "related_formulas": [],
+    "related_formulas": [
+      "formula_041",
+      "formula_136",
+      "formula_137",
+      "formula_223"
+    ],
     "related_needle": [],
     "related_treatments": [],
     "related_effects": [],
@@ -7444,7 +8348,11 @@
       "感染性疾病高热",
       "炎症"
     ],
-    "related_formulas": [],
+    "related_formulas": [
+      "formula_007",
+      "formula_157",
+      "formula_158"
+    ],
     "related_needle": [],
     "related_treatments": [],
     "related_effects": [],
@@ -7493,8 +8401,17 @@
       "慢性支气管炎",
       "胸腔积液"
     ],
-    "related_formulas": [],
-    "related_needle": [],
+    "related_formulas": [
+      "formula_089",
+      "formula_178",
+      "formula_290",
+      "formula_343",
+      "formula_344",
+      "formula_346"
+    ],
+    "related_needle": [
+      "needle_089"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -7541,7 +8458,9 @@
       "乳腺增生"
     ],
     "related_formulas": [],
-    "related_needle": [],
+    "related_needle": [
+      "prescription_191"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [

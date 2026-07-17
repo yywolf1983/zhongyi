@@ -10,7 +10,6 @@ const typeLabels = {
   medicines: '中药',
   acupoints: '穴位',
   needles: '针方',
-  acupuncture_prescriptions: '针灸处方',
   treatments: '治法',
   meridians: '经络',
   effects: '功效',
@@ -23,7 +22,6 @@ const typeIcons = {
   medicines: '🌿',
   acupoints: '📍',
   needles: '💉',
-  acupuncture_prescriptions: '💉',
   treatments: '⚕️',
   meridians: '🔗',
   effects: '✨',
@@ -36,7 +34,6 @@ const TYPE_CLASS_MAP = {
   medicines: 'medicine',
   acupoints: 'acupoint',
   needles: 'needle',
-  acupuncture_prescriptions: 'acu-presc',
   treatments: 'treatment',
   meridians: 'meridian',
   effects: 'effect',
@@ -178,20 +175,6 @@ export default function SearchModule() {
           </div>
         )
       case 'needles':
-        return (
-          <div className="result-context">
-            <div className="result-tags">
-              {ctx.category && <span className="result-tag">{ctx.category}</span>}
-            </div>
-            {ctx.acupoints && ctx.acupoints.length > 0 && (
-              <div className="result-points">取穴：{ctx.acupoints.join('、')}</div>
-            )}
-            {ctx.effects && ctx.effects.length > 0 && (
-              <div className="result-sub">功效：{ctx.effects.join('、')}</div>
-            )}
-          </div>
-        )
-      case 'acupuncture_prescriptions':
         return (
           <div className="result-context">
             <div className="result-tags">

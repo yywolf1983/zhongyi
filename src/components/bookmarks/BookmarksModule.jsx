@@ -9,7 +9,7 @@ const TYPE_LABELS = {
   medicine: '中药',
   acupoint: '穴位',
   needle: '针方',
-  'acu-presc': '针灸处方'
+  'acu-presc': '针方'
 }
 
 const TYPE_ICONS = {

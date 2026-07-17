@@ -28,7 +28,16 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_001",
+      "effect_006",
+      "effect_224"
+    ]
   },
   {
     "id": "medicine_002",
@@ -59,7 +68,16 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_225",
+      "effect_226"
+    ]
   },
   {
     "id": "medicine_003",
@@ -88,7 +106,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_184",
+      "effect_203"
+    ]
   },
   {
     "id": "medicine_004",
@@ -118,7 +144,16 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_227",
+      "effect_228"
+    ]
   },
   {
     "id": "medicine_005",
@@ -147,7 +182,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_229",
+      "effect_230"
+    ]
   },
   {
     "id": "medicine_006",
@@ -178,7 +221,16 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_231",
+      "effect_232"
+    ]
   },
   {
     "id": "medicine_007",
@@ -207,7 +259,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_233",
+      "effect_234"
+    ]
   },
   {
     "id": "medicine_008",
@@ -237,7 +297,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_233",
+      "effect_235"
+    ]
   },
   {
     "id": "medicine_009",
@@ -266,7 +334,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_233",
+      "effect_236"
+    ]
   },
   {
     "id": "medicine_010",
@@ -296,7 +372,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_233",
+      "effect_237"
+    ]
   },
   {
     "id": "medicine_011",
@@ -326,7 +410,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_233",
+      "effect_238"
+    ]
   },
   {
     "id": "medicine_012",
@@ -355,7 +447,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_017",
+      "effect_239"
+    ]
   },
   {
     "id": "medicine_013",
@@ -385,7 +485,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_240",
+      "effect_241"
+    ]
   },
   {
     "id": "medicine_014",
@@ -415,7 +523,15 @@
     ],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_109",
+      "effect_242"
+    ]
   },
   {
     "id": "medicine_015",
@@ -446,7 +562,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_109",
+      "effect_243"
+    ]
   },
   {
     "id": "medicine_016",
@@ -476,7 +601,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011",
+      "meridian_014"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_244"
+    ]
   },
   {
     "id": "medicine_017",
@@ -506,7 +640,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热燥湿药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_005"
+    ],
+    "effect_ids": [
+      "effect_089",
+      "effect_111"
+    ]
   },
   {
     "id": "medicine_018",
@@ -536,7 +679,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热燥湿药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_089",
+      "effect_111"
+    ]
   },
   {
     "id": "medicine_019",
@@ -565,7 +717,15 @@
     ],
     "category": "清热药",
     "subcategory": "清热燥湿药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_089",
+      "effect_111"
+    ]
   },
   {
     "id": "medicine_020",
@@ -595,7 +755,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_233"
+    ]
   },
   {
     "id": "medicine_021",
@@ -625,7 +794,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_245"
+    ]
   },
   {
     "id": "medicine_022",
@@ -655,7 +833,15 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_245"
+    ]
   },
   {
     "id": "medicine_023",
@@ -684,7 +870,15 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_246"
+    ]
   },
   {
     "id": "medicine_024",
@@ -712,7 +906,14 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_247"
+    ]
   },
   {
     "id": "medicine_025",
@@ -742,7 +943,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热凉血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_027",
+      "effect_248"
+    ]
   },
   {
     "id": "medicine_026",
@@ -774,7 +984,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热凉血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_010",
+      "effect_027"
+    ]
   },
   {
     "id": "medicine_027",
@@ -805,7 +1024,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热凉血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_009",
+      "effect_027"
+    ]
   },
   {
     "id": "medicine_028",
@@ -835,7 +1063,15 @@
     ],
     "category": "清热药",
     "subcategory": "清虚热药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_249",
+      "effect_250"
+    ]
   },
   {
     "id": "medicine_029",
@@ -866,7 +1102,16 @@
     ],
     "category": "清热药",
     "subcategory": "清虚热药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_250",
+      "effect_251"
+    ]
   },
   {
     "id": "medicine_030",
@@ -896,7 +1141,16 @@
     ],
     "category": "泻下药",
     "subcategory": "攻下药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_109",
+      "effect_252"
+    ]
   },
   {
     "id": "medicine_031",
@@ -924,7 +1178,15 @@
     ],
     "category": "泻下药",
     "subcategory": "润下药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_098"
+    ]
   },
   {
     "id": "medicine_032",
@@ -954,7 +1216,15 @@
     ],
     "category": "祛风湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_253"
+    ]
   },
   {
     "id": "medicine_033",
@@ -983,7 +1253,14 @@
     ],
     "category": "祛风湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_254"
+    ]
   },
   {
     "id": "medicine_034",
@@ -1012,7 +1289,15 @@
     ],
     "category": "祛风湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_255",
+      "effect_256"
+    ]
   },
   {
     "id": "medicine_035",
@@ -1043,7 +1328,16 @@
     ],
     "category": "化湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_257",
+      "effect_258"
+    ]
   },
   {
     "id": "medicine_036",
@@ -1074,7 +1368,16 @@
     ],
     "category": "化湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_259",
+      "effect_260"
+    ]
   },
   {
     "id": "medicine_037",
@@ -1104,7 +1407,16 @@
     ],
     "category": "化湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_261",
+      "effect_262"
+    ]
   },
   {
     "id": "medicine_038",
@@ -1136,7 +1448,17 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_022",
+      "effect_263"
+    ]
   },
   {
     "id": "medicine_039",
@@ -1167,7 +1489,16 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_022",
+      "effect_264"
+    ]
   },
   {
     "id": "medicine_040",
@@ -1197,7 +1528,15 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_022",
+      "effect_265"
+    ]
   },
   {
     "id": "medicine_041",
@@ -1228,7 +1567,16 @@
     ],
     "category": "温里药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_019",
+      "effect_266"
+    ]
   },
   {
     "id": "medicine_042",
@@ -1258,7 +1606,16 @@
     ],
     "category": "温里药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_018",
+      "effect_267"
+    ]
   },
   {
     "id": "medicine_043",
@@ -1289,7 +1646,16 @@
     ],
     "category": "温里药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_082",
+      "effect_266"
+    ]
   },
   {
     "id": "medicine_044",
@@ -1319,7 +1685,15 @@
     ],
     "category": "理气药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_008",
+      "effect_268"
+    ]
   },
   {
     "id": "medicine_045",
@@ -1350,7 +1724,16 @@
     ],
     "category": "理气药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_186",
+      "effect_269"
+    ]
   },
   {
     "id": "medicine_046",
@@ -1382,7 +1765,16 @@
     ],
     "category": "理气药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_014"
+    ],
+    "effect_ids": [
+      "effect_004",
+      "effect_270"
+    ]
   },
   {
     "id": "medicine_047",
@@ -1413,7 +1805,16 @@
     ],
     "category": "消食药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_009",
+      "effect_015"
+    ]
   },
   {
     "id": "medicine_048",
@@ -1442,7 +1843,15 @@
     ],
     "category": "消食药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_015",
+      "effect_271"
+    ]
   },
   {
     "id": "medicine_049",
@@ -1472,7 +1881,16 @@
     ],
     "category": "消食药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_100",
+      "effect_272"
+    ]
   },
   {
     "id": "medicine_050",
@@ -1502,7 +1920,15 @@
     ],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_273"
+    ]
   },
   {
     "id": "medicine_051",
@@ -1532,7 +1958,15 @@
     ],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_273"
+    ]
   },
   {
     "id": "medicine_052",
@@ -1562,7 +1996,15 @@
     ],
     "category": "止血药",
     "subcategory": "凉血止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_274"
+    ]
   },
   {
     "id": "medicine_053",
@@ -1592,7 +2034,15 @@
     ],
     "category": "止血药",
     "subcategory": "化瘀止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_275",
+      "effect_276"
+    ]
   },
   {
     "id": "medicine_054",
@@ -1620,7 +2070,14 @@
     ],
     "category": "止血药",
     "subcategory": "化瘀止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_277",
+      "effect_278"
+    ]
   },
   {
     "id": "medicine_055",
@@ -1652,7 +2109,16 @@
     ],
     "category": "止血药",
     "subcategory": "收敛止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_280"
+    ]
   },
   {
     "name": "艾叶",
@@ -1682,7 +2148,17 @@
     "category": "止血药",
     "subcategory": "温经止血药",
     "id": "medicine_056",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_281",
+      "effect_282",
+      "effect_283"
+    ]
   },
   {
     "name": "川芎",
@@ -1712,7 +2188,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_057",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006",
+      "meridian_010"
+    ],
+    "effect_ids": [
+      "effect_284",
+      "effect_285"
+    ]
   },
   {
     "id": "medicine_058",
@@ -1741,7 +2226,15 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_092",
+      "effect_286"
+    ]
   },
   {
     "name": "红花",
@@ -1770,7 +2263,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_059",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_287",
+      "effect_288"
+    ]
   },
   {
     "name": "桃仁",
@@ -1801,7 +2302,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_060",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_092",
+      "effect_098"
+    ]
   },
   {
     "name": "益母草",
@@ -1831,7 +2341,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_061",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_010"
+    ],
+    "effect_ids": [
+      "effect_289",
+      "effect_290"
+    ]
   },
   {
     "name": "半夏",
@@ -1862,7 +2380,17 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_062",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_008",
+      "effect_094",
+      "effect_222"
+    ]
   },
   {
     "name": "川贝母",
@@ -1893,7 +2421,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_063",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_058",
+      "effect_291",
+      "effect_292"
+    ]
   },
   {
     "name": "浙贝母",
@@ -1922,7 +2459,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_064",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_107",
+      "effect_292"
+    ]
   },
   {
     "name": "杏仁",
@@ -1951,7 +2496,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_065",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_293"
+    ]
   },
   {
     "name": "百部",
@@ -1978,7 +2531,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_066",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_294",
+      "effect_295"
+    ]
   },
   {
     "id": "medicine_067",
@@ -2006,7 +2566,14 @@
     ],
     "category": "安神药",
     "subcategory": "重镇安神药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_296",
+      "effect_297"
+    ]
   },
   {
     "id": "medicine_068",
@@ -2037,7 +2604,16 @@
     ],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_070",
+      "effect_298"
+    ]
   },
   {
     "id": "medicine_069",
@@ -2065,7 +2641,14 @@
     ],
     "category": "平肝熄风药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_299",
+      "effect_300"
+    ]
   },
   {
     "id": "medicine_070",
@@ -2094,7 +2677,15 @@
     ],
     "category": "平肝熄风药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_010"
+    ],
+    "effect_ids": [
+      "effect_301",
+      "effect_302"
+    ]
   },
   {
     "id": "medicine_071",
@@ -2123,7 +2714,15 @@
     "contraindications": [],
     "category": "开窍药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_080",
+      "effect_287"
+    ]
   },
   {
     "id": "medicine_072",
@@ -2154,7 +2753,16 @@
     ],
     "category": "补虚药",
     "subcategory": "补气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_303",
+      "effect_304"
+    ]
   },
   {
     "id": "medicine_073",
@@ -2183,7 +2791,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_305",
+      "effect_306"
+    ]
   },
   {
     "id": "medicine_074",
@@ -2213,7 +2829,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_307",
+      "effect_308"
+    ]
   },
   {
     "id": "medicine_075",
@@ -2244,7 +2868,16 @@
     ],
     "category": "补虚药",
     "subcategory": "补血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_201",
+      "effect_309"
+    ]
   },
   {
     "id": "medicine_076",
@@ -2273,7 +2906,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_066",
+      "effect_310"
+    ]
   },
   {
     "id": "medicine_077",
@@ -2303,7 +2944,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_081",
+      "effect_311"
+    ]
   },
   {
     "id": "medicine_078",
@@ -2333,7 +2982,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_312",
+      "effect_313"
+    ]
   },
   {
     "id": "medicine_079",
@@ -2364,7 +3021,16 @@
     ],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_248",
+      "effect_314"
+    ]
   },
   {
     "id": "medicine_080",
@@ -2393,7 +3059,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_315",
+      "effect_316"
+    ]
   },
   {
     "id": "medicine_081",
@@ -2423,7 +3097,15 @@
     "contraindications": [],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_317",
+      "effect_318"
+    ]
   },
   {
     "id": "medicine_082",
@@ -2453,7 +3135,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_319"
+    ]
   },
   {
     "id": "medicine_083",
@@ -2482,7 +3172,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_320",
+      "effect_321"
+    ]
   },
   {
     "id": "medicine_084",
@@ -2513,7 +3211,16 @@
     ],
     "category": "收涩药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_165",
+      "effect_322"
+    ]
   },
   {
     "id": "medicine_085",
@@ -2543,7 +3250,15 @@
     ],
     "category": "收涩药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_195",
+      "effect_323"
+    ]
   },
   {
     "name": "辛夷",
@@ -2570,7 +3285,15 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_086",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_227",
+      "effect_324"
+    ]
   },
   {
     "name": "细辛",
@@ -2602,7 +3325,17 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_087",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_203",
+      "effect_285",
+      "effect_325"
+    ]
   },
   {
     "name": "白芷",
@@ -2630,7 +3363,16 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_088",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_203",
+      "effect_285",
+      "effect_324"
+    ]
   },
   {
     "name": "藁本",
@@ -2656,7 +3398,14 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_089",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_258",
+      "effect_326"
+    ]
   },
   {
     "name": "苍耳子",
@@ -2686,7 +3435,15 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_090",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_227",
+      "effect_324"
+    ]
   },
   {
     "name": "蔓荆子",
@@ -2715,7 +3472,16 @@
     "category": "解表药",
     "subcategory": "辛凉解表药",
     "id": "medicine_091",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_233",
+      "effect_234"
+    ]
   },
   {
     "name": "淡豆豉",
@@ -2745,7 +3511,16 @@
     "category": "解表药",
     "subcategory": "辛凉解表药",
     "id": "medicine_092",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_327",
+      "effect_328",
+      "effect_329"
+    ]
   },
   {
     "name": "浮萍",
@@ -2775,7 +3550,16 @@
     "category": "解表药",
     "subcategory": "辛凉解表药",
     "id": "medicine_093",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_001",
+      "effect_224",
+      "effect_230"
+    ]
   },
   {
     "name": "龙胆草",
@@ -2804,7 +3588,15 @@
     "category": "清热药",
     "subcategory": "清热燥湿药",
     "id": "medicine_094",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_111",
+      "effect_330"
+    ]
   },
   {
     "name": "苦参",
@@ -2835,7 +3627,17 @@
     "category": "清热药",
     "subcategory": "清热燥湿药",
     "id": "medicine_095",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_111",
+      "effect_295",
+      "effect_331"
+    ]
   },
   {
     "name": "秦皮",
@@ -2864,7 +3666,16 @@
     "category": "清热药",
     "subcategory": "清热燥湿药",
     "id": "medicine_096",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_084",
+      "effect_111",
+      "effect_332"
+    ]
   },
   {
     "name": "白鲜皮",
@@ -2895,7 +3706,16 @@
     "category": "清热药",
     "subcategory": "清热燥湿药",
     "id": "medicine_097",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_111",
+      "effect_333"
+    ]
   },
   {
     "name": "紫花地丁",
@@ -2923,7 +3743,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_098",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_334"
+    ]
   },
   {
     "name": "野菊花",
@@ -2951,7 +3779,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_099",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_335"
+    ]
   },
   {
     "name": "大青叶",
@@ -2980,7 +3816,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_100",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_336"
+    ]
   },
   {
     "name": "青黛",
@@ -3007,7 +3851,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_101",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_336",
+      "effect_337"
+    ]
   },
   {
     "name": "贯众",
@@ -3038,7 +3890,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_102",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_054",
+      "effect_295"
+    ]
   },
   {
     "name": "金荞麦",
@@ -3064,7 +3925,14 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_103",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_338"
+    ]
   },
   {
     "name": "大血藤",
@@ -3094,7 +3962,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_104",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_285",
+      "effect_339"
+    ]
   },
   {
     "name": "败酱草",
@@ -3126,7 +4003,17 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_105",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_247",
+      "effect_288"
+    ]
   },
   {
     "name": "射干",
@@ -3154,7 +4041,14 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_106",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_340"
+    ]
   },
   {
     "name": "山豆根",
@@ -3182,7 +4076,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_107",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_341"
+    ]
   },
   {
     "name": "马勃",
@@ -3208,7 +4110,14 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_108",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_342"
+    ]
   },
   {
     "name": "马齿苋",
@@ -3237,7 +4146,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_109",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_054"
+    ]
   },
   {
     "name": "鸦胆子",
@@ -3267,7 +4184,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_110",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_343",
+      "effect_344"
+    ]
   },
   {
     "name": "赤芍",
@@ -3295,7 +4221,14 @@
     "category": "清热药",
     "subcategory": "清热凉血药",
     "id": "medicine_111",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_027",
+      "effect_345"
+    ]
   },
   {
     "name": "紫草",
@@ -3326,7 +4259,16 @@
     "category": "清热药",
     "subcategory": "清热凉血药",
     "id": "medicine_112",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_027",
+      "effect_339",
+      "effect_346"
+    ]
   },
   {
     "name": "白薇",
@@ -3355,7 +4297,16 @@
     "category": "清热药",
     "subcategory": "清虚热药",
     "id": "medicine_113",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_027",
+      "effect_347",
+      "effect_348"
+    ]
   },
   {
     "name": "银柴胡",
@@ -3382,7 +4333,15 @@
     "category": "清热药",
     "subcategory": "清虚热药",
     "id": "medicine_114",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_349",
+      "effect_350"
+    ]
   },
   {
     "name": "胡黄连",
@@ -3413,7 +4372,17 @@
     "category": "清热药",
     "subcategory": "清虚热药",
     "id": "medicine_115",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_350",
+      "effect_351",
+      "effect_352"
+    ]
   },
   {
     "name": "番泻叶",
@@ -3443,7 +4412,15 @@
     "category": "泻下药",
     "subcategory": "攻下药",
     "id": "medicine_116",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_353",
+      "effect_354",
+      "effect_355"
+    ]
   },
   {
     "name": "芦荟",
@@ -3473,7 +4450,16 @@
     "category": "泻下药",
     "subcategory": "攻下药",
     "id": "medicine_117",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_295",
+      "effect_337",
+      "effect_356"
+    ]
   },
   {
     "name": "郁李仁",
@@ -3504,7 +4490,15 @@
     "category": "泻下药",
     "subcategory": "润下药",
     "id": "medicine_118",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_224"
+    ]
   },
   {
     "name": "松子仁",
@@ -3533,7 +4527,15 @@
     "category": "泻下药",
     "subcategory": "润下药",
     "id": "medicine_119",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_099"
+    ]
   },
   {
     "name": "川乌",
@@ -3565,7 +4567,17 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_120",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_128",
+      "effect_176"
+    ]
   },
   {
     "name": "草乌",
@@ -3597,7 +4609,17 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_121",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_128",
+      "effect_176"
+    ]
   },
   {
     "name": "蕲蛇",
@@ -3627,7 +4649,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_122",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_357",
+      "effect_358",
+      "effect_359"
+    ]
   },
   {
     "name": "乌梢蛇",
@@ -3654,7 +4684,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_123",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_357",
+      "effect_358",
+      "effect_359"
+    ]
   },
   {
     "name": "防己",
@@ -3685,7 +4723,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_124",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_224",
+      "effect_253"
+    ]
   },
   {
     "name": "桑枝",
@@ -3711,7 +4758,14 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_125",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_360"
+    ]
   },
   {
     "name": "豨莶草",
@@ -3740,7 +4794,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_126",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_360",
+      "effect_361"
+    ]
   },
   {
     "name": "臭梧桐",
@@ -3768,7 +4831,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_127",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_362",
+      "effect_363"
+    ]
   },
   {
     "name": "海桐皮",
@@ -3796,7 +4867,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_128",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_254",
+      "effect_364"
+    ]
   },
   {
     "name": "络石藤",
@@ -3823,7 +4902,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_129",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_334",
+      "effect_365"
+    ]
   },
   {
     "name": "雷公藤",
@@ -3852,7 +4939,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_130",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_366",
+      "effect_367"
+    ]
   },
   {
     "name": "狗脊",
@@ -3881,7 +4976,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
     "id": "medicine_131",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_320",
+      "effect_368"
+    ]
   },
   {
     "name": "千年健",
@@ -3909,7 +5013,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
     "id": "medicine_132",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_321"
+    ]
   },
   {
     "name": "佩兰",
@@ -3937,7 +5049,16 @@
     "category": "化湿药",
     "subcategory": "",
     "id": "medicine_133",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_261",
+      "effect_262"
+    ]
   },
   {
     "name": "砂仁",
@@ -3966,7 +5087,17 @@
     "category": "化湿药",
     "subcategory": "",
     "id": "medicine_134",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_369",
+      "effect_370",
+      "effect_371"
+    ]
   },
   {
     "name": "豆蔻",
@@ -3993,7 +5124,15 @@
     "category": "化湿药",
     "subcategory": "",
     "id": "medicine_135",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_228",
+      "effect_372"
+    ]
   },
   {
     "name": "草豆蔻",
@@ -4020,7 +5159,15 @@
     "category": "化湿药",
     "subcategory": "",
     "id": "medicine_136",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_228",
+      "effect_373"
+    ]
   },
   {
     "name": "草果",
@@ -4047,7 +5194,15 @@
     "category": "化湿药",
     "subcategory": "",
     "id": "medicine_137",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_374",
+      "effect_375"
+    ]
   },
   {
     "name": "冬瓜皮",
@@ -4074,7 +5229,15 @@
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
     "id": "medicine_138",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_376"
+    ]
   },
   {
     "name": "通草",
@@ -4104,7 +5267,15 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_139",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_377",
+      "effect_378"
+    ]
   },
   {
     "name": "瞿麦",
@@ -4133,7 +5304,15 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_140",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_011",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_379"
+    ]
   },
   {
     "name": "扁蓄",
@@ -4159,7 +5338,14 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_141",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_364"
+    ]
   },
   {
     "name": "海金沙",
@@ -4186,7 +5372,15 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_142",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_253",
+      "effect_347"
+    ]
   },
   {
     "name": "石韦",
@@ -4214,7 +5408,15 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_143",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_380"
+    ]
   },
   {
     "name": "金钱草",
@@ -4245,7 +5447,18 @@
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
     "id": "medicine_144",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006",
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_381",
+      "effect_382"
+    ]
   },
   {
     "name": "花椒",
@@ -4273,7 +5486,16 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_145",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_364",
+      "effect_383"
+    ]
   },
   {
     "name": "丁香",
@@ -4303,7 +5525,18 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_146",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_082",
+      "effect_384",
+      "effect_385"
+    ]
   },
   {
     "name": "青皮",
@@ -4332,7 +5565,16 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_147",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_386",
+      "effect_387"
+    ]
   },
   {
     "name": "沉香",
@@ -4362,7 +5604,17 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_148",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_178",
+      "effect_186",
+      "effect_228"
+    ]
   },
   {
     "name": "檀香",
@@ -4390,7 +5642,16 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_149",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_186",
+      "effect_388"
+    ]
   },
   {
     "name": "乌药",
@@ -4419,7 +5680,17 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_150",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_186",
+      "effect_389"
+    ]
   },
   {
     "name": "荔枝核",
@@ -4447,7 +5718,15 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_151",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_082",
+      "effect_185"
+    ]
   },
   {
     "name": "川楝子",
@@ -4475,7 +5754,14 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_152",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_186",
+      "effect_295"
+    ]
   },
   {
     "name": "神曲",
@@ -4502,7 +5788,15 @@
     "category": "消食药",
     "subcategory": "",
     "id": "medicine_153",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_015",
+      "effect_390"
+    ]
   },
   {
     "name": "谷芽",
@@ -4528,7 +5822,15 @@
     "category": "消食药",
     "subcategory": "",
     "id": "medicine_154",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_391",
+      "effect_392"
+    ]
   },
   {
     "name": "槐花",
@@ -4555,7 +5857,15 @@
     "category": "止血药",
     "subcategory": "凉血止血药",
     "id": "medicine_155",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_337"
+    ]
   },
   {
     "name": "侧柏叶",
@@ -4584,7 +5894,16 @@
     "category": "止血药",
     "subcategory": "凉血止血药",
     "id": "medicine_156",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_058"
+    ]
   },
   {
     "name": "白茅根",
@@ -4612,7 +5931,16 @@
     "category": "止血药",
     "subcategory": "凉血止血药",
     "id": "medicine_157",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_377"
+    ]
   },
   {
     "name": "蒲黄",
@@ -4642,7 +5970,16 @@
     "category": "止血药",
     "subcategory": "化瘀止血药",
     "id": "medicine_158",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_010"
+    ],
+    "effect_ids": [
+      "effect_331",
+      "effect_393",
+      "effect_394"
+    ]
   },
   {
     "name": "仙鹤草",
@@ -4671,7 +6008,16 @@
     "category": "止血药",
     "subcategory": "收敛止血药",
     "id": "medicine_159",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_343",
+      "effect_344"
+    ]
   },
   {
     "name": "棕榈炭",
@@ -4698,7 +6044,15 @@
     "category": "止血药",
     "subcategory": "收敛止血药",
     "id": "medicine_160",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279"
+    ]
   },
   {
     "name": "血余炭",
@@ -4726,7 +6080,16 @@
     "category": "止血药",
     "subcategory": "收敛止血药",
     "id": "medicine_161",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_331",
+      "effect_394"
+    ]
   },
   {
     "name": "炮姜",
@@ -4754,7 +6117,15 @@
     "category": "止血药",
     "subcategory": "温经止血药",
     "id": "medicine_162",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_281",
+      "effect_383"
+    ]
   },
   {
     "name": "延胡索",
@@ -4780,7 +6151,14 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_163",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_395"
+    ]
   },
   {
     "name": "郁金",
@@ -4812,7 +6190,17 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_164",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_091",
+      "effect_396",
+      "effect_397"
+    ]
   },
   {
     "name": "姜黄",
@@ -4842,7 +6230,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_165",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_286",
+      "effect_398"
+    ]
   },
   {
     "name": "乳香",
@@ -4873,7 +6269,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_166",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_280",
+      "effect_395"
+    ]
   },
   {
     "name": "没药",
@@ -4904,7 +6309,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_167",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_091",
+      "effect_280"
+    ]
   },
   {
     "name": "泽兰",
@@ -4934,7 +6348,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_168",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_289"
+    ]
   },
   {
     "name": "牛膝",
@@ -4966,7 +6388,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_169",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_287",
+      "effect_320",
+      "effect_321"
+    ]
   },
   {
     "name": "鸡血藤",
@@ -4994,7 +6425,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_170",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_255",
+      "effect_399",
+      "effect_400"
+    ]
   },
   {
     "name": "王不留行",
@@ -5023,7 +6462,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_171",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_287",
+      "effect_401"
+    ]
   },
   {
     "name": "月季花",
@@ -5051,7 +6498,14 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_172",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_289",
+      "effect_402"
+    ]
   },
   {
     "name": "凌霄花",
@@ -5079,7 +6533,14 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_173",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_403",
+      "effect_404"
+    ]
   },
   {
     "name": "自然铜",
@@ -5105,7 +6566,14 @@
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
     "id": "medicine_174",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_345",
+      "effect_405"
+    ]
   },
   {
     "name": "苏木",
@@ -5135,7 +6603,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
     "id": "medicine_175",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_406",
+      "effect_407"
+    ]
   },
   {
     "name": "骨碎补",
@@ -5162,7 +6638,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
     "id": "medicine_176",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_408",
+      "effect_409"
+    ]
   },
   {
     "name": "血竭",
@@ -5193,7 +6677,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
     "id": "medicine_177",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_275",
+      "effect_276",
+      "effect_410"
+    ]
   },
   {
     "name": "儿茶",
@@ -5222,7 +6715,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
     "id": "medicine_178",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_406",
+      "effect_411",
+      "effect_412"
+    ]
   },
   {
     "name": "刘寄奴",
@@ -5252,7 +6754,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
     "id": "medicine_179",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_345",
+      "effect_379",
+      "effect_413"
+    ]
   },
   {
     "name": "水蛭",
@@ -5281,7 +6792,14 @@
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
     "id": "medicine_180",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_379",
+      "effect_414"
+    ]
   },
   {
     "name": "虻虫",
@@ -5309,7 +6827,14 @@
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
     "id": "medicine_181",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_415",
+      "effect_416"
+    ]
   },
   {
     "name": "斑蝥",
@@ -5338,7 +6863,15 @@
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
     "id": "medicine_182",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_415",
+      "effect_417",
+      "effect_418"
+    ]
   },
   {
     "name": "天南星",
@@ -5369,7 +6902,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_183",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_008",
+      "effect_419"
+    ]
   },
   {
     "name": "禹白附",
@@ -5400,7 +6942,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_184",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_420",
+      "effect_421",
+      "effect_422"
+    ]
   },
   {
     "name": "白芥子",
@@ -5428,7 +6979,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_185",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_423",
+      "effect_424"
+    ]
   },
   {
     "name": "皂荚",
@@ -5458,7 +7016,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_186",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_425",
+      "effect_426"
+    ]
   },
   {
     "name": "旋覆花",
@@ -5487,7 +7053,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_187",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_218",
+      "effect_222"
+    ]
   },
   {
     "name": "瓜蒌",
@@ -5519,7 +7093,17 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_188",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_075",
+      "effect_098",
+      "effect_107"
+    ]
   },
   {
     "name": "竹茹",
@@ -5546,7 +7130,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_189",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_107",
+      "effect_427"
+    ]
   },
   {
     "name": "竹沥",
@@ -5576,7 +7168,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_190",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_428",
+      "effect_429"
+    ]
   },
   {
     "name": "天竺黄",
@@ -5603,7 +7204,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_191",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_107",
+      "effect_430"
+    ]
   },
   {
     "name": "前胡",
@@ -5630,7 +7239,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_192",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_218",
+      "effect_233"
+    ]
   },
   {
     "name": "桔梗",
@@ -5658,7 +7274,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_193",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_431",
+      "effect_432",
+      "effect_433"
+    ]
   },
   {
     "name": "胖大海",
@@ -5688,7 +7312,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_194",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_291",
+      "effect_434"
+    ]
   },
   {
     "name": "海藻",
@@ -5717,7 +7350,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
     "id": "medicine_195",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_435"
+    ]
   },
   {
     "name": "昆布",
@@ -5745,7 +7387,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
     "id": "medicine_196",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_435"
+    ]
   },
   {
     "name": "黄药子",
@@ -5774,7 +7425,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
     "id": "medicine_197",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_436"
+    ]
   },
   {
     "name": "海蛤壳",
@@ -5801,7 +7460,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
     "id": "medicine_198",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_437",
+      "effect_438"
+    ]
   },
   {
     "name": "海浮石",
@@ -5827,7 +7494,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
     "id": "medicine_199",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_437",
+      "effect_438"
+    ]
   },
   {
     "name": "瓦楞子",
@@ -5855,7 +7529,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
     "id": "medicine_200",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_435",
+      "effect_439"
+    ]
   },
   {
     "name": "紫苏子",
@@ -5886,7 +7569,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_201",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_218",
+      "effect_293"
+    ]
   },
   {
     "name": "紫菀",
@@ -5911,7 +7603,13 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_202",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_440"
+    ]
   },
   {
     "name": "款冬花",
@@ -5937,7 +7635,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_203",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_441",
+      "effect_442"
+    ]
   },
   {
     "name": "马兜铃",
@@ -5966,7 +7671,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_204",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_293",
+      "effect_443"
+    ]
   },
   {
     "name": "枇杷叶",
@@ -5993,7 +7706,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_205",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_222",
+      "effect_380"
+    ]
   },
   {
     "name": "桑白皮",
@@ -6019,7 +7740,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_206",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_444"
+    ]
   },
   {
     "name": "葶苈子",
@@ -6048,7 +7776,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_207",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_444"
+    ]
   },
   {
     "name": "白果",
@@ -6077,7 +7813,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_208",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_445",
+      "effect_446"
+    ]
   },
   {
     "name": "磁石",
@@ -6105,7 +7848,16 @@
     "category": "安神药",
     "subcategory": "重镇安神药",
     "id": "medicine_209",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_217",
+      "effect_447"
+    ]
   },
   {
     "name": "龙骨",
@@ -6136,7 +7888,17 @@
     "category": "安神药",
     "subcategory": "重镇安神药",
     "id": "medicine_210",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_217",
+      "effect_322",
+      "effect_447"
+    ]
   },
   {
     "name": "柏子仁",
@@ -6164,7 +7926,16 @@
     "category": "安神药",
     "subcategory": "养心安神药",
     "id": "medicine_211",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_031",
+      "effect_098"
+    ]
   },
   {
     "name": "合欢皮",
@@ -6191,7 +7962,15 @@
     "category": "安神药",
     "subcategory": "养心安神药",
     "id": "medicine_212",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_448",
+      "effect_449"
+    ]
   },
   {
     "name": "灵芝",
@@ -6220,7 +7999,17 @@
     "category": "安神药",
     "subcategory": "养心安神药",
     "id": "medicine_213",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_293",
+      "effect_450"
+    ]
   },
   {
     "name": "首乌藤",
@@ -6247,7 +8036,15 @@
     "category": "安神药",
     "subcategory": "养心安神药",
     "id": "medicine_214",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_043",
+      "effect_365"
+    ]
   },
   {
     "name": "石决明",
@@ -6273,7 +8070,14 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_215",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_447",
+      "effect_451"
+    ]
   },
   {
     "name": "珍珠母",
@@ -6300,7 +8104,15 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_216",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_447",
+      "effect_452"
+    ]
   },
   {
     "name": "蒺藜",
@@ -6328,7 +8140,15 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_217",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_084",
+      "effect_453",
+      "effect_454"
+    ]
   },
   {
     "name": "罗布麻",
@@ -6355,7 +8175,14 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_218",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_300",
+      "effect_377"
+    ]
   },
   {
     "name": "僵蚕",
@@ -6385,7 +8212,16 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_219",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_285",
+      "effect_299",
+      "effect_455"
+    ]
   },
   {
     "name": "全蝎",
@@ -6414,7 +8250,15 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_220",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_254",
+      "effect_456",
+      "effect_457"
+    ]
   },
   {
     "name": "蜈蚣",
@@ -6443,7 +8287,15 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_221",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_254",
+      "effect_456",
+      "effect_457"
+    ]
   },
   {
     "name": "地龙",
@@ -6474,7 +8326,18 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_222",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_331",
+      "effect_358",
+      "effect_458",
+      "effect_459"
+    ]
   },
   {
     "name": "冰片",
@@ -6505,7 +8368,16 @@
     "category": "开窍药",
     "subcategory": "",
     "id": "medicine_223",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_080",
+      "effect_460"
+    ]
   },
   {
     "name": "苏合香",
@@ -6532,7 +8404,15 @@
     "category": "开窍药",
     "subcategory": "",
     "id": "medicine_224",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_080",
+      "effect_461"
+    ]
   },
   {
     "name": "蟾酥",
@@ -6560,7 +8440,14 @@
     "category": "开窍药",
     "subcategory": "",
     "id": "medicine_225",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_080",
+      "effect_462"
+    ]
   },
   {
     "name": "乌梅",
@@ -6591,7 +8478,17 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_226",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_463",
+      "effect_464"
+    ]
   },
   {
     "name": "诃子",
@@ -6620,7 +8517,15 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_227",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_465",
+      "effect_466"
+    ]
   },
   {
     "name": "肉豆蔻",
@@ -6648,7 +8553,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_228",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_465",
+      "effect_467"
+    ]
   },
   {
     "name": "赤石脂",
@@ -6677,7 +8591,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_229",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_410",
+      "effect_465"
+    ]
   },
   {
     "name": "莲子",
@@ -6708,7 +8631,17 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_230",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_031",
+      "effect_468",
+      "effect_469"
+    ]
   },
   {
     "name": "芡实",
@@ -6738,7 +8671,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_231",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_264",
+      "effect_469",
+      "effect_470"
+    ]
   },
   {
     "name": "海螵蛸",
@@ -6768,7 +8710,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_232",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_471",
+      "effect_472"
+    ]
   },
   {
     "name": "金樱子",
@@ -6799,7 +8750,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_233",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_465",
+      "effect_473"
+    ]
   },
   {
     "name": "桑螵蛸",
@@ -6828,7 +8788,15 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_234",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_197",
+      "effect_473"
+    ]
   },
   {
     "name": "覆盆子",
@@ -6858,7 +8826,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_235",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_474",
+      "effect_475"
+    ]
   },
   {
     "name": "小茴香",
@@ -6887,7 +8864,17 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_236",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_082",
+      "effect_476"
+    ]
   },
   {
     "name": "荜茇",
@@ -6914,7 +8901,15 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_237",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_018",
+      "effect_477"
+    ]
   },
   {
     "name": "荜澄茄",
@@ -6943,7 +8938,17 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_238",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_018",
+      "effect_186"
+    ]
   },
   {
     "name": "西洋参",
@@ -6972,7 +8977,16 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_239",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_113",
+      "effect_478"
+    ]
   },
   {
     "name": "太子参",
@@ -7000,7 +9014,15 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_240",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_003",
+      "effect_479"
+    ]
   },
   {
     "name": "白扁豆",
@@ -7027,7 +9049,15 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_241",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_480",
+      "effect_481"
+    ]
   },
   {
     "name": "饴糖",
@@ -7057,7 +9087,17 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_242",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_099",
+      "effect_189",
+      "effect_482"
+    ]
   },
   {
     "name": "蜂蜜",
@@ -7086,7 +9126,16 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_243",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_483",
+      "effect_484"
+    ]
   },
   {
     "name": "阿胶",
@@ -7114,7 +9163,16 @@
     "category": "补虚药",
     "subcategory": "补血药",
     "id": "medicine_244",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_243",
+      "effect_485"
+    ]
   },
   {
     "name": "何首乌",
@@ -7144,7 +9202,16 @@
     "category": "补虚药",
     "subcategory": "补血药",
     "id": "medicine_245",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_318",
+      "effect_320",
+      "effect_486"
+    ]
   },
   {
     "name": "龙眼肉",
@@ -7172,7 +9239,15 @@
     "category": "补虚药",
     "subcategory": "补血药",
     "id": "medicine_246",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_043",
+      "effect_487"
+    ]
   },
   {
     "name": "百合",
@@ -7199,7 +9274,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_247",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_007",
+      "effect_014"
+    ]
   },
   {
     "name": "玉竹",
@@ -7226,7 +9309,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_248",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_241",
+      "effect_488"
+    ]
   },
   {
     "name": "石斛",
@@ -7253,7 +9344,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_249",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_144",
+      "effect_313"
+    ]
   },
   {
     "name": "黄精",
@@ -7282,7 +9381,16 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_250",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_478",
+      "effect_489"
+    ]
   },
   {
     "name": "女贞子",
@@ -7310,7 +9418,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_251",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_315",
+      "effect_490"
+    ]
   },
   {
     "name": "墨旱莲",
@@ -7339,7 +9455,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_252",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_315"
+    ]
   },
   {
     "name": "龟甲",
@@ -7370,7 +9494,17 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_253",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_145",
+      "effect_491",
+      "effect_492"
+    ]
   },
   {
     "name": "天冬",
@@ -7398,7 +9532,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_254",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_488",
+      "effect_493"
+    ]
   },
   {
     "name": "南沙参",
@@ -7426,7 +9568,16 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_255",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_312",
+      "effect_313",
+      "effect_494"
+    ]
   },
   {
     "name": "巴戟天",
@@ -7455,7 +9606,15 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_256",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_197"
+    ]
   },
   {
     "name": "续断",
@@ -7486,7 +9645,17 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_257",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_283",
+      "effect_320",
+      "effect_321",
+      "effect_495"
+    ]
   },
   {
     "name": "补骨脂",
@@ -7516,7 +9685,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_258",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_319",
+      "effect_370",
+      "effect_473"
+    ]
   },
   {
     "name": "益智仁",
@@ -7544,7 +9722,15 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_259",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_496",
+      "effect_497"
+    ]
   },
   {
     "name": "菟丝子",
@@ -7575,7 +9761,17 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_260",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_283",
+      "effect_475",
+      "effect_498"
+    ]
   },
   {
     "name": "沙苑子",
@@ -7603,7 +9799,15 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_261",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_475",
+      "effect_499"
+    ]
   },
   {
     "name": "冬虫夏草",
@@ -7630,7 +9834,15 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_262",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_500",
+      "effect_501"
+    ]
   },
   {
     "name": "蛤蚧",
@@ -7658,7 +9870,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_263",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_502",
+      "effect_503",
+      "effect_504"
+    ]
   },
   {
     "name": "紫河车",
@@ -7688,7 +9909,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_264",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_158",
+      "effect_498"
+    ]
   },
   {
     "name": "锁阳",
@@ -7716,7 +9946,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_265",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_197"
+    ]
   },
   {
     "name": "肉苁蓉",
@@ -7745,7 +9984,15 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_266",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_197"
+    ]
   },
   {
     "name": "芒硝",
@@ -7776,7 +10023,16 @@
     "category": "泻下药",
     "subcategory": "攻下药",
     "id": "medicine_267",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_356",
+      "effect_505",
+      "effect_506"
+    ]
   },
   {
     "name": "甘遂",
@@ -7806,7 +10062,16 @@
     "category": "泻下药",
     "subcategory": "峻下逐水药",
     "id": "medicine_268",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_245",
+      "effect_507"
+    ]
   },
   {
     "name": "京大戟",
@@ -7835,7 +10100,15 @@
     "category": "泻下药",
     "subcategory": "峻下逐水药",
     "id": "medicine_269",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_245",
+      "effect_507"
+    ]
   },
   {
     "name": "芫花",
@@ -7866,7 +10139,16 @@
     "category": "泻下药",
     "subcategory": "峻下逐水药",
     "id": "medicine_270",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_174",
+      "effect_507"
+    ]
   },
   {
     "name": "巴豆",
@@ -7897,7 +10179,16 @@
     "category": "泻下药",
     "subcategory": "峻下逐水药",
     "id": "medicine_271",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_508",
+      "effect_509",
+      "effect_510"
+    ]
   },
   {
     "name": "牵牛子",
@@ -7927,7 +10218,16 @@
     "category": "泻下药",
     "subcategory": "峻下逐水药",
     "id": "medicine_272",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_511",
+      "effect_512"
+    ]
   },
   {
     "name": "车前草",
@@ -7957,7 +10257,17 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_273",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_361",
+      "effect_377",
+      "effect_513"
+    ]
   },
   {
     "name": "滑石",
@@ -7988,7 +10298,17 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_274",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_376",
+      "effect_412"
+    ]
   },
   {
     "name": "萆薢",
@@ -8016,7 +10336,15 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_275",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_514",
+      "effect_515"
+    ]
   },
   {
     "name": "地肤子",
@@ -8045,7 +10373,16 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_276",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_347",
+      "effect_516"
+    ]
   },
   {
     "name": "枳壳",
@@ -8076,7 +10413,15 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_277",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_270",
+      "effect_517"
+    ]
   },
   {
     "name": "香橼",
@@ -8106,7 +10451,16 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_278",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_402",
+      "effect_518"
+    ]
   },
   {
     "name": "大腹皮",
@@ -8135,7 +10489,17 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_279",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_004",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_519"
+    ]
   },
   {
     "name": "柿蒂",
@@ -8160,7 +10524,13 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_280",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_520"
+    ]
   },
   {
     "name": "梅花",
@@ -8188,7 +10558,16 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_281",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_455",
+      "effect_521"
+    ]
   },
   {
     "name": "莱菔子",
@@ -8217,7 +10596,16 @@
     "category": "消食药",
     "subcategory": "",
     "id": "medicine_282",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_218",
+      "effect_522"
+    ]
   },
   {
     "name": "鸡矢藤",
@@ -8248,7 +10636,18 @@
     "category": "消食药",
     "subcategory": "",
     "id": "medicine_283",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_058",
+      "effect_272"
+    ]
   },
   {
     "name": "使君子",
@@ -8274,7 +10673,14 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_284",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_523"
+    ]
   },
   {
     "name": "苦楝皮",
@@ -8304,7 +10710,15 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_285",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_524"
+    ]
   },
   {
     "name": "槟榔",
@@ -8334,7 +10748,16 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_286",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_344",
+      "effect_523",
+      "effect_525"
+    ]
   },
   {
     "name": "南瓜子",
@@ -8359,7 +10782,14 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_287",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_295"
+    ]
   },
   {
     "name": "鹤草芽",
@@ -8386,7 +10816,15 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_288",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_295"
+    ]
   },
   {
     "name": "雷丸",
@@ -8413,7 +10851,14 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_289",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_523"
+    ]
   },
   {
     "name": "鹤虱",
@@ -8440,7 +10885,14 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_290",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_523"
+    ]
   },
   {
     "name": "常山",
@@ -8471,7 +10923,16 @@
     "category": "涌吐药",
     "subcategory": "",
     "id": "medicine_291",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_344",
+      "effect_526"
+    ]
   },
   {
     "name": "瓜蒂",
@@ -8499,7 +10960,14 @@
     "category": "涌吐药",
     "subcategory": "",
     "id": "medicine_292",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_527",
+      "effect_528"
+    ]
   },
   {
     "name": "藜芦",
@@ -8530,7 +10998,16 @@
     "category": "涌吐药",
     "subcategory": "",
     "id": "medicine_293",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_295",
+      "effect_529"
+    ]
   },
   {
     "name": "雄黄",
@@ -8561,7 +11038,16 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_294",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_344",
+      "effect_530",
+      "effect_531"
+    ]
   },
   {
     "name": "硫黄",
@@ -8591,7 +11077,15 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_295",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_532",
+      "effect_533"
+    ]
   },
   {
     "name": "白矾",
@@ -8622,7 +11116,17 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_296",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_532",
+      "effect_534"
+    ]
   },
   {
     "name": "蛇床子",
@@ -8650,7 +11154,15 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_297",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_535",
+      "effect_536",
+      "effect_537"
+    ]
   },
   {
     "name": "蜂房",
@@ -8676,7 +11188,14 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_298",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_285",
+      "effect_538"
+    ]
   },
   {
     "name": "土荆皮",
@@ -8701,7 +11220,14 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_299",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_364"
+    ]
   },
   {
     "name": "大蒜",
@@ -8729,7 +11255,16 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_300",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_530",
+      "effect_539"
+    ]
   },
   {
     "name": "升药",
@@ -8757,7 +11292,14 @@
     "category": "拔毒化腐生肌药",
     "subcategory": "",
     "id": "medicine_301",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_540"
+    ]
   },
   {
     "name": "轻粉",
@@ -8787,7 +11329,15 @@
     "category": "拔毒化腐生肌药",
     "subcategory": "",
     "id": "medicine_302",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_541",
+      "effect_542"
+    ]
   },
   {
     "name": "砒石",
@@ -8816,7 +11366,15 @@
     "category": "拔毒化腐生肌药",
     "subcategory": "",
     "id": "medicine_303",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_543",
+      "effect_544"
+    ]
   },
   {
     "name": "硼砂",
@@ -8845,7 +11403,15 @@
     "category": "拔毒化腐生肌药",
     "subcategory": "",
     "id": "medicine_304",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_545",
+      "effect_546"
+    ]
   },
   {
     "name": "炉甘石",
@@ -8872,7 +11438,15 @@
     "category": "拔毒化腐生肌药",
     "subcategory": "",
     "id": "medicine_305",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_547",
+      "effect_548"
+    ]
   },
   {
     "name": "苎麻根",
@@ -8900,7 +11474,16 @@
     "category": "止血药",
     "subcategory": "凉血止血药",
     "id": "medicine_306",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_054",
+      "effect_283"
+    ]
   },
   {
     "name": "花蕊石",
@@ -8926,7 +11509,13 @@
     "category": "止血药",
     "subcategory": "化瘀止血药",
     "id": "medicine_307",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_275"
+    ]
   },
   {
     "name": "灶心土",
@@ -8953,7 +11542,15 @@
     "category": "止血药",
     "subcategory": "温经止血药",
     "id": "medicine_308",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_549",
+      "effect_550"
+    ]
   },
   {
     "name": "降香",
@@ -8980,7 +11577,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_309",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_275",
+      "effect_551"
+    ]
   },
   {
     "name": "穿山甲",
@@ -9010,7 +11615,16 @@
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
     "id": "medicine_310",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_552",
+      "effect_553",
+      "effect_554"
+    ]
   },
   {
     "name": "白头翁",
@@ -9037,7 +11651,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_311",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_053"
+    ]
   },
   {
     "name": "白花蛇舌草",
@@ -9066,7 +11688,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_312",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_555"
+    ]
   },
   {
     "name": "水牛角",
@@ -9093,7 +11724,15 @@
     "category": "清热药",
     "subcategory": "清热凉血药",
     "id": "medicine_313",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_027",
+      "effect_556"
+    ]
   },
   {
     "name": "徐长卿",
@@ -9121,7 +11760,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_314",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_557"
+    ]
   },
   {
     "name": "五加皮",
@@ -9152,7 +11799,17 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
     "id": "medicine_315",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_320",
+      "effect_321",
+      "effect_355"
+    ]
   },
   {
     "name": "香薷",
@@ -9180,7 +11837,16 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_316",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_001",
+      "effect_224",
+      "effect_558"
+    ]
   },
   {
     "name": "木贼",
@@ -9208,7 +11874,15 @@
     "category": "解表药",
     "subcategory": "辛凉解表药",
     "id": "medicine_317",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_233",
+      "effect_559"
+    ]
   },
   {
     "name": "羌活",
@@ -9237,7 +11911,16 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_318",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_203",
+      "effect_253"
+    ]
   },
   {
     "name": "葱白",
@@ -9264,7 +11947,15 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_319",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_001",
+      "effect_560"
+    ]
   },
   {
     "name": "夏枯草",
@@ -9292,7 +11983,15 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_320",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_451",
+      "effect_561"
+    ]
   },
   {
     "name": "决明子",
@@ -9323,7 +12022,16 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_321",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_562"
+    ]
   },
   {
     "name": "芦根",
@@ -9352,7 +12060,16 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_322",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_113",
+      "effect_331",
+      "effect_427"
+    ]
   },
   {
     "name": "天花粉",
@@ -9383,7 +12100,15 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_323",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_113",
+      "effect_554"
+    ]
   },
   {
     "name": "淡竹叶",
@@ -9413,7 +12138,16 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_324",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_011",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_109",
+      "effect_563"
+    ]
   },
   {
     "name": "鸭跖草",
@@ -9443,7 +12177,16 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_325",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_109",
+      "effect_564"
+    ]
   },
   {
     "name": "寒水石",
@@ -9472,7 +12215,16 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_326",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_109",
+      "effect_565"
+    ]
   },
   {
     "name": "竹叶",
@@ -9501,7 +12253,16 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_327",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_114",
+      "effect_566"
+    ]
   },
   {
     "name": "密蒙花",
@@ -9527,7 +12288,14 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_328",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_559",
+      "effect_567"
+    ]
   },
   {
     "name": "谷精草",
@@ -9555,7 +12323,15 @@
     "category": "清热药",
     "subcategory": "清热泻火药",
     "id": "medicine_329",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_233",
+      "effect_559"
+    ]
   },
   {
     "name": "穿心莲",
@@ -9585,7 +12361,17 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_330",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_009",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_568"
+    ]
   },
   {
     "name": "半边莲",
@@ -9615,7 +12401,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_331",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_224"
+    ]
   },
   {
     "name": "山慈菇",
@@ -9643,7 +12438,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_332",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_034"
+    ]
   },
   {
     "name": "漏芦",
@@ -9672,7 +12475,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_333",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_569",
+      "effect_570"
+    ]
   },
   {
     "name": "白蔹",
@@ -9700,7 +12511,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_334",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_034",
+      "effect_410"
+    ]
   },
   {
     "name": "绿豆",
@@ -9728,7 +12548,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_335",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_571"
+    ]
   },
   {
     "name": "地锦草",
@@ -9757,7 +12585,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_336",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_054",
+      "effect_381"
+    ]
   },
   {
     "name": "千里光",
@@ -9785,7 +12622,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_337",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_572"
+    ]
   },
   {
     "name": "秦艽",
@@ -9817,7 +12662,18 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_338",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_087",
+      "effect_176",
+      "effect_351",
+      "effect_352"
+    ]
   },
   {
     "name": "桑寄生",
@@ -9848,7 +12704,17 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
     "id": "medicine_339",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_283",
+      "effect_320",
+      "effect_321"
+    ]
   },
   {
     "name": "伸筋草",
@@ -9876,7 +12742,14 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_340",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_255"
+    ]
   },
   {
     "name": "海风藤",
@@ -9904,7 +12777,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_341",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_087",
+      "effect_176",
+      "effect_362"
+    ]
   },
   {
     "name": "路路通",
@@ -9933,7 +12814,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_342",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_365",
+      "effect_553"
+    ]
   },
   {
     "name": "丝瓜络",
@@ -9962,7 +12852,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_343",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_365",
+      "effect_449"
+    ]
   },
   {
     "name": "老鹳草",
@@ -9992,7 +12891,17 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_344",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_362",
+      "effect_573"
+    ]
   },
   {
     "name": "鹿衔草",
@@ -10022,7 +12931,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
     "id": "medicine_345",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_321",
+      "effect_574"
+    ]
   },
   {
     "name": "猪苓",
@@ -10050,7 +12968,14 @@
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
     "id": "medicine_346",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_022"
+    ]
   },
   {
     "name": "茵陈",
@@ -10081,7 +13006,17 @@
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
     "id": "medicine_347",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_575"
+    ]
   },
   {
     "name": "虎杖",
@@ -10114,7 +13049,18 @@
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
     "id": "medicine_348",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_058",
+      "effect_345",
+      "effect_381"
+    ]
   },
   {
     "name": "玉米须",
@@ -10143,7 +13089,16 @@
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
     "id": "medicine_349",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_290",
+      "effect_381"
+    ]
   },
   {
     "name": "垂盆草",
@@ -10173,7 +13128,16 @@
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
     "id": "medicine_350",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_381"
+    ]
   },
   {
     "name": "高良姜",
@@ -10200,7 +13164,15 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_351",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_576",
+      "effect_577"
+    ]
   },
   {
     "name": "吴茱萸",
@@ -10232,7 +13204,18 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_352",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_082",
+      "effect_222",
+      "effect_578"
+    ]
   },
   {
     "name": "胡椒",
@@ -10260,7 +13243,15 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_353",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_018",
+      "effect_579"
+    ]
   },
   {
     "name": "薤白",
@@ -10290,7 +13281,17 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_354",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_216",
+      "effect_580"
+    ]
   },
   {
     "name": "佛手",
@@ -10323,7 +13324,18 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_355",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_402",
+      "effect_581",
+      "effect_582"
+    ]
   },
   {
     "name": "玫瑰花",
@@ -10352,7 +13364,15 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_356",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_091",
+      "effect_396"
+    ]
   },
   {
     "name": "甘松",
@@ -10380,7 +13400,15 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_357",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_551",
+      "effect_583"
+    ]
   },
   {
     "name": "刀豆",
@@ -10407,7 +13435,15 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_358",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_385",
+      "effect_520"
+    ]
   },
   {
     "name": "藕节",
@@ -10438,7 +13474,16 @@
     "category": "止血药",
     "subcategory": "收敛止血药",
     "id": "medicine_359",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_394"
+    ]
   },
   {
     "name": "紫珠",
@@ -10467,7 +13512,16 @@
     "category": "止血药",
     "subcategory": "凉血止血药",
     "id": "medicine_360",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_584"
+    ]
   },
   {
     "name": "五灵脂",
@@ -10497,7 +13551,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_361",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_091",
+      "effect_275"
+    ]
   },
   {
     "name": "白前",
@@ -10524,7 +13586,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_362",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_218",
+      "effect_585"
+    ]
   },
   {
     "name": "罗汉果",
@@ -10553,7 +13622,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_363",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_236",
+      "effect_291"
+    ]
   },
   {
     "name": "礞石",
@@ -10582,7 +13660,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清化热痰药",
     "id": "medicine_364",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_586",
+      "effect_587"
+    ]
   },
   {
     "name": "琥珀",
@@ -10612,7 +13698,17 @@
     "category": "安神药",
     "subcategory": "重镇安神药",
     "id": "medicine_365",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_009",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_217",
+      "effect_347",
+      "effect_588"
+    ]
   },
   {
     "name": "远志",
@@ -10643,7 +13739,17 @@
     "category": "安神药",
     "subcategory": "养心安神药",
     "id": "medicine_366",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_040",
+      "effect_589",
+      "effect_590"
+    ]
   },
   {
     "name": "珍珠",
@@ -10673,7 +13779,16 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_367",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_452",
+      "effect_591",
+      "effect_592"
+    ]
   },
   {
     "name": "牡蛎",
@@ -10703,7 +13818,16 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_368",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_322",
+      "effect_438",
+      "effect_447"
+    ]
   },
   {
     "name": "代赭石",
@@ -10734,7 +13858,16 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_369",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_447",
+      "effect_593"
+    ]
   },
   {
     "name": "石菖蒲",
@@ -10764,7 +13897,16 @@
     "category": "开窍药",
     "subcategory": "",
     "id": "medicine_370",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_080",
+      "effect_594",
+      "effect_595"
+    ]
   },
   {
     "name": "安息香",
@@ -10794,7 +13936,16 @@
     "category": "开窍药",
     "subcategory": "",
     "id": "medicine_371",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_080",
+      "effect_253",
+      "effect_284"
+    ]
   },
   {
     "name": "大枣",
@@ -10824,7 +13975,17 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_372",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_043",
+      "effect_189",
+      "effect_596"
+    ]
   },
   {
     "name": "刺五加",
@@ -10855,7 +14016,17 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_373",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_003",
+      "effect_597"
+    ]
   },
   {
     "name": "红景天",
@@ -10884,7 +14055,15 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_374",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_598",
+      "effect_599"
+    ]
   },
   {
     "name": "沙棘",
@@ -10916,7 +14095,18 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_375",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_269",
+      "effect_588",
+      "effect_600"
+    ]
   },
   {
     "name": "桑椹",
@@ -10946,7 +14136,15 @@
     "category": "补虚药",
     "subcategory": "补血药",
     "id": "medicine_376",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_152",
+      "effect_601"
+    ]
   },
   {
     "name": "黑芝麻",
@@ -10976,7 +14174,17 @@
     "category": "补虚药",
     "subcategory": "补血药",
     "id": "medicine_377",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_318",
+      "effect_320",
+      "effect_602"
+    ]
   },
   {
     "name": "核桃仁",
@@ -11005,7 +14213,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_378",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_603"
+    ]
   },
   {
     "name": "仙茅",
@@ -11035,7 +14252,17 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_379",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_319",
+      "effect_604",
+      "effect_605"
+    ]
   },
   {
     "name": "韭菜子",
@@ -11064,7 +14291,15 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_380",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_606",
+      "effect_607"
+    ]
   },
   {
     "name": "胡芦巴",
@@ -11091,7 +14326,14 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_381",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_385",
+      "effect_608"
+    ]
   },
   {
     "name": "海马",
@@ -11123,7 +14365,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_382",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_319",
+      "effect_367",
+      "effect_609"
+    ]
   },
   {
     "name": "楮实子",
@@ -11151,7 +14402,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_383",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_610",
+      "effect_611"
+    ]
   },
   {
     "name": "麻黄根",
@@ -11176,7 +14435,13 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_384",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_306"
+    ]
   },
   {
     "name": "浮小麦",
@@ -11202,7 +14467,14 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_385",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_306",
+      "effect_612"
+    ]
   },
   {
     "name": "五倍子",
@@ -11234,7 +14506,18 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_386",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_465",
+      "effect_613",
+      "effect_614",
+      "effect_615"
+    ]
   },
   {
     "name": "石榴皮",
@@ -11262,7 +14545,14 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_387",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_465",
+      "effect_616"
+    ]
   },
   {
     "name": "禹余粮",
@@ -11291,7 +14581,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_388",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_465",
+      "effect_617"
+    ]
   },
   {
     "name": "糯稻根",
@@ -11318,7 +14617,15 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_389",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_306",
+      "effect_313"
+    ]
   },
   {
     "name": "阿魏",
@@ -11350,7 +14657,16 @@
     "category": "消食药",
     "subcategory": "",
     "id": "medicine_390",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_015",
+      "effect_618"
+    ]
   },
   {
     "name": "榧子",
@@ -11380,7 +14696,17 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_391",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_099",
+      "effect_523"
+    ]
   },
   {
     "name": "木槿皮",
@@ -11408,7 +14734,15 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_392",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_364"
+    ]
   },
   {
     "name": "樟脑",
@@ -11439,7 +14773,16 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_393",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_619",
+      "effect_620",
+      "effect_621"
+    ]
   },
   {
     "name": "大风子",
@@ -11467,7 +14810,16 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_394",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_538",
+      "effect_622"
+    ]
   },
   {
     "name": "木鳖子",
@@ -11498,7 +14850,16 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_395",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_245",
+      "effect_623"
+    ]
   },
   {
     "name": "胡荽",
@@ -11525,7 +14886,15 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_396",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_624",
+      "effect_625"
+    ]
   },
   {
     "name": "柽柳",
@@ -11554,7 +14923,16 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_397",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_624"
+    ]
   },
   {
     "name": "四季青",
@@ -11583,7 +14961,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_398",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_626"
+    ]
   },
   {
     "name": "锦灯笼",
@@ -11611,7 +14997,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_399",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_347",
+      "effect_627"
+    ]
   },
   {
     "name": "青果",
@@ -11640,7 +15034,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_400",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_628"
+    ]
   },
   {
     "name": "木蝴蝶",
@@ -11670,7 +15072,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_401",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_629",
+      "effect_630"
+    ]
   },
   {
     "name": "青风藤",
@@ -11700,7 +15111,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿清热药",
     "id": "medicine_402",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_362",
+      "effect_631"
+    ]
   },
   {
     "name": "穿山龙",
@@ -11731,7 +15151,17 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_403",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_058",
+      "effect_366"
+    ]
   },
   {
     "name": "白豆蔻",
@@ -11761,7 +15191,17 @@
     "category": "化湿药",
     "subcategory": "",
     "id": "medicine_404",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_228",
+      "effect_372",
+      "effect_625"
+    ]
   },
   {
     "name": "香加皮",
@@ -11792,7 +15232,17 @@
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
     "id": "medicine_405",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_224",
+      "effect_321"
+    ]
   },
   {
     "name": "鸡骨草",
@@ -11822,7 +15272,16 @@
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
     "id": "medicine_406",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_381",
+      "effect_632"
+    ]
   },
   {
     "name": "枳椇子",
@@ -11849,7 +15308,14 @@
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
     "id": "medicine_407",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_633"
+    ]
   },
   {
     "name": "夏天无",
@@ -11878,7 +15344,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_408",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_186",
+      "effect_366"
+    ]
   },
   {
     "name": "金沸草",
@@ -11908,7 +15382,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_409",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_634",
+      "effect_635"
+    ]
   },
   {
     "name": "满山红",
@@ -11934,7 +15416,13 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_410",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_600"
+    ]
   },
   {
     "name": "矮地茶",
@@ -11964,7 +15452,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_411",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_009",
+      "effect_012",
+      "effect_058"
+    ]
   },
   {
     "name": "洋金花",
@@ -11994,7 +15491,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_412",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_636",
+      "effect_637"
+    ]
   },
   {
     "name": "枫香脂",
@@ -12024,7 +15529,16 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_413",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_091",
+      "effect_592",
+      "effect_638"
+    ]
   },
   {
     "name": "绞股蓝",
@@ -12054,7 +15568,16 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_414",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_003",
+      "effect_058"
+    ]
   },
   {
     "name": "银耳",
@@ -12084,7 +15607,16 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_415",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_639",
+      "effect_640"
+    ]
   },
   {
     "name": "阳起石",
@@ -12109,7 +15641,13 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_416",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_537"
+    ]
   },
   {
     "name": "罂粟壳",
@@ -12139,7 +15677,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_417",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_253",
+      "effect_463"
+    ]
   },
   {
     "name": "刺猬皮",
@@ -12169,7 +15716,17 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_418",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_473",
+      "effect_641"
+    ]
   },
   {
     "name": "铅丹",
@@ -12200,7 +15757,16 @@
     "category": "拔毒化腐生肌药",
     "subcategory": "",
     "id": "medicine_419",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_364",
+      "effect_642"
+    ]
   },
   {
     "name": "密陀僧",
@@ -12230,7 +15796,16 @@
     "category": "拔毒化腐生肌药",
     "subcategory": "",
     "id": "medicine_420",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_535",
+      "effect_642"
+    ]
   },
   {
     "name": "西河柳",
@@ -12259,7 +15834,16 @@
     "category": "解表药",
     "subcategory": "辛温解表药",
     "id": "medicine_421",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_624"
+    ]
   },
   {
     "name": "委陵菜",
@@ -12286,7 +15870,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_422",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_053"
+    ]
   },
   {
     "name": "翻白草",
@@ -12316,7 +15908,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_423",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_643"
+    ]
   },
   {
     "name": "拳参",
@@ -12346,7 +15947,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_424",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_644"
+    ]
   },
   {
     "name": "苦地丁",
@@ -12374,7 +15984,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_425",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_561"
+    ]
   },
   {
     "name": "杠板归",
@@ -12404,7 +16022,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_426",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_224",
+      "effect_585"
+    ]
   },
   {
     "name": "木芙蓉叶",
@@ -12432,7 +16059,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_427",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_367",
+      "effect_645"
+    ]
   },
   {
     "name": "蛇莓",
@@ -12462,7 +16097,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_428",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_646"
+    ]
   },
   {
     "name": "白毛夏枯草",
@@ -12491,7 +16135,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_429",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_054",
+      "effect_058"
+    ]
   },
   {
     "name": "一点红",
@@ -12519,7 +16171,15 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_430",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_646"
+    ]
   },
   {
     "name": "鬼针草",
@@ -12549,7 +16209,17 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_431",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_023",
+      "effect_646"
+    ]
   },
   {
     "name": "荜茇根",
@@ -12577,7 +16247,15 @@
     "category": "温里药",
     "subcategory": "",
     "id": "medicine_432",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_018",
+      "effect_647"
+    ]
   },
   {
     "name": "钟乳石",
@@ -12606,7 +16284,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "温化寒痰药",
     "id": "medicine_433",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_648",
+      "effect_649"
+    ]
   },
   {
     "name": "胆南星",
@@ -12636,7 +16323,16 @@
     "category": "化痰止咳平喘药",
     "subcategory": "清热化痰药",
     "id": "medicine_434",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_107",
+      "effect_302"
+    ]
   },
   {
     "name": "岩白菜",
@@ -12665,7 +16361,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_435",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_058",
+      "effect_279"
+    ]
   },
   {
     "name": "华山参",
@@ -12692,7 +16396,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_436",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_650",
+      "effect_651"
+    ]
   },
   {
     "name": "杜鹃花叶",
@@ -12718,7 +16429,14 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_437",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_174"
+    ]
   },
   {
     "name": "急性子",
@@ -12749,7 +16467,15 @@
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
     "id": "medicine_438",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_652",
+      "effect_653"
+    ]
   },
   {
     "name": "卷柏",
@@ -12779,7 +16505,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血调经药",
     "id": "medicine_439",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_275",
+      "effect_287"
+    ]
   },
   {
     "name": "北刘寄奴",
@@ -12810,7 +16544,18 @@
     "category": "活血化瘀药",
     "subcategory": "活血疗伤药",
     "id": "medicine_440",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_092",
+      "effect_254"
+    ]
   },
   {
     "name": "鸡冠花",
@@ -12838,7 +16583,15 @@
     "category": "止血药",
     "subcategory": "凉血止血药",
     "id": "medicine_441",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_654"
+    ]
   },
   {
     "name": "断血流",
@@ -12864,7 +16617,13 @@
     "category": "止血药",
     "subcategory": "收敛止血药",
     "id": "medicine_442",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279"
+    ]
   },
   {
     "name": "徐长卿根",
@@ -12892,7 +16651,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_443",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_655"
+    ]
   },
   {
     "name": "两面针",
@@ -12922,7 +16689,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_444",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_186",
+      "effect_365",
+      "effect_588"
+    ]
   },
   {
     "name": "闹羊花",
@@ -12950,7 +16726,14 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_445",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_656"
+    ]
   },
   {
     "name": "娑罗子",
@@ -12978,7 +16761,15 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_446",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_402",
+      "effect_581"
+    ]
   },
   {
     "name": "天仙藤",
@@ -13006,7 +16797,15 @@
     "category": "理气药",
     "subcategory": "",
     "id": "medicine_447",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_657",
+      "effect_658"
+    ]
   },
   {
     "name": "芜荑",
@@ -13033,7 +16832,14 @@
     "category": "驱虫药",
     "subcategory": "",
     "id": "medicine_448",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_523"
+    ]
   },
   {
     "name": "隔山消",
@@ -13064,7 +16870,17 @@
     "category": "消食药",
     "subcategory": "",
     "id": "medicine_449",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_272",
+      "effect_551",
+      "effect_659"
+    ]
   },
   {
     "name": "广金钱草",
@@ -13094,7 +16910,16 @@
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
     "id": "medicine_450",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_381"
+    ]
   },
   {
     "name": "连钱草",
@@ -13125,7 +16950,17 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_451",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_009",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_555",
+      "effect_646"
+    ]
   },
   {
     "name": "小通草",
@@ -13154,7 +16989,15 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_452",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_660"
+    ]
   },
   {
     "name": "溪黄草",
@@ -13183,7 +17026,16 @@
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
     "id": "medicine_453",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_052"
+    ]
   },
   {
     "name": "冬葵子",
@@ -13214,7 +17066,16 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_454",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_009",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_661"
+    ]
   },
   {
     "name": "地耳草",
@@ -13244,7 +17105,16 @@
     "category": "利水渗湿药",
     "subcategory": "利湿退黄药",
     "id": "medicine_455",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_381",
+      "effect_449"
+    ]
   },
   {
     "name": "雪莲花",
@@ -13276,7 +17146,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_456",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_537",
+      "effect_662"
+    ]
   },
   {
     "name": "鹿茸草",
@@ -13305,7 +17184,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_457",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_502"
+    ]
   },
   {
     "name": "手掌参",
@@ -13334,7 +17221,16 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_458",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_241",
+      "effect_663"
+    ]
   },
   {
     "name": "珠子参",
@@ -13365,7 +17261,17 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_459",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_288",
+      "effect_393",
+      "effect_664"
+    ]
   },
   {
     "name": "竹节参",
@@ -13396,7 +17302,17 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_460",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_058",
+      "effect_345",
+      "effect_665"
+    ]
   },
   {
     "name": "鹿角胶",
@@ -13425,7 +17341,15 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_461",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_606",
+      "effect_666"
+    ]
   },
   {
     "name": "紫河车粉",
@@ -13455,7 +17379,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "id": "medicine_462",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_158",
+      "effect_667"
+    ]
   },
   {
     "name": "明党参",
@@ -13486,7 +17419,17 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_463",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_668",
+      "effect_669",
+      "effect_670"
+    ]
   },
   {
     "name": "枸杞叶",
@@ -13515,7 +17458,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_464",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_562",
+      "effect_671"
+    ]
   },
   {
     "name": "没食子",
@@ -13545,7 +17496,16 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_465",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_672",
+      "effect_673"
+    ]
   },
   {
     "name": "椿皮",
@@ -13576,7 +17536,17 @@
     "category": "收涩药",
     "subcategory": "",
     "id": "medicine_466",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_111",
+      "effect_279",
+      "effect_465"
+    ]
   },
   {
     "name": "紫石英",
@@ -13604,7 +17574,15 @@
     "category": "安神药",
     "subcategory": "重镇安神药",
     "id": "medicine_467",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_674",
+      "effect_675"
+    ]
   },
   {
     "name": "樟木",
@@ -13634,7 +17612,17 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_468",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_258",
+      "effect_366",
+      "effect_676"
+    ]
   },
   {
     "name": "决明子炒",
@@ -13664,7 +17652,15 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_469",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_301",
+      "effect_677"
+    ]
   },
   {
     "name": "天青地白",
@@ -13693,7 +17689,15 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_470",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_238"
+    ]
   },
   {
     "name": "胆矾",
@@ -13723,7 +17727,16 @@
     "category": "涌吐药",
     "subcategory": "",
     "id": "medicine_471",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_005",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_678",
+      "effect_679",
+      "effect_680"
+    ]
   },
   {
     "name": "皂矾",
@@ -13751,7 +17764,15 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_472",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_681",
+      "effect_682"
+    ]
   },
   {
     "name": "蓖麻子",
@@ -13782,7 +17803,15 @@
     "category": "解毒杀虫燥湿止痒药",
     "subcategory": "",
     "id": "medicine_473",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_683",
+      "effect_684"
+    ]
   },
   {
     "name": "松花粉",
@@ -13810,7 +17839,15 @@
     "category": "止血药",
     "subcategory": "收敛止血药",
     "id": "medicine_474",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_685"
+    ]
   },
   {
     "name": "臭灵丹草",
@@ -13838,7 +17875,14 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_475",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_600"
+    ]
   },
   {
     "name": "哈蟆油",
@@ -13867,7 +17911,15 @@
     "category": "补虚药",
     "subcategory": "补阴药",
     "id": "medicine_476",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_007",
+      "effect_498"
+    ]
   },
   {
     "name": "了哥王",
@@ -13899,7 +17951,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_477",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_245",
+      "effect_253"
+    ]
   },
   {
     "name": "铁包金",
@@ -13928,7 +17989,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
     "id": "medicine_478",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_058",
+      "effect_345"
+    ]
   },
   {
     "name": "三七花",
@@ -13955,7 +18024,14 @@
     "category": "平肝熄风药",
     "subcategory": "",
     "id": "medicine_479",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_301",
+      "effect_686"
+    ]
   },
   {
     "name": "野木瓜",
@@ -13983,7 +18059,15 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿散寒药",
     "id": "medicine_480",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_255",
+      "effect_285"
+    ]
   },
   {
     "name": "叶下珠",
@@ -14013,7 +18097,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_481",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_238",
+      "effect_687"
+    ]
   },
   {
     "name": "积雪草",
@@ -14043,7 +18136,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_482",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_382"
+    ]
   },
   {
     "name": "半枝莲",
@@ -14074,7 +18176,17 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_483",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_224",
+      "effect_688"
+    ]
   },
   {
     "name": "龙葵",
@@ -14104,7 +18216,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_484",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_331",
+      "effect_449"
+    ]
   },
   {
     "name": "三白草",
@@ -14133,7 +18254,15 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_485",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_290"
+    ]
   },
   {
     "name": "鹿蹄草",
@@ -14163,7 +18292,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
     "id": "medicine_486",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_176",
+      "effect_321",
+      "effect_393"
+    ]
   },
   {
     "name": "凤尾草",
@@ -14193,7 +18331,17 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_487",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_054",
+      "effect_382"
+    ]
   },
   {
     "name": "六月雪",
@@ -14223,7 +18371,16 @@
     "category": "解表药",
     "subcategory": "辛凉解表药",
     "id": "medicine_488",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_255",
+      "effect_689"
+    ]
   },
   {
     "name": "海藻石",
@@ -14251,7 +18408,15 @@
     "category": "化痰止咳平喘药",
     "subcategory": "消痰软坚药",
     "id": "medicine_489",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_438",
+      "effect_690"
+    ]
   },
   {
     "name": "牛大力",
@@ -14279,7 +18444,15 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_490",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_691",
+      "effect_692"
+    ]
   },
   {
     "name": "五指毛桃",
@@ -14309,7 +18482,17 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_491",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_255",
+      "effect_693",
+      "effect_694"
+    ]
   },
   {
     "name": "千斤拔",
@@ -14339,7 +18522,16 @@
     "category": "祛风湿药",
     "subcategory": "祛风湿强筋骨药",
     "id": "medicine_492",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_604",
+      "effect_655"
+    ]
   },
   {
     "name": "黑老虎",
@@ -14368,7 +18560,15 @@
     "category": "活血化瘀药",
     "subcategory": "活血止痛药",
     "id": "medicine_493",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_186",
+      "effect_588"
+    ]
   },
   {
     "name": "救必应",
@@ -14397,7 +18597,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_494",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_695"
+    ]
   },
   {
     "name": "布渣叶",
@@ -14425,7 +18634,15 @@
     "category": "消食药",
     "subcategory": "",
     "id": "medicine_495",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_696"
+    ]
   },
   {
     "name": "岗梅根",
@@ -14455,7 +18672,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_496",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_241",
+      "effect_432"
+    ]
   },
   {
     "name": "火炭母",
@@ -14485,7 +18711,16 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_497",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_559",
+      "effect_645"
+    ]
   },
   {
     "name": "金荞麦茎",
@@ -14513,7 +18748,14 @@
     "category": "清热药",
     "subcategory": "清热解毒药",
     "id": "medicine_498",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_697"
+    ]
   },
   {
     "name": "荞麦花粉",
@@ -14541,7 +18783,15 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "id": "medicine_499",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_307",
+      "effect_698"
+    ]
   },
   {
     "name": "合萌",
@@ -14570,7 +18820,15 @@
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
     "id": "medicine_500",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_347"
+    ]
   },
   {
     "id": "medicine_501",
@@ -14603,7 +18861,16 @@
     ],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_145",
+      "effect_492",
+      "effect_699"
+    ]
   },
   {
     "id": "medicine_502",
@@ -14634,7 +18901,15 @@
     ],
     "category": "活血化瘀药",
     "subcategory": "破血消癥药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_700",
+      "effect_701"
+    ]
   },
   {
     "id": "medicine_503",
@@ -14664,7 +18939,14 @@
     ],
     "category": "收涩药",
     "subcategory": "固精缩尿止带药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_032"
+    ]
   },
   {
     "id": "medicine_504",
@@ -14694,7 +18976,14 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_364"
+    ]
   },
   {
     "id": "medicine_505",
@@ -14723,7 +19012,15 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_022",
+      "effect_070"
+    ]
   },
   {
     "id": "medicine_506",
@@ -14754,7 +19051,17 @@
     "contraindications": [],
     "category": "清热药",
     "subcategory": "清热凉血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_103",
+      "effect_702"
+    ]
   },
   {
     "id": "medicine_507",
@@ -14786,7 +19093,14 @@
     ],
     "category": "止血药",
     "subcategory": "收敛止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_279"
+    ]
   },
   {
     "id": "medicine_508",
@@ -14819,7 +19133,17 @@
     ],
     "category": "补虚药",
     "subcategory": "果品类",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_703",
+      "effect_704"
+    ]
   },
   {
     "id": "medicine_509",
@@ -14848,7 +19172,15 @@
     "contraindications": [],
     "category": "化湿药",
     "subcategory": "",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_705",
+      "effect_706"
+    ]
   },
   {
     "id": "medicine_510",
@@ -14877,7 +19209,15 @@
     "contraindications": [],
     "category": "安神药",
     "subcategory": "重镇安神药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_114",
+      "effect_217"
+    ]
   },
   {
     "id": "medicine_511",
@@ -14913,7 +19253,20 @@
     ],
     "category": "补虚药",
     "subcategory": "补气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_174",
+      "effect_482",
+      "effect_707",
+      "effect_708"
+    ]
   },
   {
     "id": "medicine_512",
@@ -14945,7 +19298,17 @@
     ],
     "category": "补虚药",
     "subcategory": "补气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_709",
+      "effect_710"
+    ]
   },
   {
     "id": "medicine_513",
@@ -14974,7 +19337,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_711",
+      "effect_712"
+    ]
   },
   {
     "id": "medicine_514",
@@ -15006,7 +19377,17 @@
     ],
     "category": "补虚药",
     "subcategory": "补气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_198",
+      "effect_713",
+      "effect_714"
+    ]
   },
   {
     "id": "medicine_515",
@@ -15041,7 +19422,18 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_624",
+      "effect_715"
+    ]
   },
   {
     "id": "medicine_516",
@@ -15073,7 +19465,15 @@
     ],
     "category": "理气药",
     "subcategory": "理气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_716",
+      "effect_717"
+    ]
   },
   {
     "id": "medicine_517",
@@ -15107,7 +19507,19 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006",
+      "meridian_012",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_084",
+      "effect_377",
+      "effect_433",
+      "effect_718"
+    ]
   },
   {
     "id": "medicine_518",
@@ -15138,7 +19550,16 @@
     ],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_145",
+      "effect_438",
+      "effect_719"
+    ]
   },
   {
     "id": "medicine_519",
@@ -15168,7 +19589,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_189",
+      "effect_390"
+    ]
   },
   {
     "id": "medicine_520",
@@ -15200,7 +19629,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热泻火药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_113",
+      "effect_331",
+      "effect_427"
+    ]
   },
   {
     "id": "medicine_521",
@@ -15234,7 +19672,17 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_009",
+      "meridian_011",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_347",
+      "effect_553",
+      "effect_720"
+    ]
   },
   {
     "id": "medicine_522",
@@ -15265,7 +19713,16 @@
     ],
     "category": "温里药",
     "subcategory": "温里药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_364",
+      "effect_383"
+    ]
   },
   {
     "id": "medicine_523",
@@ -15296,7 +19753,16 @@
     ],
     "category": "补虚药",
     "subcategory": "补阳药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_603"
+    ]
   },
   {
     "id": "medicine_524",
@@ -15324,7 +19790,14 @@
     ],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_031",
+      "effect_328"
+    ]
   },
   {
     "id": "medicine_525",
@@ -15358,7 +19831,17 @@
     ],
     "category": "固涩药",
     "subcategory": "固精止带药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_111",
+      "effect_393",
+      "effect_721"
+    ]
   },
   {
     "id": "medicine_526",
@@ -15388,7 +19871,16 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "化痰药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_668",
+      "effect_722"
+    ]
   },
   {
     "id": "medicine_527",
@@ -15419,7 +19911,15 @@
     ],
     "category": "解表药",
     "subcategory": "辛温解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_229",
+      "effect_230"
+    ]
   },
   {
     "id": "medicine_528",
@@ -15451,7 +19951,16 @@
     ],
     "category": "理血药",
     "subcategory": "止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_082",
+      "effect_281"
+    ]
   },
   {
     "id": "medicine_529",
@@ -15481,7 +19990,15 @@
     ],
     "category": "补虚药",
     "subcategory": "补阴药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_243",
+      "effect_723"
+    ]
   },
   {
     "id": "medicine_530",
@@ -15513,7 +20030,16 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "化痰药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_008",
+      "effect_419"
+    ]
   },
   {
     "id": "medicine_531",
@@ -15545,7 +20071,15 @@
     ],
     "category": "平肝息风药",
     "subcategory": "平抑肝阳药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_084",
+      "effect_453",
+      "effect_454"
+    ]
   },
   {
     "id": "medicine_532",
@@ -15572,7 +20106,14 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_724"
+    ]
   },
   {
     "id": "medicine_533",
@@ -15605,7 +20146,17 @@
     ],
     "category": "祛风湿药",
     "subcategory": "祛风寒湿药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_023",
+      "effect_128"
+    ]
   },
   {
     "id": "medicine_534",
@@ -15638,7 +20189,16 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "化痰药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_099",
+      "effect_107",
+      "effect_561"
+    ]
   },
   {
     "id": "medicine_535",
@@ -15669,7 +20229,16 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "止咳平喘药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002"
+    ],
+    "effect_ids": [
+      "effect_098",
+      "effect_218",
+      "effect_293"
+    ]
   },
   {
     "id": "medicine_536",
@@ -15701,7 +20270,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_299",
+      "effect_725"
+    ]
   },
   {
     "id": "medicine_537",
@@ -15731,7 +20309,15 @@
     ],
     "category": "理血药",
     "subcategory": "止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_109"
+    ]
   },
   {
     "id": "medicine_538",
@@ -15760,7 +20346,15 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "化痰药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_107",
+      "effect_438"
+    ]
   },
   {
     "id": "medicine_539",
@@ -15790,7 +20384,15 @@
     ],
     "category": "安神药",
     "subcategory": "养心安神药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_031",
+      "effect_365"
+    ]
   },
   {
     "id": "medicine_540",
@@ -15820,7 +20422,15 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_107",
+      "effect_726"
+    ]
   },
   {
     "id": "medicine_541",
@@ -15851,7 +20461,16 @@
     ],
     "category": "理血药",
     "subcategory": "止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_058"
+    ]
   },
   {
     "id": "medicine_542",
@@ -15883,7 +20502,16 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "化痰药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_420",
+      "effect_421",
+      "effect_422"
+    ]
   },
   {
     "id": "medicine_543",
@@ -15912,7 +20540,14 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_224"
+    ]
   },
   {
     "id": "medicine_544",
@@ -15942,7 +20577,15 @@
     ],
     "category": "理血药",
     "subcategory": "止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_549",
+      "effect_550"
+    ]
   },
   {
     "id": "medicine_545",
@@ -15970,7 +20613,14 @@
     ],
     "category": "温里药",
     "subcategory": "温里药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_018"
+    ]
   },
   {
     "id": "medicine_546",
@@ -16000,7 +20650,16 @@
     ],
     "category": "理血药",
     "subcategory": "止血药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_054",
+      "effect_103"
+    ]
   },
   {
     "id": "medicine_547",
@@ -16031,7 +20690,15 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_011",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_727"
+    ]
   },
   {
     "id": "medicine_548",
@@ -16059,7 +20726,14 @@
     ],
     "category": "解表药",
     "subcategory": "辛凉解表药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_728"
+    ]
   },
   {
     "id": "medicine_549",
@@ -16090,7 +20764,15 @@
     ],
     "category": "理血药",
     "subcategory": "活血祛瘀药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_398",
+      "effect_729"
+    ]
   },
   {
     "id": "medicine_550",
@@ -16120,7 +20802,15 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利尿通淋药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_009",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_101"
+    ]
   },
   {
     "id": "medicine_551",
@@ -16151,7 +20841,16 @@
     ],
     "category": "平肝息风药",
     "subcategory": "息风止痉药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_079",
+      "effect_451"
+    ]
   },
   {
     "id": "medicine_552",
@@ -16182,7 +20881,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热化痰药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_107",
+      "effect_730",
+      "effect_731"
+    ]
   },
   {
     "id": "medicine_553",
@@ -16216,7 +20924,18 @@
     ],
     "category": "泻下药",
     "subcategory": "峻下逐水药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_422",
+      "effect_509",
+      "effect_732"
+    ]
   },
   {
     "id": "medicine_554",
@@ -16250,7 +20969,16 @@
     ],
     "category": "泻下药",
     "subcategory": "峻下逐水药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_245",
+      "effect_507"
+    ]
   },
   {
     "id": "medicine_555",
@@ -16280,7 +21008,15 @@
     ],
     "category": "解表药",
     "subcategory": "发散风热药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_012",
+      "effect_733"
+    ]
   },
   {
     "id": "medicine_556",
@@ -16311,7 +21047,16 @@
     ],
     "category": "利水渗湿药",
     "subcategory": "利水消肿药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004",
+      "meridian_009"
+    ],
+    "effect_ids": [
+      "effect_219",
+      "effect_224"
+    ]
   },
   {
     "id": "medicine_557",
@@ -16341,7 +21086,15 @@
     ],
     "category": "理气药",
     "subcategory": "理气药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_253",
+      "effect_734"
+    ]
   },
   {
     "id": "medicine_558",
@@ -16372,7 +21125,16 @@
     ],
     "category": "化痰止咳平喘药",
     "subcategory": "清化热痰药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_224",
+      "effect_435"
+    ]
   },
   {
     "id": "medicine_559",
@@ -16406,7 +21168,16 @@
     ],
     "category": "补益药",
     "subcategory": "补阳药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_318",
+      "effect_320",
+      "effect_735"
+    ]
   },
   {
     "id": "medicine_560",
@@ -16437,7 +21208,15 @@
     ],
     "category": "清热药",
     "subcategory": "清热解毒药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_245"
+    ]
   },
   {
     "id": "medicine_561",
@@ -16469,7 +21248,16 @@
     ],
     "category": "补益药",
     "subcategory": "补阳药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_321",
+      "effect_736",
+      "effect_737"
+    ]
   },
   {
     "id": "medicine_562",
@@ -16501,7 +21289,15 @@
     ],
     "category": "补益药",
     "subcategory": "补阳药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_279",
+      "effect_385"
+    ]
   },
   {
     "id": "medicine_563",
@@ -16535,7 +21331,17 @@
     ],
     "category": "泻下药",
     "subcategory": "峻下逐水药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_002",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_738",
+      "effect_739",
+      "effect_740"
+    ]
   },
   {
     "id": "medicine_564",
@@ -16570,7 +21376,19 @@
     ],
     "category": "涌吐药",
     "subcategory": "涌吐药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_002",
+      "meridian_003",
+      "meridian_012",
+      "meridian_013"
+    ],
+    "effect_ids": [
+      "effect_361",
+      "effect_638",
+      "effect_741",
+      "effect_742"
+    ]
   },
   {
     "id": "medicine_565",
@@ -16601,7 +21419,15 @@
     ],
     "category": "泻下药",
     "subcategory": "攻下药",
-    "classic": "《本草纲目》"
+    "classic": "《本草纲目》",
+    "meridian_ids": [
+      "meridian_004",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_743",
+      "effect_744"
+    ]
   },
   {
     "id": "medicine_566",
@@ -16635,7 +21461,16 @@
     ],
     "category": "清热药",
     "subcategory": "清热凉血药",
-    "classic": "《神农本草经》"
+    "classic": "《神农本草经》",
+    "meridian_ids": [
+      "meridian_006",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_027",
+      "effect_248"
+    ]
   },
   {
     "name": "紫苏叶",
@@ -16663,7 +21498,15 @@
     "category": "解表药",
     "subcategory": "发散风寒药",
     "classic": "《神农本草经》",
-    "id": "medicine_567"
+    "id": "medicine_567",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_004"
+    ],
+    "effect_ids": [
+      "effect_184",
+      "effect_203"
+    ]
   },
   {
     "name": "白酒",
@@ -16693,7 +21536,17 @@
     "category": "其他",
     "subcategory": "其他",
     "classic": "《本草纲目》",
-    "id": "medicine_568"
+    "id": "medicine_568",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003",
+      "meridian_006",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_745",
+      "effect_746"
+    ]
   },
   {
     "name": "梨皮",
@@ -16720,7 +21573,15 @@
     "category": "其他",
     "subcategory": "其他",
     "classic": "《本草纲目》",
-    "id": "medicine_569"
+    "id": "medicine_569",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_747",
+      "effect_748"
+    ]
   },
   {
     "name": "西瓜翠衣",
@@ -16748,7 +21609,15 @@
     "category": "其他",
     "subcategory": "其他",
     "classic": "《本草纲目》",
-    "id": "medicine_570"
+    "id": "medicine_570",
+    "meridian_ids": [
+      "meridian_003",
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_749",
+      "effect_750"
+    ]
   },
   {
     "name": "丝瓜皮",
@@ -16775,7 +21644,15 @@
     "category": "其他",
     "subcategory": "其他",
     "classic": "《本草纲目》",
-    "id": "medicine_571"
+    "id": "medicine_571",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_006"
+    ],
+    "effect_ids": [
+      "effect_002",
+      "effect_224"
+    ]
   },
   {
     "name": "冰糖",
@@ -16802,7 +21679,15 @@
     "category": "补虚药",
     "subcategory": "补气药",
     "classic": "《本草纲目》",
-    "id": "medicine_572"
+    "id": "medicine_572",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_003"
+    ],
+    "effect_ids": [
+      "effect_189",
+      "effect_751"
+    ]
   },
   {
     "name": "海参",
@@ -16832,7 +21717,16 @@
     "category": "补虚药",
     "subcategory": "补阳药",
     "classic": "《本草纲目》",
-    "id": "medicine_573"
+    "id": "medicine_573",
+    "meridian_ids": [
+      "meridian_001",
+      "meridian_011",
+      "meridian_012"
+    ],
+    "effect_ids": [
+      "effect_498",
+      "effect_752"
+    ]
   },
   {
     "name": "莲子心",
@@ -16859,6 +21753,13 @@
     "category": "安神药",
     "subcategory": "养心安神药",
     "classic": "《本草纲目》",
-    "id": "medicine_574"
+    "id": "medicine_574",
+    "meridian_ids": [
+      "meridian_011"
+    ],
+    "effect_ids": [
+      "effect_014",
+      "effect_753"
+    ]
   }
 ]
