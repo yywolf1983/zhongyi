@@ -50,11 +50,15 @@
     "syndrome_ids": [
       "syndrome_001",
       "syndrome_016",
-      "syndrome_036"
+      "syndrome_017",
+      "syndrome_036",
+      "syndrome_061",
+      "syndrome_121"
     ],
     "effect_ids": [
       "effect_001",
-      "effect_006"
+      "effect_006",
+      "effect_021"
     ],
     "beginner_note": "初学者：记住麻桂杏草组合，用于无汗的风寒感冒，服药后要盖被子微微出汗。",
     "advanced_clinical_note": "高级要点：麻黄用量9g为常规量，体质虚弱者可酌减；高血压患者慎用；与桂枝汤的区别在于有无汗出。",
@@ -138,12 +142,16 @@
     "syndrome_ids": [
       "syndrome_001",
       "syndrome_016",
+      "syndrome_039",
       "syndrome_061",
       "syndrome_064",
-      "syndrome_088"
+      "syndrome_088",
+      "syndrome_121"
     ],
     "effect_ids": [
-      "effect_001"
+      "effect_001",
+      "effect_021",
+      "effect_205"
     ],
     "beginner_note": "初学者：记住桂芍姜枣组合，用于有汗的风寒感冒，重点是调和营卫。",
     "advanced_clinical_note": "高级要点：桂枝与白芍比例1:1是关键，体现发中有收的配伍思想；可加葛根治疗项背强痛。",
@@ -227,10 +235,18 @@
     "syndrome_ids": [
       "syndrome_002",
       "syndrome_051",
-      "syndrome_083"
+      "syndrome_053",
+      "syndrome_055",
+      "syndrome_062",
+      "syndrome_069",
+      "syndrome_081",
+      "syndrome_083",
+      "syndrome_088",
+      "syndrome_114"
     ],
     "effect_ids": [
-      "effect_002"
+      "effect_002",
+      "effect_210"
     ],
     "beginner_note": "初学者：用于风热感冒，症状有发热重、咽痛、口渴，记住银翘为君药。",
     "advanced_clinical_note": "高级要点：金银花、连翘用量相等为君药相须；薄荷后下以保留挥发油；可加减用于不同阶段的温病。",
@@ -313,10 +329,17 @@
     "pharmacological_effect": "麻杏甘石汤具有解热、平喘、抗炎等作用",
     "syndrome_ids": [
       "syndrome_037",
-      "syndrome_038"
+      "syndrome_038",
+      "syndrome_049",
+      "syndrome_052",
+      "syndrome_061",
+      "syndrome_083"
     ],
     "effect_ids": [
-      "effect_006"
+      "effect_003",
+      "effect_006",
+      "effect_117",
+      "effect_209"
     ],
     "beginner_note": "初学者：用于肺热咳喘，石膏用量要大于麻黄，体现辛凉之意。",
     "advanced_clinical_note": "高级要点：麻黄与石膏比例1:2是关键，麻黄宣肺平喘，石膏清泻肺热，二者配伍发中有清。",
@@ -399,12 +422,17 @@
     "pharmacological_effect": "白虎汤具有解热、抗炎、降糖等作用",
     "syndrome_ids": [
       "syndrome_018",
+      "syndrome_034",
       "syndrome_052",
       "syndrome_063",
+      "syndrome_072",
+      "syndrome_082",
       "syndrome_122"
     ],
     "effect_ids": [
-      "effect_002"
+      "effect_002",
+      "effect_003",
+      "effect_113"
     ],
     "beginner_note": "初学者：用于大热、大汗、大渴、脉洪大的典型热证，石膏用量要大。",
     "advanced_clinical_note": "高级要点：四诊合参确认气分热盛；可加人参为白虎加人参汤治疗热盛伤津；脾虚便溏者禁用。",
@@ -485,10 +513,17 @@
     ],
     "pharmacological_effect": "黄连解毒汤具有抗菌、抗病毒、抗炎等作用",
     "syndrome_ids": [
+      "syndrome_013",
+      "syndrome_063",
+      "syndrome_072",
+      "syndrome_077",
+      "syndrome_082",
       "syndrome_129"
     ],
     "effect_ids": [
-      "effect_002"
+      "effect_002",
+      "effect_004",
+      "effect_089"
     ],
     "beginner_note": "初学者：四味药都是清热药，用于全身火热过盛，记住连芩柏栀。",
     "advanced_clinical_note": "高级要点：黄连清心火、黄芩清肺火、黄柏清下焦火、栀子通泻三焦，体现苦寒直折治法；脾胃虚寒者慎用。",
@@ -571,13 +606,19 @@
     ],
     "pharmacological_effect": "龙胆泻肝汤具有保肝、抗炎、抗过敏等作用",
     "syndrome_ids": [
+      "syndrome_011",
       "syndrome_057",
       "syndrome_070",
       "syndrome_077",
-      "syndrome_081"
+      "syndrome_078",
+      "syndrome_081",
+      "syndrome_091"
     ],
     "effect_ids": [
-      "effect_002"
+      "effect_002",
+      "effect_004",
+      "effect_088",
+      "effect_116"
     ],
     "beginner_note": "初学者：用于肝火旺盛，症状有头痛、口苦、眼睛红，龙胆草是关键。",
     "advanced_clinical_note": "高级要点：本方配伍泻中有补，当归、生地养血滋阴，防止苦寒伤阴；现代多用于肝胆系统疾病。",
@@ -663,7 +704,9 @@
       "syndrome_072"
     ],
     "effect_ids": [
-      "effect_002"
+      "effect_002",
+      "effect_005",
+      "effect_118"
     ],
     "beginner_note": "初学者：用于胃火引起的牙痛，黄连清热，升麻引药上行。",
     "advanced_clinical_note": "高级要点：升麻用量大于黄连，体现火郁发之；可加石膏增强清热效果；阴虚牙痛不宜使用。",
@@ -744,10 +787,14 @@
     ],
     "pharmacological_effect": "芍药汤具有抗菌、抗炎、解痉等作用",
     "syndrome_ids": [
-      "syndrome_089"
+      "syndrome_089",
+      "syndrome_119"
     ],
     "effect_ids": [
-      "effect_012"
+      "effect_007",
+      "effect_012",
+      "effect_111",
+      "effect_206"
     ],
     "beginner_note": "初学者：用于痢疾，症状有腹痛、脓血便、里急后重，白芍用量大。",
     "advanced_clinical_note": "高级要点：重用白芍养血和营止痛，木香、槟榔调气，体现行血则便脓自愈，调气则后重自除。",
@@ -831,7 +878,9 @@
       "syndrome_089"
     ],
     "effect_ids": [
-      "effect_002"
+      "effect_002",
+      "effect_008",
+      "effect_053"
     ],
     "beginner_note": "初学者：用于热毒痢疾，脓血便以红色为主，白头翁是特效药物。",
     "advanced_clinical_note": "高级要点：与芍药汤区别在于白头翁汤偏于凉血解毒，芍药汤偏于调气和血；根据脓血比例选择。",
@@ -911,9 +960,13 @@
       "更年期综合征"
     ],
     "pharmacological_effect": "青蒿鳖甲汤具有解热、抗炎、增强免疫等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_009"
+    ],
     "effect_ids": [
-      "effect_007"
+      "effect_007",
+      "effect_009",
+      "effect_049"
     ],
     "beginner_note": "初学者：用于阴虚发热，特点是晚上发热早上退，青蒿清热，鳖甲滋阴。",
     "advanced_clinical_note": "高级要点：青蒿后下取其芳香之气透邪外出，鳖甲先煎取其滋阴之力；体现透热转气治法。",
@@ -995,12 +1048,17 @@
     "pharmacological_effect": "大承气汤具有泻热通便、抗炎等作用",
     "syndrome_ids": [
       "syndrome_019",
+      "syndrome_025",
       "syndrome_041",
+      "syndrome_054",
       "syndrome_062",
       "syndrome_122"
     ],
     "effect_ids": [
-      "effect_016"
+      "effect_010",
+      "effect_016",
+      "effect_020",
+      "effect_078"
     ],
     "beginner_note": "初学者：用于严重便秘，有腹胀、腹痛、拒按，大黄后下。",
     "advanced_clinical_note": "高级要点：四诊合参确认痞满燥实坚；中病即止，不可久服；体虚者慎用。",
@@ -1079,7 +1137,10 @@
       "syndrome_122"
     ],
     "effect_ids": [
-      "effect_016"
+      "effect_011",
+      "effect_016",
+      "effect_020",
+      "effect_208"
     ],
     "beginner_note": "初学者：比大承气汤轻，用于不太严重的便秘，没有芒硝。",
     "advanced_clinical_note": "高级要点：无芒硝则软坚之力不足，适用于燥结较轻者；三承气汤区别在于芒硝和厚朴、枳实的用量。",
@@ -1155,10 +1216,14 @@
     "pharmacological_effect": "调胃承气汤具有泻热通便等作用",
     "syndrome_ids": [
       "syndrome_019",
+      "syndrome_057",
+      "syndrome_089",
       "syndrome_122"
     ],
     "effect_ids": [
-      "effect_016"
+      "effect_012",
+      "effect_016",
+      "effect_179"
     ],
     "beginner_note": "初学者：最缓和的承气汤，有甘草缓和药性，用于单纯的燥热便秘。",
     "advanced_clinical_note": "高级要点：甘草与大黄、芒硝配伍，缓和峻下之力，适用于体虚而有燥热者。",
@@ -1244,7 +1309,10 @@
       "syndrome_062"
     ],
     "effect_ids": [
-      "effect_016"
+      "effect_013",
+      "effect_016",
+      "effect_097",
+      "effect_188"
     ],
     "beginner_note": "初学者：用于老年人或习惯性便秘，麻子仁、杏仁都是润下药。",
     "advanced_clinical_note": "高级要点：本方为润下剂，适用于津液不足之便秘；与承气汤区别在于有无燥热表现。",
@@ -1325,9 +1393,15 @@
       "慢性结肠炎"
     ],
     "pharmacological_effect": "济川煎具有润肠通便等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_005",
+      "syndrome_100"
+    ],
     "effect_ids": [
-      "effect_005"
+      "effect_005",
+      "effect_014",
+      "effect_098",
+      "effect_131"
     ],
     "beginner_note": "初学者：用于肾虚引起的便秘，有腰膝酸软、小便清长等肾虚表现。",
     "advanced_clinical_note": "高级要点：牛膝补肝肾引血下行，当归养血润肠，体现寓通于补的治法。",
@@ -1409,10 +1483,15 @@
     ],
     "pharmacological_effect": "小柴胡汤具有解热、抗炎、保肝、调节免疫等作用",
     "syndrome_ids": [
-      "syndrome_020"
+      "syndrome_004",
+      "syndrome_020",
+      "syndrome_024",
+      "syndrome_055"
     ],
     "effect_ids": [
-      "effect_004"
+      "effect_004",
+      "effect_015",
+      "effect_017"
     ],
     "beginner_note": "初学者：用于半表半里证，症状有一会儿冷一会儿热，胸胁胀痛。",
     "advanced_clinical_note": "高级要点：柴胡疏解少阳，黄芩清泻少阳，人参扶正，体现和解之意；可加减用于多种疾病。",
@@ -1497,7 +1576,11 @@
       "syndrome_071"
     ],
     "effect_ids": [
-      "effect_004"
+      "effect_004",
+      "effect_009",
+      "effect_016",
+      "effect_017",
+      "effect_050"
     ],
     "beginner_note": "初学者：小柴胡汤加大黄、白芍，用于既有少阳证又有阳明腑实。",
     "advanced_clinical_note": "高级要点：柴胡配黄芩和解少阳，大黄配枳实内泻热结，体现表里双解。",
@@ -1582,10 +1665,14 @@
     "syndrome_ids": [
       "syndrome_004",
       "syndrome_046",
-      "syndrome_073"
+      "syndrome_058",
+      "syndrome_073",
+      "syndrome_077",
+      "syndrome_103"
     ],
     "effect_ids": [
-      "effect_004"
+      "effect_004",
+      "effect_042"
     ],
     "beginner_note": "初学者：用于情绪不好引起的身体不适，如胸闷、食欲不振、月经不调。",
     "advanced_clinical_note": "高级要点：柴胡疏肝，白术、茯苓健脾，当归、白芍养血，体现木郁达之；可加丹皮、栀子为丹栀逍遥散。",
@@ -1665,9 +1752,15 @@
       "慢性肠炎"
     ],
     "pharmacological_effect": "痛泻要方具有调节胃肠功能、解痉等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_026",
+      "syndrome_073",
+      "syndrome_103"
+    ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_172",
+      "effect_199"
     ],
     "beginner_note": "初学者：用于情绪紧张引起的腹泻，特点是腹痛后腹泻，泻后舒服。",
     "advanced_clinical_note": "高级要点：白术补脾，白芍柔肝，防风升阳止泻，体现培土抑木治法。",
@@ -1749,11 +1842,14 @@
     ],
     "pharmacological_effect": "半夏泻心汤具有调节胃肠功能、抗炎等作用",
     "syndrome_ids": [
+      "syndrome_014",
       "syndrome_026",
       "syndrome_050"
     ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_076",
+      "effect_094"
     ],
     "beginner_note": "初学者：用于胃部胀满不适，既有寒又有热的情况，半夏为主药。",
     "advanced_clinical_note": "高级要点：黄芩、黄连清热，干姜温中，人参扶正，体现寒热并用；痞满为主症。",
@@ -1833,9 +1929,14 @@
       "慢性肠炎"
     ],
     "pharmacological_effect": "理中丸具有调节胃肠功能、抗溃疡等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_014",
+      "syndrome_050",
+      "syndrome_095"
+    ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_124"
     ],
     "beginner_note": "初学者：用于脾胃虚寒，症状有肚子冷痛、喜按、大便稀溏，干姜是关键。",
     "advanced_clinical_note": "高级要点：干姜温中，人参益气，白术健脾，体现温中祛寒；可加附子为附子理中丸增强温阳之力。",
@@ -1917,10 +2018,17 @@
     ],
     "pharmacological_effect": "小建中汤具有调节胃肠功能、镇痛等作用",
     "syndrome_ids": [
-      "syndrome_065"
+      "syndrome_021",
+      "syndrome_022",
+      "syndrome_065",
+      "syndrome_075"
     ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_018",
+      "effect_019",
+      "effect_063",
+      "effect_126"
     ],
     "beginner_note": "初学者：用于脾胃虚寒引起的腹痛，特点是疼痛绵绵、喜按，有虚的表现。",
     "advanced_clinical_note": "高级要点：白芍用量加倍，配饴糖缓急止痛；与理中丸区别在于小建中汤偏于虚，理中丸偏于寒。",
@@ -2002,11 +2110,18 @@
     ],
     "pharmacological_effect": "吴茱萸汤具有调节胃肠功能、止呕等作用",
     "syndrome_ids": [
+      "syndrome_022",
       "syndrome_024",
-      "syndrome_039"
+      "syndrome_039",
+      "syndrome_065",
+      "syndrome_075"
     ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_019",
+      "effect_126",
+      "effect_129",
+      "effect_222"
     ],
     "beginner_note": "初学者：用于胃寒引起的呕吐，吴茱萸是温胃止呕的要药。",
     "advanced_clinical_note": "高级要点：吴茱萸温肝胃之寒，生姜重用增强止呕之力；呕吐伴有畏寒者适用。",
@@ -2086,7 +2201,8 @@
       "syndrome_123"
     ],
     "effect_ids": [
-      "effect_005"
+      "effect_005",
+      "effect_019"
     ],
     "beginner_note": "初学者：用于极度虚寒的危重情况，四肢冰冷、精神萎靡，附子是回阳救逆的要药。",
     "advanced_clinical_note": "高级要点：附子先煎1小时以上减毒；干姜与附子配伍增强温阳之力；急救方剂，中病即止。",
@@ -2167,9 +2283,17 @@
       "颈椎病"
     ],
     "pharmacological_effect": "黄芪桂枝五物汤具有改善微循环、增强免疫等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_015",
+      "syndrome_040",
+      "syndrome_056"
+    ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_062",
+      "effect_164",
+      "effect_167",
+      "effect_205"
     ],
     "beginner_note": "初学者：用于气虚血滞引起的肢体麻木，黄芪补气，桂枝通经。",
     "advanced_clinical_note": "高级要点：本方为桂枝汤去甘草加黄芪，重在益气；与当归四逆汤区别在于有无寒象。",
@@ -2252,8 +2376,11 @@
     "pharmacological_effect": "四君子汤具有调节胃肠功能、增强免疫、促进造血等作用",
     "syndrome_ids": [
       "syndrome_003",
+      "syndrome_048",
       "syndrome_059",
-      "syndrome_067"
+      "syndrome_067",
+      "syndrome_074",
+      "syndrome_094"
     ],
     "effect_ids": [
       "effect_003"
@@ -2339,11 +2466,16 @@
     ],
     "pharmacological_effect": "补中益气汤具有调节胃肠功能、增强免疫、抗疲劳等作用",
     "syndrome_ids": [
+      "syndrome_003",
       "syndrome_048",
-      "syndrome_059"
+      "syndrome_059",
+      "syndrome_096",
+      "syndrome_109"
     ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_036",
+      "effect_189"
     ],
     "beginner_note": "初学者：用于气虚比较严重，有内脏下垂倾向，黄芪用量大。",
     "advanced_clinical_note": "高级要点：黄芪补气升阳，升麻、柴胡升提气机，体现益气升阳治法；适用于气虚下陷证。",
@@ -2428,7 +2560,8 @@
       "syndrome_059"
     ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_123"
     ],
     "beginner_note": "初学者：用于脾胃虚弱伴有湿气重，有大便稀溏、身体沉重。",
     "advanced_clinical_note": "高级要点：四君子汤加薏苡仁、山药等祛湿药，体现补脾祛湿；药性平和，适合长期调理。",
@@ -2514,10 +2647,13 @@
       "syndrome_045",
       "syndrome_066",
       "syndrome_086",
+      "syndrome_097",
       "syndrome_124"
     ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_041",
+      "effect_166"
     ],
     "beginner_note": "初学者：用于气血两虚，有心慌、失眠、食欲不振，黄芪补气，当归补血。",
     "advanced_clinical_note": "高级要点：黄芪与当归配伍体现补气生血；远志、酸枣仁安神，兼顾心脾两脏。",
@@ -2594,10 +2730,14 @@
     ],
     "pharmacological_effect": "生脉散具有强心、抗休克、调节免疫等作用",
     "syndrome_ids": [
-      "syndrome_074"
+      "syndrome_045",
+      "syndrome_074",
+      "syndrome_086"
     ],
     "effect_ids": [
-      "effect_007"
+      "effect_007",
+      "effect_081",
+      "effect_165"
     ],
     "beginner_note": "初学者：用于气阴两虚，有出汗多、口干、乏力，人参补气，麦冬养阴。",
     "advanced_clinical_note": "高级要点：人参、麦冬、五味子配伍体现益气、养阴、敛汗；暑热季节常用，也用于大病初愈。",
@@ -2681,10 +2821,12 @@
     "syndrome_ids": [
       "syndrome_010",
       "syndrome_066",
+      "syndrome_086",
       "syndrome_087"
     ],
     "effect_ids": [
-      "effect_011"
+      "effect_011",
+      "effect_201"
     ],
     "beginner_note": "初学者：补血基础方，用于血虚，记住归地芎芍四味药。",
     "advanced_clinical_note": "高级要点：熟地黄滋阴补血，当归补血活血，川芎活血行气，白芍养血敛阴，体现补血而不滞血。",
@@ -2758,7 +2900,8 @@
       "syndrome_087"
     ],
     "effect_ids": [
-      "effect_011"
+      "effect_011",
+      "effect_193"
     ],
     "beginner_note": "初学者：黄芪用量是当归的5倍，体现补气生血的原理。",
     "advanced_clinical_note": "高级要点：黄芪与当归比例5:1是关键，重用黄芪补气以生血；适用于血虚伴有气虚者。",
@@ -2844,7 +2987,8 @@
       "syndrome_079"
     ],
     "effect_ids": [
-      "effect_007"
+      "effect_007",
+      "effect_147"
     ],
     "beginner_note": "初学者：补肾阴的基础方，用于肾阴虚，记住熟地、山茱萸、山药三补和茯苓、泽泻、丹皮三泻。",
     "advanced_clinical_note": "高级要点：三补三泻是本方特点，熟地黄滋阴，泽泻利湿，丹皮清热，补而不滞。",
@@ -2925,7 +3069,8 @@
     ],
     "pharmacological_effect": "大补阴丸具有滋阴降火等作用",
     "syndrome_ids": [
-      "syndrome_009"
+      "syndrome_009",
+      "syndrome_079"
     ],
     "effect_ids": [
       "effect_010"
@@ -3010,10 +3155,13 @@
     "pharmacological_effect": "一贯煎具有保肝、调节免疫等作用",
     "syndrome_ids": [
       "syndrome_004",
-      "syndrome_009"
+      "syndrome_009",
+      "syndrome_093",
+      "syndrome_115"
     ],
     "effect_ids": [
-      "effect_007"
+      "effect_007",
+      "effect_146"
     ],
     "beginner_note": "初学者：用于肝肾阴虚伴有肝气郁结，有胁痛、口干，沙参、麦冬滋阴。",
     "advanced_clinical_note": "高级要点：生地滋阴，当归养血，川楝子疏肝，体现滋阴疏肝；与逍遥散区别在于一贯煎偏于阴虚，逍遥散偏于脾虚。",
@@ -3096,11 +3244,14 @@
     "pharmacological_effect": "百合固金汤具有滋阴润肺、止咳等作用",
     "syndrome_ids": [
       "syndrome_006",
+      "syndrome_067",
       "syndrome_074",
+      "syndrome_102",
       "syndrome_128"
     ],
     "effect_ids": [
-      "effect_007"
+      "effect_007",
+      "effect_058"
     ],
     "beginner_note": "初学者：用于肺阴虚引起的咳嗽、咯血，百合润肺，生地滋阴。",
     "advanced_clinical_note": "高级要点：百合、沙参润肺，生地、熟地滋阴，当归、白芍养血，体现金水相生。",
@@ -3185,7 +3336,8 @@
       "syndrome_075"
     ],
     "effect_ids": [
-      "effect_005"
+      "effect_005",
+      "effect_197"
     ],
     "beginner_note": "初学者：补肾阳的基础方，用于肾阳虚，附子、肉桂是温阳的要药。",
     "advanced_clinical_note": "高级要点：附子、肉桂用量小，取少火生气之意；六味地黄丸加附子、肉桂，体现阴中求阳。",
@@ -3266,9 +3418,13 @@
       "心绞痛"
     ],
     "pharmacological_effect": "苏合香丸具有扩张血管、改善微循环等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_098"
+    ],
     "effect_ids": [
-      "effect_005"
+      "effect_005",
+      "effect_182",
+      "effect_186"
     ],
     "beginner_note": "初学者：用于寒邪引起的昏迷，苏合香、麝香都是芳香开窍药。",
     "advanced_clinical_note": "高级要点：苏合香、麝香芳香开窍，木香、香附行气，体现温开；与安宫牛黄丸区别在于寒闭与热闭。",
@@ -3349,9 +3505,13 @@
       "术后体虚"
     ],
     "pharmacological_effect": "牡蛎散具有止汗等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_067"
+    ],
     "effect_ids": [
-      "effect_014"
+      "effect_014",
+      "effect_028",
+      "effect_081"
     ],
     "beginner_note": "初学者：用于出汗多，尤其是白天出汗和晚上盗汗，牡蛎是收涩的要药。",
     "advanced_clinical_note": "高级要点：牡蛎敛阴，黄芪益气，麻黄根止汗，体现益气固表止汗；自汗、盗汗均可使用。",
@@ -3426,9 +3586,13 @@
       "尿失禁"
     ],
     "pharmacological_effect": "缩泉丸具有缩尿等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_101"
+    ],
     "effect_ids": [
-      "effect_005"
+      "effect_005",
+      "effect_132",
+      "effect_181"
     ],
     "beginner_note": "初学者：用于尿频、遗尿，益智仁是温肾缩尿的要药。",
     "advanced_clinical_note": "高级要点：益智仁温肾，乌药温膀胱，山药健脾，体现温肾缩尿；适用于膀胱虚寒之尿频。",
@@ -3508,9 +3672,12 @@
       "月经过多"
     ],
     "pharmacological_effect": "固冲汤具有止血等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_097"
+    ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_064"
     ],
     "beginner_note": "初学者：用于月经过多或崩漏，黄芪、白术补气，龙骨、牡蛎收涩。",
     "advanced_clinical_note": "高级要点：重用白术补气健脾，龙骨、牡蛎固冲止血，体现益气固冲；适用于脾气虚弱之崩漏。",
@@ -3593,10 +3760,13 @@
     "pharmacological_effect": "半夏厚朴汤具有调节胃肠功能、抗炎等作用",
     "syndrome_ids": [
       "syndrome_004",
+      "syndrome_046",
       "syndrome_058"
     ],
     "effect_ids": [
-      "effect_004"
+      "effect_004",
+      "effect_185",
+      "effect_221"
     ],
     "beginner_note": "初学者：用于咽喉有异物感，吞不下吐不出，半夏、厚朴是行气化痰的药。",
     "advanced_clinical_note": "高级要点：半夏化痰，厚朴行气，茯苓祛湿，苏叶散寒，体现行气散结；适用于气滞痰凝之梅核气。",
@@ -3677,9 +3847,16 @@
       "痛经"
     ],
     "pharmacological_effect": "天台乌药散具有解痉、镇痛等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_029",
+      "syndrome_080",
+      "syndrome_104"
+    ],
     "effect_ids": [
-      "effect_004"
+      "effect_004",
+      "effect_025",
+      "effect_082",
+      "effect_187"
     ],
     "beginner_note": "初学者：用于疝气疼痛，乌药、木香行气止痛，小茴香散寒。",
     "advanced_clinical_note": "高级要点：乌药行气，小茴香散寒，青皮疏肝，高良姜温里，体现行气散寒止痛。",
@@ -3766,10 +3943,12 @@
       "syndrome_029",
       "syndrome_060",
       "syndrome_068",
-      "syndrome_080"
+      "syndrome_080",
+      "syndrome_085"
     ],
     "effect_ids": [
-      "effect_009"
+      "effect_009",
+      "effect_186"
     ],
     "beginner_note": "初学者：用于血瘀引起的疼痛，特点是刺痛、固定不移，桃仁、红花是活血化瘀的要药。",
     "advanced_clinical_note": "高级要点：桃仁、红花活血化瘀，川芎、赤芍行气活血，柴胡、枳壳行气，体现活血行气；适用于胸中血瘀证。",
@@ -3850,14 +4029,17 @@
     ],
     "pharmacological_effect": "补阳还五汤具有改善微循环、抗血小板聚集、保护神经功能等作用",
     "syndrome_ids": [
+      "syndrome_008",
       "syndrome_015",
       "syndrome_035",
       "syndrome_048",
+      "syndrome_060",
       "syndrome_068",
       "syndrome_085"
     ],
     "effect_ids": [
-      "effect_016"
+      "effect_016",
+      "effect_192"
     ],
     "beginner_note": "初学者：用于中风后遗症，黄芪用量大，体现补气活血。",
     "advanced_clinical_note": "高级要点：黄芪补气，当归尾、川芎、赤芍、桃仁、红花活血化瘀，地龙通络，体现补气活血；黄芪用量30g为常规量，可根据体质调整。",
@@ -3941,7 +4123,10 @@
       "syndrome_060"
     ],
     "effect_ids": [
-      "effect_009"
+      "effect_009",
+      "effect_170",
+      "effect_213",
+      "effect_214"
     ],
     "beginner_note": "初学者：用于下焦血瘀伴有热证，桃仁活血化瘀，大黄泻热。",
     "advanced_clinical_note": "高级要点：桃仁逐瘀，大黄泻热，桂枝通经，体现逐瘀泻热；适用于下焦蓄血证。",
@@ -4027,7 +4212,9 @@
       "syndrome_068"
     ],
     "effect_ids": [
-      "effect_009"
+      "effect_009",
+      "effect_092",
+      "effect_153"
     ],
     "beginner_note": "初学者：用于跌打损伤引起的瘀血疼痛，大黄、桃仁活血化瘀。",
     "advanced_clinical_note": "高级要点：大黄酒制增强活血之力，柴胡疏肝引药上行，体现活血疏肝；适用于胁肋部瘀血。",
@@ -4097,9 +4284,13 @@
       "产后腹痛"
     ],
     "pharmacological_effect": "失笑散具有抗血小板聚集、改善微循环等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_060"
+    ],
     "effect_ids": [
-      "effect_009"
+      "effect_009",
+      "effect_083",
+      "effect_092"
     ],
     "beginner_note": "初学者：用于瘀血引起的疼痛，蒲黄、五灵脂都是活血化瘀药。",
     "advanced_clinical_note": "高级要点：蒲黄活血止血，五灵脂活血止痛，二药配伍体现活血散结；痛经常用。",
@@ -4180,9 +4371,13 @@
       "人工流产后出血"
     ],
     "pharmacological_effect": "生化汤具有促进子宫收缩、止血等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_010"
+    ],
     "effect_ids": [
-      "effect_011"
+      "effect_011",
+      "effect_045",
+      "effect_128"
     ],
     "beginner_note": "初学者：用于产后恶露不尽，当归用量大，养血活血。",
     "advanced_clinical_note": "高级要点：当归养血活血，川芎活血行气，干姜温中散寒，体现养血活血温经；产后常用方剂。",
@@ -4263,9 +4458,13 @@
       "不孕症"
     ],
     "pharmacological_effect": "温经汤具有调节内分泌等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_005"
+    ],
     "effect_ids": [
-      "effect_011"
+      "effect_011",
+      "effect_045",
+      "effect_127"
     ],
     "beginner_note": "初学者：用于月经不调，尤其是宫寒血瘀引起的，当归养血，桂枝散寒。",
     "advanced_clinical_note": "高级要点：当归、川芎养血活血，桂枝、吴茱萸温经散寒，体现温经养血活血；妇科调经常用。",
@@ -4350,10 +4549,12 @@
     "syndrome_ids": [
       "syndrome_007",
       "syndrome_033",
-      "syndrome_050"
+      "syndrome_050",
+      "syndrome_106"
     ],
     "effect_ids": [
-      "effect_008"
+      "effect_008",
+      "effect_150"
     ],
     "beginner_note": "初学者：化痰基础方，用于痰多、胸闷、恶心，半夏、陈皮是核心。",
     "advanced_clinical_note": "高级要点：半夏燥湿化痰，陈皮理气化痰，茯苓渗湿健脾，体现燥湿化痰；可加减用于各种痰证。",
@@ -4438,7 +4639,9 @@
       "syndrome_037"
     ],
     "effect_ids": [
-      "effect_008"
+      "effect_008",
+      "effect_107",
+      "effect_151"
     ],
     "beginner_note": "初学者：用于痰热咳嗽，痰黄黏稠，黄芩清热，胆南星化痰。",
     "advanced_clinical_note": "高级要点：黄芩清热，胆南星清热化痰，瓜蒌清热润燥，体现清热化痰；与二陈汤区别在于寒热属性。",
@@ -4514,10 +4717,13 @@
     ],
     "pharmacological_effect": "小陷胸汤具有抗炎、解痉等作用",
     "syndrome_ids": [
-      "syndrome_025"
+      "syndrome_025",
+      "syndrome_038"
     ],
     "effect_ids": [
-      "effect_008"
+      "effect_008",
+      "effect_075",
+      "effect_107"
     ],
     "beginner_note": "初学者：用于痰热引起的胸胁疼痛，按之加剧，瓜蒌宽胸。",
     "advanced_clinical_note": "高级要点：瓜蒌清热化痰宽胸，黄连清热，半夏化痰，体现清热化痰散结；结胸证常用。",
@@ -4599,10 +4805,13 @@
     ],
     "pharmacological_effect": "止嗽散具有镇咳、祛痰等作用",
     "syndrome_ids": [
+      "syndrome_033",
       "syndrome_036"
     ],
     "effect_ids": [
-      "effect_006"
+      "effect_006",
+      "effect_072",
+      "effect_154"
     ],
     "beginner_note": "初学者：用于风邪引起的咳嗽，咽痒，紫菀、百部止咳。",
     "advanced_clinical_note": "高级要点：紫菀、百部润肺止咳，荆芥疏风，白前降气，体现宣肺疏风止咳；药性平和，风寒风热均可加减。",
@@ -4683,9 +4892,15 @@
       "肺心病"
     ],
     "pharmacological_effect": "平喘固本汤具有平喘、改善肺功能等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_032",
+      "syndrome_067",
+      "syndrome_106"
+    ],
     "effect_ids": [
-      "effect_006"
+      "effect_006",
+      "effect_196",
+      "effect_218"
     ],
     "beginner_note": "初学者：用于慢性咳喘，有虚的表现，黄芪补气，冬虫夏草补肾。",
     "advanced_clinical_note": "高级要点：黄芪、党参补肺，冬虫夏草纳肾，体现肺肾双补；适用于慢性呼吸系统疾病缓解期。",
@@ -4770,7 +4985,8 @@
       "syndrome_123"
     ],
     "effect_ids": [
-      "effect_005"
+      "effect_005",
+      "effect_135"
     ],
     "beginner_note": "初学者：用于阳虚水肿，有畏寒、小便不利，附子温阳，茯苓利水。",
     "advanced_clinical_note": "高级要点：附子温阳，茯苓、白术利水，白芍敛阴，体现温阳利水；与五苓散区别在于有无阳虚表现。",
@@ -4857,7 +5073,9 @@
       "syndrome_127"
     ],
     "effect_ids": [
-      "effect_008"
+      "effect_008",
+      "effect_022",
+      "effect_136"
     ],
     "beginner_note": "初学者：用于水肿、小便不利，泽泻利水，桂枝温阳化气。",
     "advanced_clinical_note": "高级要点：泽泻用量最大，茯苓、猪苓、白术利水，桂枝温通，体现利水渗湿；与真武汤区别在于有无明显阳虚。",
@@ -4942,7 +5160,9 @@
       "syndrome_123"
     ],
     "effect_ids": [
-      "effect_008"
+      "effect_008",
+      "effect_022",
+      "effect_047"
     ],
     "beginner_note": "初学者：用于水热互结，有小便不利和阴虚表现，猪苓利水，阿胶养阴。",
     "advanced_clinical_note": "高级要点：猪苓、茯苓、泽泻利水，滑石清热，阿胶养阴，体现利水养阴清热；适用于水热互结伤阴者。",
@@ -5029,7 +5249,9 @@
       "syndrome_127"
     ],
     "effect_ids": [
-      "effect_008"
+      "effect_008",
+      "effect_148",
+      "effect_184"
     ],
     "beginner_note": "初学者：用于脾胃湿气重，腹胀、食欲不振，苍术燥湿，厚朴行气。",
     "advanced_clinical_note": "高级要点：苍术燥湿健脾，厚朴、陈皮行气，体现燥湿运脾；与藿香正气散区别在于有无外感。",
@@ -5107,10 +5329,14 @@
     "syndrome_ids": [
       "syndrome_030",
       "syndrome_070",
+      "syndrome_071",
+      "syndrome_081",
       "syndrome_127"
     ],
     "effect_ids": [
-      "effect_012"
+      "effect_012",
+      "effect_024",
+      "effect_211"
     ],
     "beginner_note": "初学者：用于黄疸，皮肤眼睛发黄，茵陈是退黄的要药。",
     "advanced_clinical_note": "高级要点：茵陈清热利湿退黄，栀子清热利湿，大黄泻热通便，体现清热利湿退黄；阳黄常用。",
@@ -5191,10 +5417,13 @@
     ],
     "pharmacological_effect": "羌活胜湿汤具有抗炎、镇痛等作用",
     "syndrome_ids": [
+      "syndrome_044",
       "syndrome_064"
     ],
     "effect_ids": [
-      "effect_013"
+      "effect_013",
+      "effect_023",
+      "effect_177"
     ],
     "beginner_note": "初学者：用于风湿引起的头痛、身痛，羌活、独活是祛风湿的要药。",
     "advanced_clinical_note": "高级要点：羌活善治上部风湿，独活善治下部风湿，川芎活血行气，体现祛风胜湿；与独活寄生汤区别在于病程长短。",
@@ -5281,7 +5510,9 @@
       "syndrome_088"
     ],
     "effect_ids": [
-      "effect_013"
+      "effect_013",
+      "effect_106",
+      "effect_157"
     ],
     "beginner_note": "初学者：用于皮肤瘙痒、风疹，荆芥、防风疏风止痒。",
     "advanced_clinical_note": "高级要点：荆芥、防风疏风，苦参、苍术祛湿，当归、生地养血，体现疏风清热养血；皮肤病常用。",
@@ -5365,7 +5596,8 @@
       "syndrome_042"
     ],
     "effect_ids": [
-      "effect_001"
+      "effect_001",
+      "effect_155"
     ],
     "beginner_note": "初学者：用于外感风邪引起的头痛，川芎是治头痛的要药。",
     "advanced_clinical_note": "高级要点：川芎活血行气，羌活、白芷、细辛分别善治不同部位头痛，体现疏风止痛；头痛常用方。",
@@ -5447,10 +5679,15 @@
     ],
     "pharmacological_effect": "大秦艽汤具有改善微循环、抗炎等作用",
     "syndrome_ids": [
-      "syndrome_015"
+      "syndrome_015",
+      "syndrome_027",
+      "syndrome_035",
+      "syndrome_084"
     ],
     "effect_ids": [
-      "effect_016"
+      "effect_016",
+      "effect_044",
+      "effect_156"
     ],
     "beginner_note": "初学者：用于中风初期，口眼歪斜，秦艽祛风湿通络。",
     "advanced_clinical_note": "高级要点：秦艽、羌活、独活祛风，当归、白芍、熟地养血，体现祛风养血活血；适用于风邪入络。",
@@ -5533,10 +5770,14 @@
     ],
     "pharmacological_effect": "小活络丹具有抗炎、镇痛等作用",
     "syndrome_ids": [
-      "syndrome_028"
+      "syndrome_028",
+      "syndrome_076"
     ],
     "effect_ids": [
-      "effect_013"
+      "effect_013",
+      "effect_023",
+      "effect_059",
+      "effect_091"
     ],
     "beginner_note": "初学者：用于风寒湿痹，关节疼痛、麻木，川乌、草乌祛风散寒。",
     "advanced_clinical_note": "高级要点：川乌、草乌祛风散寒止痛，胆南星化痰，地龙通络，体现祛风化痰活血；药性较猛，孕妇慎用。",
@@ -5617,9 +5858,13 @@
       "高热惊厥"
     ],
     "pharmacological_effect": "羚角钩藤汤具有镇静、抗惊厥、解热等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_090"
+    ],
     "effect_ids": [
-      "effect_002"
+      "effect_002",
+      "effect_051",
+      "effect_069"
     ],
     "beginner_note": "初学者：用于高热引起的抽搐，羚羊角、钩藤是凉肝熄风的药。",
     "advanced_clinical_note": "高级要点：羚羊角、钩藤凉肝熄风，桑叶、菊花清热，白芍、生地养阴，体现凉肝熄风；急救方剂。",
@@ -5697,7 +5942,10 @@
       "syndrome_067"
     ],
     "effect_ids": [
-      "effect_014"
+      "effect_014",
+      "effect_028",
+      "effect_086",
+      "effect_163"
     ],
     "beginner_note": "初学者：用于容易感冒、出汗多，黄芪补气，防风御风邪。",
     "advanced_clinical_note": "高级要点：黄芪益气固表，白术健脾益气，防风御风邪，体现益气固表；与牡蛎散区别在于有无气虚表现。",
@@ -5794,9 +6042,14 @@
       "性功能障碍"
     ],
     "pharmacological_effect": "桑螵蛸散具有缩尿等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_092",
+      "syndrome_101"
+    ],
     "effect_ids": [
-      "effect_005"
+      "effect_005",
+      "effect_100",
+      "effect_207"
     ],
     "beginner_note": "初学者：用于尿频、遗尿，桑螵蛸是补肾缩尿的药。",
     "advanced_clinical_note": "高级要点：桑螵蛸补肾固精，人参益气，远志安神，体现心肾双补；适用于心肾两虚之遗尿。",
@@ -5878,9 +6131,13 @@
       "宫颈糜烂"
     ],
     "pharmacological_effect": "完带汤具有抗炎等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_103"
+    ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_057",
+      "effect_200"
     ],
     "beginner_note": "初学者：用于白带过多，脾虚引起的，白术、山药健脾。",
     "advanced_clinical_note": "高级要点：白术、山药健脾祛湿，柴胡疏肝，体现补脾疏肝化湿；妇科带下常用方。",
@@ -5968,7 +6225,9 @@
     ],
     "effect_ids": [
       "effect_001",
-      "effect_006"
+      "effect_006",
+      "effect_130",
+      "effect_203"
     ],
     "beginner_note": "初学者：注意恶寒无汗咳喘痰稀白为辨证要点。",
     "advanced_clinical_note": "高级要点：麻黄用量宜灵活，表寒重者宜大，内饮重者宜小；注意勿久服免伤阴液。",
@@ -6050,10 +6309,13 @@
       "面神经麻痹"
     ],
     "pharmacological_effect": "具有解热、镇痛、改善颈部循环等作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_017"
+    ],
     "effect_ids": [
       "effect_001",
-      "effect_021"
+      "effect_021",
+      "effect_060"
     ],
     "beginner_note": "初学者：项背强急为葛根汤的辨证要点。",
     "advanced_clinical_note": "高级要点：葛根解肌升津，治项背强急效果显著；麻黄辛温解表，合用善于治疗项背挛急之外感证。",
@@ -6127,7 +6389,9 @@
     ],
     "effect_ids": [
       "effect_002",
-      "effect_014"
+      "effect_014",
+      "effect_074",
+      "effect_114"
     ],
     "beginner_note": "初学者：心中懊憹烦热不眠为用方要点。",
     "advanced_clinical_note": "高级要点：栀子清透郁热，淡豆豉宣散郁火，清宣并用而不伤正。",
@@ -6216,7 +6480,9 @@
       "syndrome_082"
     ],
     "effect_ids": [
-      "effect_002"
+      "effect_002",
+      "effect_113",
+      "effect_159"
     ],
     "beginner_note": "初学者：大热大渴汗出脉洪大，兼有气阴两伤为辨证要点。",
     "advanced_clinical_note": "高级要点：石膏清热力强；人参益气生津。气津两伤者用之尤宜。",
@@ -6307,7 +6573,9 @@
       "syndrome_026"
     ],
     "effect_ids": [
-      "effect_003"
+      "effect_003",
+      "effect_162",
+      "effect_221"
     ],
     "beginner_note": "初学者：嗳气不除、心下痞硬为辨证要点。",
     "advanced_clinical_note": "高级要点：旋覆花降气化痰，代赭石重镇降逆，合为止呕降气要方。",
@@ -6393,7 +6661,9 @@
     ],
     "effect_ids": [
       "effect_003",
-      "effect_018"
+      "effect_018",
+      "effect_125",
+      "effect_191"
     ],
     "beginner_note": "初学者：吐利腹满手足不温，舌淡苔白为用方要点。",
     "advanced_clinical_note": "高级要点：姜参术草四药相配，温中有补，补中有温，为太阴虚寒代表方。",
@@ -6478,7 +6748,8 @@
       "syndrome_024"
     ],
     "effect_ids": [
-      "effect_026"
+      "effect_026",
+      "effect_077"
     ],
     "beginner_note": "初学者：腹痛时作时止、得食痛作、有吐蛔史为要点。",
     "advanced_clinical_note": "高级要点：酸苦辛合法，乌梅酸能安蛔，配合清热温中，寒热错杂证通用。",
@@ -6626,7 +6897,10 @@
         "usage 字段缺失（数据缺陷），剂型用法无法核对，待补全。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_122",
+      "effect_212"
+    ]
   },
   {
     "id": "formula_102",
@@ -6682,7 +6956,8 @@
       "syndrome_008"
     ],
     "syndrome_ids": [
-      "syndrome_054"
+      "syndrome_054",
+      "syndrome_116"
     ],
     "comparison": [
       {
@@ -6713,7 +6988,10 @@
         "usage 字段缺失（数据缺陷），剂型用法无法核对，待补全。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_002",
+      "effect_052"
+    ]
   },
   {
     "id": "formula_103",
@@ -6812,6 +7090,7 @@
       "syndrome_035"
     ],
     "syndrome_ids": [
+      "syndrome_023",
       "syndrome_053"
     ],
     "comparison": [
@@ -6842,7 +7121,11 @@
         "与 formula_046 重复：同名同方《《温病条辨》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_002",
+      "effect_035",
+      "effect_080"
+    ]
   },
   {
     "id": "formula_104",
@@ -6954,7 +7237,11 @@
         "与 formula_076 重复：同名同方《《温病条辨》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_012",
+      "effect_033",
+      "effect_101"
+    ]
   },
   {
     "id": "formula_105",
@@ -7078,7 +7365,10 @@
         "usage 字段缺失（数据缺陷），剂型用法无法核对，待补全。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_002",
+      "effect_056"
+    ]
   },
   {
     "id": "formula_106",
@@ -7212,7 +7502,10 @@
         "与 formula_073 重复：同名同方《《太平惠民和剂局方》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_150",
+      "effect_202"
+    ]
   },
   {
     "id": "formula_107",
@@ -7295,7 +7588,10 @@
     "syndrome_ids": [
       "syndrome_011",
       "syndrome_047",
-      "syndrome_057"
+      "syndrome_057",
+      "syndrome_078",
+      "syndrome_089",
+      "syndrome_113"
     ],
     "comparison": [
       {
@@ -7325,7 +7621,10 @@
         "与 formula_075 重复：同名同方《《太平惠民和剂局方》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_055",
+      "effect_109"
+    ]
   },
   {
     "id": "formula_108",
@@ -7388,8 +7687,10 @@
       "syndrome_034"
     ],
     "syndrome_ids": [
+      "syndrome_009",
       "syndrome_063",
       "syndrome_072",
+      "syndrome_079",
       "syndrome_082"
     ],
     "comparison": [
@@ -7420,7 +7721,13 @@
         "与 formula_010 重复：同名同方《《景岳全书》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_005",
+      "effect_119",
+      "effect_120",
+      "effect_141",
+      "effect_143"
+    ]
   },
   {
     "id": "formula_109",
@@ -7501,7 +7808,8 @@
       "syndrome_009"
     ],
     "syndrome_ids": [
-      "syndrome_079"
+      "syndrome_079",
+      "syndrome_100"
     ],
     "comparison": [
       {
@@ -7531,7 +7839,10 @@
         "与 formula_038 重复：同名同方《《景岳全书》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_066",
+      "effect_147"
+    ]
   },
   {
     "id": "formula_110",
@@ -7655,7 +7966,11 @@
         "与 formula_043 重复：同名同方《《景岳全书》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_005",
+      "effect_065",
+      "effect_066"
+    ]
   },
   {
     "id": "formula_111",
@@ -7766,7 +8081,9 @@
         "usage 字段缺失（数据缺陷），剂型用法无法核对，待补全。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_093"
+    ]
   },
   {
     "id": "formula_112",
@@ -7871,7 +8188,10 @@
       "syndrome_030",
       "syndrome_040"
     ],
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_008",
+      "syndrome_060"
+    ],
     "comparison": [
       {
         "aspect": "功效",
@@ -7901,7 +8221,10 @@
         "usage 字段缺失（数据缺陷），剂型用法无法核对，待补全。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_092",
+      "effect_186"
+    ]
   },
   {
     "id": "formula_113",
@@ -7963,7 +8286,10 @@
       "syndrome_015",
       "syndrome_048"
     ],
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_096",
+      "syndrome_109"
+    ],
     "comparison": [
       {
         "aspect": "功效",
@@ -7993,7 +8319,9 @@
         "usage 字段缺失（数据缺陷），剂型用法无法核对，待补全。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_161"
+    ]
   },
   {
     "id": "formula_114",
@@ -8131,7 +8459,10 @@
         "与 formula_084 重复：同名同方《《医学衷中参西录》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_029",
+      "effect_145"
+    ]
   },
   {
     "id": "formula_115",
@@ -8262,6 +8593,7 @@
       "syndrome_027",
       "syndrome_028",
       "syndrome_044",
+      "syndrome_064",
       "syndrome_076",
       "syndrome_084"
     ],
@@ -8293,7 +8625,13 @@
         "与 formula_077 重复：同名同方《《备急千金要方》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_023",
+      "effect_087",
+      "effect_169",
+      "effect_176",
+      "effect_194"
+    ]
   },
   {
     "id": "formula_116",
@@ -8377,6 +8715,7 @@
       "syndrome_033"
     ],
     "syndrome_ids": [
+      "syndrome_007",
       "syndrome_033",
       "syndrome_080"
     ],
@@ -8408,7 +8747,11 @@
         "与 formula_064 重复：同名同方《《备急千金要方》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_061",
+      "effect_121",
+      "effect_149"
+    ]
   },
   {
     "id": "formula_117",
@@ -8484,7 +8827,10 @@
       "syndrome_022",
       "syndrome_027"
     ],
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_010",
+      "syndrome_024"
+    ],
     "comparison": [
       {
         "aspect": "功效",
@@ -8513,7 +8859,10 @@
         "与 formula_028 重复：同名同方《《伤寒论》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_046",
+      "effect_127"
+    ]
   },
   {
     "id": "formula_118",
@@ -8607,7 +8956,10 @@
         "与 formula_060 重复：同名同方《《金匮要略》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_009",
+      "effect_180"
+    ]
   },
   {
     "id": "formula_120",
@@ -8751,7 +9103,10 @@
         "与 formula_045 重复：同名同方《《校注妇人良方》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_142",
+      "effect_190"
+    ]
   },
   {
     "id": "formula_121",
@@ -8847,7 +9202,10 @@
         "与 formula_044 重复：同名同方《《金匮要略》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_043",
+      "effect_114"
+    ]
   },
   {
     "id": "formula_122",
@@ -8914,7 +9272,9 @@
       "syndrome_005",
       "syndrome_009"
     ],
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_101"
+    ],
     "comparison": [
       {
         "aspect": "功效",
@@ -8943,7 +9303,10 @@
         "与 formula_049 重复：同名同方《《医方集解》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_032",
+      "effect_198"
+    ]
   },
   {
     "id": "formula_123",
@@ -9028,7 +9391,9 @@
       "syndrome_002",
       "syndrome_051",
       "syndrome_061",
-      "syndrome_083"
+      "syndrome_069",
+      "syndrome_083",
+      "syndrome_114"
     ],
     "comparison": [
       {
@@ -9058,7 +9423,13 @@
         "与 formula_004 重复：同名同方《《温病条辨》》，数据集内重复录入，应去重。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_002",
+      "effect_006",
+      "effect_018",
+      "effect_073",
+      "effect_156"
+    ]
   },
   {
     "id": "formula_124",
@@ -9168,7 +9539,9 @@
       "syndrome_002",
       "syndrome_008"
     ],
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_129"
+    ],
     "comparison": [
       {
         "aspect": "功效",
@@ -9198,7 +9571,11 @@
         "usage 字段缺失（数据缺陷），剂型用法无法核对，待补全。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_002",
+      "effect_091",
+      "effect_095"
+    ]
   },
   {
     "id": "formula_125",
@@ -9340,7 +9717,10 @@
         "usage 字段缺失（数据缺陷），剂型用法无法核对，待补全。"
       ]
     },
-    "effect_ids": []
+    "effect_ids": [
+      "effect_038",
+      "effect_108"
+    ]
   },
   {
     "name": "当归龙荟丸",
@@ -9428,7 +9808,9 @@
     "syndrome_ids": [
       "syndrome_091"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_104"
+    ],
     "beginner_note": "初学者：用于肝火旺盛的头晕、便秘，是龙胆泻肝汤的加强版，注意泻下力强。",
     "advanced_clinical_note": "高级要点：含麝香、芦荟，孕妇忌用；丸剂缓图，适合长期服用；汤剂力猛，急症使用。",
     "id": "formula_126",
@@ -9514,7 +9896,11 @@
       "syndrome_092",
       "syndrome_123"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_010",
+      "effect_040",
+      "effect_223"
+    ],
     "beginner_note": "初学者：治疗阴虚火旺型失眠的代表方，以心烦不眠、舌红少苔为要点。",
     "advanced_clinical_note": "高级要点：阿胶烊化冲服；与酸枣仁汤的区别：本方侧重阴虚火旺，后者侧重肝血不足。",
     "id": "formula_127",
@@ -9585,7 +9971,10 @@
     "syndrome_ids": [
       "syndrome_092"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_040",
+      "effect_105"
+    ],
     "beginner_note": "初学者：仅两味药，黄连清热降心火，肉桂引火归元，比例10:1是关键。",
     "advanced_clinical_note": "高级要点：心火亢于上、肾阳不足于下是本方核心病机；肉桂量极小，量大反助火。",
     "id": "formula_128",
@@ -9691,9 +10080,13 @@
     ],
     "pharmacological_effect": "具有保护视力、抗氧化、降血压等作用",
     "syndrome_ids": [
-      "syndrome_093"
+      "syndrome_093",
+      "syndrome_115"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_084",
+      "effect_139"
+    ],
     "beginner_note": "初学者：六味地黄丸加枸杞、菊花，专治肝肾阴虚导致的眼病。",
     "advanced_clinical_note": "高级要点：与六味地黄丸的区别在于增加了明目之品；老年人视力减退常用方。",
     "id": "formula_129",
@@ -9782,7 +10175,10 @@
     "syndrome_ids": [
       "syndrome_094"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_003",
+      "effect_183"
+    ],
     "beginner_note": "初学者：四君子汤加陈皮，专治脾虚兼有腹胀；记住'四君+陈皮'。",
     "advanced_clinical_note": "高级要点：与四君子汤比多了行气之功；小儿脾胃虚弱兼食积者尤宜。",
     "id": "formula_130",
@@ -9871,7 +10267,10 @@
     "syndrome_ids": [
       "syndrome_095"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_003",
+      "effect_137"
+    ],
     "beginner_note": "初学者：理中丸加附子，治疗脾胃虚寒重证，以脘腹冷痛、手足不温为要点。",
     "advanced_clinical_note": "高级要点：附子需先煎30-60分钟减毒；与理中汤的区别在于增加了温阳散寒之力。",
     "id": "formula_131",
@@ -9985,7 +10384,10 @@
     "syndrome_ids": [
       "syndrome_098"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_096",
+      "effect_150"
+    ],
     "beginner_note": "初学者：温胆汤加人参、石菖蒲，用于痰蒙心窍的神昏、舌强不语。",
     "advanced_clinical_note": "高级要点：中风急性期痰涎壅盛者可用；与人参合用攻补兼施。",
     "id": "formula_132",
@@ -10074,7 +10476,10 @@
     "syndrome_ids": [
       "syndrome_099"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_071",
+      "effect_168"
+    ],
     "beginner_note": "初学者：治心虚胆怯失眠的代表方，以易惊醒、善恐为辨证要点。",
     "advanced_clinical_note": "高级要点：龙齿需先煎；与酸枣仁汤区别：本方侧重惊悸胆怯，后者侧重虚烦不眠。",
     "id": "formula_133",
@@ -10182,7 +10587,10 @@
     "syndrome_ids": [
       "syndrome_100"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_067",
+      "effect_144"
+    ],
     "beginner_note": "初学者：补肾填精第一方，含紫河车（胎盘），治疗先天不足、后天失养。",
     "advanced_clinical_note": "高级要点：紫河车为血肉有情之品，大补精血；虚不受补者宜从小剂量开始。",
     "id": "formula_134",
@@ -10289,7 +10697,10 @@
     "syndrome_ids": [
       "syndrome_102"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_140",
+      "effect_178"
+    ],
     "beginner_note": "初学者：六味地黄丸加麦冬、五味子，专治肺肾阴虚的咳喘。",
     "advanced_clinical_note": "高级要点：五味子酸收，对表邪未解者不宜；与百合固金汤的区别：本方侧重纳气，后者侧重润肺。",
     "id": "formula_135",
@@ -10385,7 +10796,10 @@
       "syndrome_105",
       "syndrome_128"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_099",
+      "effect_102"
+    ],
     "beginner_note": "初学者：治疗秋季温燥感冒的代表方，以干咳少痰、咽干鼻燥为要点。",
     "advanced_clinical_note": "高级要点：与杏苏散的区别：本方治温燥（热），杏苏散治凉燥（寒）。",
     "id": "formula_136",
@@ -10499,7 +10913,10 @@
       "syndrome_105",
       "syndrome_128"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_115",
+      "effect_159"
+    ],
     "beginner_note": "初学者：桑杏汤的加强版，用于燥热伤肺重证，干咳气逆而喘者。",
     "advanced_clinical_note": "高级要点：含石膏清热力强，但有人参护正；阿胶润肺。",
     "id": "formula_137",
@@ -10582,7 +10999,10 @@
     "syndrome_ids": [
       "syndrome_107"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_048",
+      "effect_152"
+    ],
     "beginner_note": "初学者：养胃阴的代表方，以饥不欲食、舌红少津为要点。",
     "advanced_clinical_note": "高级要点：与麦门冬汤的区别：本方专养胃阴无化痰之功，后者养阴兼降逆。",
     "id": "formula_138",
@@ -10714,7 +11134,10 @@
       "syndrome_108",
       "syndrome_124"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_070",
+      "effect_158"
+    ],
     "beginner_note": "初学者：归脾汤的变方，侧重心气虚的心悸失眠，当归补血汤打底加安神药。",
     "advanced_clinical_note": "高级要点：含肉桂引火归元，与归脾汤的区别在于有半夏化痰。",
     "id": "formula_139",
@@ -10803,7 +11226,9 @@
       "syndrome_096",
       "syndrome_109"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_160"
+    ],
     "beginner_note": "初学者：补中益气汤的简化版，专于益气升提，用于气虚下陷的出血证。",
     "advanced_clinical_note": "高级要点：人参、黄芪用量宜大（15-30g）；与补中益气汤区别在于无当归、柴胡、陈皮。",
     "id": "formula_140",
@@ -10910,7 +11335,9 @@
     "syndrome_ids": [
       "syndrome_111"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_166"
+    ],
     "beginner_note": "初学者：四君子汤+四物汤的合方，气血双补基础方，是初学者的必背方。",
     "advanced_clinical_note": "高级要点：补而不滞是本方要点；加减变化可衍生十全大补汤、人参养荣汤等。",
     "id": "formula_141",
@@ -11029,7 +11456,9 @@
     "syndrome_ids": [
       "syndrome_111"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_134"
+    ],
     "beginner_note": "初学者：八珍汤加黄芪、肉桂，补力更强且偏温，用于气血两虚兼寒象者。",
     "advanced_clinical_note": "高级要点：肉桂引火助阳，使气血得温而生化无穷；体质偏热者慎用。",
     "id": "formula_142",
@@ -11117,10 +11546,14 @@
     "pharmacological_effect": "具有解热、抗病毒、促进汗腺分泌等作用",
     "syndrome_ids": [
       "syndrome_069",
+      "syndrome_110",
       "syndrome_112",
       "syndrome_126"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_039",
+      "effect_171"
+    ],
     "beginner_note": "初学者：治夏季暑湿感冒的代表方，记住'香薷+银翘+厚朴+扁豆花'。",
     "advanced_clinical_note": "高级要点：香薷称为'夏月麻黄'；与藿香正气散区别：本方侧重解表清热，后者侧重化湿和中。",
     "id": "formula_143",
@@ -11188,10 +11621,13 @@
     ],
     "pharmacological_effect": "具有利尿、解热、保护黏膜等作用",
     "syndrome_ids": [
+      "syndrome_110",
       "syndrome_112",
       "syndrome_126"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_103"
+    ],
     "beginner_note": "初学者：最简单的祛暑方，滑石:甘草=6:1，故名六一散，治暑热小便不利。",
     "advanced_clinical_note": "高级要点：加青黛名'碧玉散'，加辰砂名'益元散'，加薄荷名'鸡苏散'。",
     "id": "formula_144",
@@ -11309,7 +11745,9 @@
     "syndrome_ids": [
       "syndrome_116"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_054"
+    ],
     "beginner_note": "初学者：凉血止血代表方，十味药炒炭存性，急则治标之方。",
     "advanced_clinical_note": "高级要点：'烧灰存性'是关键，过烧则失效；为急则治标之剂，血止后需辨证治本。",
     "id": "formula_147",
@@ -11385,7 +11823,9 @@
     "syndrome_ids": [
       "syndrome_117"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_068"
+    ],
     "beginner_note": "初学者：增水行舟法的代表方，仅三味药，用于津液不足的便秘。",
     "advanced_clinical_note": "高级要点：三药用量均较大（24-30g），以补药之体作泻药之用，妙在'增水行舟'。",
     "id": "formula_148",
@@ -11463,7 +11903,10 @@
       "syndrome_035",
       "syndrome_118"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_175",
+      "effect_215"
+    ],
     "beginner_note": "初学者：治面瘫（口眼歪斜）的经典方，仅三味虫药，记住'白僵全'。",
     "advanced_clinical_note": "高级要点：三药均有一定毒性，不宜久服；配合针灸效果更佳。",
     "id": "formula_149",
@@ -11546,7 +11989,10 @@
     "syndrome_ids": [
       "syndrome_119"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_112",
+      "effect_204"
+    ],
     "beginner_note": "初学者：治热性泄泻的代表方，以发热下利、大便臭秽为要点。记住'葛根+芩连'。",
     "advanced_clinical_note": "高级要点：葛根升清止泻为特色；与白头翁汤的区别：彼侧重脓血痢疾，此侧重热利。",
     "id": "formula_150",
@@ -11629,7 +12075,10 @@
     "syndrome_ids": [
       "syndrome_120"
     ],
-    "effect_ids": [],
+    "effect_ids": [
+      "effect_090",
+      "effect_217"
+    ],
     "beginner_note": "初学者：攻逐老痰顽痰的猛剂，用于狂躁、昏迷等实热痰证，药力峻猛。",
     "advanced_clinical_note": "高级要点：大黄、黄芩用量极大（240g），制成丸剂缓攻；体虚者及孕妇禁用。",
     "id": "formula_151",
@@ -15035,7 +15484,10 @@
       "syndrome_029"
     ],
     "effect_ids": [
-      "effect_015"
+      "effect_015",
+      "effect_025",
+      "effect_173",
+      "effect_216"
     ],
     "beginner_note": "治胸痹心痛的经方通阳化痰破气三法并施。",
     "advanced_clinical_note": "痛甚加丹参川芎。",
@@ -18314,10 +18766,13 @@
     "pharmacological_effect": "麦门冬汤具有润肺止咳保护胃黏膜等作用",
     "syndrome_ids": [
       "syndrome_043",
+      "syndrome_107",
       "syndrome_128"
     ],
     "effect_ids": [
-      "effect_039"
+      "effect_039",
+      "effect_138",
+      "effect_220"
     ],
     "beginner_note": "麦冬量特重体现培土生金之意。",
     "advanced_clinical_note": "津伤重加沙参玉竹。",
@@ -19440,10 +19895,14 @@
     "syndrome_ids": [
       "syndrome_012",
       "syndrome_026",
-      "syndrome_043"
+      "syndrome_043",
+      "syndrome_090"
     ],
     "effect_ids": [
-      "effect_032"
+      "effect_032",
+      "effect_079",
+      "effect_110",
+      "effect_195"
     ],
     "beginner_note": "治肝阳上亢的现代名方。",
     "advanced_clinical_note": "血压过高加代赭石。",
@@ -21219,10 +21678,14 @@
     "syndrome_ids": [
       "syndrome_003",
       "syndrome_038",
+      "syndrome_106",
       "syndrome_114"
     ],
     "effect_ids": [
-      "effect_006"
+      "effect_006",
+      "effect_133",
+      "effect_174",
+      "effect_219"
     ],
     "beginner_note": "治上实下虚喘咳的代表方。",
     "advanced_clinical_note": "喘甚加沉香。",
@@ -23613,10 +24076,13 @@
     "pharmacological_effect": "暖肝煎具有镇痛抗炎等作用",
     "syndrome_ids": [
       "syndrome_007",
+      "syndrome_104",
       "syndrome_113"
     ],
     "effect_ids": [
-      "effect_019"
+      "effect_019",
+      "effect_085",
+      "effect_186"
     ],
     "beginner_note": "治寒疝的代表方。",
     "advanced_clinical_note": "寒重加吴茱萸附子。",
@@ -25549,7 +26015,9 @@
       "syndrome_052"
     ],
     "effect_ids": [
-      "effect_009"
+      "effect_009",
+      "effect_113",
+      "effect_162"
     ],
     "beginner_note": "治热病后期气津两伤的经方。",
     "advanced_clinical_note": "气短加黄芪。",
@@ -31680,7 +32148,11 @@
       "口腔溃疡"
     ],
     "pharmacological_effect": "泻心汤具有抗炎、止血、抗菌及保护胃肠黏膜作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_026",
+      "syndrome_030",
+      "syndrome_116"
+    ],
     "effect_ids": [],
     "beginner_note": "初学者：记住大黄、黄连、黄芩三黄组合，主治火毒血热、上部出血。",
     "advanced_clinical_note": "高级要点：大黄黄连黄芩泻心汤用麻沸汤轻泡，取气薄泄热，不欲其速下。",
@@ -31781,7 +32253,9 @@
       "虚弱体质调理"
     ],
     "pharmacological_effect": "黄芪建中汤具有调节胃肠运动、保护胃黏膜、增强免疫作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_095"
+    ],
     "effect_ids": [],
     "beginner_note": "初学者：小建中汤加黄芪，温中补虚、缓急止痛，用于虚寒性胃脘痛。",
     "advanced_clinical_note": "高级要点：黄芪补气固表，与建中汤相合，重在温养气血以建中州。",
@@ -31875,7 +32349,9 @@
       "自主神经功能紊乱"
     ],
     "pharmacological_effect": "加减复脉汤具有营养心肌、改善心功能、调节自主神经作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_009"
+    ],
     "effect_ids": [],
     "beginner_note": "初学者：炙甘草汤去参桂姜枣、加白芍而来，重在滋阴复脉，用于温病伤阴。",
     "advanced_clinical_note": "高级要点：去温阳之品，纯以甘润养阴，为温病后期阴虚证而设。",
@@ -32030,7 +32506,9 @@
       "水肿"
     ],
     "pharmacological_effect": "升阳益胃汤具有调节胃肠功能、抗炎、增强机体免疫力作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_003"
+    ],
     "effect_ids": [],
     "beginner_note": "初学者：东垣方，黄芪为君，合柴胡、羌独防升阳，参术苓夏健脾化湿。",
     "advanced_clinical_note": "高级要点：补中有散、升中有降，治脾胃气虚兼夹湿热之证。",
@@ -32136,7 +32614,9 @@
       "内脏下垂"
     ],
     "pharmacological_effect": "调中益气汤具有促进胃肠动力、调节消化液分泌作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_094"
+    ],
     "effect_ids": [],
     "beginner_note": "初学者：益气升阳兼理气除湿，与补中益气汤意近而偏于化湿。",
     "advanced_clinical_note": "高级要点：以木香、陈皮理气，苍术燥湿，佐升柴升清，治中气下陷夹湿。",
@@ -32265,7 +32745,9 @@
       "机体免疫力低下"
     ],
     "pharmacological_effect": "升阳散火汤具有解热、抗炎、调节免疫作用",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_059"
+    ],
     "effect_ids": [],
     "beginner_note": "初学者：东垣治气虚发热名方，升麻葛根柴胡防风羌独发越阳气以散郁火。",
     "advanced_clinical_note": "高级要点：甘温除热法之一，治气虚阳郁化火之身热，忌用苦寒直折。",
@@ -32342,7 +32824,9 @@
     "pharmacological_effect": "葛根芩连汤具有抗菌、止泻、解热作用",
     "beginner_note": "初学者：葛根升清，芩连清热，治热利。",
     "advanced_clinical_note": "高级要点：太阳病误下，邪陷阳明，表里俱热之下利。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_119"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -32437,7 +32921,9 @@
     "pharmacological_effect": "黄连汤具有调节胃肠、抗菌作用",
     "beginner_note": "初学者：黄连清上，干姜温下，治上热下寒腹痛呕吐。",
     "advanced_clinical_note": "高级要点：伤寒胸中有热、胃中有邪气、腹中痛、欲呕吐者。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_026"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -32513,7 +32999,9 @@
     "pharmacological_effect": "抵当汤具有强效抗凝、溶栓作用",
     "beginner_note": "初学者：水蛭虻虫破血，桃仁大黄下瘀，治重证蓄血。",
     "advanced_clinical_note": "高级要点：太阳病六七日，表证仍在，脉微而沉，反不结胸。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_085"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -32577,7 +33065,9 @@
     "pharmacological_effect": "桂枝甘草汤具有强心、改善冠脉血流作用",
     "beginner_note": "初学者：桂枝甘草辛甘化阳，治心阳虚心悸。",
     "advanced_clinical_note": "高级要点：发汗过多，其人叉手自冒心，心下悸欲得按者。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_065"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -32654,7 +33144,10 @@
     "pharmacological_effect": "麻杏甘石汤具有平喘、解热、抗炎作用",
     "beginner_note": "初学者：麻黄宣肺，石膏清肺，治表邪入里化热喘。",
     "advanced_clinical_note": "高级要点：汗出而喘、无大热者，不可更行桂枝汤。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_038",
+      "syndrome_114"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -32724,7 +33217,9 @@
     "pharmacological_effect": "瓜蒂散具有催吐作用",
     "beginner_note": "初学者：瓜蒂赤小豆催吐，治实邪在胸脘。",
     "advanced_clinical_note": "高级要点：病如桂枝证，头不痛、项不强、寸脉微浮、胸中痞硬。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_014"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -32789,7 +33284,9 @@
     "pharmacological_effect": "枳术汤具有调节胃肠运动作用",
     "beginner_note": "初学者：枳实白术，行气健脾，治水饮心下坚。",
     "advanced_clinical_note": "高级要点：心下坚，大如盘，边如旋杯，水饮所作，枳术汤主之。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_130"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -32866,7 +33363,9 @@
     "pharmacological_effect": "瓜蒌薤白半夏汤具有扩冠、降脂作用",
     "beginner_note": "初学者：瓜蒌薤白半夏白酒，通阳祛痰，治胸痹重证。",
     "advanced_clinical_note": "高级要点：胸痹不得卧，心痛彻背者，瓜蒌薤白半夏汤主之。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_029"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33044,7 +33543,9 @@
     "pharmacological_effect": "桂枝芍药知母汤具有抗炎、镇痛、免疫调节作用",
     "beginner_note": "初学者：桂枝汤加减合麻黄附子术防知母，治历节。",
     "advanced_clinical_note": "高级要点：诸肢节疼痛，身体尪羸，脚肿如脱，头眩短气，温温欲吐。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_084"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33133,7 +33634,9 @@
     "pharmacological_effect": "当归芍药散具有调经、利水、镇痛作用",
     "beginner_note": "初学者：归芎芍养血，苓术泽泻利湿，治肝郁脾虚腹痛。",
     "advanced_clinical_note": "高级要点：妇人怀娠，腹中㽲痛，当归芍药散主之。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_010"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33228,7 +33731,10 @@
     "pharmacological_effect": "沙参麦冬汤具有滋阴、润喉作用",
     "beginner_note": "初学者：沙参麦冬玉竹桑叶扁豆花粉甘草，甘寒生津。",
     "advanced_clinical_note": "高级要点：燥伤肺胃阴分，或热或咳者，沙参麦冬汤主之。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_006",
+      "syndrome_107"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33316,7 +33822,9 @@
     "pharmacological_effect": "清络饮具有清暑、生津作用",
     "beginner_note": "初学者：荷叶银花西瓜翠衣等轻清之品，清透暑热。",
     "advanced_clinical_note": "高级要点：手太阴暑温，发汗后暑证悉减，但头微胀，目不了了。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_110"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33405,7 +33913,9 @@
     "pharmacological_effect": "化斑汤具有解热、抗炎、保护血脑屏障作用",
     "beginner_note": "初学者：白虎加玄参水牛角，清气凉血化斑。",
     "advanced_clinical_note": "高级要点：阳明斑者，化斑汤主之。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_054"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33488,7 +33998,9 @@
     "pharmacological_effect": "增液承气汤具有滋阴、泻下作用",
     "beginner_note": "初学者：增液汤加大黄芒硝，滋阴攻下。",
     "advanced_clinical_note": "高级要点：无水舟停者，间服增液，再不下者，增液承气汤主之。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_117"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33565,7 +34077,9 @@
     "pharmacological_effect": "宣白承气汤具有清肺、通腑、平喘作用",
     "beginner_note": "初学者：石膏杏蒌清肺，大黄通腑，脏腑同治。",
     "advanced_clinical_note": "高级要点：下之不通，喘促不宁，痰涎壅滞者。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_038"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33654,7 +34168,9 @@
     "pharmacological_effect": "清宫汤具有镇静、开窍、解热作用",
     "beginner_note": "初学者：玄参莲心竹叶连翘水牛角麦冬，清心开窍。",
     "advanced_clinical_note": "高级要点：手厥阴暑温，去丹参、黄连、生地、银翘，加莲子心、竹叶。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_120"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33803,7 +34319,9 @@
     "pharmacological_effect": "升阳除湿汤具有健脾化湿、调节肠运动作用",
     "beginner_note": "初学者：东垣升柴羌防胜湿，合健脾消食药。",
     "advanced_clinical_note": "高级要点：治脾胃虚弱，不思饮食，肠鸣腹痛，泄泻无度。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_094"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -33916,7 +34434,9 @@
     "pharmacological_effect": "补脾胃泻阴火升阳汤具有抗炎、调节免疫作用",
     "beginner_note": "初学者：升柴羌防升清阳，芩连石膏泻阴火。",
     "advanced_clinical_note": "高级要点：脾胃之证，始得则热中，今立此方，升阳泻火。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_059"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -34017,7 +34537,10 @@
     "pharmacological_effect": "枳实导滞丸具有促进消化、抗菌、止泻作用",
     "beginner_note": "初学者：大黄枳实导滞，芩连苓术泽泻清利湿热。",
     "advanced_clinical_note": "高级要点：治伤湿热之物，不得施化，而作痞满。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_014",
+      "syndrome_119"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -34112,7 +34635,9 @@
     "pharmacological_effect": "通幽汤具有活血、润肠、改善肠道血运作用",
     "beginner_note": "初学者：二地归桃红活血润燥，升麻升清通幽。",
     "advanced_clinical_note": "高级要点：治幽门不通，上冲吸门，噎塞不开。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_060"
+    ],
     "effect_ids": [],
     "comparison": [
       {
@@ -34195,7 +34720,9 @@
     "pharmacological_effect": "润肠丸具有润肠通便、活血作用",
     "beginner_note": "初学者：大黄归桃麻仁润肠，羌活祛风，治血燥便秘。",
     "advanced_clinical_note": "高级要点：治脾胃伏火，大便秘涩，不思饮食。",
-    "syndrome_ids": [],
+    "syndrome_ids": [
+      "syndrome_010"
+    ],
     "effect_ids": [],
     "comparison": [
       {

@@ -55,14 +55,16 @@
       "needle_057",
       "needle_076",
       "needle_148",
-      "needle_169"
+      "needle_169",
+      "prescription_053"
     ],
     "related_treatments": [
       "treatment_001"
     ],
     "related_effects": [
       "effect_001",
-      "effect_006"
+      "effect_006",
+      "effect_205"
     ],
     "comparison": [
       {
@@ -137,14 +139,18 @@
       "needle_134",
       "needle_150",
       "needle_151",
-      "prescription_022"
+      "prescription_022",
+      "prescription_052"
     ],
     "related_treatments": [
       "treatment_002"
     ],
     "related_effects": [
       "effect_002",
-      "effect_006"
+      "effect_006",
+      "effect_073",
+      "effect_156",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -211,7 +217,8 @@
       "formula_254",
       "formula_276",
       "formula_303",
-      "formula_329"
+      "formula_329",
+      "formula_362"
     ],
     "related_needle": [
       "needle_003",
@@ -235,7 +242,8 @@
       "treatment_003"
     ],
     "related_effects": [
-      "effect_003"
+      "effect_003",
+      "effect_189"
     ],
     "comparison": [
       {
@@ -307,13 +315,18 @@
       "needle_157",
       "needle_171",
       "prescription_035",
-      "prescription_042"
+      "prescription_042",
+      "prescription_063",
+      "prescription_070",
+      "prescription_104",
+      "prescription_196"
     ],
     "related_treatments": [
       "treatment_004"
     ],
     "related_effects": [
-      "effect_004"
+      "effect_004",
+      "effect_042"
     ],
     "comparison": [
       {
@@ -365,7 +378,9 @@
       "甲状腺功能减退"
     ],
     "related_formulas": [
+      "formula_018",
       "formula_042",
+      "formula_062",
       "formula_110",
       "formula_184",
       "formula_186",
@@ -404,13 +419,20 @@
       "needle_144",
       "needle_146",
       "needle_147",
-      "needle_172"
+      "needle_172",
+      "prescription_093",
+      "prescription_096",
+      "prescription_157",
+      "prescription_171",
+      "prescription_198"
     ],
     "related_treatments": [
       "treatment_005"
     ],
     "related_effects": [
-      "effect_005"
+      "effect_005",
+      "effect_066",
+      "effect_197"
     ],
     "comparison": [
       {
@@ -461,7 +483,8 @@
     ],
     "related_formulas": [
       "formula_037",
-      "formula_041"
+      "formula_041",
+      "formula_376"
     ],
     "related_needle": [
       "needle_006",
@@ -469,13 +492,17 @@
       "needle_042",
       "needle_104",
       "needle_113",
-      "needle_180"
+      "needle_180",
+      "prescription_055",
+      "prescription_088"
     ],
     "related_treatments": [
       "treatment_006"
     ],
     "related_effects": [
-      "effect_007"
+      "effect_007",
+      "effect_058",
+      "effect_147"
     ],
     "comparison": [
       {
@@ -554,13 +581,18 @@
       "needle_090",
       "needle_099",
       "needle_109",
-      "needle_117"
+      "needle_117",
+      "prescription_116",
+      "prescription_196"
     ],
     "related_treatments": [
       "treatment_007"
     ],
     "related_effects": [
-      "effect_008"
+      "effect_008",
+      "effect_061",
+      "effect_149",
+      "effect_150"
     ],
     "comparison": [
       {
@@ -614,6 +646,7 @@
       "formula_055",
       "formula_056",
       "formula_058",
+      "formula_112",
       "formula_118",
       "formula_156",
       "formula_157",
@@ -649,6 +682,7 @@
       "needle_177",
       "prescription_013",
       "prescription_027",
+      "prescription_104",
       "prescription_137",
       "prescription_168",
       "prescription_195"
@@ -658,7 +692,9 @@
     ],
     "related_effects": [
       "effect_009",
-      "effect_016"
+      "effect_016",
+      "effect_186",
+      "effect_192"
     ],
     "comparison": [
       {
@@ -709,10 +745,12 @@
       "糖尿病"
     ],
     "related_formulas": [
+      "formula_013",
       "formula_039",
       "formula_040",
       "formula_108",
-      "formula_203"
+      "formula_203",
+      "formula_361"
     ],
     "related_needle": [
       "needle_009",
@@ -737,7 +775,9 @@
     ],
     "related_effects": [
       "effect_007",
-      "effect_010"
+      "effect_010",
+      "effect_120",
+      "effect_141"
     ],
     "comparison": [
       {
@@ -791,13 +831,17 @@
     "related_formulas": [
       "formula_035",
       "formula_036",
+      "formula_061",
+      "formula_117",
       "formula_162",
       "formula_246",
       "formula_284",
       "formula_330",
       "formula_335",
       "formula_336",
-      "formula_345"
+      "formula_345",
+      "formula_375",
+      "formula_386"
     ],
     "related_needle": [
       "needle_010",
@@ -813,7 +857,9 @@
       "treatment_025"
     ],
     "related_effects": [
-      "effect_011"
+      "effect_011",
+      "effect_193",
+      "effect_201"
     ],
     "comparison": [
       {
@@ -895,7 +941,11 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_012"
+      "effect_012",
+      "effect_055",
+      "effect_088",
+      "effect_109",
+      "effect_116"
     ],
     "comparison": [
       {
@@ -974,7 +1024,11 @@
     ],
     "related_effects": [
       "effect_004",
-      "effect_013"
+      "effect_013",
+      "effect_079",
+      "effect_110",
+      "effect_145",
+      "effect_195"
     ],
     "comparison": [
       {
@@ -1031,7 +1085,10 @@
       "needle_013",
       "needle_032",
       "needle_060",
-      "needle_127"
+      "needle_127",
+      "prescription_083",
+      "prescription_085",
+      "prescription_089"
     ],
     "related_treatments": [
       "treatment_009",
@@ -1039,7 +1096,10 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_014"
+      "effect_014",
+      "effect_089",
+      "effect_142",
+      "effect_190"
     ],
     "comparison": [
       {
@@ -1091,12 +1151,17 @@
       "formula_023",
       "formula_024",
       "formula_072",
-      "formula_206"
+      "formula_206",
+      "formula_370",
+      "formula_384"
     ],
     "related_needle": [
       "needle_014",
       "needle_023",
-      "needle_034"
+      "needle_034",
+      "prescription_082",
+      "prescription_130",
+      "prescription_175"
     ],
     "related_treatments": [
       "treatment_013",
@@ -1104,7 +1169,10 @@
     ],
     "related_effects": [
       "effect_003",
-      "effect_015"
+      "effect_015",
+      "effect_076",
+      "effect_094",
+      "effect_124"
     ],
     "comparison": [
       {
@@ -1155,6 +1223,7 @@
       "下肢静脉曲张"
     ],
     "related_formulas": [
+      "formula_029",
       "formula_056",
       "formula_081"
     ],
@@ -1171,7 +1240,10 @@
       "treatment_015"
     ],
     "related_effects": [
-      "effect_016"
+      "effect_016",
+      "effect_044",
+      "effect_156",
+      "effect_192"
     ],
     "comparison": [
       {
@@ -1233,7 +1305,8 @@
     ],
     "related_effects": [
       "effect_001",
-      "effect_021"
+      "effect_021",
+      "effect_205"
     ],
     "comparison": [
       {
@@ -1281,7 +1354,8 @@
     ],
     "related_formulas": [
       "formula_001",
-      "formula_089"
+      "formula_089",
+      "formula_090"
     ],
     "related_needle": [
       "needle_001",
@@ -1353,14 +1427,16 @@
       "needle_047",
       "needle_060",
       "needle_121",
-      "needle_152"
+      "needle_152",
+      "prescription_152"
     ],
     "related_treatments": [
       "treatment_019"
     ],
     "related_effects": [
       "effect_002",
-      "effect_020"
+      "effect_020",
+      "effect_113"
     ],
     "comparison": [
       {
@@ -1423,7 +1499,9 @@
     ],
     "related_effects": [
       "effect_016",
-      "effect_020"
+      "effect_020",
+      "effect_078",
+      "effect_208"
     ],
     "comparison": [
       {
@@ -1481,7 +1559,8 @@
       "needle_016",
       "needle_035",
       "needle_059",
-      "needle_061"
+      "needle_061",
+      "prescription_154"
     ],
     "related_treatments": [
       "treatment_016"
@@ -1553,7 +1632,9 @@
     ],
     "related_effects": [
       "effect_003",
-      "effect_018"
+      "effect_018",
+      "effect_063",
+      "effect_126"
     ],
     "comparison": [
       {
@@ -1642,7 +1723,10 @@
     ],
     "related_effects": [
       "effect_003",
-      "effect_019"
+      "effect_019",
+      "effect_063",
+      "effect_126",
+      "effect_222"
     ],
     "comparison": [
       {
@@ -1702,7 +1786,8 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_010"
+      "effect_010",
+      "effect_080"
     ],
     "comparison": [
       {
@@ -1755,10 +1840,12 @@
       "formula_019",
       "formula_026",
       "formula_098",
+      "formula_117",
       "formula_230"
     ],
     "related_needle": [
-      "needle_017"
+      "needle_017",
+      "prescription_156"
     ],
     "related_treatments": [
       "treatment_016",
@@ -1830,7 +1917,8 @@
     ],
     "related_effects": [
       "effect_016",
-      "effect_020"
+      "effect_020",
+      "effect_078"
     ],
     "comparison": [
       {
@@ -1883,7 +1971,9 @@
       "formula_095",
       "formula_182",
       "formula_189",
-      "formula_234"
+      "formula_234",
+      "formula_359",
+      "formula_366"
     ],
     "related_needle": [
       "needle_003",
@@ -1894,7 +1984,9 @@
       "treatment_016"
     ],
     "related_effects": [
-      "effect_003"
+      "effect_003",
+      "effect_172",
+      "effect_199"
     ],
     "comparison": [
       {
@@ -1959,7 +2051,13 @@
     "related_effects": [
       "effect_013",
       "effect_016",
-      "effect_023"
+      "effect_023",
+      "effect_044",
+      "effect_087",
+      "effect_156",
+      "effect_169",
+      "effect_176",
+      "effect_194"
     ],
     "comparison": [
       {
@@ -2029,7 +2127,13 @@
     ],
     "related_effects": [
       "effect_013",
-      "effect_023"
+      "effect_023",
+      "effect_059",
+      "effect_087",
+      "effect_091",
+      "effect_169",
+      "effect_176",
+      "effect_194"
     ],
     "comparison": [
       {
@@ -2079,7 +2183,8 @@
     "related_formulas": [
       "formula_054",
       "formula_055",
-      "formula_186"
+      "formula_186",
+      "formula_372"
     ],
     "related_needle": [
       "needle_020",
@@ -2095,7 +2200,9 @@
     ],
     "related_effects": [
       "effect_004",
-      "effect_025"
+      "effect_025",
+      "effect_082",
+      "effect_187"
     ],
     "comparison": [
       {
@@ -2147,19 +2254,22 @@
       "溶血性黄疸"
     ],
     "related_formulas": [
-      "formula_074"
+      "formula_074",
+      "formula_359"
     ],
     "related_needle": [
       "needle_011",
       "needle_030",
-      "needle_062"
+      "needle_062",
+      "prescription_190"
     ],
     "related_treatments": [
       "treatment_022"
     ],
     "related_effects": [
       "effect_012",
-      "effect_024"
+      "effect_024",
+      "effect_211"
     ],
     "comparison": [
       {
@@ -2227,7 +2337,8 @@
     ],
     "related_effects": [
       "effect_008",
-      "effect_022"
+      "effect_022",
+      "effect_136"
     ],
     "comparison": [
       {
@@ -2297,7 +2408,10 @@
       "effect_005",
       "effect_006",
       "effect_022",
-      "effect_025"
+      "effect_025",
+      "effect_135",
+      "effect_196",
+      "effect_218"
     ],
     "comparison": [
       {
@@ -2364,7 +2478,9 @@
     ],
     "related_effects": [
       "effect_006",
-      "effect_008"
+      "effect_008",
+      "effect_072",
+      "effect_154"
     ],
     "comparison": [
       {
@@ -2428,13 +2544,15 @@
       "needle_009",
       "needle_052",
       "needle_054",
-      "needle_064"
+      "needle_064",
+      "prescription_012"
     ],
     "related_treatments": [
       "treatment_009"
     ],
     "related_effects": [
-      "effect_002"
+      "effect_002",
+      "effect_113"
     ],
     "comparison": [
       {
@@ -2517,7 +2635,10 @@
     ],
     "related_effects": [
       "effect_009",
-      "effect_016"
+      "effect_016",
+      "effect_044",
+      "effect_156",
+      "effect_192"
     ],
     "comparison": [
       {
@@ -2583,7 +2704,8 @@
       "needle_001",
       "needle_022",
       "needle_116",
-      "needle_159"
+      "needle_159",
+      "prescription_181"
     ],
     "related_treatments": [
       "treatment_001"
@@ -2649,7 +2771,8 @@
     ],
     "related_needle": [
       "needle_002",
-      "needle_150"
+      "needle_150",
+      "prescription_002"
     ],
     "related_treatments": [
       "treatment_002",
@@ -2657,7 +2780,11 @@
     ],
     "related_effects": [
       "effect_006",
-      "effect_008"
+      "effect_008",
+      "effect_107",
+      "effect_117",
+      "effect_151",
+      "effect_209"
     ],
     "comparison": [
       {
@@ -2707,7 +2834,9 @@
     "related_formulas": [
       "formula_005",
       "formula_066",
-      "formula_250"
+      "formula_250",
+      "formula_369",
+      "formula_380"
     ],
     "related_needle": [
       "needle_007",
@@ -2720,7 +2849,11 @@
     ],
     "related_effects": [
       "effect_006",
-      "effect_008"
+      "effect_008",
+      "effect_075",
+      "effect_107",
+      "effect_117",
+      "effect_209"
     ],
     "comparison": [
       {
@@ -2782,7 +2915,8 @@
     ],
     "related_effects": [
       "effect_001",
-      "effect_018"
+      "effect_018",
+      "effect_205"
     ],
     "comparison": [
       {
@@ -2848,7 +2982,11 @@
     "related_effects": [
       "effect_003",
       "effect_008",
-      "effect_018"
+      "effect_018",
+      "effect_062",
+      "effect_150",
+      "effect_164",
+      "effect_202"
     ],
     "comparison": [
       {
@@ -2908,7 +3046,8 @@
       "needle_072",
       "needle_160",
       "prescription_005",
-      "prescription_153"
+      "prescription_153",
+      "prescription_188"
     ],
     "related_treatments": [
       "treatment_013",
@@ -2916,7 +3055,10 @@
     ],
     "related_effects": [
       "effect_016",
-      "effect_020"
+      "effect_020",
+      "effect_078",
+      "effect_097",
+      "effect_188"
     ],
     "comparison": [
       {
@@ -2973,13 +3115,15 @@
     ],
     "related_needle": [
       "needle_001",
-      "needle_024"
+      "needle_024",
+      "prescription_150"
     ],
     "related_treatments": [
       "treatment_001"
     ],
     "related_effects": [
-      "effect_001"
+      "effect_001",
+      "effect_155"
     ],
     "comparison": [
       {
@@ -3054,7 +3198,11 @@
     ],
     "related_effects": [
       "effect_004",
-      "effect_013"
+      "effect_013",
+      "effect_079",
+      "effect_110",
+      "effect_145",
+      "effect_195"
     ],
     "comparison": [
       {
@@ -3121,7 +3269,12 @@
     ],
     "related_effects": [
       "effect_013",
-      "effect_023"
+      "effect_023",
+      "effect_087",
+      "effect_169",
+      "effect_176",
+      "effect_177",
+      "effect_194"
     ],
     "comparison": [
       {
@@ -3188,7 +3341,9 @@
     "related_effects": [
       "effect_003",
       "effect_007",
-      "effect_011"
+      "effect_011",
+      "effect_081",
+      "effect_165"
     ],
     "comparison": [
       {
@@ -3261,7 +3416,10 @@
       "treatment_005"
     ],
     "related_effects": [
-      "effect_004"
+      "effect_004",
+      "effect_042",
+      "effect_185",
+      "effect_221"
     ],
     "comparison": [
       {
@@ -3324,7 +3482,9 @@
       "treatment_011"
     ],
     "related_effects": [
-      "effect_012"
+      "effect_012",
+      "effect_055",
+      "effect_109"
     ],
     "comparison": [
       {
@@ -3390,7 +3550,8 @@
     ],
     "related_effects": [
       "effect_003",
-      "effect_016"
+      "effect_016",
+      "effect_192"
     ],
     "comparison": [
       {
@@ -3455,7 +3616,9 @@
       "treatment_007"
     ],
     "related_effects": [
-      "effect_006"
+      "effect_006",
+      "effect_117",
+      "effect_209"
     ],
     "comparison": [
       {
@@ -3518,7 +3681,10 @@
     ],
     "related_effects": [
       "effect_003",
-      "effect_015"
+      "effect_015",
+      "effect_076",
+      "effect_094",
+      "effect_124"
     ],
     "comparison": [
       {
@@ -3583,7 +3749,10 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_006"
+      "effect_006",
+      "effect_073",
+      "effect_156",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -3657,7 +3826,10 @@
     "related_effects": [
       "effect_002",
       "effect_006",
-      "effect_020"
+      "effect_020",
+      "effect_113",
+      "effect_117",
+      "effect_209"
     ],
     "comparison": [
       {
@@ -3731,7 +3903,8 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_010"
+      "effect_010",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -3784,7 +3957,8 @@
     "related_formulas": [
       "formula_014",
       "formula_102",
-      "formula_125"
+      "formula_125",
+      "formula_378"
     ],
     "related_needle": [
       "needle_012",
@@ -3798,7 +3972,8 @@
     "related_effects": [
       "effect_009",
       "effect_016",
-      "effect_020"
+      "effect_020",
+      "effect_078"
     ],
     "comparison": [
       {
@@ -3877,7 +4052,8 @@
       "effect_001",
       "effect_002",
       "effect_004",
-      "effect_012"
+      "effect_012",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -3950,7 +4126,11 @@
     "related_effects": [
       "effect_003",
       "effect_008",
-      "effect_012"
+      "effect_012",
+      "effect_062",
+      "effect_150",
+      "effect_164",
+      "effect_202"
     ],
     "comparison": [
       {
@@ -4019,7 +4199,10 @@
     ],
     "related_effects": [
       "effect_012",
-      "effect_016"
+      "effect_016",
+      "effect_055",
+      "effect_109",
+      "effect_179"
     ],
     "comparison": [
       {
@@ -4084,14 +4267,19 @@
     ],
     "related_needle": [
       "needle_004",
-      "needle_157"
+      "needle_157",
+      "prescription_059",
+      "prescription_142"
     ],
     "related_treatments": [
       "treatment_004",
       "treatment_005"
     ],
     "related_effects": [
-      "effect_004"
+      "effect_004",
+      "effect_042",
+      "effect_185",
+      "effect_221"
     ],
     "comparison": [
       {
@@ -4148,14 +4336,19 @@
       "formula_031",
       "formula_032",
       "formula_280",
-      "formula_286"
+      "formula_286",
+      "formula_364",
+      "formula_383"
     ],
     "related_needle": [
       "needle_003",
       "needle_015",
       "needle_107",
       "needle_136",
-      "needle_144"
+      "needle_144",
+      "prescription_053",
+      "prescription_142",
+      "prescription_155"
     ],
     "related_treatments": [
       "treatment_001",
@@ -4163,7 +4356,8 @@
       "treatment_025"
     ],
     "related_effects": [
-      "effect_003"
+      "effect_003",
+      "effect_189"
     ],
     "comparison": [
       {
@@ -4217,12 +4411,17 @@
       "formula_055",
       "formula_056",
       "formula_057",
-      "formula_111"
+      "formula_059",
+      "formula_111",
+      "formula_112",
+      "formula_385"
     ],
     "related_needle": [
       "needle_008",
       "needle_158",
-      "needle_163"
+      "needle_163",
+      "prescription_077",
+      "prescription_101"
     ],
     "related_treatments": [
       "treatment_005",
@@ -4231,7 +4430,9 @@
     ],
     "related_effects": [
       "effect_009",
-      "effect_016"
+      "effect_016",
+      "effect_186",
+      "effect_192"
     ],
     "comparison": [
       {
@@ -4296,7 +4497,9 @@
     ],
     "related_effects": [
       "effect_001",
-      "effect_006"
+      "effect_006",
+      "effect_117",
+      "effect_209"
     ],
     "comparison": [
       {
@@ -4359,7 +4562,10 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_016"
+      "effect_016",
+      "effect_097",
+      "effect_188",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -4425,7 +4631,9 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_020"
+      "effect_020",
+      "effect_089",
+      "effect_113"
     ],
     "comparison": [
       {
@@ -4490,7 +4698,12 @@
     ],
     "related_effects": [
       "effect_013",
-      "effect_023"
+      "effect_023",
+      "effect_087",
+      "effect_169",
+      "effect_176",
+      "effect_177",
+      "effect_194"
     ],
     "comparison": [
       {
@@ -4544,13 +4757,15 @@
     "related_formulas": [
       "formula_025",
       "formula_026",
-      "formula_027"
+      "formula_027",
+      "formula_368"
     ],
     "related_needle": [
       "needle_018",
       "needle_020",
       "needle_119",
-      "needle_139"
+      "needle_139",
+      "prescription_164"
     ],
     "related_treatments": [
       "treatment_017",
@@ -4558,7 +4773,10 @@
     ],
     "related_effects": [
       "effect_003",
-      "effect_019"
+      "effect_019",
+      "effect_063",
+      "effect_126",
+      "effect_222"
     ],
     "comparison": [
       {
@@ -4617,13 +4835,16 @@
     ],
     "related_needle": [
       "needle_010",
-      "needle_162"
+      "needle_162",
+      "prescription_149"
     ],
     "related_treatments": [
       "treatment_010"
     ],
     "related_effects": [
-      "effect_011"
+      "effect_011",
+      "effect_193",
+      "effect_201"
     ],
     "comparison": [
       {
@@ -4677,11 +4898,14 @@
     "related_formulas": [
       "formula_030",
       "formula_041",
+      "formula_048",
+      "formula_068",
       "formula_086"
     ],
     "related_needle": [
       "needle_006",
-      "needle_076"
+      "needle_076",
+      "prescription_146"
     ],
     "related_treatments": [
       "treatment_003",
@@ -4690,7 +4914,8 @@
     ],
     "related_effects": [
       "effect_003",
-      "effect_007"
+      "effect_007",
+      "effect_058"
     ],
     "comparison": [
       {
@@ -4752,7 +4977,9 @@
     ],
     "related_effects": [
       "effect_009",
-      "effect_016"
+      "effect_016",
+      "effect_186",
+      "effect_192"
     ],
     "comparison": [
       {
@@ -4821,7 +5048,10 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_006"
+      "effect_006",
+      "effect_073",
+      "effect_156",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -4884,7 +5114,8 @@
       "needle_062",
       "needle_098",
       "prescription_034",
-      "prescription_044"
+      "prescription_044",
+      "prescription_062"
     ],
     "related_treatments": [
       "treatment_011",
@@ -4892,7 +5123,8 @@
     ],
     "related_effects": [
       "effect_012",
-      "effect_024"
+      "effect_024",
+      "effect_211"
     ],
     "comparison": [
       {
@@ -4949,7 +5181,8 @@
       "formula_074"
     ],
     "related_needle": [
-      "needle_062"
+      "needle_062",
+      "prescription_062"
     ],
     "related_treatments": [
       "treatment_004",
@@ -4958,7 +5191,8 @@
     ],
     "related_effects": [
       "effect_012",
-      "effect_024"
+      "effect_024",
+      "effect_211"
     ],
     "comparison": [
       {
@@ -5019,7 +5253,10 @@
     "related_needle": [
       "needle_065",
       "needle_066",
+      "prescription_021",
+      "prescription_033",
       "prescription_113",
+      "prescription_133",
       "prescription_184"
     ],
     "related_treatments": [
@@ -5028,7 +5265,9 @@
     ],
     "related_effects": [
       "effect_002",
-      "effect_020"
+      "effect_020",
+      "effect_089",
+      "effect_113"
     ],
     "comparison": [
       {
@@ -5084,14 +5323,19 @@
       "formula_022"
     ],
     "related_needle": [
-      "needle_066"
+      "needle_066",
+      "prescription_058",
+      "prescription_143"
     ],
     "related_treatments": [
       "treatment_004"
     ],
     "related_effects": [
       "effect_003",
-      "effect_004"
+      "effect_004",
+      "effect_042",
+      "effect_172",
+      "effect_199"
     ],
     "comparison": [
       {
@@ -5160,7 +5404,8 @@
     "related_effects": [
       "effect_003",
       "effect_007",
-      "effect_011"
+      "effect_011",
+      "effect_058"
     ],
     "comparison": [
       {
@@ -5248,7 +5493,8 @@
       "needle_036",
       "needle_078",
       "needle_080",
-      "prescription_071"
+      "prescription_071",
+      "prescription_179"
     ],
     "related_treatments": [
       "treatment_005",
@@ -5257,7 +5503,10 @@
     "related_effects": [
       "effect_003",
       "effect_019",
-      "effect_022"
+      "effect_022",
+      "effect_063",
+      "effect_126",
+      "effect_222"
     ],
     "comparison": [
       {
@@ -5316,7 +5565,8 @@
     "related_needle": [
       "needle_068",
       "needle_069",
-      "needle_085"
+      "needle_085",
+      "prescription_050"
     ],
     "related_treatments": [
       "treatment_012",
@@ -5324,7 +5574,13 @@
     ],
     "related_effects": [
       "effect_013",
-      "effect_023"
+      "effect_023",
+      "effect_059",
+      "effect_087",
+      "effect_091",
+      "effect_169",
+      "effect_176",
+      "effect_194"
     ],
     "comparison": [
       {
@@ -5395,7 +5651,9 @@
     "related_effects": [
       "effect_002",
       "effect_004",
-      "effect_020"
+      "effect_020",
+      "effect_042",
+      "effect_089"
     ],
     "comparison": [
       {
@@ -5459,14 +5717,19 @@
       "needle_086",
       "needle_087",
       "needle_088",
-      "needle_093"
+      "needle_093",
+      "prescription_032"
     ],
     "related_treatments": [
       "treatment_011"
     ],
     "related_effects": [
       "effect_002",
-      "effect_012"
+      "effect_012",
+      "effect_055",
+      "effect_088",
+      "effect_109",
+      "effect_116"
     ],
     "comparison": [
       {
@@ -5536,7 +5799,9 @@
     ],
     "related_effects": [
       "effect_007",
-      "effect_010"
+      "effect_010",
+      "effect_120",
+      "effect_141"
     ],
     "comparison": [
       {
@@ -5596,7 +5861,8 @@
     "related_needle": [
       "needle_065",
       "needle_079",
-      "needle_081"
+      "needle_081",
+      "prescription_176"
     ],
     "related_treatments": [
       "treatment_023",
@@ -5605,7 +5871,10 @@
     "related_effects": [
       "effect_004",
       "effect_009",
-      "effect_025"
+      "effect_025",
+      "effect_082",
+      "effect_186",
+      "effect_187"
     ],
     "comparison": [
       {
@@ -5672,7 +5941,9 @@
     "related_effects": [
       "effect_002",
       "effect_004",
-      "effect_012"
+      "effect_012",
+      "effect_210",
+      "effect_211"
     ],
     "comparison": [
       {
@@ -5730,14 +6001,17 @@
     ],
     "related_needle": [
       "needle_052",
-      "needle_165"
+      "needle_165",
+      "prescription_012"
     ],
     "related_treatments": [
       "treatment_009"
     ],
     "related_effects": [
       "effect_002",
-      "effect_020"
+      "effect_020",
+      "effect_089",
+      "effect_113"
     ],
     "comparison": [
       {
@@ -5798,14 +6072,19 @@
       "needle_080",
       "needle_091",
       "needle_141",
-      "prescription_022"
+      "prescription_022",
+      "prescription_033",
+      "prescription_133"
     ],
     "related_treatments": [
       "treatment_002"
     ],
     "related_effects": [
       "effect_002",
-      "effect_006"
+      "effect_006",
+      "effect_117",
+      "effect_209",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -5860,14 +6139,20 @@
     ],
     "related_formulas": [
       "formula_081",
-      "formula_115"
+      "formula_115",
+      "formula_374"
     ],
     "related_needle": [
       "needle_027",
       "needle_166",
       "prescription_026",
+      "prescription_048",
+      "prescription_092",
       "prescription_097",
-      "prescription_136"
+      "prescription_136",
+      "prescription_165",
+      "prescription_167",
+      "prescription_199"
     ],
     "related_treatments": [
       "treatment_021",
@@ -5876,7 +6161,13 @@
     "related_effects": [
       "effect_013",
       "effect_016",
-      "effect_023"
+      "effect_023",
+      "effect_044",
+      "effect_087",
+      "effect_156",
+      "effect_169",
+      "effect_176",
+      "effect_194"
     ],
     "comparison": [
       {
@@ -5932,13 +6223,19 @@
     "related_formulas": [
       "formula_055",
       "formula_056",
-      "formula_118"
+      "formula_118",
+      "formula_367"
     ],
     "related_needle": [
       "needle_073",
       "needle_167",
       "needle_176",
-      "prescription_065"
+      "prescription_030",
+      "prescription_065",
+      "prescription_098",
+      "prescription_102",
+      "prescription_125",
+      "prescription_200"
     ],
     "related_treatments": [
       "treatment_008",
@@ -5946,7 +6243,9 @@
     ],
     "related_effects": [
       "effect_009",
-      "effect_016"
+      "effect_016",
+      "effect_186",
+      "effect_192"
     ],
     "comparison": [
       {
@@ -6019,7 +6318,10 @@
     "related_effects": [
       "effect_003",
       "effect_007",
-      "effect_011"
+      "effect_011",
+      "effect_081",
+      "effect_165",
+      "effect_201"
     ],
     "comparison": [
       {
@@ -6084,7 +6386,9 @@
       "treatment_025"
     ],
     "related_effects": [
-      "effect_011"
+      "effect_011",
+      "effect_193",
+      "effect_201"
     ],
     "comparison": [
       {
@@ -6142,14 +6446,23 @@
     ],
     "related_needle": [
       "needle_079",
-      "needle_169"
+      "needle_169",
+      "prescription_009",
+      "prescription_017",
+      "prescription_031",
+      "prescription_108",
+      "prescription_148",
+      "prescription_161",
+      "prescription_177"
     ],
     "related_treatments": [
       "treatment_001"
     ],
     "related_effects": [
       "effect_001",
-      "effect_002"
+      "effect_002",
+      "effect_205",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -6218,7 +6531,10 @@
     "related_effects": [
       "effect_009",
       "effect_012",
-      "effect_016"
+      "effect_016",
+      "effect_055",
+      "effect_109",
+      "effect_179"
     ],
     "comparison": [
       {
@@ -6273,12 +6589,18 @@
     "related_needle": [
       "needle_101",
       "needle_132",
-      "prescription_066"
+      "prescription_066",
+      "prescription_173"
     ],
     "related_treatments": [],
     "related_effects": [
       "effect_002",
-      "effect_004"
+      "effect_004",
+      "effect_051",
+      "effect_069",
+      "effect_079",
+      "effect_110",
+      "effect_195"
     ],
     "comparison": [
       {
@@ -6329,11 +6651,18 @@
     "related_needle": [
       "needle_102",
       "needle_134",
-      "needle_164"
+      "needle_164",
+      "prescription_073",
+      "prescription_085",
+      "prescription_132",
+      "prescription_169"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_002"
+      "effect_002",
+      "effect_088",
+      "effect_104",
+      "effect_116"
     ],
     "comparison": [
       {
@@ -6378,6 +6707,7 @@
       "更年期综合征"
     ],
     "related_formulas": [
+      "formula_087",
       "formula_127",
       "formula_128"
     ],
@@ -6385,7 +6715,11 @@
       "needle_103"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_040",
+      "effect_105",
+      "effect_223"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -6436,15 +6770,26 @@
       "needle_100",
       "needle_104",
       "needle_126",
+      "prescription_020",
+      "prescription_023",
       "prescription_024",
+      "prescription_029",
       "prescription_041",
       "prescription_049",
+      "prescription_090",
       "prescription_091",
-      "prescription_159"
+      "prescription_095",
+      "prescription_106",
+      "prescription_138",
+      "prescription_159",
+      "prescription_166"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_007"
+      "effect_007",
+      "effect_084",
+      "effect_139",
+      "effect_146"
     ],
     "comparison": [
       {
@@ -6490,17 +6835,24 @@
     ],
     "related_formulas": [
       "formula_030",
-      "formula_130"
+      "formula_130",
+      "formula_363",
+      "formula_382"
     ],
     "related_needle": [
       "needle_088",
       "needle_105",
       "needle_108",
-      "prescription_025"
+      "prescription_018",
+      "prescription_025",
+      "prescription_057",
+      "prescription_076",
+      "prescription_082"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_003"
+      "effect_003",
+      "effect_183"
     ],
     "comparison": [
       {
@@ -6546,17 +6898,24 @@
     ],
     "related_formulas": [
       "formula_024",
-      "formula_131"
+      "formula_131",
+      "formula_360"
     ],
     "related_needle": [
       "needle_094",
       "needle_106",
       "needle_137",
-      "needle_147"
+      "needle_147",
+      "prescription_004",
+      "prescription_060",
+      "prescription_061",
+      "prescription_141"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_003"
+      "effect_003",
+      "effect_124",
+      "effect_137"
     ],
     "comparison": [
       {
@@ -6614,7 +6973,10 @@
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_003"
+      "effect_003",
+      "effect_160",
+      "effect_161",
+      "effect_189"
     ],
     "comparison": [
       {
@@ -6659,14 +7021,17 @@
       "消化道出血"
     ],
     "related_formulas": [
-      "formula_033"
+      "formula_033",
+      "formula_051"
     ],
     "related_needle": [
       "needle_108"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_003"
+      "effect_003",
+      "effect_041",
+      "effect_166"
     ],
     "comparison": [
       {
@@ -6711,15 +7076,20 @@
       "脑血管病"
     ],
     "related_formulas": [
+      "formula_047",
       "formula_132"
     ],
     "related_needle": [
       "needle_109",
       "needle_131",
-      "needle_142"
+      "needle_142",
+      "prescription_123"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_096",
+      "effect_150"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -6767,10 +7137,15 @@
     "related_needle": [
       "needle_110",
       "needle_145",
-      "prescription_163"
+      "prescription_036",
+      "prescription_163",
+      "prescription_180"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_071",
+      "effect_168"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -6815,16 +7190,25 @@
       "老年性痴呆"
     ],
     "related_formulas": [
+      "formula_018",
       "formula_109",
       "formula_134"
     ],
     "related_needle": [
       "needle_111",
-      "needle_145"
+      "needle_145",
+      "prescription_016",
+      "prescription_080",
+      "prescription_145",
+      "prescription_172"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_007"
+      "effect_007",
+      "effect_066",
+      "effect_067",
+      "effect_144",
+      "effect_147"
     ],
     "comparison": [
       {
@@ -6869,17 +7253,24 @@
     ],
     "related_formulas": [
       "formula_050",
+      "formula_087",
       "formula_122"
     ],
     "related_needle": [
       "needle_112",
+      "prescription_019",
+      "prescription_067",
       "prescription_069",
       "prescription_110",
+      "prescription_129",
       "prescription_193"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_005"
+      "effect_005",
+      "effect_132",
+      "effect_181",
+      "effect_198"
     ],
     "comparison": [
       {
@@ -6931,7 +7322,10 @@
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_007"
+      "effect_007",
+      "effect_058",
+      "effect_140",
+      "effect_178"
     ],
     "comparison": [
       {
@@ -6976,7 +7370,8 @@
     ],
     "related_formulas": [
       "formula_021",
-      "formula_022"
+      "formula_022",
+      "formula_088"
     ],
     "related_needle": [
       "needle_114"
@@ -6984,7 +7379,10 @@
     "related_treatments": [],
     "related_effects": [
       "effect_003",
-      "effect_004"
+      "effect_004",
+      "effect_042",
+      "effect_172",
+      "effect_199"
     ],
     "comparison": [
       {
@@ -7028,15 +7426,21 @@
       "精索静脉曲张"
     ],
     "related_formulas": [
+      "formula_054",
       "formula_274"
     ],
     "related_needle": [
       "needle_100",
       "needle_115",
-      "needle_138"
+      "needle_138",
+      "prescription_040",
+      "prescription_194"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_085",
+      "effect_186"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7086,7 +7490,12 @@
       "needle_141"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_099",
+      "effect_102",
+      "effect_115",
+      "effect_159"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7128,6 +7537,7 @@
     ],
     "related_formulas": [
       "formula_063",
+      "formula_068",
       "formula_250"
     ],
     "related_needle": [
@@ -7137,7 +7547,11 @@
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_008"
+      "effect_008",
+      "effect_133",
+      "effect_150",
+      "effect_174",
+      "effect_219"
     ],
     "comparison": [
       {
@@ -7181,7 +7595,8 @@
     ],
     "related_formulas": [
       "formula_138",
-      "formula_223"
+      "formula_223",
+      "formula_376"
     ],
     "related_needle": [
       "needle_089",
@@ -7190,7 +7605,11 @@
     "related_treatments": [],
     "related_effects": [
       "effect_003",
-      "effect_007"
+      "effect_007",
+      "effect_048",
+      "effect_138",
+      "effect_152",
+      "effect_220"
     ],
     "comparison": [
       {
@@ -7241,7 +7660,10 @@
       "needle_119"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_070",
+      "effect_158"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7285,6 +7707,7 @@
     ],
     "related_formulas": [
       "formula_031",
+      "formula_113",
       "formula_140"
     ],
     "related_needle": [
@@ -7292,7 +7715,9 @@
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_003"
+      "effect_003",
+      "effect_160",
+      "effect_189"
     ],
     "comparison": [
       {
@@ -7338,14 +7763,18 @@
     ],
     "related_formulas": [
       "formula_143",
-      "formula_144"
+      "formula_144",
+      "formula_377"
     ],
     "related_needle": [
       "needle_121",
       "needle_133"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_103",
+      "effect_171"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7394,11 +7823,23 @@
     "related_needle": [
       "needle_122",
       "needle_136",
+      "prescription_014",
+      "prescription_074",
       "prescription_078",
-      "prescription_115"
+      "prescription_094",
+      "prescription_111",
+      "prescription_115",
+      "prescription_117",
+      "prescription_128",
+      "prescription_160",
+      "prescription_178",
+      "prescription_189"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_134",
+      "effect_166"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7444,10 +7885,14 @@
       "formula_144"
     ],
     "related_needle": [
-      "needle_123"
+      "needle_123",
+      "prescription_135"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_103",
+      "effect_171"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7495,11 +7940,15 @@
     ],
     "related_needle": [
       "needle_124",
-      "needle_143"
+      "needle_143",
+      "prescription_045",
+      "prescription_068"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_012"
+      "effect_012",
+      "effect_055",
+      "effect_109"
     ],
     "comparison": [
       {
@@ -7546,17 +7995,22 @@
     "related_formulas": [
       "formula_003",
       "formula_123",
-      "formula_250"
+      "formula_250",
+      "formula_369"
     ],
     "related_needle": [
       "needle_097",
       "needle_125",
+      "prescription_086",
       "prescription_182"
     ],
     "related_treatments": [],
     "related_effects": [
       "effect_002",
-      "effect_006"
+      "effect_006",
+      "effect_073",
+      "effect_156",
+      "effect_210"
     ],
     "comparison": [
       {
@@ -7608,7 +8062,10 @@
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_007"
+      "effect_007",
+      "effect_084",
+      "effect_139",
+      "effect_146"
     ],
     "comparison": [
       {
@@ -7652,7 +8109,8 @@
     ],
     "related_formulas": [
       "formula_102",
-      "formula_147"
+      "formula_147",
+      "formula_359"
     ],
     "related_needle": [
       "needle_127",
@@ -7661,7 +8119,10 @@
       "prescription_131"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_052",
+      "effect_054"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7702,13 +8163,16 @@
       "干燥综合征"
     ],
     "related_formulas": [
-      "formula_148"
+      "formula_148",
+      "formula_379"
     ],
     "related_needle": [
       "needle_128"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_068"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7756,7 +8220,10 @@
       "needle_129"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_175",
+      "effect_215"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -7801,14 +8268,21 @@
     ],
     "related_formulas": [
       "formula_011",
-      "formula_150"
+      "formula_150",
+      "formula_365",
+      "formula_384"
     ],
     "related_needle": [
-      "needle_130"
+      "needle_130",
+      "prescription_056"
     ],
     "related_treatments": [],
     "related_effects": [
-      "effect_012"
+      "effect_012",
+      "effect_111",
+      "effect_112",
+      "effect_204",
+      "effect_206"
     ],
     "comparison": [
       {
@@ -7853,14 +8327,18 @@
       "谵妄状态"
     ],
     "related_formulas": [
-      "formula_151"
+      "formula_151",
+      "formula_381"
     ],
     "related_needle": [
       "needle_131",
       "needle_173"
     ],
     "related_treatments": [],
-    "related_effects": [],
+    "related_effects": [
+      "effect_090",
+      "effect_217"
+    ],
     "comparison": [
       {
         "aspect": "病因",
@@ -8074,7 +8552,9 @@
       "formula_033",
       "formula_139"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "prescription_064"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -8350,10 +8830,13 @@
     ],
     "related_formulas": [
       "formula_007",
+      "formula_124",
       "formula_157",
       "formula_158"
     ],
-    "related_needle": [],
+    "related_needle": [
+      "prescription_170"
+    ],
     "related_treatments": [],
     "related_effects": [],
     "comparison": [
@@ -8407,7 +8890,8 @@
       "formula_290",
       "formula_343",
       "formula_344",
-      "formula_346"
+      "formula_346",
+      "formula_371"
     ],
     "related_needle": [
       "needle_089"

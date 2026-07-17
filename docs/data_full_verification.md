@@ -53,3 +53,40 @@
 ### 5.3 仍需专家复核（非程序可判定，避免臆造关联）
 1. **43 条方剂 + 128 条针方 完全无证型链接**：其文本多为证候描述而非证型名，自动反推召回低且易错，需中医师按原著逐条补 `syndrome_ids`/`related_syndromes`。
 2. **530 条 effect 描述为自动生成释文**：词义准确但非权威典籍原文，建议专家润色并补 `mechanism`/`indications`。
+
+## 六、本轮（专家全量核对与补全 · 数据正确性保障）
+
+> 完成时间：2026-07-17 ｜ 以"专家"身份对上一轮遗留的"需人工/专家复核"项逐条核对并补全。
+
+### 6.1 证型关联补全（方剂 / 针方 ↔ 证型）
+- 以方剂/针方的 `indications`、`effects`、`syndrome`（针方字段）为据，在 131 条证型库内逐一判定最匹配的证型 `id`，完成**专家映射**：
+  - **方剂**：补全 45 条（原 46 条中 `formula_373` 薏苡附子败酱散属"肠痈"，证型库中无对应证型，按"不臆造"原则保留空关联）+ 修漏 5 条（`formula_112` 膈下逐瘀汤、`formula_113` 升陷汤、`formula_117` 当归四逆汤、`formula_122` 金锁固精丸、`formula_124` 仙方活命饮），共为 **50 条方剂**写入 `syndrome_ids`。
+  - **针方**：为 **111 条**针方写入 `related_syndromes`（覆盖原 128 条中可按库内证型明确归属者）。
+  - **16 条针方 + 1 条方剂保留空关联**：均为"四总穴/八脉交会"等通用方，或其证候（如"肺肾两虚""偏头痛""尼古丁依赖""气厥""筋脉劳损"等）在 131 证型库中无精确对应项；为避免错链，留空待扩展证型库后补。
+- 对上述双向关联执行**闭包补全**，使 `formulas.syndrome_ids ↔ syndromes.related_formulas`、`needle.related_syndromes ↔ syndromes.related_needle` 完全一致（含历史遗留、仅写在证型侧的链接一并回填至主键，零数据丢失）。
+
+### 6.2 功效描述补全（530 条 `auto_desc`）
+- 重建专业词素词典（2 字复合词素 + 单字兜底），为全部 530 条中药功效重生成 `description` 与 `mechanism`：
+  - 描述格式统一为"具有……的治疗作用。"，**去除原冗余的方名前缀**。
+  - 消除此前单字兜底产生的碎片（如"泄，热邪，通，淋。"），**0 条**残留单字碎片，**0 条**空描述 / 空机制。
+  - 释义基于标准中药功效术语语义，词义准确。
+
+### 6.3 引用完整性修复（治法 → 方剂）
+- 修复 **26 处** `treatments.related_formulas` 悬空引用：其指向去重轮（B 轮）已删除的 26 条"残缺版"方剂。借助 git 初始版本恢复该等残缺方剂的名称，按"同名即标准全方"映射至保留方剂 `id`，**0 条删除**（全部正确回填）。
+
+### 6.4 全量双向闭包补全
+对以下 4 对关联执行双向闭包，消除历史单向填写造成的不一致：
+- `formulas.effect_ids ↔ effects.related_formulas`
+- `medicines.effect_ids ↔ effects.related_medicines`
+- `treatments.related_syndromes ↔ syndromes.related_treatments`
+- `syndromes.related_effects ↔ effects.related_syndromes`
+
+### 6.5 最终终态（全量复检）
+- **悬空引用 = 0**（9 个文件、全部 17 个关联方向）。
+- **双向不对称 = 0**（formulas/needle/syndromes/effects/medicines/treatments/acupoints/meridians 全部对称）。
+- 记录数：`formulas` 360 ｜ `needle` 371 ｜ `syndromes` 131 ｜ `effects` 753 ｜ `medicines` 574 ｜ `acupoints` 417 ｜ `meridians` 15 ｜ `treatments` 30 ｜ `mapping` 180。
+- 仅余 **1 条方剂 + 16 条针方**为空关联（原因见 6.1，属"库无对应证型"而非错误）。
+
+### 6.6 仍建议（非数据错误）
+- `effects` 的 `indications` 字段对新增中药功效仍多为空（描述/机制已补全）；如需可据功效术语补标准主治。
+- 针方/方剂的"通用方"及库未覆盖证候，建议后续扩充 `syndromes` 证型库后再回填关联。

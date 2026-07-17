@@ -73,8 +73,10 @@
       "syndrome_016",
       "syndrome_017",
       "syndrome_036",
+      "syndrome_039",
       "syndrome_042",
       "syndrome_055",
+      "syndrome_061",
       "syndrome_088"
     ]
   },
@@ -165,7 +167,13 @@
       "medicine_494",
       "medicine_496",
       "medicine_498",
-      "medicine_500"
+      "medicine_500",
+      "medicine_511",
+      "medicine_515",
+      "medicine_536",
+      "medicine_551",
+      "medicine_560",
+      "medicine_571"
     ],
     "related_formulas": [
       "formula_003",
@@ -190,16 +198,28 @@
     ],
     "related_syndromes": [
       "syndrome_002",
+      "syndrome_011",
+      "syndrome_013",
       "syndrome_018",
+      "syndrome_023",
       "syndrome_034",
       "syndrome_051",
+      "syndrome_052",
       "syndrome_053",
+      "syndrome_055",
       "syndrome_062",
+      "syndrome_063",
       "syndrome_069",
       "syndrome_072",
+      "syndrome_077",
+      "syndrome_078",
       "syndrome_081",
       "syndrome_082",
-      "syndrome_083"
+      "syndrome_083",
+      "syndrome_088",
+      "syndrome_090",
+      "syndrome_091",
+      "syndrome_114"
     ]
   },
   {
@@ -245,14 +265,29 @@
     ],
     "related_syndromes": [
       "syndrome_003",
+      "syndrome_014",
+      "syndrome_021",
+      "syndrome_022",
       "syndrome_026",
+      "syndrome_040",
       "syndrome_045",
       "syndrome_048",
+      "syndrome_050",
       "syndrome_056",
       "syndrome_059",
+      "syndrome_065",
+      "syndrome_067",
       "syndrome_073",
       "syndrome_074",
-      "syndrome_086"
+      "syndrome_075",
+      "syndrome_086",
+      "syndrome_094",
+      "syndrome_095",
+      "syndrome_096",
+      "syndrome_097",
+      "syndrome_103",
+      "syndrome_107",
+      "syndrome_109"
     ]
   },
   {
@@ -302,11 +337,20 @@
     ],
     "related_syndromes": [
       "syndrome_004",
+      "syndrome_012",
+      "syndrome_020",
+      "syndrome_024",
+      "syndrome_029",
+      "syndrome_043",
       "syndrome_046",
+      "syndrome_055",
       "syndrome_058",
       "syndrome_073",
       "syndrome_077",
-      "syndrome_081"
+      "syndrome_080",
+      "syndrome_081",
+      "syndrome_090",
+      "syndrome_103"
     ]
   },
   {
@@ -358,7 +402,9 @@
       "formula_276"
     ],
     "related_syndromes": [
-      "syndrome_005"
+      "syndrome_005",
+      "syndrome_032",
+      "syndrome_101"
     ]
   },
   {
@@ -406,9 +452,20 @@
     ],
     "related_syndromes": [
       "syndrome_001",
+      "syndrome_002",
+      "syndrome_017",
+      "syndrome_032",
+      "syndrome_033",
+      "syndrome_036",
+      "syndrome_037",
       "syndrome_038",
       "syndrome_049",
-      "syndrome_061"
+      "syndrome_051",
+      "syndrome_052",
+      "syndrome_061",
+      "syndrome_069",
+      "syndrome_083",
+      "syndrome_114"
     ]
   },
   {
@@ -437,7 +494,17 @@
     ],
     "related_syndromes": [
       "syndrome_006",
-      "syndrome_067"
+      "syndrome_009",
+      "syndrome_045",
+      "syndrome_067",
+      "syndrome_074",
+      "syndrome_079",
+      "syndrome_086",
+      "syndrome_093",
+      "syndrome_100",
+      "syndrome_102",
+      "syndrome_107",
+      "syndrome_115"
     ]
   },
   {
@@ -467,7 +534,8 @@
       "medicine_411",
       "medicine_435",
       "medicine_437",
-      "medicine_478"
+      "medicine_478",
+      "medicine_530"
     ],
     "related_formulas": [
       "formula_012",
@@ -491,9 +559,13 @@
     ],
     "related_syndromes": [
       "syndrome_007",
+      "syndrome_031",
       "syndrome_033",
       "syndrome_037",
-      "syndrome_038"
+      "syndrome_038",
+      "syndrome_040",
+      "syndrome_056",
+      "syndrome_106"
     ]
   },
   {
@@ -653,7 +725,8 @@
       "medicine_488",
       "medicine_495",
       "medicine_497",
-      "medicine_504"
+      "medicine_504",
+      "medicine_555"
     ],
     "related_formulas": [
       "formula_011",
@@ -675,6 +748,7 @@
     ],
     "related_syndromes": [
       "syndrome_011",
+      "syndrome_030",
       "syndrome_047",
       "syndrome_055",
       "syndrome_056",
@@ -682,7 +756,10 @@
       "syndrome_070",
       "syndrome_071",
       "syndrome_078",
-      "syndrome_089"
+      "syndrome_081",
+      "syndrome_089",
+      "syndrome_113",
+      "syndrome_119"
     ]
   },
   {
@@ -728,7 +805,13 @@
     ],
     "related_syndromes": [
       "syndrome_012",
-      "syndrome_043"
+      "syndrome_027",
+      "syndrome_028",
+      "syndrome_043",
+      "syndrome_044",
+      "syndrome_064",
+      "syndrome_076",
+      "syndrome_084"
     ]
   },
   {
@@ -746,7 +829,8 @@
       "medicine_079",
       "medicine_247",
       "medicine_304",
-      "medicine_324"
+      "medicine_324",
+      "medicine_574"
     ],
     "related_formulas": [
       "formula_018",
@@ -838,9 +922,22 @@
       "formula_164"
     ],
     "related_syndromes": [
+      "syndrome_008",
       "syndrome_015",
+      "syndrome_019",
+      "syndrome_025",
+      "syndrome_027",
       "syndrome_035",
-      "syndrome_048"
+      "syndrome_041",
+      "syndrome_048",
+      "syndrome_054",
+      "syndrome_057",
+      "syndrome_060",
+      "syndrome_062",
+      "syndrome_068",
+      "syndrome_084",
+      "syndrome_085",
+      "syndrome_089"
     ]
   },
   {
@@ -890,7 +987,8 @@
       "medicine_308",
       "medicine_351",
       "medicine_353",
-      "medicine_432"
+      "medicine_432",
+      "medicine_545"
     ],
     "related_formulas": [
       "formula_025",
@@ -1122,7 +1220,8 @@
       "medicine_443",
       "medicine_445",
       "medicine_456",
-      "medicine_492"
+      "medicine_492",
+      "medicine_533"
     ],
     "related_formulas": [
       "formula_078",
@@ -1265,7 +1364,8 @@
       "medicine_111",
       "medicine_112",
       "medicine_113",
-      "medicine_313"
+      "medicine_313",
+      "medicine_566"
     ],
     "related_formulas": [
       "formula_222"
@@ -1384,7 +1484,9 @@
       "medicine_365",
       "medicine_366",
       "medicine_370",
-      "medicine_505"
+      "medicine_505",
+      "medicine_524",
+      "medicine_539"
     ],
     "related_formulas": [
       "formula_166",
@@ -2151,7 +2253,10 @@
       "medicine_429",
       "medicine_441",
       "medicine_487",
-      "medicine_506"
+      "medicine_506",
+      "medicine_537",
+      "medicine_541",
+      "medicine_546"
     ],
     "related_formulas": [
       "formula_147"
@@ -2348,7 +2453,8 @@
       "medicine_475",
       "medicine_476",
       "medicine_478",
-      "medicine_490"
+      "medicine_490",
+      "medicine_541"
     ],
     "related_formulas": [
       "formula_041"
@@ -3230,7 +3336,8 @@
       "medicine_488",
       "medicine_490",
       "medicine_491",
-      "medicine_492"
+      "medicine_492",
+      "medicine_528"
     ],
     "related_formulas": [
       "formula_054"
@@ -3417,7 +3524,9 @@
     ],
     "related_medicines": [
       "medicine_096",
-      "medicine_217"
+      "medicine_217",
+      "medicine_517",
+      "medicine_531"
     ],
     "related_formulas": [
       "formula_129"
@@ -4107,7 +4216,9 @@
       "medicine_454",
       "medicine_469",
       "medicine_473",
-      "medicine_508"
+      "medicine_508",
+      "medicine_523",
+      "medicine_535"
     ],
     "related_formulas": [
       "formula_018"
@@ -4187,7 +4298,8 @@
       "medicine_475",
       "medicine_476",
       "medicine_478",
-      "medicine_490"
+      "medicine_490",
+      "medicine_534"
     ],
     "related_formulas": [
       "formula_136"
@@ -4281,7 +4393,8 @@
       "身体困重"
     ],
     "related_medicines": [
-      "medicine_506"
+      "medicine_506",
+      "medicine_546"
     ],
     "related_formulas": [
       "formula_144"
@@ -4450,7 +4563,11 @@
       "medicine_464",
       "medicine_478",
       "medicine_494",
-      "medicine_496"
+      "medicine_496",
+      "medicine_534",
+      "medicine_538",
+      "medicine_540",
+      "medicine_552"
     ],
     "related_formulas": [
       "formula_065",
@@ -4545,7 +4662,8 @@
       "medicine_415",
       "medicine_464",
       "medicine_494",
-      "medicine_496"
+      "medicine_496",
+      "medicine_537"
     ],
     "related_formulas": [
       "formula_107"
@@ -4669,7 +4787,8 @@
       "medicine_494",
       "medicine_496",
       "medicine_506",
-      "medicine_509"
+      "medicine_509",
+      "medicine_525"
     ],
     "related_formulas": [
       "formula_011"
@@ -4761,7 +4880,8 @@
       "medicine_415",
       "medicine_464",
       "medicine_494",
-      "medicine_496"
+      "medicine_496",
+      "medicine_520"
     ],
     "related_formulas": [
       "formula_006",
@@ -5407,7 +5527,8 @@
       "medicine_490",
       "medicine_491",
       "medicine_492",
-      "medicine_493"
+      "medicine_493",
+      "medicine_533"
     ],
     "related_formulas": [
       "formula_061"
@@ -5976,7 +6097,8 @@
     ],
     "related_medicines": [
       "medicine_253",
-      "medicine_501"
+      "medicine_501",
+      "medicine_518"
     ],
     "related_formulas": [
       "formula_114"
@@ -7117,7 +7239,8 @@
       "medicine_475",
       "medicine_476",
       "medicine_478",
-      "medicine_490"
+      "medicine_490",
+      "medicine_511"
     ],
     "related_formulas": [
       "formula_250"
@@ -7609,7 +7732,8 @@
       "medicine_355",
       "medicine_404",
       "medicine_446",
-      "medicine_495"
+      "medicine_495",
+      "medicine_567"
     ],
     "related_formulas": [
       "formula_072"
@@ -7940,7 +8064,9 @@
       "medicine_372",
       "medicine_384",
       "medicine_385",
-      "medicine_389"
+      "medicine_389",
+      "medicine_519",
+      "medicine_572"
     ],
     "related_formulas": [
       "formula_031"
@@ -8275,7 +8401,8 @@
       "medicine_461",
       "medicine_465",
       "medicine_501",
-      "medicine_503"
+      "medicine_503",
+      "medicine_514"
     ],
     "related_formulas": [
       "formula_122"
@@ -8501,7 +8628,8 @@
       "medicine_379",
       "medicine_381",
       "medicine_412",
-      "medicine_469"
+      "medicine_469",
+      "medicine_567"
     ],
     "related_formulas": [
       "formula_089"
@@ -8989,7 +9117,8 @@
       "medicine_437",
       "medicine_458",
       "medicine_462",
-      "medicine_478"
+      "medicine_478",
+      "medicine_535"
     ],
     "related_formulas": [
       "formula_068"
@@ -9047,7 +9176,8 @@
       "medicine_432",
       "medicine_433",
       "medicine_458",
-      "medicine_462"
+      "medicine_462",
+      "medicine_556"
     ],
     "related_formulas": [
       "formula_250"
@@ -9279,8 +9409,8 @@
   {
     "id": "effect_224",
     "name": "利水消肿",
-    "description": "利水消肿：通利水道、渗湿利水，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有通利水道、渗湿利水、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "通利水道、渗湿利水、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_001",
@@ -9314,8 +9444,8 @@
   {
     "id": "effect_225",
     "name": "发汗解肌",
-    "description": "发汗解肌：发散表邪以出汗，解肌发表透邪。",
-    "mechanism": "",
+    "description": "具有发散汗出以解表、解肌发表的治疗作用。",
+    "mechanism": "发散汗出以解表、解肌发表",
     "indications": [],
     "related_medicines": [
       "medicine_002"
@@ -9327,8 +9457,8 @@
   {
     "id": "effect_226",
     "name": "温通经脉",
-    "description": "温通经脉：温煦，通利经脉，血脉。",
-    "mechanism": "",
+    "description": "具有温性通达（通行经脉）、通利经脉的治疗作用。",
+    "mechanism": "温性通达（通行经脉）、通利经脉",
     "indications": [],
     "related_medicines": [
       "medicine_002"
@@ -9340,8 +9470,8 @@
   {
     "id": "effect_227",
     "name": "发散风寒",
-    "description": "发散风寒：向外发散邪气，风寒之邪。",
-    "mechanism": "",
+    "description": "具有发散、疏散风邪、寒邪的治疗作用。",
+    "mechanism": "发散、疏散风邪、寒邪",
     "indications": [],
     "related_medicines": [
       "medicine_004",
@@ -9355,8 +9485,8 @@
   {
     "id": "effect_228",
     "name": "温中止呕",
-    "description": "温中止呕：温运中焦脾胃，和胃降逆止呕。",
-    "mechanism": "",
+    "description": "具有温运中焦、制止呕逆的治疗作用。",
+    "mechanism": "温运中焦、制止呕逆",
     "indications": [],
     "related_medicines": [
       "medicine_004",
@@ -9372,8 +9502,8 @@
   {
     "id": "effect_229",
     "name": "解表散风",
-    "description": "解表散风：辛散表邪、解除表证，消散，风邪。",
-    "mechanism": "",
+    "description": "具有解除表证、疏散风邪的治疗作用。",
+    "mechanism": "解除表证、疏散风邪",
     "indications": [],
     "related_medicines": [
       "medicine_005",
@@ -9386,8 +9516,8 @@
   {
     "id": "effect_230",
     "name": "透疹",
-    "description": "透疹：透发疹毒外出。",
-    "mechanism": "",
+    "description": "具有透发疹毒的治疗作用。",
+    "mechanism": "透发疹毒",
     "indications": [],
     "related_medicines": [
       "medicine_005",
@@ -9401,8 +9531,8 @@
   {
     "id": "effect_231",
     "name": "祛风解表",
-    "description": "祛风解表：祛除风邪，辛散表邪、解除表证。",
-    "mechanism": "",
+    "description": "具有祛除风邪、解除表证的治疗作用。",
+    "mechanism": "祛除风邪、解除表证",
     "indications": [],
     "related_medicines": [
       "medicine_006"
@@ -9414,8 +9544,8 @@
   {
     "id": "effect_232",
     "name": "胜湿止痛",
-    "description": "胜湿止痛：祛风胜湿，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有祛风胜湿、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "祛风胜湿、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_006"
@@ -9427,8 +9557,8 @@
   {
     "id": "effect_233",
     "name": "疏散风热",
-    "description": "疏散风热：疏散透达，风热之邪。",
-    "mechanism": "",
+    "description": "具有疏泄、疏散风邪、热邪的治疗作用。",
+    "mechanism": "疏泄、疏散风邪、热邪",
     "indications": [],
     "related_medicines": [
       "medicine_007",
@@ -9449,8 +9579,8 @@
   {
     "id": "effect_234",
     "name": "清利头目",
-    "description": "清利头目：清利头目湿热，头面清窍。",
-    "mechanism": "",
+    "description": "具有清解通利、头面清窍的治疗作用。",
+    "mechanism": "清解通利、头面清窍",
     "indications": [],
     "related_medicines": [
       "medicine_007",
@@ -9463,8 +9593,8 @@
   {
     "id": "effect_235",
     "name": "宣肺透疹",
-    "description": "宣肺透疹：宣通肺气，透发疹毒外出。",
-    "mechanism": "",
+    "description": "具有宣发肺气、透发疹毒的治疗作用。",
+    "mechanism": "宣发肺气、透发疹毒",
     "indications": [],
     "related_medicines": [
       "medicine_008"
@@ -9476,8 +9606,8 @@
   {
     "id": "effect_236",
     "name": "利咽开音",
-    "description": "利咽开音：清利咽喉肿痛，开音利咽。",
-    "mechanism": "",
+    "description": "具有清利咽喉、开音利喉的治疗作用。",
+    "mechanism": "清利咽喉、开音利喉",
     "indications": [],
     "related_medicines": [
       "medicine_009",
@@ -9490,8 +9620,8 @@
   {
     "id": "effect_237",
     "name": "清肺润燥",
-    "description": "清肺润燥：清泻肺热，润燥。",
-    "mechanism": "",
+    "description": "具有清泻肺热、润燥的治疗作用。",
+    "mechanism": "清泻肺热、润燥",
     "indications": [],
     "related_medicines": [
       "medicine_010"
@@ -9503,8 +9633,8 @@
   {
     "id": "effect_238",
     "name": "平肝明目",
-    "description": "平肝明目：平抑肝阳，明目退翳。",
-    "mechanism": "",
+    "description": "具有平抑肝阳、明目、改善视力的治疗作用。",
+    "mechanism": "平抑肝阳、明目、改善视力",
     "indications": [],
     "related_medicines": [
       "medicine_011",
@@ -9518,8 +9648,8 @@
   {
     "id": "effect_239",
     "name": "疏肝升阳",
-    "description": "疏肝升阳：疏泄肝气，升举脾胃清阳。",
-    "mechanism": "",
+    "description": "具有疏泄肝气、升举清阳的治疗作用。",
+    "mechanism": "疏泄肝气、升举清阳",
     "indications": [],
     "related_medicines": [
       "medicine_012"
@@ -9531,8 +9661,8 @@
   {
     "id": "effect_240",
     "name": "解肌退热",
-    "description": "解肌退热：解肌发表透邪，消退，热邪。",
-    "mechanism": "",
+    "description": "具有解肌发表、消退热邪的治疗作用。",
+    "mechanism": "解肌发表、消退热邪",
     "indications": [],
     "related_medicines": [
       "medicine_013"
@@ -9544,8 +9674,8 @@
   {
     "id": "effect_241",
     "name": "生津止渴",
-    "description": "生津止渴：滋生津液，制止，渴。",
-    "mechanism": "",
+    "description": "具有滋生津液、制止口渴的治疗作用。",
+    "mechanism": "滋生津液、制止口渴",
     "indications": [],
     "related_medicines": [
       "medicine_013",
@@ -9560,8 +9690,8 @@
   {
     "id": "effect_242",
     "name": "除烦止渴",
-    "description": "除烦止渴：清除烦热，制止，渴。",
-    "mechanism": "",
+    "description": "具有清除烦热、制止口渴的治疗作用。",
+    "mechanism": "清除烦热、制止口渴",
     "indications": [],
     "related_medicines": [
       "medicine_014"
@@ -9573,8 +9703,8 @@
   {
     "id": "effect_243",
     "name": "滋阴润燥",
-    "description": "滋阴润燥：滋养阴液，润燥。",
-    "mechanism": "",
+    "description": "具有滋养阴液、润燥的治疗作用。",
+    "mechanism": "滋养阴液、润燥",
     "indications": [],
     "related_medicines": [
       "medicine_015",
@@ -9588,8 +9718,8 @@
   {
     "id": "effect_244",
     "name": "泻火除烦",
-    "description": "泻火除烦：清泻火热，清除烦热。",
-    "mechanism": "",
+    "description": "具有清泻火热、清除烦热的治疗作用。",
+    "mechanism": "清泻火热、清除烦热",
     "indications": [],
     "related_medicines": [
       "medicine_016"
@@ -9601,8 +9731,8 @@
   {
     "id": "effect_245",
     "name": "消肿散结",
-    "description": "消肿散结：消除水肿、散消肿毒，消散结聚。",
-    "mechanism": "",
+    "description": "具有消除肿毒、消退肿胀、消散结聚的治疗作用。",
+    "mechanism": "消除肿毒、消退肿胀、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_021",
@@ -9621,8 +9751,8 @@
   {
     "id": "effect_246",
     "name": "凉血利咽",
-    "description": "凉血利咽：清血分热、凉血止血，清利咽喉肿痛。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、清利咽喉的治疗作用。",
+    "mechanism": "清解血分热邪、清利咽喉",
     "indications": [],
     "related_medicines": [
       "medicine_023"
@@ -9634,8 +9764,8 @@
   {
     "id": "effect_247",
     "name": "消痈排脓",
-    "description": "消痈排脓：消散热毒痈肿，排出痈脓。",
-    "mechanism": "",
+    "description": "具有消散痈肿、排出痈脓的治疗作用。",
+    "mechanism": "消散痈肿、排出痈脓",
     "indications": [],
     "related_medicines": [
       "medicine_024",
@@ -9648,8 +9778,8 @@
   {
     "id": "effect_248",
     "name": "养阴生津",
-    "description": "养阴生津：滋养，阴液，滋生津液。",
-    "mechanism": "",
+    "description": "具有滋养阴液、滋生津液的治疗作用。",
+    "mechanism": "滋养阴液、滋生津液",
     "indications": [],
     "related_medicines": [
       "medicine_025",
@@ -9663,8 +9793,8 @@
   {
     "id": "effect_249",
     "name": "清透虚热",
-    "description": "清透虚热：清透阴分虚热，虚损，热邪。",
-    "mechanism": "",
+    "description": "具有清解透发、阴分虚热的治疗作用。",
+    "mechanism": "清解透发、阴分虚热",
     "indications": [],
     "related_medicines": [
       "medicine_028"
@@ -9676,8 +9806,8 @@
   {
     "id": "effect_250",
     "name": "凉血除蒸",
-    "description": "凉血除蒸：清血分热、凉血止血，清退骨蒸劳热。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、清退骨蒸劳热的治疗作用。",
+    "mechanism": "清解血分热邪、清退骨蒸劳热",
     "indications": [],
     "related_medicines": [
       "medicine_028",
@@ -9690,8 +9820,8 @@
   {
     "id": "effect_251",
     "name": "清肺降火",
-    "description": "清肺降火：清泻肺热，降泄，火热。",
-    "mechanism": "",
+    "description": "具有清泻肺热、降泄火热的治疗作用。",
+    "mechanism": "清泻肺热、降泄火热",
     "indications": [],
     "related_medicines": [
       "medicine_029"
@@ -9703,8 +9833,8 @@
   {
     "id": "effect_252",
     "name": "泻下攻积",
-    "description": "泻下攻积：泻下通便，攻逐，积滞。",
-    "mechanism": "",
+    "description": "具有泻下通便、攻逐积滞的治疗作用。",
+    "mechanism": "泻下通便、攻逐积滞",
     "indications": [],
     "related_medicines": [
       "medicine_030"
@@ -9716,8 +9846,8 @@
   {
     "id": "effect_253",
     "name": "止痛",
-    "description": "止痛：缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_032",
@@ -9736,8 +9866,8 @@
   {
     "id": "effect_254",
     "name": "通络止痛",
-    "description": "通络止痛：通络，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有通利络脉、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "通利络脉、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_033",
@@ -9753,8 +9883,8 @@
   {
     "id": "effect_255",
     "name": "舒筋活络",
-    "description": "舒筋活络：舒缓筋脉，通活脉络。",
-    "mechanism": "",
+    "description": "具有舒缓筋脉、活络通脉的治疗作用。",
+    "mechanism": "舒缓筋脉、活络通脉",
     "indications": [],
     "related_medicines": [
       "medicine_034",
@@ -9771,8 +9901,8 @@
   {
     "id": "effect_256",
     "name": "和胃化湿",
-    "description": "和胃化湿：调和胃气，芳香化湿、运脾化湿。",
-    "mechanism": "",
+    "description": "具有调和胃气、芳化湿浊的治疗作用。",
+    "mechanism": "调和胃气、芳化湿浊",
     "indications": [],
     "related_medicines": [
       "medicine_034"
@@ -9784,8 +9914,8 @@
   {
     "id": "effect_257",
     "name": "燥湿健脾",
-    "description": "燥湿健脾：苦温或苦寒以燥除湿邪，健运脾胃。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、健运脾胃的治疗作用。",
+    "mechanism": "燥化湿浊、健运脾胃",
     "indications": [],
     "related_medicines": [
       "medicine_035"
@@ -9797,8 +9927,8 @@
   {
     "id": "effect_258",
     "name": "祛风散寒",
-    "description": "祛风散寒：祛除风邪，温散里寒。",
-    "mechanism": "",
+    "description": "具有祛除风邪、温散寒邪的治疗作用。",
+    "mechanism": "祛除风邪、温散寒邪",
     "indications": [],
     "related_medicines": [
       "medicine_035",
@@ -9812,8 +9942,8 @@
   {
     "id": "effect_259",
     "name": "燥湿消痰",
-    "description": "燥湿消痰：苦温或苦寒以燥除湿邪，消痰化饮。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、消导痰饮的治疗作用。",
+    "mechanism": "燥化湿浊、消导痰饮",
     "indications": [],
     "related_medicines": [
       "medicine_036"
@@ -9825,8 +9955,8 @@
   {
     "id": "effect_260",
     "name": "下气除满",
-    "description": "下气除满：降泄逆气，清除，满。",
-    "mechanism": "",
+    "description": "具有降泄逆气、清除、胀满的治疗作用。",
+    "mechanism": "降泄逆气、清除、胀满",
     "indications": [],
     "related_medicines": [
       "medicine_036"
@@ -9838,8 +9968,8 @@
   {
     "id": "effect_261",
     "name": "化湿",
-    "description": "化湿：芳香化湿、运脾化湿。",
-    "mechanism": "",
+    "description": "具有芳化湿浊的治疗作用。",
+    "mechanism": "芳化湿浊",
     "indications": [],
     "related_medicines": [
       "medicine_037",
@@ -9852,8 +9982,8 @@
   {
     "id": "effect_262",
     "name": "解暑",
-    "description": "解暑：解散，暑。",
-    "mechanism": "",
+    "description": "具有解除、暑邪的治疗作用。",
+    "mechanism": "解除、暑邪",
     "indications": [],
     "related_medicines": [
       "medicine_037",
@@ -9866,8 +9996,8 @@
   {
     "id": "effect_263",
     "name": "健脾宁心",
-    "description": "健脾宁心：健运脾胃，安宁，心。",
-    "mechanism": "",
+    "description": "具有健运脾胃、安宁、心的治疗作用。",
+    "mechanism": "健运脾胃、安宁、心",
     "indications": [],
     "related_medicines": [
       "medicine_038"
@@ -9879,8 +10009,8 @@
   {
     "id": "effect_264",
     "name": "健脾止泻",
-    "description": "健脾止泻：健运脾胃，涩肠止利。",
-    "mechanism": "",
+    "description": "具有健运脾胃、制止泄泻的治疗作用。",
+    "mechanism": "健运脾胃、制止泄泻",
     "indications": [],
     "related_medicines": [
       "medicine_039",
@@ -9893,8 +10023,8 @@
   {
     "id": "effect_265",
     "name": "泄热通淋",
-    "description": "泄热通淋：泄，热邪，通，淋。",
-    "mechanism": "",
+    "description": "具有泄利、热邪、通利淋证的治疗作用。",
+    "mechanism": "泄利、热邪、通利淋证",
     "indications": [],
     "related_medicines": [
       "medicine_040"
@@ -9906,8 +10036,8 @@
   {
     "id": "effect_266",
     "name": "补火助阳",
-    "description": "补火助阳：补益，火热，温助阳气。",
-    "mechanism": "",
+    "description": "具有补益、火热、助长阳气的治疗作用。",
+    "mechanism": "补益、火热、助长阳气",
     "indications": [],
     "related_medicines": [
       "medicine_041",
@@ -9920,8 +10050,8 @@
   {
     "id": "effect_267",
     "name": "回阳通脉",
-    "description": "回阳通脉：回，阳气，通利血脉。",
-    "mechanism": "",
+    "description": "具有回复阳气、通利血脉的治疗作用。",
+    "mechanism": "回复阳气、通利血脉",
     "indications": [],
     "related_medicines": [
       "medicine_042"
@@ -9933,8 +10063,8 @@
   {
     "id": "effect_268",
     "name": "理气健脾",
-    "description": "理气健脾：疏理气机，健运脾胃。",
-    "mechanism": "",
+    "description": "具有疏理气机、健运脾胃的治疗作用。",
+    "mechanism": "疏理气机、健运脾胃",
     "indications": [],
     "related_medicines": [
       "medicine_044"
@@ -9946,8 +10076,8 @@
   {
     "id": "effect_269",
     "name": "健脾消食",
-    "description": "健脾消食：健运脾胃，消食化滞。",
-    "mechanism": "",
+    "description": "具有健运脾胃、消导食积的治疗作用。",
+    "mechanism": "健运脾胃、消导食积",
     "indications": [],
     "related_medicines": [
       "medicine_045",
@@ -9960,8 +10090,8 @@
   {
     "id": "effect_270",
     "name": "理气宽中",
-    "description": "理气宽中：疏理气机，宽，中。",
-    "mechanism": "",
+    "description": "具有疏理气机、宽胸理气的治疗作用。",
+    "mechanism": "疏理气机、宽胸理气",
     "indications": [],
     "related_medicines": [
       "medicine_046",
@@ -9974,8 +10104,8 @@
   {
     "id": "effect_271",
     "name": "疏肝行气",
-    "description": "疏肝行气：疏泄肝气，通行，气机。",
-    "mechanism": "",
+    "description": "具有疏泄肝气、疏理气机的治疗作用。",
+    "mechanism": "疏泄肝气、疏理气机",
     "indications": [],
     "related_medicines": [
       "medicine_048"
@@ -9987,8 +10117,8 @@
   {
     "id": "effect_272",
     "name": "消食健胃",
-    "description": "消食健胃：消食化滞，强健，胃。",
-    "mechanism": "",
+    "description": "具有消导食积、健运、胃的治疗作用。",
+    "mechanism": "消导食积、健运、胃",
     "indications": [],
     "related_medicines": [
       "medicine_049",
@@ -10002,8 +10132,8 @@
   {
     "id": "effect_273",
     "name": "散瘀解毒",
-    "description": "散瘀解毒：消散瘀滞，解毒。",
-    "mechanism": "",
+    "description": "具有消散瘀滞、解除毒邪的治疗作用。",
+    "mechanism": "消散瘀滞、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_050",
@@ -10016,8 +10146,8 @@
   {
     "id": "effect_274",
     "name": "解毒敛疮",
-    "description": "解毒敛疮：解毒，敛疮生肌。",
-    "mechanism": "",
+    "description": "具有解除毒邪、收敛疮口的治疗作用。",
+    "mechanism": "解除毒邪、收敛疮口",
     "indications": [],
     "related_medicines": [
       "medicine_052"
@@ -10029,8 +10159,8 @@
   {
     "id": "effect_275",
     "name": "化瘀止血",
-    "description": "化瘀止血：消散瘀血，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有化解瘀滞、制止出血的治疗作用。",
+    "mechanism": "化解瘀滞、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_053",
@@ -10047,8 +10177,8 @@
   {
     "id": "effect_276",
     "name": "活血定痛",
-    "description": "活血定痛：通畅血行，定，疼痛。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、安定、疼痛的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、安定、疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_053",
@@ -10061,8 +10191,8 @@
   {
     "id": "effect_277",
     "name": "凉血化瘀止血",
-    "description": "凉血化瘀止血：清血分热、凉血止血，消散瘀血，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、化解瘀滞、制止出血的治疗作用。",
+    "mechanism": "清解血分热邪、化解瘀滞、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_054"
@@ -10074,8 +10204,8 @@
   {
     "id": "effect_278",
     "name": "通经",
-    "description": "通经：通利经脉。",
-    "mechanism": "",
+    "description": "具有通利经脉的治疗作用。",
+    "mechanism": "通利经脉",
     "indications": [],
     "related_medicines": [
       "medicine_054"
@@ -10087,8 +10217,8 @@
   {
     "id": "effect_279",
     "name": "收敛止血",
-    "description": "收敛止血：收敛，敛，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有收敛固涩、制止出血的治疗作用。",
+    "mechanism": "收敛固涩、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_055",
@@ -10116,8 +10246,8 @@
   {
     "id": "effect_280",
     "name": "消肿生肌",
-    "description": "消肿生肌：消除水肿、散消肿毒，生肌长肉。",
-    "mechanism": "",
+    "description": "具有消除肿毒、消退肿胀、生肌长肉的治疗作用。",
+    "mechanism": "消除肿毒、消退肿胀、生肌长肉",
     "indications": [],
     "related_medicines": [
       "medicine_055",
@@ -10131,8 +10261,8 @@
   {
     "id": "effect_281",
     "name": "温经止血",
-    "description": "温经止血：温煦，经脉，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有温煦、经脉、制止出血的治疗作用。",
+    "mechanism": "温煦、经脉、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_056",
@@ -10146,8 +10276,8 @@
   {
     "id": "effect_282",
     "name": "散寒调经",
-    "description": "散寒调经：温散里寒，调理冲任月经。",
-    "mechanism": "",
+    "description": "具有温散寒邪、调理冲任的治疗作用。",
+    "mechanism": "温散寒邪、调理冲任",
     "indications": [],
     "related_medicines": [
       "medicine_056"
@@ -10159,8 +10289,8 @@
   {
     "id": "effect_283",
     "name": "安胎",
-    "description": "安胎：固冲任以安胎。",
-    "mechanism": "",
+    "description": "具有安养胎元的治疗作用。",
+    "mechanism": "安养胎元",
     "indications": [],
     "related_medicines": [
       "medicine_056",
@@ -10176,8 +10306,8 @@
   {
     "id": "effect_284",
     "name": "活血行气",
-    "description": "活血行气：通畅血行，通行，气机。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、疏理气机的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、疏理气机",
     "indications": [],
     "related_medicines": [
       "medicine_057",
@@ -10190,8 +10320,8 @@
   {
     "id": "effect_285",
     "name": "祛风止痛",
-    "description": "祛风止痛：祛除风邪，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有祛除风邪、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "祛除风邪、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_057",
@@ -10209,8 +10339,8 @@
   {
     "id": "effect_286",
     "name": "通经止痛",
-    "description": "通经止痛：通利经脉，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有通利经脉、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "通利经脉、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_058",
@@ -10223,8 +10353,8 @@
   {
     "id": "effect_287",
     "name": "活血通经",
-    "description": "活血通经：通畅血行，通利经脉。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、通利经脉的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、通利经脉",
     "indications": [],
     "related_medicines": [
       "medicine_059",
@@ -10240,8 +10370,8 @@
   {
     "id": "effect_288",
     "name": "祛瘀止痛",
-    "description": "祛瘀止痛：祛除瘀血，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有祛除瘀滞、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "祛除瘀滞、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_059",
@@ -10255,8 +10385,8 @@
   {
     "id": "effect_289",
     "name": "活血调经",
-    "description": "活血调经：通畅血行，调理冲任月经。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、调理冲任的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、调理冲任",
     "indications": [],
     "related_medicines": [
       "medicine_061",
@@ -10270,8 +10400,8 @@
   {
     "id": "effect_290",
     "name": "利尿消肿",
-    "description": "利尿消肿：通利，小便，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有通利小便、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "通利小便、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_061",
@@ -10285,8 +10415,8 @@
   {
     "id": "effect_291",
     "name": "清热润肺",
-    "description": "清热润肺：清解里热，滋润肺燥。",
-    "mechanism": "",
+    "description": "具有清解热邪、滋润肺燥的治疗作用。",
+    "mechanism": "清解热邪、滋润肺燥",
     "indications": [],
     "related_medicines": [
       "medicine_063",
@@ -10300,8 +10430,8 @@
   {
     "id": "effect_292",
     "name": "散结消痈",
-    "description": "散结消痈：消散结聚，消散热毒痈肿。",
-    "mechanism": "",
+    "description": "具有消散结聚、消散痈肿的治疗作用。",
+    "mechanism": "消散结聚、消散痈肿",
     "indications": [],
     "related_medicines": [
       "medicine_063",
@@ -10314,8 +10444,8 @@
   {
     "id": "effect_293",
     "name": "止咳平喘",
-    "description": "止咳平喘：制止咳嗽，平定喘息。",
-    "mechanism": "",
+    "description": "具有制止咳嗽、平定喘息的治疗作用。",
+    "mechanism": "制止咳嗽、平定喘息",
     "indications": [],
     "related_medicines": [
       "medicine_065",
@@ -10331,8 +10461,8 @@
   {
     "id": "effect_294",
     "name": "润肺下气止咳",
-    "description": "润肺下气止咳：滋润肺燥，降泄逆气，制止咳嗽。",
-    "mechanism": "",
+    "description": "具有滋润肺燥、降泄逆气、制止咳嗽的治疗作用。",
+    "mechanism": "滋润肺燥、降泄逆气、制止咳嗽",
     "indications": [],
     "related_medicines": [
       "medicine_066"
@@ -10344,8 +10474,8 @@
   {
     "id": "effect_295",
     "name": "杀虫",
-    "description": "杀虫：杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有杀灭寄生虫的治疗作用。",
+    "mechanism": "杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_066",
@@ -10364,8 +10494,8 @@
   {
     "id": "effect_296",
     "name": "清心镇惊",
-    "description": "清心镇惊：清心凉血，镇，惊。",
-    "mechanism": "",
+    "description": "具有清心凉血、镇惊安神的治疗作用。",
+    "mechanism": "清心凉血、镇惊安神",
     "indications": [],
     "related_medicines": [
       "medicine_067"
@@ -10377,8 +10507,8 @@
   {
     "id": "effect_297",
     "name": "安神解毒",
-    "description": "安神解毒：安定神志，解毒。",
-    "mechanism": "",
+    "description": "具有安定神志、解除毒邪的治疗作用。",
+    "mechanism": "安定神志、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_067"
@@ -10390,8 +10520,8 @@
   {
     "id": "effect_298",
     "name": "养心益肝",
-    "description": "养心益肝：滋养，心，补益，肝。",
-    "mechanism": "",
+    "description": "具有滋养心神、补益肝血的治疗作用。",
+    "mechanism": "滋养心神、补益肝血",
     "indications": [],
     "related_medicines": [
       "medicine_068"
@@ -10403,8 +10533,8 @@
   {
     "id": "effect_299",
     "name": "息风止痉",
-    "description": "息风止痉：平息肝风，止痉。",
-    "mechanism": "",
+    "description": "具有平息肝风、制止痉挛的治疗作用。",
+    "mechanism": "平息肝风、制止痉挛",
     "indications": [],
     "related_medicines": [
       "medicine_069",
@@ -10418,8 +10548,8 @@
   {
     "id": "effect_300",
     "name": "平抑肝阳",
-    "description": "平抑肝阳：平，抑，肝，阳气。",
-    "mechanism": "",
+    "description": "具有平抑（平抑肝阳）、肝阳（肝之阳气）的治疗作用。",
+    "mechanism": "平抑（平抑肝阳）、肝阳（肝之阳气）",
     "indications": [],
     "related_medicines": [
       "medicine_069",
@@ -10432,8 +10562,8 @@
   {
     "id": "effect_301",
     "name": "清热平肝",
-    "description": "清热平肝：清解里热，平抑肝阳。",
-    "mechanism": "",
+    "description": "具有清解热邪、平抑肝阳的治疗作用。",
+    "mechanism": "清解热邪、平抑肝阳",
     "indications": [],
     "related_medicines": [
       "medicine_070",
@@ -10447,8 +10577,8 @@
   {
     "id": "effect_302",
     "name": "息风定惊",
-    "description": "息风定惊：平息肝风，定，惊。",
-    "mechanism": "",
+    "description": "具有平息肝风、安定惊搐的治疗作用。",
+    "mechanism": "平息肝风、安定惊搐",
     "indications": [],
     "related_medicines": [
       "medicine_070",
@@ -10461,8 +10591,8 @@
   {
     "id": "effect_303",
     "name": "大补元气",
-    "description": "大补元气：大，补益，元，气机。",
-    "mechanism": "",
+    "description": "具有大、补益、元气的治疗作用。",
+    "mechanism": "大、补益、元气",
     "indications": [],
     "related_medicines": [
       "medicine_072"
@@ -10474,8 +10604,8 @@
   {
     "id": "effect_304",
     "name": "复脉固脱",
-    "description": "复脉固脱：复，血脉，固涩，脱。",
-    "mechanism": "",
+    "description": "具有恢复脉气、固脱（防脱陷）的治疗作用。",
+    "mechanism": "恢复脉气、固脱（防脱陷）",
     "indications": [],
     "related_medicines": [
       "medicine_072"
@@ -10487,8 +10617,8 @@
   {
     "id": "effect_305",
     "name": "补气升阳",
-    "description": "补气升阳：补益中气，升举脾胃清阳。",
-    "mechanism": "",
+    "description": "具有补益、气机、升举清阳的治疗作用。",
+    "mechanism": "补益、气机、升举清阳",
     "indications": [],
     "related_medicines": [
       "medicine_073"
@@ -10500,8 +10630,8 @@
   {
     "id": "effect_306",
     "name": "固表止汗",
-    "description": "固表止汗：固涩，肌表，固表止汗。",
-    "mechanism": "",
+    "description": "具有固护肌表、制止、汗出的治疗作用。",
+    "mechanism": "固护肌表、制止、汗出",
     "indications": [],
     "related_medicines": [
       "medicine_073",
@@ -10516,8 +10646,8 @@
   {
     "id": "effect_307",
     "name": "健脾益气",
-    "description": "健脾益气：健运脾胃，补益元气。",
-    "mechanism": "",
+    "description": "具有健运脾胃、补益元气的治疗作用。",
+    "mechanism": "健运脾胃、补益元气",
     "indications": [],
     "related_medicines": [
       "medicine_074",
@@ -10530,8 +10660,8 @@
   {
     "id": "effect_308",
     "name": "燥湿利水",
-    "description": "燥湿利水：苦温或苦寒以燥除湿邪，通利水道、渗湿利水。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、通利水道、渗湿利水的治疗作用。",
+    "mechanism": "燥化湿浊、通利水道、渗湿利水",
     "indications": [],
     "related_medicines": [
       "medicine_074"
@@ -10543,8 +10673,8 @@
   {
     "id": "effect_309",
     "name": "调经止痛",
-    "description": "调经止痛：调理冲任月经，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有调理冲任、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "调理冲任、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_075"
@@ -10556,8 +10686,8 @@
   {
     "id": "effect_310",
     "name": "补血养阴",
-    "description": "补血养阴：滋养血液，滋养，阴液。",
-    "mechanism": "",
+    "description": "具有补益血液、滋养阴液的治疗作用。",
+    "mechanism": "补益血液、滋养阴液",
     "indications": [],
     "related_medicines": [
       "medicine_076"
@@ -10569,8 +10699,8 @@
   {
     "id": "effect_311",
     "name": "养血调经",
-    "description": "养血调经：补养阴血，调理冲任月经。",
-    "mechanism": "",
+    "description": "具有滋养血液、调理冲任的治疗作用。",
+    "mechanism": "滋养血液、调理冲任",
     "indications": [],
     "related_medicines": [
       "medicine_077"
@@ -10582,8 +10712,8 @@
   {
     "id": "effect_312",
     "name": "养阴清肺",
-    "description": "养阴清肺：滋养，阴液，清泻肺热。",
-    "mechanism": "",
+    "description": "具有滋养阴液、清泻肺热的治疗作用。",
+    "mechanism": "滋养阴液、清泻肺热",
     "indications": [],
     "related_medicines": [
       "medicine_078",
@@ -10596,8 +10726,8 @@
   {
     "id": "effect_313",
     "name": "益胃生津",
-    "description": "益胃生津：益胃生津，滋生津液。",
-    "mechanism": "",
+    "description": "具有补益胃气、滋生津液的治疗作用。",
+    "mechanism": "补益胃气、滋生津液",
     "indications": [],
     "related_medicines": [
       "medicine_078",
@@ -10612,8 +10742,8 @@
   {
     "id": "effect_314",
     "name": "润肺清心",
-    "description": "润肺清心：滋润肺燥，清心凉血。",
-    "mechanism": "",
+    "description": "具有滋润肺燥、清心凉血的治疗作用。",
+    "mechanism": "滋润肺燥、清心凉血",
     "indications": [],
     "related_medicines": [
       "medicine_079"
@@ -10625,8 +10755,8 @@
   {
     "id": "effect_315",
     "name": "滋补肝肾",
-    "description": "滋补肝肾：滋养补虚，肝，肾。",
-    "mechanism": "",
+    "description": "具有滋补强壮、肝肾（肝肾功能）的治疗作用。",
+    "mechanism": "滋补强壮、肝肾（肝肾功能）",
     "indications": [],
     "related_medicines": [
       "medicine_080",
@@ -10640,8 +10770,8 @@
   {
     "id": "effect_316",
     "name": "益精明目",
-    "description": "益精明目：补益肾精，明目退翳。",
-    "mechanism": "",
+    "description": "具有补益精气、明目、改善视力的治疗作用。",
+    "mechanism": "补益精气、明目、改善视力",
     "indications": [],
     "related_medicines": [
       "medicine_080"
@@ -10653,8 +10783,8 @@
   {
     "id": "effect_317",
     "name": "壮肾阳",
-    "description": "壮肾阳：壮补肾阳，阳气。",
-    "mechanism": "",
+    "description": "具有强壮肾阳、阳气的治疗作用。",
+    "mechanism": "强壮肾阳、阳气",
     "indications": [],
     "related_medicines": [
       "medicine_081"
@@ -10666,8 +10796,8 @@
   {
     "id": "effect_318",
     "name": "益精血",
-    "description": "益精血：补益肾精，血分。",
-    "mechanism": "",
+    "description": "具有补益精气、血分的治疗作用。",
+    "mechanism": "补益精气、血分",
     "indications": [],
     "related_medicines": [
       "medicine_081",
@@ -10682,8 +10812,8 @@
   {
     "id": "effect_319",
     "name": "补肾壮阳",
-    "description": "补肾壮阳：补益肾精，壮补，阳气。",
-    "mechanism": "",
+    "description": "具有补益肾精、温壮肾阳的治疗作用。",
+    "mechanism": "补益肾精、温壮肾阳",
     "indications": [],
     "related_medicines": [
       "medicine_082",
@@ -10698,8 +10828,8 @@
   {
     "id": "effect_320",
     "name": "补肝肾",
-    "description": "补肝肾：滋养肝血，肾。",
-    "mechanism": "",
+    "description": "具有补益肝肾的治疗作用。",
+    "mechanism": "补益肝肾",
     "indications": [],
     "related_medicines": [
       "medicine_083",
@@ -10719,8 +10849,8 @@
   {
     "id": "effect_321",
     "name": "强筋骨",
-    "description": "强筋骨：强健筋膜，骨。",
-    "mechanism": "",
+    "description": "具有强健筋脉、骨骼的治疗作用。",
+    "mechanism": "强健筋脉、骨骼",
     "indications": [],
     "related_medicines": [
       "medicine_083",
@@ -10741,8 +10871,8 @@
   {
     "id": "effect_322",
     "name": "收敛固涩",
-    "description": "收敛固涩：收敛，敛，固涩，涩。",
-    "mechanism": "",
+    "description": "具有收敛固涩、固摄、收涩的治疗作用。",
+    "mechanism": "收敛固涩、固摄、收涩",
     "indications": [],
     "related_medicines": [
       "medicine_084",
@@ -10756,8 +10886,8 @@
   {
     "id": "effect_323",
     "name": "收涩固脱",
-    "description": "收涩固脱：收敛固涩，固涩，脱。",
-    "mechanism": "",
+    "description": "具有收涩固脱、固脱（防脱陷）的治疗作用。",
+    "mechanism": "收涩固脱、固脱（防脱陷）",
     "indications": [],
     "related_medicines": [
       "medicine_085"
@@ -10769,8 +10899,8 @@
   {
     "id": "effect_324",
     "name": "通鼻窍",
-    "description": "通鼻窍：通，鼻，清窍。",
-    "mechanism": "",
+    "description": "具有通利、鼻窍的治疗作用。",
+    "mechanism": "通利、鼻窍",
     "indications": [],
     "related_medicines": [
       "medicine_086",
@@ -10784,8 +10914,8 @@
   {
     "id": "effect_325",
     "name": "通窍",
-    "description": "通窍：通，清窍。",
-    "mechanism": "",
+    "description": "具有通利孔窍的治疗作用。",
+    "mechanism": "通利孔窍",
     "indications": [],
     "related_medicines": [
       "medicine_087"
@@ -10797,8 +10927,8 @@
   {
     "id": "effect_326",
     "name": "除湿止痛",
-    "description": "除湿止痛：祛除体内湿邪，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有祛除湿邪、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "祛除湿邪、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_089"
@@ -10810,8 +10940,8 @@
   {
     "id": "effect_327",
     "name": "解表",
-    "description": "解表：辛散表邪、解除表证。",
-    "mechanism": "",
+    "description": "具有解除表证的治疗作用。",
+    "mechanism": "解除表证",
     "indications": [],
     "related_medicines": [
       "medicine_092"
@@ -10823,8 +10953,8 @@
   {
     "id": "effect_328",
     "name": "除烦",
-    "description": "除烦：清除烦热。",
-    "mechanism": "",
+    "description": "具有清除烦热的治疗作用。",
+    "mechanism": "清除烦热",
     "indications": [],
     "related_medicines": [
       "medicine_092",
@@ -10837,8 +10967,8 @@
   {
     "id": "effect_329",
     "name": "宣发郁热",
-    "description": "宣发郁热：宣发郁热，郁，热邪。",
-    "mechanism": "",
+    "description": "具有宣发、发散、郁结、热邪的治疗作用。",
+    "mechanism": "宣发、发散、郁结、热邪",
     "indications": [],
     "related_medicines": [
       "medicine_092"
@@ -10850,8 +10980,8 @@
   {
     "id": "effect_330",
     "name": "泻肝胆火",
-    "description": "泻肝胆火：泻，肝，胆，火热。",
-    "mechanism": "",
+    "description": "具有泻下、肝胆（肝胆经腑）、火热的治疗作用。",
+    "mechanism": "泻下、肝胆（肝胆经腑）、火热",
     "indications": [],
     "related_medicines": [
       "medicine_094"
@@ -10863,8 +10993,8 @@
   {
     "id": "effect_331",
     "name": "利尿",
-    "description": "利尿：通利，小便。",
-    "mechanism": "",
+    "description": "具有通利小便的治疗作用。",
+    "mechanism": "通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_095",
@@ -10882,8 +11012,8 @@
   {
     "id": "effect_332",
     "name": "收涩止痢",
-    "description": "收涩止痢：收敛固涩，制止，痢。",
-    "mechanism": "",
+    "description": "具有收涩固脱、制止痢疾的治疗作用。",
+    "mechanism": "收涩固脱、制止痢疾",
     "indications": [],
     "related_medicines": [
       "medicine_096"
@@ -10895,8 +11025,8 @@
   {
     "id": "effect_333",
     "name": "祛风解毒",
-    "description": "祛风解毒：祛除风邪，解毒。",
-    "mechanism": "",
+    "description": "具有祛除风邪、解除毒邪的治疗作用。",
+    "mechanism": "祛除风邪、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_097"
@@ -10908,8 +11038,8 @@
   {
     "id": "effect_334",
     "name": "凉血消肿",
-    "description": "凉血消肿：清血分热、凉血止血，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "清解血分热邪、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_098",
@@ -10922,8 +11052,8 @@
   {
     "id": "effect_335",
     "name": "泻火平肝",
-    "description": "泻火平肝：清泻火热，平抑肝阳。",
-    "mechanism": "",
+    "description": "具有清泻火热、平抑肝阳的治疗作用。",
+    "mechanism": "清泻火热、平抑肝阳",
     "indications": [],
     "related_medicines": [
       "medicine_099"
@@ -10935,8 +11065,8 @@
   {
     "id": "effect_336",
     "name": "凉血消斑",
-    "description": "凉血消斑：清血分热、凉血止血，消导，斑毒。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、消散、斑疹的治疗作用。",
+    "mechanism": "清解血分热邪、消散、斑疹",
     "indications": [],
     "related_medicines": [
       "medicine_100",
@@ -10949,8 +11079,8 @@
   {
     "id": "effect_337",
     "name": "清肝泻火",
-    "description": "清肝泻火：清泻肝火，清泻火热。",
-    "mechanism": "",
+    "description": "具有清泻肝火、清泻火热的治疗作用。",
+    "mechanism": "清泻肝火、清泻火热",
     "indications": [],
     "related_medicines": [
       "medicine_101",
@@ -10964,8 +11094,8 @@
   {
     "id": "effect_338",
     "name": "排脓祛瘀",
-    "description": "排脓祛瘀：排出痈脓，祛除瘀血。",
-    "mechanism": "",
+    "description": "具有排出痈脓、祛除瘀滞的治疗作用。",
+    "mechanism": "排出痈脓、祛除瘀滞",
     "indications": [],
     "related_medicines": [
       "medicine_103"
@@ -10977,8 +11107,8 @@
   {
     "id": "effect_339",
     "name": "活血",
-    "description": "活血：通畅血行。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血",
     "indications": [],
     "related_medicines": [
       "medicine_104",
@@ -10991,8 +11121,8 @@
   {
     "id": "effect_340",
     "name": "利咽祛痰",
-    "description": "利咽祛痰：清利咽喉肿痛，祛除痰涎。",
-    "mechanism": "",
+    "description": "具有清利咽喉、祛除痰浊的治疗作用。",
+    "mechanism": "清利咽喉、祛除痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_106"
@@ -11004,8 +11134,8 @@
   {
     "id": "effect_341",
     "name": "利咽消肿",
-    "description": "利咽消肿：清利咽喉肿痛，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有清利咽喉、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "清利咽喉、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_107"
@@ -11017,8 +11147,8 @@
   {
     "id": "effect_342",
     "name": "利咽止血",
-    "description": "利咽止血：清利咽喉肿痛，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有清利咽喉、制止出血的治疗作用。",
+    "mechanism": "清利咽喉、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_108"
@@ -11030,8 +11160,8 @@
   {
     "id": "effect_343",
     "name": "止痢",
-    "description": "止痢：制止，痢。",
-    "mechanism": "",
+    "description": "具有制止痢疾的治疗作用。",
+    "mechanism": "制止痢疾",
     "indications": [],
     "related_medicines": [
       "medicine_110",
@@ -11044,8 +11174,8 @@
   {
     "id": "effect_344",
     "name": "截疟",
-    "description": "截疟：截断疟疾发作。",
-    "mechanism": "",
+    "description": "具有截疟（控制疟疾发作）的治疗作用。",
+    "mechanism": "截疟（控制疟疾发作）",
     "indications": [],
     "related_medicines": [
       "medicine_110",
@@ -11061,8 +11191,8 @@
   {
     "id": "effect_345",
     "name": "散瘀止痛",
-    "description": "散瘀止痛：消散瘀滞，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有消散瘀滞、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "消散瘀滞、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_111",
@@ -11079,8 +11209,8 @@
   {
     "id": "effect_346",
     "name": "解毒透疹",
-    "description": "解毒透疹：解毒，透发疹毒外出。",
-    "mechanism": "",
+    "description": "具有解除毒邪、透发疹毒的治疗作用。",
+    "mechanism": "解除毒邪、透发疹毒",
     "indications": [],
     "related_medicines": [
       "medicine_112"
@@ -11092,8 +11222,8 @@
   {
     "id": "effect_347",
     "name": "利尿通淋",
-    "description": "利尿通淋：通利，小便，通，淋。",
-    "mechanism": "",
+    "description": "具有通利小便、通利淋证的治疗作用。",
+    "mechanism": "通利小便、通利淋证",
     "indications": [],
     "related_medicines": [
       "medicine_113",
@@ -11120,8 +11250,8 @@
   {
     "id": "effect_348",
     "name": "解毒疗疮",
-    "description": "解毒疗疮：解毒，治疗，疮毒。",
-    "mechanism": "",
+    "description": "具有解除毒邪、疗治、疮疡的治疗作用。",
+    "mechanism": "解除毒邪、疗治、疮疡",
     "indications": [],
     "related_medicines": [
       "medicine_113"
@@ -11133,8 +11263,8 @@
   {
     "id": "effect_349",
     "name": "清虚热",
-    "description": "清虚热：清解，虚损，热邪。",
-    "mechanism": "",
+    "description": "具有清解、阴分虚热的治疗作用。",
+    "mechanism": "清解、阴分虚热",
     "indications": [],
     "related_medicines": [
       "medicine_114"
@@ -11146,8 +11276,8 @@
   {
     "id": "effect_350",
     "name": "除疳热",
-    "description": "除疳热：清除，疳，热邪。",
-    "mechanism": "",
+    "description": "具有清除、疳积、热邪的治疗作用。",
+    "mechanism": "清除、疳积、热邪",
     "indications": [],
     "related_medicines": [
       "medicine_114",
@@ -11160,8 +11290,8 @@
   {
     "id": "effect_351",
     "name": "退虚热",
-    "description": "退虚热：消退，虚损，热邪。",
-    "mechanism": "",
+    "description": "具有消退、阴分虚热的治疗作用。",
+    "mechanism": "消退、阴分虚热",
     "indications": [],
     "related_medicines": [
       "medicine_115",
@@ -11174,8 +11304,8 @@
   {
     "id": "effect_352",
     "name": "清湿热",
-    "description": "清湿热：清解，湿邪，热邪。",
-    "mechanism": "",
+    "description": "具有清解、湿浊、热邪的治疗作用。",
+    "mechanism": "清解、湿浊、热邪",
     "indications": [],
     "related_medicines": [
       "medicine_115",
@@ -11188,8 +11318,8 @@
   {
     "id": "effect_353",
     "name": "泻热行滞",
-    "description": "泻热行滞：泻热行滞，行滞消胀。",
-    "mechanism": "",
+    "description": "具有泻下、热邪、通行、滞涩的治疗作用。",
+    "mechanism": "泻下、热邪、通行、滞涩",
     "indications": [],
     "related_medicines": [
       "medicine_116"
@@ -11201,8 +11331,8 @@
   {
     "id": "effect_354",
     "name": "通便",
-    "description": "通便：通利大便。",
-    "mechanism": "",
+    "description": "具有通导大便的治疗作用。",
+    "mechanism": "通导大便",
     "indications": [],
     "related_medicines": [
       "medicine_116"
@@ -11214,8 +11344,8 @@
   {
     "id": "effect_355",
     "name": "利水",
-    "description": "利水：通利水道、渗湿利水。",
-    "mechanism": "",
+    "description": "具有通利水道、渗湿利水的治疗作用。",
+    "mechanism": "通利水道、渗湿利水",
     "indications": [],
     "related_medicines": [
       "medicine_116",
@@ -11228,8 +11358,8 @@
   {
     "id": "effect_356",
     "name": "泻下通便",
-    "description": "泻下通便：泻下通便，通利大便。",
-    "mechanism": "",
+    "description": "具有泻下通便、通导大便的治疗作用。",
+    "mechanism": "泻下通便、通导大便",
     "indications": [],
     "related_medicines": [
       "medicine_117",
@@ -11242,8 +11372,8 @@
   {
     "id": "effect_357",
     "name": "祛风",
-    "description": "祛风：祛除风邪。",
-    "mechanism": "",
+    "description": "具有祛除风邪的治疗作用。",
+    "mechanism": "祛除风邪",
     "indications": [],
     "related_medicines": [
       "medicine_122",
@@ -11256,8 +11386,8 @@
   {
     "id": "effect_358",
     "name": "通络",
-    "description": "通络：通络。",
-    "mechanism": "",
+    "description": "具有通利络脉的治疗作用。",
+    "mechanism": "通利络脉",
     "indications": [],
     "related_medicines": [
       "medicine_122",
@@ -11271,8 +11401,8 @@
   {
     "id": "effect_359",
     "name": "止痉",
-    "description": "止痉：止痉。",
-    "mechanism": "",
+    "description": "具有制止痉挛的治疗作用。",
+    "mechanism": "制止痉挛",
     "indications": [],
     "related_medicines": [
       "medicine_122",
@@ -11285,8 +11415,8 @@
   {
     "id": "effect_360",
     "name": "利关节",
-    "description": "利关节：通利，关，节。",
-    "mechanism": "",
+    "description": "具有通利关节的治疗作用。",
+    "mechanism": "通利关节",
     "indications": [],
     "related_medicines": [
       "medicine_125",
@@ -11299,8 +11429,8 @@
   {
     "id": "effect_361",
     "name": "解毒",
-    "description": "解毒：解毒。",
-    "mechanism": "",
+    "description": "具有解除毒邪的治疗作用。",
+    "mechanism": "解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_126",
@@ -11314,8 +11444,8 @@
   {
     "id": "effect_362",
     "name": "通经络",
-    "description": "通经络：通利经脉，络脉。",
-    "mechanism": "",
+    "description": "具有通利经脉、络脉的治疗作用。",
+    "mechanism": "通利经脉、络脉",
     "indications": [],
     "related_medicines": [
       "medicine_127",
@@ -11330,8 +11460,8 @@
   {
     "id": "effect_363",
     "name": "平肝",
-    "description": "平肝：平抑肝阳。",
-    "mechanism": "",
+    "description": "具有平抑肝阳的治疗作用。",
+    "mechanism": "平抑肝阳",
     "indications": [],
     "related_medicines": [
       "medicine_127"
@@ -11343,8 +11473,8 @@
   {
     "id": "effect_364",
     "name": "杀虫止痒",
-    "description": "杀虫止痒：杀灭肠寄生虫积，制止，痒。",
-    "mechanism": "",
+    "description": "具有杀灭寄生虫、制止瘙痒的治疗作用。",
+    "mechanism": "杀灭寄生虫、制止瘙痒",
     "indications": [],
     "related_medicines": [
       "medicine_128",
@@ -11363,8 +11493,8 @@
   {
     "id": "effect_365",
     "name": "祛风通络",
-    "description": "祛风通络：祛除风邪，通络。",
-    "mechanism": "",
+    "description": "具有祛除风邪、通利络脉的治疗作用。",
+    "mechanism": "祛除风邪、通利络脉",
     "indications": [],
     "related_medicines": [
       "medicine_129",
@@ -11381,8 +11511,8 @@
   {
     "id": "effect_366",
     "name": "活血通络",
-    "description": "活血通络：通畅血行，通络。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、通利络脉的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、通利络脉",
     "indications": [],
     "related_medicines": [
       "medicine_130",
@@ -11397,8 +11527,8 @@
   {
     "id": "effect_367",
     "name": "消肿止痛",
-    "description": "消肿止痛：消除水肿、散消肿毒，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有消除肿毒、消退肿胀、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "消除肿毒、消退肿胀、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_130",
@@ -11412,8 +11542,8 @@
   {
     "id": "effect_368",
     "name": "强腰膝",
-    "description": "强腰膝：强健，腰，膝。",
-    "mechanism": "",
+    "description": "具有强健、腰膝的治疗作用。",
+    "mechanism": "强健、腰膝",
     "indications": [],
     "related_medicines": [
       "medicine_131"
@@ -11425,8 +11555,8 @@
   {
     "id": "effect_369",
     "name": "化湿开胃",
-    "description": "化湿开胃：芳香化湿、运脾化湿，开通，胃。",
-    "mechanism": "",
+    "description": "具有芳化湿浊、开胃进食的治疗作用。",
+    "mechanism": "芳化湿浊、开胃进食",
     "indications": [],
     "related_medicines": [
       "medicine_134"
@@ -11438,8 +11568,8 @@
   {
     "id": "effect_370",
     "name": "温脾止泻",
-    "description": "温脾止泻：温煦，脾，涩肠止利。",
-    "mechanism": "",
+    "description": "具有温补脾阳、制止泄泻的治疗作用。",
+    "mechanism": "温补脾阳、制止泄泻",
     "indications": [],
     "related_medicines": [
       "medicine_134",
@@ -11452,8 +11582,8 @@
   {
     "id": "effect_371",
     "name": "理气安胎",
-    "description": "理气安胎：疏理气机，固冲任以安胎。",
-    "mechanism": "",
+    "description": "具有疏理气机、安养胎元的治疗作用。",
+    "mechanism": "疏理气机、安养胎元",
     "indications": [],
     "related_medicines": [
       "medicine_134"
@@ -11465,8 +11595,8 @@
   {
     "id": "effect_372",
     "name": "化湿行气",
-    "description": "化湿行气：芳香化湿、运脾化湿，通行，气机。",
-    "mechanism": "",
+    "description": "具有芳化湿浊、疏理气机的治疗作用。",
+    "mechanism": "芳化湿浊、疏理气机",
     "indications": [],
     "related_medicines": [
       "medicine_135",
@@ -11479,8 +11609,8 @@
   {
     "id": "effect_373",
     "name": "燥湿行气",
-    "description": "燥湿行气：苦温或苦寒以燥除湿邪，通行，气机。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、疏理气机的治疗作用。",
+    "mechanism": "燥化湿浊、疏理气机",
     "indications": [],
     "related_medicines": [
       "medicine_136"
@@ -11492,8 +11622,8 @@
   {
     "id": "effect_374",
     "name": "燥湿温中",
-    "description": "燥湿温中：苦温或苦寒以燥除湿邪，温运中焦脾胃。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、温运中焦的治疗作用。",
+    "mechanism": "燥化湿浊、温运中焦",
     "indications": [],
     "related_medicines": [
       "medicine_137"
@@ -11505,8 +11635,8 @@
   {
     "id": "effect_375",
     "name": "除痰截疟",
-    "description": "除痰截疟：清除，痰浊，截断疟疾发作。",
-    "mechanism": "",
+    "description": "具有清除、痰浊、截疟（控制疟疾发作）的治疗作用。",
+    "mechanism": "清除、痰浊、截疟（控制疟疾发作）",
     "indications": [],
     "related_medicines": [
       "medicine_137"
@@ -11518,8 +11648,8 @@
   {
     "id": "effect_376",
     "name": "清热解暑",
-    "description": "清热解暑：清解里热，解散，暑。",
-    "mechanism": "",
+    "description": "具有清解热邪、解除、暑邪的治疗作用。",
+    "mechanism": "清解热邪、解除、暑邪",
     "indications": [],
     "related_medicines": [
       "medicine_138",
@@ -11532,8 +11662,8 @@
   {
     "id": "effect_377",
     "name": "清热利尿",
-    "description": "清热利尿：清解里热，通利，小便。",
-    "mechanism": "",
+    "description": "具有清解热邪、通利小便的治疗作用。",
+    "mechanism": "清解热邪、通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_139",
@@ -11549,8 +11679,8 @@
   {
     "id": "effect_378",
     "name": "通气下乳",
-    "description": "通气下乳：通，气机，通下乳汁。",
-    "mechanism": "",
+    "description": "具有通利、气机、通下乳汁的治疗作用。",
+    "mechanism": "通利、气机、通下乳汁",
     "indications": [],
     "related_medicines": [
       "medicine_139"
@@ -11562,8 +11692,8 @@
   {
     "id": "effect_379",
     "name": "破血通经",
-    "description": "破血通经：破血逐瘀，通利经脉。",
-    "mechanism": "",
+    "description": "具有破散、血分、通利经脉的治疗作用。",
+    "mechanism": "破散、血分、通利经脉",
     "indications": [],
     "related_medicines": [
       "medicine_140",
@@ -11577,8 +11707,8 @@
   {
     "id": "effect_380",
     "name": "清肺止咳",
-    "description": "清肺止咳：清泻肺热，制止咳嗽。",
-    "mechanism": "",
+    "description": "具有清泻肺热、制止咳嗽的治疗作用。",
+    "mechanism": "清泻肺热、制止咳嗽",
     "indications": [],
     "related_medicines": [
       "medicine_143",
@@ -11591,8 +11721,8 @@
   {
     "id": "effect_381",
     "name": "利湿退黄",
-    "description": "利湿退黄：祛除湿邪、通利小便，消退身目黄疸。",
-    "mechanism": "",
+    "description": "具有祛除湿邪、通利小便、消退黄疸的治疗作用。",
+    "mechanism": "祛除湿邪、通利小便、消退黄疸",
     "indications": [],
     "related_medicines": [
       "medicine_144",
@@ -11611,8 +11741,8 @@
   {
     "id": "effect_382",
     "name": "解毒消肿",
-    "description": "解毒消肿：解毒，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有解除毒邪、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "解除毒邪、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_144",
@@ -11626,8 +11756,8 @@
   {
     "id": "effect_383",
     "name": "温中止痛",
-    "description": "温中止痛：温运中焦脾胃，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有温运中焦、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "温运中焦、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_145",
@@ -11641,8 +11771,8 @@
   {
     "id": "effect_384",
     "name": "温中降逆",
-    "description": "温中降逆：温运中焦脾胃，降逆气止呕呃。",
-    "mechanism": "",
+    "description": "具有温运中焦、降泄上逆的治疗作用。",
+    "mechanism": "温运中焦、降泄上逆",
     "indications": [],
     "related_medicines": [
       "medicine_146"
@@ -11654,8 +11784,8 @@
   {
     "id": "effect_385",
     "name": "温肾助阳",
-    "description": "温肾助阳：温煦，肾，温助阳气。",
-    "mechanism": "",
+    "description": "具有温补肾阳、助长阳气的治疗作用。",
+    "mechanism": "温补肾阳、助长阳气",
     "indications": [],
     "related_medicines": [
       "medicine_146",
@@ -11670,8 +11800,8 @@
   {
     "id": "effect_386",
     "name": "疏肝破气",
-    "description": "疏肝破气：疏泄肝气，破气消积。",
-    "mechanism": "",
+    "description": "具有疏泄肝气、破泄滞气的治疗作用。",
+    "mechanism": "疏泄肝气、破泄滞气",
     "indications": [],
     "related_medicines": [
       "medicine_147"
@@ -11683,8 +11813,8 @@
   {
     "id": "effect_387",
     "name": "消积化滞",
-    "description": "消积化滞：消导食积，化除积滞。",
-    "mechanism": "",
+    "description": "具有消导积滞、化解、滞涩的治疗作用。",
+    "mechanism": "消导积滞、化解、滞涩",
     "indications": [],
     "related_medicines": [
       "medicine_147"
@@ -11696,8 +11826,8 @@
   {
     "id": "effect_388",
     "name": "散寒调中",
-    "description": "散寒调中：温散里寒，调，中。",
-    "mechanism": "",
+    "description": "具有温散寒邪、调理、中焦的治疗作用。",
+    "mechanism": "温散寒邪、调理、中焦",
     "indications": [],
     "related_medicines": [
       "medicine_149"
@@ -11709,8 +11839,8 @@
   {
     "id": "effect_389",
     "name": "温肾散寒",
-    "description": "温肾散寒：温煦，肾，温散里寒。",
-    "mechanism": "",
+    "description": "具有温补肾阳、温散寒邪的治疗作用。",
+    "mechanism": "温补肾阳、温散寒邪",
     "indications": [],
     "related_medicines": [
       "medicine_150"
@@ -11722,8 +11852,8 @@
   {
     "id": "effect_390",
     "name": "健脾和胃",
-    "description": "健脾和胃：健运脾胃，调和胃气。",
-    "mechanism": "",
+    "description": "具有健运脾胃、调和胃气的治疗作用。",
+    "mechanism": "健运脾胃、调和胃气",
     "indications": [],
     "related_medicines": [
       "medicine_153",
@@ -11736,8 +11866,8 @@
   {
     "id": "effect_391",
     "name": "消食和中",
-    "description": "消食和中：消食化滞，调和脾胃。",
-    "mechanism": "",
+    "description": "具有消导食积、调和脾胃的治疗作用。",
+    "mechanism": "消导食积、调和脾胃",
     "indications": [],
     "related_medicines": [
       "medicine_154"
@@ -11749,8 +11879,8 @@
   {
     "id": "effect_392",
     "name": "健脾开胃",
-    "description": "健脾开胃：健运脾胃，开通，胃。",
-    "mechanism": "",
+    "description": "具有健运脾胃、开胃进食的治疗作用。",
+    "mechanism": "健运脾胃、开胃进食",
     "indications": [],
     "related_medicines": [
       "medicine_154"
@@ -11762,8 +11892,8 @@
   {
     "id": "effect_393",
     "name": "止血",
-    "description": "止血：收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有制止出血的治疗作用。",
+    "mechanism": "制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_158",
@@ -11778,8 +11908,8 @@
   {
     "id": "effect_394",
     "name": "化瘀",
-    "description": "化瘀：消散瘀血。",
-    "mechanism": "",
+    "description": "具有化解瘀滞的治疗作用。",
+    "mechanism": "化解瘀滞",
     "indications": [],
     "related_medicines": [
       "medicine_158",
@@ -11793,8 +11923,8 @@
   {
     "id": "effect_395",
     "name": "活血行气止痛",
-    "description": "活血行气止痛：通畅血行，通行，气机，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、疏理气机、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、疏理气机、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_163",
@@ -11807,8 +11937,8 @@
   {
     "id": "effect_396",
     "name": "行气解郁",
-    "description": "行气解郁：通行，气机，解除郁滞。",
-    "mechanism": "",
+    "description": "具有疏理气机、解除郁结的治疗作用。",
+    "mechanism": "疏理气机、解除郁结",
     "indications": [],
     "related_medicines": [
       "medicine_164",
@@ -11821,8 +11951,8 @@
   {
     "id": "effect_397",
     "name": "清心凉血",
-    "description": "清心凉血：清心凉血，清血分热、凉血止血。",
-    "mechanism": "",
+    "description": "具有清心凉血、清解血分热邪的治疗作用。",
+    "mechanism": "清心凉血、清解血分热邪",
     "indications": [],
     "related_medicines": [
       "medicine_164"
@@ -11834,8 +11964,8 @@
   {
     "id": "effect_398",
     "name": "破血行气",
-    "description": "破血行气：破血逐瘀，通行，气机。",
-    "mechanism": "",
+    "description": "具有破散、血分、疏理气机的治疗作用。",
+    "mechanism": "破散、血分、疏理气机",
     "indications": [],
     "related_medicines": [
       "medicine_165",
@@ -11848,8 +11978,8 @@
   {
     "id": "effect_399",
     "name": "行血补血",
-    "description": "行血补血：通行血分，滋养血液。",
-    "mechanism": "",
+    "description": "具有通行血脉、补益血液的治疗作用。",
+    "mechanism": "通行血脉、补益血液",
     "indications": [],
     "related_medicines": [
       "medicine_170"
@@ -11861,8 +11991,8 @@
   {
     "id": "effect_400",
     "name": "调经",
-    "description": "调经：调理冲任月经。",
-    "mechanism": "",
+    "description": "具有调理冲任的治疗作用。",
+    "mechanism": "调理冲任",
     "indications": [],
     "related_medicines": [
       "medicine_170"
@@ -11874,8 +12004,8 @@
   {
     "id": "effect_401",
     "name": "下乳消肿",
-    "description": "下乳消肿：通下乳汁，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有通下乳汁、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "通下乳汁、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_171"
@@ -11887,8 +12017,8 @@
   {
     "id": "effect_402",
     "name": "疏肝理气",
-    "description": "疏肝理气：疏泄肝气，疏理气机。",
-    "mechanism": "",
+    "description": "具有疏泄肝气、疏理气机的治疗作用。",
+    "mechanism": "疏泄肝气、疏理气机",
     "indications": [],
     "related_medicines": [
       "medicine_172",
@@ -11903,8 +12033,8 @@
   {
     "id": "effect_403",
     "name": "破瘀通经",
-    "description": "破瘀通经：破瘀通经，通利经脉。",
-    "mechanism": "",
+    "description": "具有破散、瘀滞、通利经脉的治疗作用。",
+    "mechanism": "破散、瘀滞、通利经脉",
     "indications": [],
     "related_medicines": [
       "medicine_173"
@@ -11916,8 +12046,8 @@
   {
     "id": "effect_404",
     "name": "凉血祛风",
-    "description": "凉血祛风：清血分热、凉血止血，祛除风邪。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、祛除风邪的治疗作用。",
+    "mechanism": "清解血分热邪、祛除风邪",
     "indications": [],
     "related_medicines": [
       "medicine_173"
@@ -11929,8 +12059,8 @@
   {
     "id": "effect_405",
     "name": "接骨疗伤",
-    "description": "接骨疗伤：接骨续筋，治疗金疮伤损。",
-    "mechanism": "",
+    "description": "具有接续筋骨、疗治损伤的治疗作用。",
+    "mechanism": "接续筋骨、疗治损伤",
     "indications": [],
     "related_medicines": [
       "medicine_174"
@@ -11942,8 +12072,8 @@
   {
     "id": "effect_406",
     "name": "活血疗伤",
-    "description": "活血疗伤：通畅血行，治疗金疮伤损。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、疗治损伤的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、疗治损伤",
     "indications": [],
     "related_medicines": [
       "medicine_175",
@@ -11956,8 +12086,8 @@
   {
     "id": "effect_407",
     "name": "祛瘀通经",
-    "description": "祛瘀通经：祛除瘀血，通利经脉。",
-    "mechanism": "",
+    "description": "具有祛除瘀滞、通利经脉的治疗作用。",
+    "mechanism": "祛除瘀滞、通利经脉",
     "indications": [],
     "related_medicines": [
       "medicine_175"
@@ -11969,8 +12099,8 @@
   {
     "id": "effect_408",
     "name": "活血续伤",
-    "description": "活血续伤：通畅血行，接续跌打损伤。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、接续伤损的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、接续伤损",
     "indications": [],
     "related_medicines": [
       "medicine_176"
@@ -11982,8 +12112,8 @@
   {
     "id": "effect_409",
     "name": "补肾强骨",
-    "description": "补肾强骨：补益肾精，强健筋骨。",
-    "mechanism": "",
+    "description": "具有补益肾精、强健、骨骼的治疗作用。",
+    "mechanism": "补益肾精、强健、骨骼",
     "indications": [],
     "related_medicines": [
       "medicine_176"
@@ -11995,8 +12125,8 @@
   {
     "id": "effect_410",
     "name": "敛疮生肌",
-    "description": "敛疮生肌：敛疮生肌，生肌长肉。",
-    "mechanism": "",
+    "description": "具有收敛疮口、生肌长肉的治疗作用。",
+    "mechanism": "收敛疮口、生肌长肉",
     "indications": [],
     "related_medicines": [
       "medicine_177",
@@ -12010,8 +12140,8 @@
   {
     "id": "effect_411",
     "name": "止血生肌",
-    "description": "止血生肌：收敛或凉血以止血，生肌长肉。",
-    "mechanism": "",
+    "description": "具有制止出血、生肌长肉的治疗作用。",
+    "mechanism": "制止出血、生肌长肉",
     "indications": [],
     "related_medicines": [
       "medicine_178"
@@ -12023,8 +12153,8 @@
   {
     "id": "effect_412",
     "name": "收湿敛疮",
-    "description": "收湿敛疮：收湿敛疮，敛疮生肌。",
-    "mechanism": "",
+    "description": "具有收束湿浊、收敛疮口的治疗作用。",
+    "mechanism": "收束湿浊、收敛疮口",
     "indications": [],
     "related_medicines": [
       "medicine_178",
@@ -12037,8 +12167,8 @@
   {
     "id": "effect_413",
     "name": "疗伤止血",
-    "description": "疗伤止血：治疗金疮伤损，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有疗治损伤、制止出血的治疗作用。",
+    "mechanism": "疗治损伤、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_179"
@@ -12050,8 +12180,8 @@
   {
     "id": "effect_414",
     "name": "逐瘀消癥",
-    "description": "逐瘀消癥：逐瘀消癥，消散癥瘕。",
-    "mechanism": "",
+    "description": "具有逐除瘀血、消散癥瘕的治疗作用。",
+    "mechanism": "逐除瘀血、消散癥瘕",
     "indications": [],
     "related_medicines": [
       "medicine_180"
@@ -12063,8 +12193,8 @@
   {
     "id": "effect_415",
     "name": "破血逐瘀",
-    "description": "破血逐瘀：破血逐瘀，逐瘀消癥。",
-    "mechanism": "",
+    "description": "具有破散、血分、逐除瘀血的治疗作用。",
+    "mechanism": "破散、血分、逐除瘀血",
     "indications": [],
     "related_medicines": [
       "medicine_181",
@@ -12077,8 +12207,8 @@
   {
     "id": "effect_416",
     "name": "散积消癥",
-    "description": "散积消癥：散积消癥，消散癥瘕。",
-    "mechanism": "",
+    "description": "具有消散、积滞、消散癥瘕的治疗作用。",
+    "mechanism": "消散、积滞、消散癥瘕",
     "indications": [],
     "related_medicines": [
       "medicine_181"
@@ -12090,8 +12220,8 @@
   {
     "id": "effect_417",
     "name": "散结消癥",
-    "description": "散结消癥：消散结聚，消散癥瘕。",
-    "mechanism": "",
+    "description": "具有消散结聚、消散癥瘕的治疗作用。",
+    "mechanism": "消散结聚、消散癥瘕",
     "indications": [],
     "related_medicines": [
       "medicine_182"
@@ -12103,8 +12233,8 @@
   {
     "id": "effect_418",
     "name": "攻毒蚀疮",
-    "description": "攻毒蚀疮：攻毒消肿，腐蚀疮腐。",
-    "mechanism": "",
+    "description": "具有攻逐毒邪、腐蚀疮腐的治疗作用。",
+    "mechanism": "攻逐毒邪、腐蚀疮腐",
     "indications": [],
     "related_medicines": [
       "medicine_182"
@@ -12116,8 +12246,8 @@
   {
     "id": "effect_419",
     "name": "祛风解痉",
-    "description": "祛风解痉：祛除风邪，解散，痉。",
-    "mechanism": "",
+    "description": "具有祛除风邪、解除痉挛的治疗作用。",
+    "mechanism": "祛除风邪、解除痉挛",
     "indications": [],
     "related_medicines": [
       "medicine_183",
@@ -12130,8 +12260,8 @@
   {
     "id": "effect_420",
     "name": "祛风痰",
-    "description": "祛风痰：祛除风邪，痰浊。",
-    "mechanism": "",
+    "description": "具有祛除风邪、痰浊的治疗作用。",
+    "mechanism": "祛除风邪、痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_184",
@@ -12144,8 +12274,8 @@
   {
     "id": "effect_421",
     "name": "定惊搐",
-    "description": "定惊搐：定，惊，搐。",
-    "mechanism": "",
+    "description": "具有安定惊搐、抽搐的治疗作用。",
+    "mechanism": "安定惊搐、抽搐",
     "indications": [],
     "related_medicines": [
       "medicine_184",
@@ -12158,8 +12288,8 @@
   {
     "id": "effect_422",
     "name": "解毒散结",
-    "description": "解毒散结：解毒，消散结聚。",
-    "mechanism": "",
+    "description": "具有解除毒邪、消散结聚的治疗作用。",
+    "mechanism": "解除毒邪、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_184",
@@ -12173,8 +12303,8 @@
   {
     "id": "effect_423",
     "name": "温肺化痰",
-    "description": "温肺化痰：温肺散寒，化解痰浊。",
-    "mechanism": "",
+    "description": "具有温肺散寒、化解痰浊的治疗作用。",
+    "mechanism": "温肺散寒、化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_185"
@@ -12186,8 +12316,8 @@
   {
     "id": "effect_424",
     "name": "利气散结",
-    "description": "利气散结：通利，气机，消散结聚。",
-    "mechanism": "",
+    "description": "具有通利、气机、消散结聚的治疗作用。",
+    "mechanism": "通利、气机、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_185"
@@ -12199,8 +12329,8 @@
   {
     "id": "effect_425",
     "name": "祛顽痰",
-    "description": "祛顽痰：祛，顽，痰浊。",
-    "mechanism": "",
+    "description": "具有祛除、顽痰（久积之痰）的治疗作用。",
+    "mechanism": "祛除、顽痰（久积之痰）",
     "indications": [],
     "related_medicines": [
       "medicine_186"
@@ -12212,8 +12342,8 @@
   {
     "id": "effect_426",
     "name": "通窍开闭",
-    "description": "通窍开闭：通，清窍，开通，闭阻。",
-    "mechanism": "",
+    "description": "具有通利孔窍、开通、闭阻的治疗作用。",
+    "mechanism": "通利孔窍、开通、闭阻",
     "indications": [],
     "related_medicines": [
       "medicine_186"
@@ -12225,8 +12355,8 @@
   {
     "id": "effect_427",
     "name": "除烦止呕",
-    "description": "除烦止呕：清除烦热，和胃降逆止呕。",
-    "mechanism": "",
+    "description": "具有清除烦热、制止呕逆的治疗作用。",
+    "mechanism": "清除烦热、制止呕逆",
     "indications": [],
     "related_medicines": [
       "medicine_189",
@@ -12240,8 +12370,8 @@
   {
     "id": "effect_428",
     "name": "清热豁痰",
-    "description": "清热豁痰：清解里热，豁，痰浊。",
-    "mechanism": "",
+    "description": "具有清解热邪、豁开、痰浊的治疗作用。",
+    "mechanism": "清解热邪、豁开、痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_190"
@@ -12253,8 +12383,8 @@
   {
     "id": "effect_429",
     "name": "定惊利窍",
-    "description": "定惊利窍：定，惊，通利清窍。",
-    "mechanism": "",
+    "description": "具有安定惊搐、通利清窍的治疗作用。",
+    "mechanism": "安定惊搐、通利清窍",
     "indications": [],
     "related_medicines": [
       "medicine_190"
@@ -12266,8 +12396,8 @@
   {
     "id": "effect_430",
     "name": "清心定惊",
-    "description": "清心定惊：清心凉血，定，惊。",
-    "mechanism": "",
+    "description": "具有清心凉血、安定惊搐的治疗作用。",
+    "mechanism": "清心凉血、安定惊搐",
     "indications": [],
     "related_medicines": [
       "medicine_191"
@@ -12279,8 +12409,8 @@
   {
     "id": "effect_431",
     "name": "宣肺",
-    "description": "宣肺：宣通肺气。",
-    "mechanism": "",
+    "description": "具有宣发肺气的治疗作用。",
+    "mechanism": "宣发肺气",
     "indications": [],
     "related_medicines": [
       "medicine_193"
@@ -12292,8 +12422,8 @@
   {
     "id": "effect_432",
     "name": "利咽",
-    "description": "利咽：清利咽喉肿痛。",
-    "mechanism": "",
+    "description": "具有清利咽喉的治疗作用。",
+    "mechanism": "清利咽喉",
     "indications": [],
     "related_medicines": [
       "medicine_193",
@@ -12306,8 +12436,8 @@
   {
     "id": "effect_433",
     "name": "祛痰",
-    "description": "祛痰：祛除痰涎。",
-    "mechanism": "",
+    "description": "具有祛除痰浊的治疗作用。",
+    "mechanism": "祛除痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_193",
@@ -12320,8 +12450,8 @@
   {
     "id": "effect_434",
     "name": "利咽解毒",
-    "description": "利咽解毒：清利咽喉肿痛，解毒。",
-    "mechanism": "",
+    "description": "具有清利咽喉、解除毒邪的治疗作用。",
+    "mechanism": "清利咽喉、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_194"
@@ -12333,8 +12463,8 @@
   {
     "id": "effect_435",
     "name": "消痰软坚",
-    "description": "消痰软坚：消痰化饮，软化坚结。",
-    "mechanism": "",
+    "description": "具有消导痰饮、软化坚结的治疗作用。",
+    "mechanism": "消导痰饮、软化坚结",
     "indications": [],
     "related_medicines": [
       "medicine_195",
@@ -12349,8 +12479,8 @@
   {
     "id": "effect_436",
     "name": "化痰散结消瘿",
-    "description": "化痰散结消瘿：化解痰浊，消散结聚，消瘿瘤。",
-    "mechanism": "",
+    "description": "具有化解痰浊、消散结聚、消散瘿瘤的治疗作用。",
+    "mechanism": "化解痰浊、消散结聚、消散瘿瘤",
     "indications": [],
     "related_medicines": [
       "medicine_197"
@@ -12362,8 +12492,8 @@
   {
     "id": "effect_437",
     "name": "清肺化痰",
-    "description": "清肺化痰：清泻肺热，化解痰浊。",
-    "mechanism": "",
+    "description": "具有清泻肺热、化解痰浊的治疗作用。",
+    "mechanism": "清泻肺热、化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_198",
@@ -12376,8 +12506,8 @@
   {
     "id": "effect_438",
     "name": "软坚散结",
-    "description": "软坚散结：软化坚结，消散结聚。",
-    "mechanism": "",
+    "description": "具有软化坚结、消散结聚的治疗作用。",
+    "mechanism": "软化坚结、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_198",
@@ -12394,8 +12524,8 @@
   {
     "id": "effect_439",
     "name": "化瘀散结",
-    "description": "化瘀散结：消散瘀血，消散结聚。",
-    "mechanism": "",
+    "description": "具有化解瘀滞、消散结聚的治疗作用。",
+    "mechanism": "化解瘀滞、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_200"
@@ -12407,8 +12537,8 @@
   {
     "id": "effect_440",
     "name": "润肺化痰止咳",
-    "description": "润肺化痰止咳：滋润肺燥，化解痰浊，制止咳嗽。",
-    "mechanism": "",
+    "description": "具有滋润肺燥、化解痰浊、制止咳嗽的治疗作用。",
+    "mechanism": "滋润肺燥、化解痰浊、制止咳嗽",
     "indications": [],
     "related_medicines": [
       "medicine_202"
@@ -12420,8 +12550,8 @@
   {
     "id": "effect_441",
     "name": "润肺下气",
-    "description": "润肺下气：滋润肺燥，降泄逆气。",
-    "mechanism": "",
+    "description": "具有滋润肺燥、降泄逆气的治疗作用。",
+    "mechanism": "滋润肺燥、降泄逆气",
     "indications": [],
     "related_medicines": [
       "medicine_203"
@@ -12433,8 +12563,8 @@
   {
     "id": "effect_442",
     "name": "止咳化痰",
-    "description": "止咳化痰：制止咳嗽，化解痰浊。",
-    "mechanism": "",
+    "description": "具有制止咳嗽、化解痰浊的治疗作用。",
+    "mechanism": "制止咳嗽、化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_203"
@@ -12446,8 +12576,8 @@
   {
     "id": "effect_443",
     "name": "清肺降气",
-    "description": "清肺降气：清泻肺热，降气平逆。",
-    "mechanism": "",
+    "description": "具有清泻肺热、降泄、气机的治疗作用。",
+    "mechanism": "清泻肺热、降泄、气机",
     "indications": [],
     "related_medicines": [
       "medicine_204"
@@ -12459,8 +12589,8 @@
   {
     "id": "effect_444",
     "name": "泻肺平喘",
-    "description": "泻肺平喘：泻，肺，平定喘息。",
-    "mechanism": "",
+    "description": "具有清泻肺气、平定喘息的治疗作用。",
+    "mechanism": "清泻肺气、平定喘息",
     "indications": [],
     "related_medicines": [
       "medicine_206",
@@ -12473,8 +12603,8 @@
   {
     "id": "effect_445",
     "name": "敛肺定喘",
-    "description": "敛肺定喘：收敛耗散肺气，定，喘息。",
-    "mechanism": "",
+    "description": "具有收敛肺气、平定喘息的治疗作用。",
+    "mechanism": "收敛肺气、平定喘息",
     "indications": [],
     "related_medicines": [
       "medicine_208"
@@ -12486,8 +12616,8 @@
   {
     "id": "effect_446",
     "name": "止带缩尿",
-    "description": "止带缩尿：制止，带下，缩尿止遗。",
-    "mechanism": "",
+    "description": "具有制止带下、缩约小便的治疗作用。",
+    "mechanism": "制止带下、缩约小便",
     "indications": [],
     "related_medicines": [
       "medicine_208"
@@ -12499,8 +12629,8 @@
   {
     "id": "effect_447",
     "name": "平肝潜阳",
-    "description": "平肝潜阳：平抑肝阳，潜降上亢肝阳。",
-    "mechanism": "",
+    "description": "具有平抑肝阳、潜降、阳气的治疗作用。",
+    "mechanism": "平抑肝阳、潜降、阳气",
     "indications": [],
     "related_medicines": [
       "medicine_209",
@@ -12517,8 +12647,8 @@
   {
     "id": "effect_448",
     "name": "解郁安神",
-    "description": "解郁安神：解除郁滞，安定神志。",
-    "mechanism": "",
+    "description": "具有解除郁结、安定神志的治疗作用。",
+    "mechanism": "解除郁结、安定神志",
     "indications": [],
     "related_medicines": [
       "medicine_212"
@@ -12530,8 +12660,8 @@
   {
     "id": "effect_449",
     "name": "活血消肿",
-    "description": "活血消肿：通畅血行，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_212",
@@ -12546,8 +12676,8 @@
   {
     "id": "effect_450",
     "name": "补气安神",
-    "description": "补气安神：补益中气，安定神志。",
-    "mechanism": "",
+    "description": "具有补益、气机、安定神志的治疗作用。",
+    "mechanism": "补益、气机、安定神志",
     "indications": [],
     "related_medicines": [
       "medicine_213"
@@ -12559,8 +12689,8 @@
   {
     "id": "effect_451",
     "name": "清肝明目",
-    "description": "清肝明目：清泻肝火，明目退翳。",
-    "mechanism": "",
+    "description": "具有清泻肝火、明目、改善视力的治疗作用。",
+    "mechanism": "清泻肝火、明目、改善视力",
     "indications": [],
     "related_medicines": [
       "medicine_215",
@@ -12574,8 +12704,8 @@
   {
     "id": "effect_452",
     "name": "安神定惊",
-    "description": "安神定惊：安定神志，定，惊。",
-    "mechanism": "",
+    "description": "具有安定神志、安定惊搐的治疗作用。",
+    "mechanism": "安定神志、安定惊搐",
     "indications": [],
     "related_medicines": [
       "medicine_216",
@@ -12588,8 +12718,8 @@
   {
     "id": "effect_453",
     "name": "平肝解郁",
-    "description": "平肝解郁：平抑肝阳，解除郁滞。",
-    "mechanism": "",
+    "description": "具有平抑肝阳、解除郁结的治疗作用。",
+    "mechanism": "平抑肝阳、解除郁结",
     "indications": [],
     "related_medicines": [
       "medicine_217",
@@ -12602,8 +12732,8 @@
   {
     "id": "effect_454",
     "name": "活血祛风",
-    "description": "活血祛风：通畅血行，祛除风邪。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、祛除风邪的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、祛除风邪",
     "indications": [],
     "related_medicines": [
       "medicine_217",
@@ -12616,8 +12746,8 @@
   {
     "id": "effect_455",
     "name": "化痰散结",
-    "description": "化痰散结：化解痰浊，消散结聚。",
-    "mechanism": "",
+    "description": "具有化解痰浊、消散结聚的治疗作用。",
+    "mechanism": "化解痰浊、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_219",
@@ -12630,8 +12760,8 @@
   {
     "id": "effect_456",
     "name": "息风镇痉",
-    "description": "息风镇痉：平息肝风，镇，痉。",
-    "mechanism": "",
+    "description": "具有平息肝风、镇惊、痉挛的治疗作用。",
+    "mechanism": "平息肝风、镇惊、痉挛",
     "indications": [],
     "related_medicines": [
       "medicine_220",
@@ -12644,8 +12774,8 @@
   {
     "id": "effect_457",
     "name": "攻毒散结",
-    "description": "攻毒散结：攻毒消肿，消散结聚。",
-    "mechanism": "",
+    "description": "具有攻逐毒邪、消散结聚的治疗作用。",
+    "mechanism": "攻逐毒邪、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_220",
@@ -12658,8 +12788,8 @@
   {
     "id": "effect_458",
     "name": "清热定惊",
-    "description": "清热定惊：清解里热，定，惊。",
-    "mechanism": "",
+    "description": "具有清解热邪、安定惊搐的治疗作用。",
+    "mechanism": "清解热邪、安定惊搐",
     "indications": [],
     "related_medicines": [
       "medicine_222"
@@ -12671,8 +12801,8 @@
   {
     "id": "effect_459",
     "name": "平喘",
-    "description": "平喘：平定喘息。",
-    "mechanism": "",
+    "description": "具有平定喘息的治疗作用。",
+    "mechanism": "平定喘息",
     "indications": [],
     "related_medicines": [
       "medicine_222"
@@ -12684,8 +12814,8 @@
   {
     "id": "effect_460",
     "name": "清热止痛",
-    "description": "清热止痛：清解里热，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有清解热邪、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "清解热邪、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_223"
@@ -12697,8 +12827,8 @@
   {
     "id": "effect_461",
     "name": "辟秽止痛",
-    "description": "辟秽止痛：辟除秽浊邪气，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有辟除秽浊、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "辟除秽浊、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_224"
@@ -12710,8 +12840,8 @@
   {
     "id": "effect_462",
     "name": "解毒止痛",
-    "description": "解毒止痛：解毒，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有解除毒邪、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "解除毒邪、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_225"
@@ -12723,8 +12853,8 @@
   {
     "id": "effect_463",
     "name": "敛肺涩肠",
-    "description": "敛肺涩肠：收敛耗散肺气，涩肠止泻。",
-    "mechanism": "",
+    "description": "具有收敛肺气、收涩大肠的治疗作用。",
+    "mechanism": "收敛肺气、收涩大肠",
     "indications": [],
     "related_medicines": [
       "medicine_226",
@@ -12737,8 +12867,8 @@
   {
     "id": "effect_464",
     "name": "生津安蛔",
-    "description": "生津安蛔：滋生津液，安，蛔虫。",
-    "mechanism": "",
+    "description": "具有滋生津液、安定、蛔虫的治疗作用。",
+    "mechanism": "滋生津液、安定、蛔虫",
     "indications": [],
     "related_medicines": [
       "medicine_226"
@@ -12750,8 +12880,8 @@
   {
     "id": "effect_465",
     "name": "涩肠止泻",
-    "description": "涩肠止泻：涩肠止泻，涩肠止利。",
-    "mechanism": "",
+    "description": "具有收涩大肠、制止泄泻的治疗作用。",
+    "mechanism": "收涩大肠、制止泄泻",
     "indications": [],
     "related_medicines": [
       "medicine_227",
@@ -12770,8 +12900,8 @@
   {
     "id": "effect_466",
     "name": "敛肺止咳",
-    "description": "敛肺止咳：收敛耗散肺气，制止咳嗽。",
-    "mechanism": "",
+    "description": "具有收敛肺气、制止咳嗽的治疗作用。",
+    "mechanism": "收敛肺气、制止咳嗽",
     "indications": [],
     "related_medicines": [
       "medicine_227"
@@ -12783,8 +12913,8 @@
   {
     "id": "effect_467",
     "name": "温中行气",
-    "description": "温中行气：温运中焦脾胃，通行，气机。",
-    "mechanism": "",
+    "description": "具有温运中焦、疏理气机的治疗作用。",
+    "mechanism": "温运中焦、疏理气机",
     "indications": [],
     "related_medicines": [
       "medicine_228"
@@ -12796,8 +12926,8 @@
   {
     "id": "effect_468",
     "name": "补脾止泻",
-    "description": "补脾止泻：补益脾气，涩肠止利。",
-    "mechanism": "",
+    "description": "具有补益脾气、制止泄泻的治疗作用。",
+    "mechanism": "补益脾气、制止泄泻",
     "indications": [],
     "related_medicines": [
       "medicine_230"
@@ -12809,8 +12939,8 @@
   {
     "id": "effect_469",
     "name": "益肾固精",
-    "description": "益肾固精：补益肾气，固涩肾精。",
-    "mechanism": "",
+    "description": "具有补益肾系、固摄精气的治疗作用。",
+    "mechanism": "补益肾系、固摄精气",
     "indications": [],
     "related_medicines": [
       "medicine_230",
@@ -12823,8 +12953,8 @@
   {
     "id": "effect_470",
     "name": "除湿止带",
-    "description": "除湿止带：祛除体内湿邪，制止，带下。",
-    "mechanism": "",
+    "description": "具有祛除湿邪、制止带下的治疗作用。",
+    "mechanism": "祛除湿邪、制止带下",
     "indications": [],
     "related_medicines": [
       "medicine_231"
@@ -12836,8 +12966,8 @@
   {
     "id": "effect_471",
     "name": "固精止带",
-    "description": "固精止带：固涩肾精，制止，带下。",
-    "mechanism": "",
+    "description": "具有固摄精气、制止带下的治疗作用。",
+    "mechanism": "固摄精气、制止带下",
     "indications": [],
     "related_medicines": [
       "medicine_232"
@@ -12849,8 +12979,8 @@
   {
     "id": "effect_472",
     "name": "制酸止痛",
-    "description": "制酸止痛：制，酸，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有抑制胃酸、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "抑制胃酸、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_232"
@@ -12862,8 +12992,8 @@
   {
     "id": "effect_473",
     "name": "固精缩尿",
-    "description": "固精缩尿：固涩肾精，缩尿止遗。",
-    "mechanism": "",
+    "description": "具有固摄精气、缩约小便的治疗作用。",
+    "mechanism": "固摄精气、缩约小便",
     "indications": [],
     "related_medicines": [
       "medicine_233",
@@ -12878,8 +13008,8 @@
   {
     "id": "effect_474",
     "name": "益肾固精缩尿",
-    "description": "益肾固精缩尿：补益肾气，固涩肾精，缩尿止遗。",
-    "mechanism": "",
+    "description": "具有补益肾系、固摄精气、缩约小便的治疗作用。",
+    "mechanism": "补益肾系、固摄精气、缩约小便",
     "indications": [],
     "related_medicines": [
       "medicine_235"
@@ -12891,8 +13021,8 @@
   {
     "id": "effect_475",
     "name": "养肝明目",
-    "description": "养肝明目：养肝血，明目退翳。",
-    "mechanism": "",
+    "description": "具有滋养肝血、明目、改善视力的治疗作用。",
+    "mechanism": "滋养肝血、明目、改善视力",
     "indications": [],
     "related_medicines": [
       "medicine_235",
@@ -12906,8 +13036,8 @@
   {
     "id": "effect_476",
     "name": "理气和胃",
-    "description": "理气和胃：疏理气机，调和胃气。",
-    "mechanism": "",
+    "description": "具有疏理气机、调和胃气的治疗作用。",
+    "mechanism": "疏理气机、调和胃气",
     "indications": [],
     "related_medicines": [
       "medicine_236"
@@ -12919,8 +13049,8 @@
   {
     "id": "effect_477",
     "name": "下气止痛",
-    "description": "下气止痛：降泄逆气，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有降泄逆气、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "降泄逆气、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_237"
@@ -12932,8 +13062,8 @@
   {
     "id": "effect_478",
     "name": "补气养阴",
-    "description": "补气养阴：补益中气，滋养，阴液。",
-    "mechanism": "",
+    "description": "具有补益、气机、滋养阴液的治疗作用。",
+    "mechanism": "补益、气机、滋养阴液",
     "indications": [],
     "related_medicines": [
       "medicine_239",
@@ -12946,8 +13076,8 @@
   {
     "id": "effect_479",
     "name": "生津润肺",
-    "description": "生津润肺：滋生津液，滋润肺燥。",
-    "mechanism": "",
+    "description": "具有滋生津液、滋润肺燥的治疗作用。",
+    "mechanism": "滋生津液、滋润肺燥",
     "indications": [],
     "related_medicines": [
       "medicine_240"
@@ -12959,8 +13089,8 @@
   {
     "id": "effect_480",
     "name": "健脾化湿",
-    "description": "健脾化湿：健运脾胃，芳香化湿、运脾化湿。",
-    "mechanism": "",
+    "description": "具有健运脾胃、芳化湿浊的治疗作用。",
+    "mechanism": "健运脾胃、芳化湿浊",
     "indications": [],
     "related_medicines": [
       "medicine_241"
@@ -12972,8 +13102,8 @@
   {
     "id": "effect_481",
     "name": "和中消暑",
-    "description": "和中消暑：调和脾胃，消导，暑。",
-    "mechanism": "",
+    "description": "具有调和脾胃、清解暑邪的治疗作用。",
+    "mechanism": "调和脾胃、清解暑邪",
     "indications": [],
     "related_medicines": [
       "medicine_241"
@@ -12985,8 +13115,8 @@
   {
     "id": "effect_482",
     "name": "缓急止痛",
-    "description": "缓急止痛：缓急止痛，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有缓和拘急、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "缓和拘急、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_242",
@@ -12999,8 +13129,8 @@
   {
     "id": "effect_483",
     "name": "补中润燥",
-    "description": "补中润燥：补益，中，润燥。",
-    "mechanism": "",
+    "description": "具有补益、中焦、润燥的治疗作用。",
+    "mechanism": "补益、中焦、润燥",
     "indications": [],
     "related_medicines": [
       "medicine_243"
@@ -13012,8 +13142,8 @@
   {
     "id": "effect_484",
     "name": "止痛解毒",
-    "description": "止痛解毒：缓急缓解疼痛，解毒。",
-    "mechanism": "",
+    "description": "具有缓急止痛、制止疼痛、解除毒邪的治疗作用。",
+    "mechanism": "缓急止痛、制止疼痛、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_243"
@@ -13025,8 +13155,8 @@
   {
     "id": "effect_485",
     "name": "补血止血",
-    "description": "补血止血：滋养血液，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有补益血液、制止出血的治疗作用。",
+    "mechanism": "补益血液、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_244"
@@ -13038,8 +13168,8 @@
   {
     "id": "effect_486",
     "name": "乌须发",
-    "description": "乌须发：乌黑须发，发散。",
-    "mechanism": "",
+    "description": "具有乌黑须发、发散的治疗作用。",
+    "mechanism": "乌黑须发、发散",
     "indications": [],
     "related_medicines": [
       "medicine_245"
@@ -13051,8 +13181,8 @@
   {
     "id": "effect_487",
     "name": "补益心脾",
-    "description": "补益心脾：补益，补益，心，脾。",
-    "mechanism": "",
+    "description": "具有补益虚弱、心脾（心脾两脏）的治疗作用。",
+    "mechanism": "补益虚弱、心脾（心脾两脏）",
     "indications": [],
     "related_medicines": [
       "medicine_246"
@@ -13064,8 +13194,8 @@
   {
     "id": "effect_488",
     "name": "养阴润燥",
-    "description": "养阴润燥：滋养，阴液，润燥。",
-    "mechanism": "",
+    "description": "具有滋养阴液、润燥的治疗作用。",
+    "mechanism": "滋养阴液、润燥",
     "indications": [],
     "related_medicines": [
       "medicine_248",
@@ -13078,8 +13208,8 @@
   {
     "id": "effect_489",
     "name": "健脾润肺益肾",
-    "description": "健脾润肺益肾：健运脾胃，滋润肺燥，补益肾气。",
-    "mechanism": "",
+    "description": "具有健运脾胃、滋润肺燥、补益肾系的治疗作用。",
+    "mechanism": "健运脾胃、滋润肺燥、补益肾系",
     "indications": [],
     "related_medicines": [
       "medicine_250"
@@ -13091,8 +13221,8 @@
   {
     "id": "effect_490",
     "name": "乌须明目",
-    "description": "乌须明目：乌黑须发，明目退翳。",
-    "mechanism": "",
+    "description": "具有乌黑须发、明目、改善视力的治疗作用。",
+    "mechanism": "乌黑须发、明目、改善视力",
     "indications": [],
     "related_medicines": [
       "medicine_251"
@@ -13104,8 +13234,8 @@
   {
     "id": "effect_491",
     "name": "益肾强骨",
-    "description": "益肾强骨：补益肾气，强健筋骨。",
-    "mechanism": "",
+    "description": "具有补益肾系、强健、骨骼的治疗作用。",
+    "mechanism": "补益肾系、强健、骨骼",
     "indications": [],
     "related_medicines": [
       "medicine_253"
@@ -13117,8 +13247,8 @@
   {
     "id": "effect_492",
     "name": "养血补心",
-    "description": "养血补心：补养阴血，补益，心。",
-    "mechanism": "",
+    "description": "具有滋养血液、补益、心的治疗作用。",
+    "mechanism": "滋养血液、补益、心",
     "indications": [],
     "related_medicines": [
       "medicine_253",
@@ -13131,8 +13261,8 @@
   {
     "id": "effect_493",
     "name": "清肺生津",
-    "description": "清肺生津：清泻肺热，滋生津液。",
-    "mechanism": "",
+    "description": "具有清泻肺热、滋生津液的治疗作用。",
+    "mechanism": "清泻肺热、滋生津液",
     "indications": [],
     "related_medicines": [
       "medicine_254"
@@ -13144,8 +13274,8 @@
   {
     "id": "effect_494",
     "name": "化痰益气",
-    "description": "化痰益气：化解痰浊，补益元气。",
-    "mechanism": "",
+    "description": "具有化解痰浊、补益元气的治疗作用。",
+    "mechanism": "化解痰浊、补益元气",
     "indications": [],
     "related_medicines": [
       "medicine_255"
@@ -13157,8 +13287,8 @@
   {
     "id": "effect_495",
     "name": "续折伤",
-    "description": "续折伤：接续，折伤，伤。",
-    "mechanism": "",
+    "description": "具有接续、骨折筋伤的治疗作用。",
+    "mechanism": "接续、骨折筋伤",
     "indications": [],
     "related_medicines": [
       "medicine_257"
@@ -13170,8 +13300,8 @@
   {
     "id": "effect_496",
     "name": "暖肾固精缩尿",
-    "description": "暖肾固精缩尿：暖，肾，固涩肾精，缩尿止遗。",
-    "mechanism": "",
+    "description": "具有温暖肾阳、固摄精气、缩约小便的治疗作用。",
+    "mechanism": "温暖肾阳、固摄精气、缩约小便",
     "indications": [],
     "related_medicines": [
       "medicine_259"
@@ -13183,8 +13313,8 @@
   {
     "id": "effect_497",
     "name": "温脾止泻摄唾",
-    "description": "温脾止泻摄唾：温煦，脾，涩肠止利，摄纳，唾。",
-    "mechanism": "",
+    "description": "具有温补脾阳、制止泄泻、摄纳涎唾的治疗作用。",
+    "mechanism": "温补脾阳、制止泄泻、摄纳涎唾",
     "indications": [],
     "related_medicines": [
       "medicine_259"
@@ -13196,8 +13326,8 @@
   {
     "id": "effect_498",
     "name": "补肾益精",
-    "description": "补肾益精：补益肾精，补益肾精。",
-    "mechanism": "",
+    "description": "具有补益肾精、补益精气的治疗作用。",
+    "mechanism": "补益肾精、补益精气",
     "indications": [],
     "related_medicines": [
       "medicine_260",
@@ -13212,8 +13342,8 @@
   {
     "id": "effect_499",
     "name": "补肾固精",
-    "description": "补肾固精：补益肾精，固涩肾精。",
-    "mechanism": "",
+    "description": "具有补益肾精、固摄精气的治疗作用。",
+    "mechanism": "补益肾精、固摄精气",
     "indications": [],
     "related_medicines": [
       "medicine_261"
@@ -13225,8 +13355,8 @@
   {
     "id": "effect_500",
     "name": "补肾益肺",
-    "description": "补肾益肺：补益肾精，补益肺气。",
-    "mechanism": "",
+    "description": "具有补益肾精、补益、肺的治疗作用。",
+    "mechanism": "补益肾精、补益、肺",
     "indications": [],
     "related_medicines": [
       "medicine_262"
@@ -13238,8 +13368,8 @@
   {
     "id": "effect_501",
     "name": "止血化痰",
-    "description": "止血化痰：收敛或凉血以止血，化解痰浊。",
-    "mechanism": "",
+    "description": "具有制止出血、化解痰浊的治疗作用。",
+    "mechanism": "制止出血、化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_262"
@@ -13251,8 +13381,8 @@
   {
     "id": "effect_502",
     "name": "补肺益肾",
-    "description": "补肺益肾：补益，肺，补益肾气。",
-    "mechanism": "",
+    "description": "具有补益肺气、补益肾系的治疗作用。",
+    "mechanism": "补益肺气、补益肾系",
     "indications": [],
     "related_medicines": [
       "medicine_263",
@@ -13265,8 +13395,8 @@
   {
     "id": "effect_503",
     "name": "纳气定喘",
-    "description": "纳气定喘：纳，气机，定，喘息。",
-    "mechanism": "",
+    "description": "具有纳气归肾、平定喘息的治疗作用。",
+    "mechanism": "纳气归肾、平定喘息",
     "indications": [],
     "related_medicines": [
       "medicine_263"
@@ -13278,8 +13408,8 @@
   {
     "id": "effect_504",
     "name": "助阳益精",
-    "description": "助阳益精：温助阳气，补益肾精。",
-    "mechanism": "",
+    "description": "具有助长阳气、补益精气的治疗作用。",
+    "mechanism": "助长阳气、补益精气",
     "indications": [],
     "related_medicines": [
       "medicine_263"
@@ -13291,8 +13421,8 @@
   {
     "id": "effect_505",
     "name": "润燥软坚",
-    "description": "润燥软坚：润燥，软化坚结。",
-    "mechanism": "",
+    "description": "具有润燥、软化坚结的治疗作用。",
+    "mechanism": "润燥、软化坚结",
     "indications": [],
     "related_medicines": [
       "medicine_267"
@@ -13304,8 +13434,8 @@
   {
     "id": "effect_506",
     "name": "清热消肿",
-    "description": "清热消肿：清解里热，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有清解热邪、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "清解热邪、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_267"
@@ -13317,8 +13447,8 @@
   {
     "id": "effect_507",
     "name": "泻水逐饮",
-    "description": "泻水逐饮：泻水逐饮，逐除痰饮。",
-    "mechanism": "",
+    "description": "具有泻下、水湿、逐除、饮邪的治疗作用。",
+    "mechanism": "泻下、水湿、逐除、饮邪",
     "indications": [],
     "related_medicines": [
       "medicine_268",
@@ -13333,8 +13463,8 @@
   {
     "id": "effect_508",
     "name": "峻下冷积",
-    "description": "峻下冷积：峻，降下，冷，积滞。",
-    "mechanism": "",
+    "description": "具有峻猛、降下、寒邪、积滞的治疗作用。",
+    "mechanism": "峻猛、降下、寒邪、积滞",
     "indications": [],
     "related_medicines": [
       "medicine_271"
@@ -13346,8 +13476,8 @@
   {
     "id": "effect_509",
     "name": "逐水消肿",
-    "description": "逐水消肿：峻逐水饮，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有峻逐水饮、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "峻逐水饮、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_271",
@@ -13360,8 +13490,8 @@
   {
     "id": "effect_510",
     "name": "祛痰利咽",
-    "description": "祛痰利咽：祛除痰涎，清利咽喉肿痛。",
-    "mechanism": "",
+    "description": "具有祛除痰浊、清利咽喉的治疗作用。",
+    "mechanism": "祛除痰浊、清利咽喉",
     "indications": [],
     "related_medicines": [
       "medicine_271"
@@ -13373,8 +13503,8 @@
   {
     "id": "effect_511",
     "name": "泻下逐水",
-    "description": "泻下逐水：泻下通便，峻逐水饮。",
-    "mechanism": "",
+    "description": "具有泻下通便、峻逐水饮的治疗作用。",
+    "mechanism": "泻下通便、峻逐水饮",
     "indications": [],
     "related_medicines": [
       "medicine_272"
@@ -13386,8 +13516,8 @@
   {
     "id": "effect_512",
     "name": "去积杀虫",
-    "description": "去积杀虫：去积杀虫，杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有去除、积滞、杀灭寄生虫的治疗作用。",
+    "mechanism": "去除、积滞、杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_272"
@@ -13399,8 +13529,8 @@
   {
     "id": "effect_513",
     "name": "祛痰凉血",
-    "description": "祛痰凉血：祛除痰涎，清血分热、凉血止血。",
-    "mechanism": "",
+    "description": "具有祛除痰浊、清解血分热邪的治疗作用。",
+    "mechanism": "祛除痰浊、清解血分热邪",
     "indications": [],
     "related_medicines": [
       "medicine_273"
@@ -13412,8 +13542,8 @@
   {
     "id": "effect_514",
     "name": "利湿去浊",
-    "description": "利湿去浊：祛除湿邪、通利小便，去其，浊。",
-    "mechanism": "",
+    "description": "具有祛除湿邪、通利小便、去除、浊邪的治疗作用。",
+    "mechanism": "祛除湿邪、通利小便、去除、浊邪",
     "indications": [],
     "related_medicines": [
       "medicine_275"
@@ -13425,8 +13555,8 @@
   {
     "id": "effect_515",
     "name": "祛风除痹",
-    "description": "祛风除痹：祛除风邪，清除，痹。",
-    "mechanism": "",
+    "description": "具有祛除风邪、清除、痹阻的治疗作用。",
+    "mechanism": "祛除风邪、清除、痹阻",
     "indications": [],
     "related_medicines": [
       "medicine_275"
@@ -13438,8 +13568,8 @@
   {
     "id": "effect_516",
     "name": "止痒",
-    "description": "止痒：制止，痒。",
-    "mechanism": "",
+    "description": "具有制止瘙痒的治疗作用。",
+    "mechanism": "制止瘙痒",
     "indications": [],
     "related_medicines": [
       "medicine_276"
@@ -13451,8 +13581,8 @@
   {
     "id": "effect_517",
     "name": "行滞消胀",
-    "description": "行滞消胀：行滞消胀，消胀除满。",
-    "mechanism": "",
+    "description": "具有通行、滞涩、消散、胀满的治疗作用。",
+    "mechanism": "通行、滞涩、消散、胀满",
     "indications": [],
     "related_medicines": [
       "medicine_277"
@@ -13464,8 +13594,8 @@
   {
     "id": "effect_518",
     "name": "宽中化痰",
-    "description": "宽中化痰：宽，中，化解痰浊。",
-    "mechanism": "",
+    "description": "具有宽胸理气、化解痰浊的治疗作用。",
+    "mechanism": "宽胸理气、化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_278"
@@ -13477,8 +13607,8 @@
   {
     "id": "effect_519",
     "name": "行气宽中",
-    "description": "行气宽中：通行，气机，宽，中。",
-    "mechanism": "",
+    "description": "具有疏理气机、宽胸理气的治疗作用。",
+    "mechanism": "疏理气机、宽胸理气",
     "indications": [],
     "related_medicines": [
       "medicine_279"
@@ -13490,8 +13620,8 @@
   {
     "id": "effect_520",
     "name": "降气止呃",
-    "description": "降气止呃：降气平逆，制止，呃逆。",
-    "mechanism": "",
+    "description": "具有降泄、气机、制止呃逆的治疗作用。",
+    "mechanism": "降泄、气机、制止呃逆",
     "indications": [],
     "related_medicines": [
       "medicine_280",
@@ -13504,8 +13634,8 @@
   {
     "id": "effect_521",
     "name": "疏肝和中",
-    "description": "疏肝和中：疏泄肝气，调和脾胃。",
-    "mechanism": "",
+    "description": "具有疏泄肝气、调和脾胃的治疗作用。",
+    "mechanism": "疏泄肝气、调和脾胃",
     "indications": [],
     "related_medicines": [
       "medicine_281"
@@ -13517,8 +13647,8 @@
   {
     "id": "effect_522",
     "name": "消食除胀",
-    "description": "消食除胀：消食化滞，清除，胀。",
-    "mechanism": "",
+    "description": "具有消导食积、清除、胀满的治疗作用。",
+    "mechanism": "消导食积、清除、胀满",
     "indications": [],
     "related_medicines": [
       "medicine_282"
@@ -13530,8 +13660,8 @@
   {
     "id": "effect_523",
     "name": "杀虫消积",
-    "description": "杀虫消积：杀灭肠寄生虫积，消导食积。",
-    "mechanism": "",
+    "description": "具有杀灭寄生虫、消导积滞的治疗作用。",
+    "mechanism": "杀灭寄生虫、消导积滞",
     "indications": [],
     "related_medicines": [
       "medicine_284",
@@ -13548,8 +13678,8 @@
   {
     "id": "effect_524",
     "name": "杀虫疗癣",
-    "description": "杀虫疗癣：杀灭肠寄生虫积，治疗，癣疥。",
-    "mechanism": "",
+    "description": "具有杀灭寄生虫、疗治、癣疾的治疗作用。",
+    "mechanism": "杀灭寄生虫、疗治、癣疾",
     "indications": [],
     "related_medicines": [
       "medicine_285"
@@ -13561,8 +13691,8 @@
   {
     "id": "effect_525",
     "name": "行气利水",
-    "description": "行气利水：通行，气机，通利水道、渗湿利水。",
-    "mechanism": "",
+    "description": "具有疏理气机、通利水道、渗湿利水的治疗作用。",
+    "mechanism": "疏理气机、通利水道、渗湿利水",
     "indications": [],
     "related_medicines": [
       "medicine_286"
@@ -13574,8 +13704,8 @@
   {
     "id": "effect_526",
     "name": "涌吐痰饮",
-    "description": "涌吐痰饮：涌吐痰涎食积，痰浊，痰饮。",
-    "mechanism": "",
+    "description": "具有涌吐痰食、痰浊、饮邪的治疗作用。",
+    "mechanism": "涌吐痰食、痰浊、饮邪",
     "indications": [],
     "related_medicines": [
       "medicine_291"
@@ -13587,8 +13717,8 @@
   {
     "id": "effect_527",
     "name": "涌吐痰食",
-    "description": "涌吐痰食：涌吐痰涎食积，痰浊，食。",
-    "mechanism": "",
+    "description": "具有涌吐痰食、痰浊、食积的治疗作用。",
+    "mechanism": "涌吐痰食、痰浊、食积",
     "indications": [],
     "related_medicines": [
       "medicine_292"
@@ -13600,8 +13730,8 @@
   {
     "id": "effect_528",
     "name": "祛湿退黄",
-    "description": "祛湿退黄：祛除湿邪，消退身目黄疸。",
-    "mechanism": "",
+    "description": "具有祛除、湿浊、消退黄疸的治疗作用。",
+    "mechanism": "祛除、湿浊、消退黄疸",
     "indications": [],
     "related_medicines": [
       "medicine_292"
@@ -13613,8 +13743,8 @@
   {
     "id": "effect_529",
     "name": "涌吐风痰",
-    "description": "涌吐风痰：涌吐痰涎食积，风邪，痰浊。",
-    "mechanism": "",
+    "description": "具有涌吐痰食、风邪、痰浊的治疗作用。",
+    "mechanism": "涌吐痰食、风邪、痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_293"
@@ -13626,8 +13756,8 @@
   {
     "id": "effect_530",
     "name": "解毒杀虫",
-    "description": "解毒杀虫：解毒，杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有解除毒邪、杀灭寄生虫的治疗作用。",
+    "mechanism": "解除毒邪、杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_294",
@@ -13640,8 +13770,8 @@
   {
     "id": "effect_531",
     "name": "燥湿祛痰",
-    "description": "燥湿祛痰：苦温或苦寒以燥除湿邪，祛除痰涎。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、祛除痰浊的治疗作用。",
+    "mechanism": "燥化湿浊、祛除痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_294"
@@ -13653,8 +13783,8 @@
   {
     "id": "effect_532",
     "name": "外用解毒杀虫",
-    "description": "外用解毒杀虫：外，用，解毒，杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有外用（敷贴、熏洗等）、解除毒邪、杀灭寄生虫的治疗作用。",
+    "mechanism": "外用（敷贴、熏洗等）、解除毒邪、杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_295",
@@ -13667,8 +13797,8 @@
   {
     "id": "effect_533",
     "name": "内服补火助阳",
-    "description": "内服补火助阳：内，服，补益，火热，温助阳气。",
-    "mechanism": "",
+    "description": "具有内服、服用、补益、火热、助长阳气的治疗作用。",
+    "mechanism": "内服、服用、补益、火热、助长阳气",
     "indications": [],
     "related_medicines": [
       "medicine_295"
@@ -13680,8 +13810,8 @@
   {
     "id": "effect_534",
     "name": "内服止血止泻",
-    "description": "内服止血止泻：内，服，收敛或凉血以止血，涩肠止利。",
-    "mechanism": "",
+    "description": "具有内服、服用、制止出血、制止泄泻的治疗作用。",
+    "mechanism": "内服、服用、制止出血、制止泄泻",
     "indications": [],
     "related_medicines": [
       "medicine_296"
@@ -13693,8 +13823,8 @@
   {
     "id": "effect_535",
     "name": "燥湿杀虫",
-    "description": "燥湿杀虫：苦温或苦寒以燥除湿邪，杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、杀灭寄生虫的治疗作用。",
+    "mechanism": "燥化湿浊、杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_297",
@@ -13707,8 +13837,8 @@
   {
     "id": "effect_536",
     "name": "祛风止痒",
-    "description": "祛风止痒：祛除风邪，制止，痒。",
-    "mechanism": "",
+    "description": "具有祛除风邪、制止瘙痒的治疗作用。",
+    "mechanism": "祛除风邪、制止瘙痒",
     "indications": [],
     "related_medicines": [
       "medicine_297"
@@ -13720,8 +13850,8 @@
   {
     "id": "effect_537",
     "name": "温肾壮阳",
-    "description": "温肾壮阳：温煦，肾，壮补，阳气。",
-    "mechanism": "",
+    "description": "具有温补肾阳、温壮肾阳的治疗作用。",
+    "mechanism": "温补肾阳、温壮肾阳",
     "indications": [],
     "related_medicines": [
       "medicine_297",
@@ -13735,8 +13865,8 @@
   {
     "id": "effect_538",
     "name": "攻毒杀虫",
-    "description": "攻毒杀虫：攻毒消肿，杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有攻逐毒邪、杀灭寄生虫的治疗作用。",
+    "mechanism": "攻逐毒邪、杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_298",
@@ -13749,8 +13879,8 @@
   {
     "id": "effect_539",
     "name": "消肿止痢",
-    "description": "消肿止痢：消除水肿、散消肿毒，制止，痢。",
-    "mechanism": "",
+    "description": "具有消除肿毒、消退肿胀、制止痢疾的治疗作用。",
+    "mechanism": "消除肿毒、消退肿胀、制止痢疾",
     "indications": [],
     "related_medicines": [
       "medicine_300"
@@ -13762,8 +13892,8 @@
   {
     "id": "effect_540",
     "name": "拔毒去腐",
-    "description": "拔毒去腐：拔毒外出，去腐生新。",
-    "mechanism": "",
+    "description": "具有拔出毒邪、去除腐肉的治疗作用。",
+    "mechanism": "拔出毒邪、去除腐肉",
     "indications": [],
     "related_medicines": [
       "medicine_301"
@@ -13775,8 +13905,8 @@
   {
     "id": "effect_541",
     "name": "外用杀虫攻毒",
-    "description": "外用杀虫攻毒：外，用，杀灭肠寄生虫积，攻毒消肿。",
-    "mechanism": "",
+    "description": "具有外用（敷贴、熏洗等）、杀灭寄生虫、攻逐毒邪的治疗作用。",
+    "mechanism": "外用（敷贴、熏洗等）、杀灭寄生虫、攻逐毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_302"
@@ -13788,8 +13918,8 @@
   {
     "id": "effect_542",
     "name": "内服逐水通便",
-    "description": "内服逐水通便：内，服，峻逐水饮，通利大便。",
-    "mechanism": "",
+    "description": "具有内服、服用、峻逐水饮、通导大便的治疗作用。",
+    "mechanism": "内服、服用、峻逐水饮、通导大便",
     "indications": [],
     "related_medicines": [
       "medicine_302"
@@ -13801,8 +13931,8 @@
   {
     "id": "effect_543",
     "name": "外用蚀疮去腐",
-    "description": "外用蚀疮去腐：外，用，腐蚀疮腐，去腐生新。",
-    "mechanism": "",
+    "description": "具有外用（敷贴、熏洗等）、腐蚀疮腐、去除腐肉的治疗作用。",
+    "mechanism": "外用（敷贴、熏洗等）、腐蚀疮腐、去除腐肉",
     "indications": [],
     "related_medicines": [
       "medicine_303"
@@ -13814,8 +13944,8 @@
   {
     "id": "effect_544",
     "name": "内服劫痰截疟",
-    "description": "内服劫痰截疟：内，服，劫，痰浊，截断疟疾发作。",
-    "mechanism": "",
+    "description": "具有内服、服用、劫夺顽痰、截疟（控制疟疾发作）的治疗作用。",
+    "mechanism": "内服、服用、劫夺顽痰、截疟（控制疟疾发作）",
     "indications": [],
     "related_medicines": [
       "medicine_303"
@@ -13827,8 +13957,8 @@
   {
     "id": "effect_545",
     "name": "外用清热解毒",
-    "description": "外用清热解毒：外，用，清解里热，解毒。",
-    "mechanism": "",
+    "description": "具有外用（敷贴、熏洗等）、清解热邪、解除毒邪的治疗作用。",
+    "mechanism": "外用（敷贴、熏洗等）、清解热邪、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_304"
@@ -13840,8 +13970,8 @@
   {
     "id": "effect_546",
     "name": "内服清肺化痰",
-    "description": "内服清肺化痰：内，服，清泻肺热，化解痰浊。",
-    "mechanism": "",
+    "description": "具有内服、服用、清泻肺热、化解痰浊的治疗作用。",
+    "mechanism": "内服、服用、清泻肺热、化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_304"
@@ -13853,8 +13983,8 @@
   {
     "id": "effect_547",
     "name": "解毒明目退翳",
-    "description": "解毒明目退翳：解毒，明目退翳，消退，目翳。",
-    "mechanism": "",
+    "description": "具有解除毒邪、明目、改善视力、退除目翳的治疗作用。",
+    "mechanism": "解除毒邪、明目、改善视力、退除目翳",
     "indications": [],
     "related_medicines": [
       "medicine_305"
@@ -13866,8 +13996,8 @@
   {
     "id": "effect_548",
     "name": "收湿止痒敛疮",
-    "description": "收湿止痒敛疮：收湿敛疮，制止，痒，敛疮生肌。",
-    "mechanism": "",
+    "description": "具有收束湿浊、制止瘙痒、收敛疮口的治疗作用。",
+    "mechanism": "收束湿浊、制止瘙痒、收敛疮口",
     "indications": [],
     "related_medicines": [
       "medicine_305"
@@ -13879,8 +14009,8 @@
   {
     "id": "effect_549",
     "name": "温中止血",
-    "description": "温中止血：温运中焦脾胃，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有温运中焦、制止出血的治疗作用。",
+    "mechanism": "温运中焦、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_308",
@@ -13893,8 +14023,8 @@
   {
     "id": "effect_550",
     "name": "止呕止泻",
-    "description": "止呕止泻：和胃降逆止呕，涩肠止利。",
-    "mechanism": "",
+    "description": "具有制止呕逆、制止泄泻的治疗作用。",
+    "mechanism": "制止呕逆、制止泄泻",
     "indications": [],
     "related_medicines": [
       "medicine_308",
@@ -13907,8 +14037,8 @@
   {
     "id": "effect_551",
     "name": "理气止痛",
-    "description": "理气止痛：疏理气机，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有疏理气机、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "疏理气机、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_309",
@@ -13922,8 +14052,8 @@
   {
     "id": "effect_552",
     "name": "活血消癥",
-    "description": "活血消癥：通畅血行，消散癥瘕。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、消散癥瘕的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、消散癥瘕",
     "indications": [],
     "related_medicines": [
       "medicine_310"
@@ -13935,8 +14065,8 @@
   {
     "id": "effect_553",
     "name": "通经下乳",
-    "description": "通经下乳：通利经脉，通下乳汁。",
-    "mechanism": "",
+    "description": "具有通利经脉、通下乳汁的治疗作用。",
+    "mechanism": "通利经脉、通下乳汁",
     "indications": [],
     "related_medicines": [
       "medicine_310",
@@ -13950,8 +14080,8 @@
   {
     "id": "effect_554",
     "name": "消肿排脓",
-    "description": "消肿排脓：消除水肿、散消肿毒，排出痈脓。",
-    "mechanism": "",
+    "description": "具有消除肿毒、消退肿胀、排出痈脓的治疗作用。",
+    "mechanism": "消除肿毒、消退肿胀、排出痈脓",
     "indications": [],
     "related_medicines": [
       "medicine_310",
@@ -13964,8 +14094,8 @@
   {
     "id": "effect_555",
     "name": "利湿通淋",
-    "description": "利湿通淋：祛除湿邪、通利小便，通，淋。",
-    "mechanism": "",
+    "description": "具有祛除湿邪、通利小便、通利淋证的治疗作用。",
+    "mechanism": "祛除湿邪、通利小便、通利淋证",
     "indications": [],
     "related_medicines": [
       "medicine_312",
@@ -13978,8 +14108,8 @@
   {
     "id": "effect_556",
     "name": "解毒定惊",
-    "description": "解毒定惊：解毒，定，惊。",
-    "mechanism": "",
+    "description": "具有解除毒邪、安定惊搐的治疗作用。",
+    "mechanism": "解除毒邪、安定惊搐",
     "indications": [],
     "related_medicines": [
       "medicine_313"
@@ -13991,8 +14121,8 @@
   {
     "id": "effect_557",
     "name": "止痛止痒",
-    "description": "止痛止痒：缓急缓解疼痛，制止，痒。",
-    "mechanism": "",
+    "description": "具有缓急止痛、制止疼痛、制止瘙痒的治疗作用。",
+    "mechanism": "缓急止痛、制止疼痛、制止瘙痒",
     "indications": [],
     "related_medicines": [
       "medicine_314"
@@ -14004,8 +14134,8 @@
   {
     "id": "effect_558",
     "name": "化湿和中",
-    "description": "化湿和中：芳香化湿、运脾化湿，调和脾胃。",
-    "mechanism": "",
+    "description": "具有芳化湿浊、调和脾胃的治疗作用。",
+    "mechanism": "芳化湿浊、调和脾胃",
     "indications": [],
     "related_medicines": [
       "medicine_316"
@@ -14017,8 +14147,8 @@
   {
     "id": "effect_559",
     "name": "明目退翳",
-    "description": "明目退翳：明目退翳，消退，目翳。",
-    "mechanism": "",
+    "description": "具有明目、改善视力、退除目翳的治疗作用。",
+    "mechanism": "明目、改善视力、退除目翳",
     "indications": [],
     "related_medicines": [
       "medicine_317",
@@ -14033,8 +14163,8 @@
   {
     "id": "effect_560",
     "name": "散寒通阳",
-    "description": "散寒通阳：温散里寒，通，阳气。",
-    "mechanism": "",
+    "description": "具有温散寒邪、通利、阳气的治疗作用。",
+    "mechanism": "温散寒邪、通利、阳气",
     "indications": [],
     "related_medicines": [
       "medicine_319"
@@ -14046,8 +14176,8 @@
   {
     "id": "effect_561",
     "name": "散结消肿",
-    "description": "散结消肿：消散结聚，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有消散结聚、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "消散结聚、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_320",
@@ -14061,8 +14191,8 @@
   {
     "id": "effect_562",
     "name": "清热明目",
-    "description": "清热明目：清解里热，明目退翳。",
-    "mechanism": "",
+    "description": "具有清解热邪、明目、改善视力的治疗作用。",
+    "mechanism": "清解热邪、明目、改善视力",
     "indications": [],
     "related_medicines": [
       "medicine_321",
@@ -14075,8 +14205,8 @@
   {
     "id": "effect_563",
     "name": "除烦利尿",
-    "description": "除烦利尿：清除烦热，通利，小便。",
-    "mechanism": "",
+    "description": "具有清除烦热、通利小便的治疗作用。",
+    "mechanism": "清除烦热、通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_324"
@@ -14088,8 +14218,8 @@
   {
     "id": "effect_564",
     "name": "解毒利水",
-    "description": "解毒利水：解毒，通利水道、渗湿利水。",
-    "mechanism": "",
+    "description": "具有解除毒邪、通利水道、渗湿利水的治疗作用。",
+    "mechanism": "解除毒邪、通利水道、渗湿利水",
     "indications": [],
     "related_medicines": [
       "medicine_325"
@@ -14101,8 +14231,8 @@
   {
     "id": "effect_565",
     "name": "利窍消肿",
-    "description": "利窍消肿：通利清窍，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有通利清窍、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "通利清窍、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_326"
@@ -14114,8 +14244,8 @@
   {
     "id": "effect_566",
     "name": "生津利尿",
-    "description": "生津利尿：滋生津液，通利，小便。",
-    "mechanism": "",
+    "description": "具有滋生津液、通利小便的治疗作用。",
+    "mechanism": "滋生津液、通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_327"
@@ -14127,8 +14257,8 @@
   {
     "id": "effect_567",
     "name": "清热养肝",
-    "description": "清热养肝：清解里热，养肝血。",
-    "mechanism": "",
+    "description": "具有清解热邪、滋养肝血的治疗作用。",
+    "mechanism": "清解热邪、滋养肝血",
     "indications": [],
     "related_medicines": [
       "medicine_328"
@@ -14140,8 +14270,8 @@
   {
     "id": "effect_568",
     "name": "燥湿凉血",
-    "description": "燥湿凉血：苦温或苦寒以燥除湿邪，清血分热、凉血止血。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、清解血分热邪的治疗作用。",
+    "mechanism": "燥化湿浊、清解血分热邪",
     "indications": [],
     "related_medicines": [
       "medicine_330"
@@ -14153,8 +14283,8 @@
   {
     "id": "effect_569",
     "name": "消痈下乳",
-    "description": "消痈下乳：消散热毒痈肿，通下乳汁。",
-    "mechanism": "",
+    "description": "具有消散痈肿、通下乳汁的治疗作用。",
+    "mechanism": "消散痈肿、通下乳汁",
     "indications": [],
     "related_medicines": [
       "medicine_333"
@@ -14166,8 +14296,8 @@
   {
     "id": "effect_570",
     "name": "舒筋通脉",
-    "description": "舒筋通脉：舒缓筋脉，通利血脉。",
-    "mechanism": "",
+    "description": "具有舒缓筋脉、通利血脉的治疗作用。",
+    "mechanism": "舒缓筋脉、通利血脉",
     "indications": [],
     "related_medicines": [
       "medicine_333"
@@ -14179,8 +14309,8 @@
   {
     "id": "effect_571",
     "name": "消暑利水",
-    "description": "消暑利水：消导，暑，通利水道、渗湿利水。",
-    "mechanism": "",
+    "description": "具有清解暑邪、通利水道、渗湿利水的治疗作用。",
+    "mechanism": "清解暑邪、通利水道、渗湿利水",
     "indications": [],
     "related_medicines": [
       "medicine_335"
@@ -14192,8 +14322,8 @@
   {
     "id": "effect_572",
     "name": "明目止痒",
-    "description": "明目止痒：明目退翳，制止，痒。",
-    "mechanism": "",
+    "description": "具有明目、改善视力、制止瘙痒的治疗作用。",
+    "mechanism": "明目、改善视力、制止瘙痒",
     "indications": [],
     "related_medicines": [
       "medicine_337"
@@ -14205,8 +14335,8 @@
   {
     "id": "effect_573",
     "name": "止泻痢",
-    "description": "止泻痢：涩肠止利，痢。",
-    "mechanism": "",
+    "description": "具有制止泄泻、痢疾的治疗作用。",
+    "mechanism": "制止泄泻、痢疾",
     "indications": [],
     "related_medicines": [
       "medicine_344"
@@ -14218,8 +14348,8 @@
   {
     "id": "effect_574",
     "name": "止血止咳",
-    "description": "止血止咳：收敛或凉血以止血，制止咳嗽。",
-    "mechanism": "",
+    "description": "具有制止出血、制止咳嗽的治疗作用。",
+    "mechanism": "制止出血、制止咳嗽",
     "indications": [],
     "related_medicines": [
       "medicine_345"
@@ -14231,8 +14361,8 @@
   {
     "id": "effect_575",
     "name": "利胆退黄",
-    "description": "利胆退黄：疏通胆道，消退身目黄疸。",
-    "mechanism": "",
+    "description": "具有通利胆腑、消退黄疸的治疗作用。",
+    "mechanism": "通利胆腑、消退黄疸",
     "indications": [],
     "related_medicines": [
       "medicine_347"
@@ -14244,8 +14374,8 @@
   {
     "id": "effect_576",
     "name": "温胃散寒",
-    "description": "温胃散寒：温煦，胃，温散里寒。",
-    "mechanism": "",
+    "description": "具有温煦胃腑、温散寒邪的治疗作用。",
+    "mechanism": "温煦胃腑、温散寒邪",
     "indications": [],
     "related_medicines": [
       "medicine_351"
@@ -14257,8 +14387,8 @@
   {
     "id": "effect_577",
     "name": "消食止痛",
-    "description": "消食止痛：消食化滞，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有消导食积、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "消导食积、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_351"
@@ -14270,8 +14400,8 @@
   {
     "id": "effect_578",
     "name": "助阳止泻",
-    "description": "助阳止泻：温助阳气，涩肠止利。",
-    "mechanism": "",
+    "description": "具有助长阳气、制止泄泻的治疗作用。",
+    "mechanism": "助长阳气、制止泄泻",
     "indications": [],
     "related_medicines": [
       "medicine_352"
@@ -14283,8 +14413,8 @@
   {
     "id": "effect_579",
     "name": "下气消痰",
-    "description": "下气消痰：降泄逆气，消痰化饮。",
-    "mechanism": "",
+    "description": "具有降泄逆气、消导痰饮的治疗作用。",
+    "mechanism": "降泄逆气、消导痰饮",
     "indications": [],
     "related_medicines": [
       "medicine_353"
@@ -14296,8 +14426,8 @@
   {
     "id": "effect_580",
     "name": "行气导滞",
-    "description": "行气导滞：通行，气机，导，滞气。",
-    "mechanism": "",
+    "description": "具有疏理气机、通导、滞涩的治疗作用。",
+    "mechanism": "疏理气机、通导、滞涩",
     "indications": [],
     "related_medicines": [
       "medicine_354"
@@ -14309,8 +14439,8 @@
   {
     "id": "effect_581",
     "name": "和胃止痛",
-    "description": "和胃止痛：调和胃气，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有调和胃气、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "调和胃气、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_355",
@@ -14323,8 +14453,8 @@
   {
     "id": "effect_582",
     "name": "化痰",
-    "description": "化痰：化解痰浊。",
-    "mechanism": "",
+    "description": "具有化解痰浊的治疗作用。",
+    "mechanism": "化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_355"
@@ -14336,8 +14466,8 @@
   {
     "id": "effect_583",
     "name": "开郁醒脾",
-    "description": "开郁醒脾：开郁散结，醒脾开胃。",
-    "mechanism": "",
+    "description": "具有解除郁结、醒悦脾气的治疗作用。",
+    "mechanism": "解除郁结、醒悦脾气",
     "indications": [],
     "related_medicines": [
       "medicine_357"
@@ -14349,8 +14479,8 @@
   {
     "id": "effect_584",
     "name": "凉血收敛止血",
-    "description": "凉血收敛止血：清血分热、凉血止血，收敛，敛，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、收敛固涩、制止出血的治疗作用。",
+    "mechanism": "清解血分热邪、收敛固涩、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_360"
@@ -14362,8 +14492,8 @@
   {
     "id": "effect_585",
     "name": "止咳",
-    "description": "止咳：制止咳嗽。",
-    "mechanism": "",
+    "description": "具有制止咳嗽的治疗作用。",
+    "mechanism": "制止咳嗽",
     "indications": [],
     "related_medicines": [
       "medicine_362",
@@ -14376,8 +14506,8 @@
   {
     "id": "effect_586",
     "name": "坠痰下气",
-    "description": "坠痰下气：坠痰下气，降泄逆气。",
-    "mechanism": "",
+    "description": "具有坠降痰涎、降泄逆气的治疗作用。",
+    "mechanism": "坠降痰涎、降泄逆气",
     "indications": [],
     "related_medicines": [
       "medicine_364"
@@ -14389,8 +14519,8 @@
   {
     "id": "effect_587",
     "name": "平肝镇惊",
-    "description": "平肝镇惊：平抑肝阳，镇，惊。",
-    "mechanism": "",
+    "description": "具有平抑肝阳、镇惊安神的治疗作用。",
+    "mechanism": "平抑肝阳、镇惊安神",
     "indications": [],
     "related_medicines": [
       "medicine_364"
@@ -14402,8 +14532,8 @@
   {
     "id": "effect_588",
     "name": "活血散瘀",
-    "description": "活血散瘀：通畅血行，消散瘀滞。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、消散瘀滞的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、消散瘀滞",
     "indications": [],
     "related_medicines": [
       "medicine_365",
@@ -14418,8 +14548,8 @@
   {
     "id": "effect_589",
     "name": "安神益智",
-    "description": "安神益智：安定神志，补益，智。",
-    "mechanism": "",
+    "description": "具有安定神志、增智益慧的治疗作用。",
+    "mechanism": "安定神志、增智益慧",
     "indications": [],
     "related_medicines": [
       "medicine_366"
@@ -14431,8 +14561,8 @@
   {
     "id": "effect_590",
     "name": "祛痰消肿",
-    "description": "祛痰消肿：祛除痰涎，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有祛除痰浊、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "祛除痰浊、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_366"
@@ -14444,8 +14574,8 @@
   {
     "id": "effect_591",
     "name": "明目消翳",
-    "description": "明目消翳：明目退翳，消导，目翳。",
-    "mechanism": "",
+    "description": "具有明目、改善视力、消散、目翳的治疗作用。",
+    "mechanism": "明目、改善视力、消散、目翳",
     "indications": [],
     "related_medicines": [
       "medicine_367"
@@ -14457,8 +14587,8 @@
   {
     "id": "effect_592",
     "name": "解毒生肌",
-    "description": "解毒生肌：解毒，生肌长肉。",
-    "mechanism": "",
+    "description": "具有解除毒邪、生肌长肉的治疗作用。",
+    "mechanism": "解除毒邪、生肌长肉",
     "indications": [],
     "related_medicines": [
       "medicine_367",
@@ -14471,8 +14601,8 @@
   {
     "id": "effect_593",
     "name": "重镇降逆",
-    "description": "重镇降逆：重镇安神降逆，降逆气止呕呃。",
-    "mechanism": "",
+    "description": "具有重镇沉降、降泄上逆的治疗作用。",
+    "mechanism": "重镇沉降、降泄上逆",
     "indications": [],
     "related_medicines": [
       "medicine_369"
@@ -14484,8 +14614,8 @@
   {
     "id": "effect_594",
     "name": "化湿和胃",
-    "description": "化湿和胃：芳香化湿、运脾化湿，调和胃气。",
-    "mechanism": "",
+    "description": "具有芳化湿浊、调和胃气的治疗作用。",
+    "mechanism": "芳化湿浊、调和胃气",
     "indications": [],
     "related_medicines": [
       "medicine_370"
@@ -14497,8 +14627,8 @@
   {
     "id": "effect_595",
     "name": "宁神益智",
-    "description": "宁神益智：安宁神志，补益，智。",
-    "mechanism": "",
+    "description": "具有安宁、神志、增智益慧的治疗作用。",
+    "mechanism": "安宁、神志、增智益慧",
     "indications": [],
     "related_medicines": [
       "medicine_370"
@@ -14510,8 +14640,8 @@
   {
     "id": "effect_596",
     "name": "缓和药性",
-    "description": "缓和药性：缓和，调和，药，性。",
-    "mechanism": "",
+    "description": "具有缓和、调和、药性的治疗作用。",
+    "mechanism": "缓和、调和、药性",
     "indications": [],
     "related_medicines": [
       "medicine_372"
@@ -14523,8 +14653,8 @@
   {
     "id": "effect_597",
     "name": "补肾安神",
-    "description": "补肾安神：补益肾精，安定神志。",
-    "mechanism": "",
+    "description": "具有补益肾精、安定神志的治疗作用。",
+    "mechanism": "补益肾精、安定神志",
     "indications": [],
     "related_medicines": [
       "medicine_373"
@@ -14536,8 +14666,8 @@
   {
     "id": "effect_598",
     "name": "益气活血",
-    "description": "益气活血：补益元气，通畅血行。",
-    "mechanism": "",
+    "description": "具有补益元气、通行血脉、消散瘀血的治疗作用。",
+    "mechanism": "补益元气、通行血脉、消散瘀血",
     "indications": [],
     "related_medicines": [
       "medicine_374"
@@ -14549,8 +14679,8 @@
   {
     "id": "effect_599",
     "name": "通脉平喘",
-    "description": "通脉平喘：通利血脉，平定喘息。",
-    "mechanism": "",
+    "description": "具有通利血脉、平定喘息的治疗作用。",
+    "mechanism": "通利血脉、平定喘息",
     "indications": [],
     "related_medicines": [
       "medicine_374"
@@ -14562,8 +14692,8 @@
   {
     "id": "effect_600",
     "name": "止咳祛痰",
-    "description": "止咳祛痰：制止咳嗽，祛除痰涎。",
-    "mechanism": "",
+    "description": "具有制止咳嗽、祛除痰浊的治疗作用。",
+    "mechanism": "制止咳嗽、祛除痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_375",
@@ -14577,8 +14707,8 @@
   {
     "id": "effect_601",
     "name": "滋阴补血",
-    "description": "滋阴补血：滋养阴液，滋养血液。",
-    "mechanism": "",
+    "description": "具有滋养阴液、补益血液的治疗作用。",
+    "mechanism": "滋养阴液、补益血液",
     "indications": [],
     "related_medicines": [
       "medicine_376"
@@ -14590,8 +14720,8 @@
   {
     "id": "effect_602",
     "name": "润肠燥",
-    "description": "润肠燥：润肠通便，燥。",
-    "mechanism": "",
+    "description": "具有润泽大肠、燥邪的治疗作用。",
+    "mechanism": "润泽大肠、燥邪",
     "indications": [],
     "related_medicines": [
       "medicine_377"
@@ -14603,8 +14733,8 @@
   {
     "id": "effect_603",
     "name": "补肾温肺",
-    "description": "补肾温肺：补益肾精，温肺散寒。",
-    "mechanism": "",
+    "description": "具有补益肾精、温肺散寒的治疗作用。",
+    "mechanism": "补益肾精、温肺散寒",
     "indications": [],
     "related_medicines": [
       "medicine_378",
@@ -14617,8 +14747,8 @@
   {
     "id": "effect_604",
     "name": "强筋健骨",
-    "description": "强筋健骨：强健筋膜，健骨壮筋。",
-    "mechanism": "",
+    "description": "具有强健筋脉、强健骨骼的治疗作用。",
+    "mechanism": "强健筋脉、强健骨骼",
     "indications": [],
     "related_medicines": [
       "medicine_379",
@@ -14631,8 +14761,8 @@
   {
     "id": "effect_605",
     "name": "祛寒除湿",
-    "description": "祛寒除湿：祛除寒邪，祛除体内湿邪。",
-    "mechanism": "",
+    "description": "具有祛除寒邪、祛除湿邪的治疗作用。",
+    "mechanism": "祛除寒邪、祛除湿邪",
     "indications": [],
     "related_medicines": [
       "medicine_379"
@@ -14644,8 +14774,8 @@
   {
     "id": "effect_606",
     "name": "温补肝肾",
-    "description": "温补肝肾：温阳补虚，肝，肾。",
-    "mechanism": "",
+    "description": "具有温性补益、肝肾（肝肾功能）的治疗作用。",
+    "mechanism": "温性补益、肝肾（肝肾功能）",
     "indications": [],
     "related_medicines": [
       "medicine_380",
@@ -14658,8 +14788,8 @@
   {
     "id": "effect_607",
     "name": "壮阳固精",
-    "description": "壮阳固精：壮补，阳气，固涩肾精。",
-    "mechanism": "",
+    "description": "具有温壮肾阳、固摄精气的治疗作用。",
+    "mechanism": "温壮肾阳、固摄精气",
     "indications": [],
     "related_medicines": [
       "medicine_380"
@@ -14671,8 +14801,8 @@
   {
     "id": "effect_608",
     "name": "祛寒止痛",
-    "description": "祛寒止痛：祛除寒邪，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有祛除寒邪、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "祛除寒邪、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_381"
@@ -14684,8 +14814,8 @@
   {
     "id": "effect_609",
     "name": "活血散结",
-    "description": "活血散结：通畅血行，消散结聚。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、消散结聚的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_382"
@@ -14697,8 +14827,8 @@
   {
     "id": "effect_610",
     "name": "补肾清肝",
-    "description": "补肾清肝：补益肾精，清泻肝火。",
-    "mechanism": "",
+    "description": "具有补益肾精、清泻肝火的治疗作用。",
+    "mechanism": "补益肾精、清泻肝火",
     "indications": [],
     "related_medicines": [
       "medicine_383"
@@ -14710,8 +14840,8 @@
   {
     "id": "effect_611",
     "name": "明目利尿",
-    "description": "明目利尿：明目退翳，通利，小便。",
-    "mechanism": "",
+    "description": "具有明目、改善视力、通利小便的治疗作用。",
+    "mechanism": "明目、改善视力、通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_383"
@@ -14723,8 +14853,8 @@
   {
     "id": "effect_612",
     "name": "益气除热",
-    "description": "益气除热：补益元气，清除，热邪。",
-    "mechanism": "",
+    "description": "具有补益元气、清除、热邪的治疗作用。",
+    "mechanism": "补益元气、清除、热邪",
     "indications": [],
     "related_medicines": [
       "medicine_385"
@@ -14736,8 +14866,8 @@
   {
     "id": "effect_613",
     "name": "敛肺降火",
-    "description": "敛肺降火：收敛耗散肺气，降泄，火热。",
-    "mechanism": "",
+    "description": "具有收敛肺气、降泄火热的治疗作用。",
+    "mechanism": "收敛肺气、降泄火热",
     "indications": [],
     "related_medicines": [
       "medicine_386"
@@ -14749,8 +14879,8 @@
   {
     "id": "effect_614",
     "name": "固精止遗",
-    "description": "固精止遗：固涩肾精，制止，遗。",
-    "mechanism": "",
+    "description": "具有固摄精气、制止、遗精的治疗作用。",
+    "mechanism": "固摄精气、制止、遗精",
     "indications": [],
     "related_medicines": [
       "medicine_386"
@@ -14762,8 +14892,8 @@
   {
     "id": "effect_615",
     "name": "敛汗止血",
-    "description": "敛汗止血：敛，汗液，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有收敛汗液、制止出血的治疗作用。",
+    "mechanism": "收敛汗液、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_386"
@@ -14775,8 +14905,8 @@
   {
     "id": "effect_616",
     "name": "杀虫收敛",
-    "description": "杀虫收敛：杀灭肠寄生虫积，收敛，敛。",
-    "mechanism": "",
+    "description": "具有杀灭寄生虫、收敛固涩的治疗作用。",
+    "mechanism": "杀灭寄生虫、收敛固涩",
     "indications": [],
     "related_medicines": [
       "medicine_387"
@@ -14788,8 +14918,8 @@
   {
     "id": "effect_617",
     "name": "止带",
-    "description": "止带：制止，带下。",
-    "mechanism": "",
+    "description": "具有制止带下的治疗作用。",
+    "mechanism": "制止带下",
     "indications": [],
     "related_medicines": [
       "medicine_388"
@@ -14801,8 +14931,8 @@
   {
     "id": "effect_618",
     "name": "散瘀杀虫",
-    "description": "散瘀杀虫：消散瘀滞，杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有消散瘀滞、杀灭寄生虫的治疗作用。",
+    "mechanism": "消散瘀滞、杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_390"
@@ -14814,8 +14944,8 @@
   {
     "id": "effect_619",
     "name": "除湿杀虫",
-    "description": "除湿杀虫：祛除体内湿邪，杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有祛除湿邪、杀灭寄生虫的治疗作用。",
+    "mechanism": "祛除湿邪、杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_393"
@@ -14827,8 +14957,8 @@
   {
     "id": "effect_620",
     "name": "温散止痛",
-    "description": "温散止痛：温煦，消散，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有温煦、消散、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "温煦、消散、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_393"
@@ -14840,8 +14970,8 @@
   {
     "id": "effect_621",
     "name": "开窍辟秽",
-    "description": "开窍辟秽：开通心窍清窍，辟除秽浊邪气。",
-    "mechanism": "",
+    "description": "具有开通心窍、辟除秽浊的治疗作用。",
+    "mechanism": "开通心窍、辟除秽浊",
     "indications": [],
     "related_medicines": [
       "medicine_393"
@@ -14853,8 +14983,8 @@
   {
     "id": "effect_622",
     "name": "祛风燥湿",
-    "description": "祛风燥湿：祛除风邪，苦温或苦寒以燥除湿邪。",
-    "mechanism": "",
+    "description": "具有祛除风邪、燥化湿浊的治疗作用。",
+    "mechanism": "祛除风邪、燥化湿浊",
     "indications": [],
     "related_medicines": [
       "medicine_394"
@@ -14866,8 +14996,8 @@
   {
     "id": "effect_623",
     "name": "攻毒疗疮",
-    "description": "攻毒疗疮：攻毒消肿，治疗，疮毒。",
-    "mechanism": "",
+    "description": "具有攻逐毒邪、疗治、疮疡的治疗作用。",
+    "mechanism": "攻逐毒邪、疗治、疮疡",
     "indications": [],
     "related_medicines": [
       "medicine_395"
@@ -14879,8 +15009,8 @@
   {
     "id": "effect_624",
     "name": "发表透疹",
-    "description": "发表透疹：发表散邪，透发疹毒外出。",
-    "mechanism": "",
+    "description": "具有发散、肌表、透发疹毒的治疗作用。",
+    "mechanism": "发散、肌表、透发疹毒",
     "indications": [],
     "related_medicines": [
       "medicine_396",
@@ -14895,8 +15025,8 @@
   {
     "id": "effect_625",
     "name": "开胃消食",
-    "description": "开胃消食：开通，胃，消食化滞。",
-    "mechanism": "",
+    "description": "具有开胃进食、消导食积的治疗作用。",
+    "mechanism": "开胃进食、消导食积",
     "indications": [],
     "related_medicines": [
       "medicine_396",
@@ -14909,8 +15039,8 @@
   {
     "id": "effect_626",
     "name": "凉血敛疮",
-    "description": "凉血敛疮：清血分热、凉血止血，敛疮生肌。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、收敛疮口的治疗作用。",
+    "mechanism": "清解血分热邪、收敛疮口",
     "indications": [],
     "related_medicines": [
       "medicine_398"
@@ -14922,8 +15052,8 @@
   {
     "id": "effect_627",
     "name": "利咽化痰",
-    "description": "利咽化痰：清利咽喉肿痛，化解痰浊。",
-    "mechanism": "",
+    "description": "具有清利咽喉、化解痰浊的治疗作用。",
+    "mechanism": "清利咽喉、化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_399"
@@ -14935,8 +15065,8 @@
   {
     "id": "effect_628",
     "name": "利咽生津",
-    "description": "利咽生津：清利咽喉肿痛，滋生津液。",
-    "mechanism": "",
+    "description": "具有清利咽喉、滋生津液的治疗作用。",
+    "mechanism": "清利咽喉、滋生津液",
     "indications": [],
     "related_medicines": [
       "medicine_400"
@@ -14948,8 +15078,8 @@
   {
     "id": "effect_629",
     "name": "清肺利咽",
-    "description": "清肺利咽：清泻肺热，清利咽喉肿痛。",
-    "mechanism": "",
+    "description": "具有清泻肺热、清利咽喉的治疗作用。",
+    "mechanism": "清泻肺热、清利咽喉",
     "indications": [],
     "related_medicines": [
       "medicine_401"
@@ -14961,8 +15091,8 @@
   {
     "id": "effect_630",
     "name": "疏肝和胃",
-    "description": "疏肝和胃：疏泄肝气，调和胃气。",
-    "mechanism": "",
+    "description": "具有疏泄肝气、调和胃气的治疗作用。",
+    "mechanism": "疏泄肝气、调和胃气",
     "indications": [],
     "related_medicines": [
       "medicine_401"
@@ -14974,8 +15104,8 @@
   {
     "id": "effect_631",
     "name": "利小便",
-    "description": "利小便：通利，小，便。",
-    "mechanism": "",
+    "description": "具有通利小便的治疗作用。",
+    "mechanism": "通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_402"
@@ -14987,8 +15117,8 @@
   {
     "id": "effect_632",
     "name": "疏肝止痛",
-    "description": "疏肝止痛：疏泄肝气，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有疏泄肝气、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "疏泄肝气、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_406"
@@ -15000,8 +15130,8 @@
   {
     "id": "effect_633",
     "name": "解酒毒",
-    "description": "解酒毒：解散，酒，毒邪。",
-    "mechanism": "",
+    "description": "具有解除酒毒、毒邪的治疗作用。",
+    "mechanism": "解除酒毒、毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_407"
@@ -15013,8 +15143,8 @@
   {
     "id": "effect_634",
     "name": "降气消痰",
-    "description": "降气消痰：降气平逆，消痰化饮。",
-    "mechanism": "",
+    "description": "具有降泄、气机、消导痰饮的治疗作用。",
+    "mechanism": "降泄、气机、消导痰饮",
     "indications": [],
     "related_medicines": [
       "medicine_409"
@@ -15026,8 +15156,8 @@
   {
     "id": "effect_635",
     "name": "行水",
-    "description": "行水：通利水道。",
-    "mechanism": "",
+    "description": "具有通行水湿的治疗作用。",
+    "mechanism": "通行水湿",
     "indications": [],
     "related_medicines": [
       "medicine_409"
@@ -15039,8 +15169,8 @@
   {
     "id": "effect_636",
     "name": "平喘止咳",
-    "description": "平喘止咳：平定喘息，制止咳嗽。",
-    "mechanism": "",
+    "description": "具有平定喘息、制止咳嗽的治疗作用。",
+    "mechanism": "平定喘息、制止咳嗽",
     "indications": [],
     "related_medicines": [
       "medicine_412"
@@ -15052,8 +15182,8 @@
   {
     "id": "effect_637",
     "name": "解痉定痛",
-    "description": "解痉定痛：解散，痉，定，疼痛。",
-    "mechanism": "",
+    "description": "具有解除痉挛、安定、疼痛的治疗作用。",
+    "mechanism": "解除痉挛、安定、疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_412"
@@ -15065,8 +15195,8 @@
   {
     "id": "effect_638",
     "name": "凉血",
-    "description": "凉血：清血分热、凉血止血。",
-    "mechanism": "",
+    "description": "具有清解血分热邪的治疗作用。",
+    "mechanism": "清解血分热邪",
     "indications": [],
     "related_medicines": [
       "medicine_413",
@@ -15079,8 +15209,8 @@
   {
     "id": "effect_639",
     "name": "滋阴润肺",
-    "description": "滋阴润肺：滋养阴液，滋润肺燥。",
-    "mechanism": "",
+    "description": "具有滋养阴液、滋润肺燥的治疗作用。",
+    "mechanism": "滋养阴液、滋润肺燥",
     "indications": [],
     "related_medicines": [
       "medicine_415"
@@ -15092,8 +15222,8 @@
   {
     "id": "effect_640",
     "name": "养胃生津",
-    "description": "养胃生津：滋养，胃，滋生津液。",
-    "mechanism": "",
+    "description": "具有滋养胃阴、滋生津液的治疗作用。",
+    "mechanism": "滋养胃阴、滋生津液",
     "indications": [],
     "related_medicines": [
       "medicine_415"
@@ -15105,8 +15235,8 @@
   {
     "id": "effect_641",
     "name": "化瘀止痛",
-    "description": "化瘀止痛：消散瘀血，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有化解瘀滞、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "化解瘀滞、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_418"
@@ -15118,8 +15248,8 @@
   {
     "id": "effect_642",
     "name": "拔毒生肌",
-    "description": "拔毒生肌：拔毒外出，生肌长肉。",
-    "mechanism": "",
+    "description": "具有拔出毒邪、生肌长肉的治疗作用。",
+    "mechanism": "拔出毒邪、生肌长肉",
     "indications": [],
     "related_medicines": [
       "medicine_419",
@@ -15132,8 +15262,8 @@
   {
     "id": "effect_643",
     "name": "止血止痢",
-    "description": "止血止痢：收敛或凉血以止血，制止，痢。",
-    "mechanism": "",
+    "description": "具有制止出血、制止痢疾的治疗作用。",
+    "mechanism": "制止出血、制止痢疾",
     "indications": [],
     "related_medicines": [
       "medicine_423"
@@ -15145,8 +15275,8 @@
   {
     "id": "effect_644",
     "name": "消肿止血",
-    "description": "消肿止血：消除水肿、散消肿毒，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有消除肿毒、消退肿胀、制止出血的治疗作用。",
+    "mechanism": "消除肿毒、消退肿胀、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_424"
@@ -15158,8 +15288,8 @@
   {
     "id": "effect_645",
     "name": "凉血解毒",
-    "description": "凉血解毒：清血分热、凉血止血，解毒。",
-    "mechanism": "",
+    "description": "具有清解血分热邪、解除毒邪的治疗作用。",
+    "mechanism": "清解血分热邪、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_427",
@@ -15172,8 +15302,8 @@
   {
     "id": "effect_646",
     "name": "散瘀消肿",
-    "description": "散瘀消肿：消散瘀滞，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有消散瘀滞、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "消散瘀滞、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_428",
@@ -15188,8 +15318,8 @@
   {
     "id": "effect_647",
     "name": "下气消食",
-    "description": "下气消食：降泄逆气，消食化滞。",
-    "mechanism": "",
+    "description": "具有降泄逆气、消导食积的治疗作用。",
+    "mechanism": "降泄逆气、消导食积",
     "indications": [],
     "related_medicines": [
       "medicine_432"
@@ -15201,8 +15331,8 @@
   {
     "id": "effect_648",
     "name": "温肺助阳",
-    "description": "温肺助阳：温肺散寒，温助阳气。",
-    "mechanism": "",
+    "description": "具有温肺散寒、助长阳气的治疗作用。",
+    "mechanism": "温肺散寒、助长阳气",
     "indications": [],
     "related_medicines": [
       "medicine_433"
@@ -15214,8 +15344,8 @@
   {
     "id": "effect_649",
     "name": "平喘制酸",
-    "description": "平喘制酸：平定喘息，制，酸。",
-    "mechanism": "",
+    "description": "具有平定喘息、抑制胃酸的治疗作用。",
+    "mechanism": "平定喘息、抑制胃酸",
     "indications": [],
     "related_medicines": [
       "medicine_433"
@@ -15227,8 +15357,8 @@
   {
     "id": "effect_650",
     "name": "补虚平喘",
-    "description": "补虚平喘：补益虚损，平定喘息。",
-    "mechanism": "",
+    "description": "具有补益、虚损、平定喘息的治疗作用。",
+    "mechanism": "补益、虚损、平定喘息",
     "indications": [],
     "related_medicines": [
       "medicine_436"
@@ -15240,8 +15370,8 @@
   {
     "id": "effect_651",
     "name": "温肺祛痰",
-    "description": "温肺祛痰：温肺散寒，祛除痰涎。",
-    "mechanism": "",
+    "description": "具有温肺散寒、祛除痰浊的治疗作用。",
+    "mechanism": "温肺散寒、祛除痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_436"
@@ -15253,8 +15383,8 @@
   {
     "id": "effect_652",
     "name": "破血软坚",
-    "description": "破血软坚：破血逐瘀，软化坚结。",
-    "mechanism": "",
+    "description": "具有破散、血分、软化坚结的治疗作用。",
+    "mechanism": "破散、血分、软化坚结",
     "indications": [],
     "related_medicines": [
       "medicine_438"
@@ -15266,8 +15396,8 @@
   {
     "id": "effect_653",
     "name": "消积散结",
-    "description": "消积散结：消导食积，消散结聚。",
-    "mechanism": "",
+    "description": "具有消导积滞、消散结聚的治疗作用。",
+    "mechanism": "消导积滞、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_438"
@@ -15279,8 +15409,8 @@
   {
     "id": "effect_654",
     "name": "收敛止带",
-    "description": "收敛止带：收敛，敛，制止，带下。",
-    "mechanism": "",
+    "description": "具有收敛固涩、制止带下的治疗作用。",
+    "mechanism": "收敛固涩、制止带下",
     "indications": [],
     "related_medicines": [
       "medicine_441"
@@ -15292,8 +15422,8 @@
   {
     "id": "effect_655",
     "name": "活血解毒",
-    "description": "活血解毒：通畅血行，解毒。",
-    "mechanism": "",
+    "description": "具有通行血脉、消散瘀血、解除毒邪的治疗作用。",
+    "mechanism": "通行血脉、消散瘀血、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_443",
@@ -15306,8 +15436,8 @@
   {
     "id": "effect_656",
     "name": "散瘀定痛",
-    "description": "散瘀定痛：消散瘀滞，定，疼痛。",
-    "mechanism": "",
+    "description": "具有消散瘀滞、安定、疼痛的治疗作用。",
+    "mechanism": "消散瘀滞、安定、疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_445"
@@ -15319,8 +15449,8 @@
   {
     "id": "effect_657",
     "name": "行气活血",
-    "description": "行气活血：通行，气机，通畅血行。",
-    "mechanism": "",
+    "description": "具有疏理气机、通行血脉、消散瘀血的治疗作用。",
+    "mechanism": "疏理气机、通行血脉、消散瘀血",
     "indications": [],
     "related_medicines": [
       "medicine_447"
@@ -15332,8 +15462,8 @@
   {
     "id": "effect_658",
     "name": "祛风化湿",
-    "description": "祛风化湿：祛除风邪，芳香化湿、运脾化湿。",
-    "mechanism": "",
+    "description": "具有祛除风邪、芳化湿浊的治疗作用。",
+    "mechanism": "祛除风邪、芳化湿浊",
     "indications": [],
     "related_medicines": [
       "medicine_447"
@@ -15345,8 +15475,8 @@
   {
     "id": "effect_659",
     "name": "催乳",
-    "description": "催乳：催，乳汁。",
-    "mechanism": "",
+    "description": "具有催发、乳汁的治疗作用。",
+    "mechanism": "催发、乳汁",
     "indications": [],
     "related_medicines": [
       "medicine_449"
@@ -15358,8 +15488,8 @@
   {
     "id": "effect_660",
     "name": "清热下乳",
-    "description": "清热下乳：清解里热，通下乳汁。",
-    "mechanism": "",
+    "description": "具有清解热邪、通下乳汁的治疗作用。",
+    "mechanism": "清解热邪、通下乳汁",
     "indications": [],
     "related_medicines": [
       "medicine_452"
@@ -15371,8 +15501,8 @@
   {
     "id": "effect_661",
     "name": "下乳润肠",
-    "description": "下乳润肠：通下乳汁，润肠通便。",
-    "mechanism": "",
+    "description": "具有通下乳汁、润泽大肠的治疗作用。",
+    "mechanism": "通下乳汁、润泽大肠",
     "indications": [],
     "related_medicines": [
       "medicine_454"
@@ -15384,8 +15514,8 @@
   {
     "id": "effect_662",
     "name": "调经止血",
-    "description": "调经止血：调理冲任月经，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有调理冲任、制止出血的治疗作用。",
+    "mechanism": "调理冲任、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_456"
@@ -15397,8 +15527,8 @@
   {
     "id": "effect_663",
     "name": "补益气血",
-    "description": "补益气血：补益，补益元气，血分。",
-    "mechanism": "",
+    "description": "具有补益虚弱、气机、血分的治疗作用。",
+    "mechanism": "补益虚弱、气机、血分",
     "indications": [],
     "related_medicines": [
       "medicine_458"
@@ -15410,8 +15540,8 @@
   {
     "id": "effect_664",
     "name": "补肺养阴",
-    "description": "补肺养阴：补益，肺，滋养，阴液。",
-    "mechanism": "",
+    "description": "具有补益肺气、滋养阴液的治疗作用。",
+    "mechanism": "补益肺气、滋养阴液",
     "indications": [],
     "related_medicines": [
       "medicine_459"
@@ -15423,8 +15553,8 @@
   {
     "id": "effect_665",
     "name": "滋补强壮",
-    "description": "滋补强壮：滋养补虚，强健，壮补。",
-    "mechanism": "",
+    "description": "具有滋补强壮、强健、强壮的治疗作用。",
+    "mechanism": "滋补强壮、强健、强壮",
     "indications": [],
     "related_medicines": [
       "medicine_460"
@@ -15436,8 +15566,8 @@
   {
     "id": "effect_666",
     "name": "益精养血",
-    "description": "益精养血：补益肾精，补养阴血。",
-    "mechanism": "",
+    "description": "具有补益精气、滋养血液的治疗作用。",
+    "mechanism": "补益精气、滋养血液",
     "indications": [],
     "related_medicines": [
       "medicine_461"
@@ -15449,8 +15579,8 @@
   {
     "id": "effect_667",
     "name": "温肾补精",
-    "description": "温肾补精：温煦，肾，补益，肾精。",
-    "mechanism": "",
+    "description": "具有温补肾阳、补益、精气的治疗作用。",
+    "mechanism": "温补肾阳、补益、精气",
     "indications": [],
     "related_medicines": [
       "medicine_462"
@@ -15462,8 +15592,8 @@
   {
     "id": "effect_668",
     "name": "润肺化痰",
-    "description": "润肺化痰：滋润肺燥，化解痰浊。",
-    "mechanism": "",
+    "description": "具有滋润肺燥、化解痰浊的治疗作用。",
+    "mechanism": "滋润肺燥、化解痰浊",
     "indications": [],
     "related_medicines": [
       "medicine_463",
@@ -15476,8 +15606,8 @@
   {
     "id": "effect_669",
     "name": "养阴和胃",
-    "description": "养阴和胃：滋养，阴液，调和胃气。",
-    "mechanism": "",
+    "description": "具有滋养阴液、调和胃气的治疗作用。",
+    "mechanism": "滋养阴液、调和胃气",
     "indications": [],
     "related_medicines": [
       "medicine_463"
@@ -15489,8 +15619,8 @@
   {
     "id": "effect_670",
     "name": "平肝解毒",
-    "description": "平肝解毒：平抑肝阳，解毒。",
-    "mechanism": "",
+    "description": "具有平抑肝阳、解除毒邪的治疗作用。",
+    "mechanism": "平抑肝阳、解除毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_463"
@@ -15502,8 +15632,8 @@
   {
     "id": "effect_671",
     "name": "补虚益精",
-    "description": "补虚益精：补益虚损，补益肾精。",
-    "mechanism": "",
+    "description": "具有补益、虚损、补益精气的治疗作用。",
+    "mechanism": "补益、虚损、补益精气",
     "indications": [],
     "related_medicines": [
       "medicine_464"
@@ -15515,8 +15645,8 @@
   {
     "id": "effect_672",
     "name": "固气涩精",
-    "description": "固气涩精：固涩，气机，涩，肾精。",
-    "mechanism": "",
+    "description": "具有固摄、气机、固涩精气的治疗作用。",
+    "mechanism": "固摄、气机、固涩精气",
     "indications": [],
     "related_medicines": [
       "medicine_465"
@@ -15528,8 +15658,8 @@
   {
     "id": "effect_673",
     "name": "敛肺止血",
-    "description": "敛肺止血：收敛耗散肺气，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有收敛肺气、制止出血的治疗作用。",
+    "mechanism": "收敛肺气、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_465"
@@ -15541,8 +15671,8 @@
   {
     "id": "effect_674",
     "name": "镇心定惊",
-    "description": "镇心定惊：镇，心，定，惊。",
-    "mechanism": "",
+    "description": "具有镇安心神、安定惊搐的治疗作用。",
+    "mechanism": "镇安心神、安定惊搐",
     "indications": [],
     "related_medicines": [
       "medicine_467"
@@ -15554,8 +15684,8 @@
   {
     "id": "effect_675",
     "name": "温肺暖宫",
-    "description": "温肺暖宫：温肺散寒，暖，宫。",
-    "mechanism": "",
+    "description": "具有温肺散寒、温暖胞宫的治疗作用。",
+    "mechanism": "温肺散寒、温暖胞宫",
     "indications": [],
     "related_medicines": [
       "medicine_467"
@@ -15567,8 +15697,8 @@
   {
     "id": "effect_676",
     "name": "温中理气",
-    "description": "温中理气：温运中焦脾胃，疏理气机。",
-    "mechanism": "",
+    "description": "具有温运中焦、疏理气机的治疗作用。",
+    "mechanism": "温运中焦、疏理气机",
     "indications": [],
     "related_medicines": [
       "medicine_468"
@@ -15580,8 +15710,8 @@
   {
     "id": "effect_677",
     "name": "润肠明目",
-    "description": "润肠明目：润肠通便，明目退翳。",
-    "mechanism": "",
+    "description": "具有润泽大肠、明目、改善视力的治疗作用。",
+    "mechanism": "润泽大肠、明目、改善视力",
     "indications": [],
     "related_medicines": [
       "medicine_469"
@@ -15593,8 +15723,8 @@
   {
     "id": "effect_678",
     "name": "涌吐痰涎",
-    "description": "涌吐痰涎：涌吐痰涎食积，痰浊，涎。",
-    "mechanism": "",
+    "description": "具有涌吐痰食、痰涎的治疗作用。",
+    "mechanism": "涌吐痰食、痰涎",
     "indications": [],
     "related_medicines": [
       "medicine_471"
@@ -15606,8 +15736,8 @@
   {
     "id": "effect_679",
     "name": "解毒收湿",
-    "description": "解毒收湿：解毒，收湿敛疮。",
-    "mechanism": "",
+    "description": "具有解除毒邪、收束湿浊的治疗作用。",
+    "mechanism": "解除毒邪、收束湿浊",
     "indications": [],
     "related_medicines": [
       "medicine_471"
@@ -15619,8 +15749,8 @@
   {
     "id": "effect_680",
     "name": "蚀疮去腐",
-    "description": "蚀疮去腐：腐蚀疮腐，去腐生新。",
-    "mechanism": "",
+    "description": "具有腐蚀疮腐、去除腐肉的治疗作用。",
+    "mechanism": "腐蚀疮腐、去除腐肉",
     "indications": [],
     "related_medicines": [
       "medicine_471"
@@ -15632,8 +15762,8 @@
   {
     "id": "effect_681",
     "name": "解毒燥湿",
-    "description": "解毒燥湿：解毒，苦温或苦寒以燥除湿邪。",
-    "mechanism": "",
+    "description": "具有解除毒邪、燥化湿浊的治疗作用。",
+    "mechanism": "解除毒邪、燥化湿浊",
     "indications": [],
     "related_medicines": [
       "medicine_472"
@@ -15645,8 +15775,8 @@
   {
     "id": "effect_682",
     "name": "杀虫补血",
-    "description": "杀虫补血：杀灭肠寄生虫积，滋养血液。",
-    "mechanism": "",
+    "description": "具有杀灭寄生虫、补益血液的治疗作用。",
+    "mechanism": "杀灭寄生虫、补益血液",
     "indications": [],
     "related_medicines": [
       "medicine_472"
@@ -15658,8 +15788,8 @@
   {
     "id": "effect_683",
     "name": "消肿拔毒",
-    "description": "消肿拔毒：消除水肿、散消肿毒，拔毒外出。",
-    "mechanism": "",
+    "description": "具有消除肿毒、消退肿胀、拔出毒邪的治疗作用。",
+    "mechanism": "消除肿毒、消退肿胀、拔出毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_473"
@@ -15671,8 +15801,8 @@
   {
     "id": "effect_684",
     "name": "泻下通滞",
-    "description": "泻下通滞：泻下通便，通，滞气。",
-    "mechanism": "",
+    "description": "具有泻下通便、通利、滞涩的治疗作用。",
+    "mechanism": "泻下通便、通利、滞涩",
     "indications": [],
     "related_medicines": [
       "medicine_473"
@@ -15684,8 +15814,8 @@
   {
     "id": "effect_685",
     "name": "燥湿敛疮",
-    "description": "燥湿敛疮：苦温或苦寒以燥除湿邪，敛疮生肌。",
-    "mechanism": "",
+    "description": "具有燥化湿浊、收敛疮口的治疗作用。",
+    "mechanism": "燥化湿浊、收敛疮口",
     "indications": [],
     "related_medicines": [
       "medicine_474"
@@ -15697,8 +15827,8 @@
   {
     "id": "effect_686",
     "name": "降压安神",
-    "description": "降压安神：降泄，压，安定神志。",
-    "mechanism": "",
+    "description": "具有降低血压、安定神志的治疗作用。",
+    "mechanism": "降低血压、安定神志",
     "indications": [],
     "related_medicines": [
       "medicine_479"
@@ -15710,8 +15840,8 @@
   {
     "id": "effect_687",
     "name": "解毒消疳",
-    "description": "解毒消疳：解毒，消疳杀虫。",
-    "mechanism": "",
+    "description": "具有解除毒邪、消散、疳积的治疗作用。",
+    "mechanism": "解除毒邪、消散、疳积",
     "indications": [],
     "related_medicines": [
       "medicine_481"
@@ -15723,8 +15853,8 @@
   {
     "id": "effect_688",
     "name": "散瘀止血",
-    "description": "散瘀止血：消散瘀滞，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有消散瘀滞、制止出血的治疗作用。",
+    "mechanism": "消散瘀滞、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_483"
@@ -15736,8 +15866,8 @@
   {
     "id": "effect_689",
     "name": "疏风解表",
-    "description": "疏风解表：疏散风邪，辛散表邪、解除表证。",
-    "mechanism": "",
+    "description": "具有疏泄、风邪、解除表证的治疗作用。",
+    "mechanism": "疏泄、风邪、解除表证",
     "indications": [],
     "related_medicines": [
       "medicine_488"
@@ -15749,8 +15879,8 @@
   {
     "id": "effect_690",
     "name": "消痰利水",
-    "description": "消痰利水：消痰化饮，通利水道、渗湿利水。",
-    "mechanism": "",
+    "description": "具有消导痰饮、通利水道、渗湿利水的治疗作用。",
+    "mechanism": "消导痰饮、通利水道、渗湿利水",
     "indications": [],
     "related_medicines": [
       "medicine_489"
@@ -15762,8 +15892,8 @@
   {
     "id": "effect_691",
     "name": "补虚润肺",
-    "description": "补虚润肺：补益虚损，滋润肺燥。",
-    "mechanism": "",
+    "description": "具有补益、虚损、滋润肺燥的治疗作用。",
+    "mechanism": "补益、虚损、滋润肺燥",
     "indications": [],
     "related_medicines": [
       "medicine_490"
@@ -15775,8 +15905,8 @@
   {
     "id": "effect_692",
     "name": "强筋活络",
-    "description": "强筋活络：强健筋膜，通活脉络。",
-    "mechanism": "",
+    "description": "具有强健筋脉、活络通脉的治疗作用。",
+    "mechanism": "强健筋脉、活络通脉",
     "indications": [],
     "related_medicines": [
       "medicine_490"
@@ -15788,8 +15918,8 @@
   {
     "id": "effect_693",
     "name": "健脾补肺",
-    "description": "健脾补肺：健运脾胃，补益，肺。",
-    "mechanism": "",
+    "description": "具有健运脾胃、补益肺气的治疗作用。",
+    "mechanism": "健运脾胃、补益肺气",
     "indications": [],
     "related_medicines": [
       "medicine_491"
@@ -15801,8 +15931,8 @@
   {
     "id": "effect_694",
     "name": "行气利湿",
-    "description": "行气利湿：通行，气机，祛除湿邪、通利小便。",
-    "mechanism": "",
+    "description": "具有疏理气机、祛除湿邪、通利小便的治疗作用。",
+    "mechanism": "疏理气机、祛除湿邪、通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_491"
@@ -15814,8 +15944,8 @@
   {
     "id": "effect_695",
     "name": "利湿止痛",
-    "description": "利湿止痛：祛除湿邪、通利小便，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有祛除湿邪、通利小便、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "祛除湿邪、通利小便、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_494"
@@ -15827,8 +15957,8 @@
   {
     "id": "effect_696",
     "name": "消食化滞",
-    "description": "消食化滞：消食化滞，化除积滞。",
-    "mechanism": "",
+    "description": "具有消导食积、化解、滞涩的治疗作用。",
+    "mechanism": "消导食积、化解、滞涩",
     "indications": [],
     "related_medicines": [
       "medicine_495"
@@ -15840,8 +15970,8 @@
   {
     "id": "effect_697",
     "name": "化痰排脓",
-    "description": "化痰排脓：化解痰浊，排出痈脓。",
-    "mechanism": "",
+    "description": "具有化解痰浊、排出痈脓的治疗作用。",
+    "mechanism": "化解痰浊、排出痈脓",
     "indications": [],
     "related_medicines": [
       "medicine_498"
@@ -15853,8 +15983,8 @@
   {
     "id": "effect_698",
     "name": "和胃消食",
-    "description": "和胃消食：调和胃气，消食化滞。",
-    "mechanism": "",
+    "description": "具有调和胃气、消导食积的治疗作用。",
+    "mechanism": "调和胃气、消导食积",
     "indications": [],
     "related_medicines": [
       "medicine_499"
@@ -15866,8 +15996,8 @@
   {
     "id": "effect_699",
     "name": "益肾健骨",
-    "description": "益肾健骨：补益肾气，健骨壮筋。",
-    "mechanism": "",
+    "description": "具有补益肾系、强健骨骼的治疗作用。",
+    "mechanism": "补益肾系、强健骨骼",
     "indications": [],
     "related_medicines": [
       "medicine_501"
@@ -15879,8 +16009,8 @@
   {
     "id": "effect_700",
     "name": "消肿托毒",
-    "description": "消肿托毒：消除水肿、散消肿毒，托毒外出。",
-    "mechanism": "",
+    "description": "具有消除肿毒、消退肿胀、托毒、毒邪的治疗作用。",
+    "mechanism": "消除肿毒、消退肿胀、托毒、毒邪",
     "indications": [],
     "related_medicines": [
       "medicine_502"
@@ -15892,8 +16022,8 @@
   {
     "id": "effect_701",
     "name": "排脓杀虫",
-    "description": "排脓杀虫：排出痈脓，杀灭肠寄生虫积。",
-    "mechanism": "",
+    "description": "具有排出痈脓、杀灭寄生虫的治疗作用。",
+    "mechanism": "排出痈脓、杀灭寄生虫",
     "indications": [],
     "related_medicines": [
       "medicine_502"
@@ -15905,8 +16035,8 @@
   {
     "id": "effect_702",
     "name": "升发清阳",
-    "description": "升发清阳：升，发散，清解，阳气。",
-    "mechanism": "",
+    "description": "具有升发、发散、清解、阳气的治疗作用。",
+    "mechanism": "升发、发散、清解、阳气",
     "indications": [],
     "related_medicines": [
       "medicine_506"
@@ -15918,8 +16048,8 @@
   {
     "id": "effect_703",
     "name": "润燥滑肠",
-    "description": "润燥滑肠：润燥，滑，肠。",
-    "mechanism": "",
+    "description": "具有润燥、滑润、大肠的治疗作用。",
+    "mechanism": "润燥、滑润、大肠",
     "indications": [],
     "related_medicines": [
       "medicine_508"
@@ -15931,8 +16061,8 @@
   {
     "id": "effect_704",
     "name": "滋养肝肾",
-    "description": "滋养肝肾：滋，养肝血，肾。",
-    "mechanism": "",
+    "description": "具有滋补、滋养肝血、肾的治疗作用。",
+    "mechanism": "滋补、滋养肝血、肾",
     "indications": [],
     "related_medicines": [
       "medicine_508"
@@ -15944,8 +16074,8 @@
   {
     "id": "effect_705",
     "name": "解暑化湿",
-    "description": "解暑化湿：解散，暑，芳香化湿、运脾化湿。",
-    "mechanism": "",
+    "description": "具有解除、暑邪、芳化湿浊的治疗作用。",
+    "mechanism": "解除、暑邪、芳化湿浊",
     "indications": [],
     "related_medicines": [
       "medicine_509"
@@ -15957,8 +16087,8 @@
   {
     "id": "effect_706",
     "name": "和中健脾",
-    "description": "和中健脾：调和脾胃，健运脾胃。",
-    "mechanism": "",
+    "description": "具有调和脾胃、健运脾胃的治疗作用。",
+    "mechanism": "调和脾胃、健运脾胃",
     "indications": [],
     "related_medicines": [
       "medicine_509"
@@ -15970,8 +16100,8 @@
   {
     "id": "effect_707",
     "name": "补脾益气",
-    "description": "补脾益气：补益脾气，补益元气。",
-    "mechanism": "",
+    "description": "具有补益脾气、补益元气的治疗作用。",
+    "mechanism": "补益脾气、补益元气",
     "indications": [],
     "related_medicines": [
       "medicine_511"
@@ -15983,8 +16113,8 @@
   {
     "id": "effect_708",
     "name": "调和诸药",
-    "description": "调和诸药：调，调和，诸，药。",
-    "mechanism": "",
+    "description": "具有调理、调和、诸多药物的治疗作用。",
+    "mechanism": "调理、调和、诸多药物",
     "indications": [],
     "related_medicines": [
       "medicine_511"
@@ -15996,8 +16126,8 @@
   {
     "id": "effect_709",
     "name": "补脾和胃",
-    "description": "补脾和胃：补益脾气，调和胃气。",
-    "mechanism": "",
+    "description": "具有补益脾气、调和胃气的治疗作用。",
+    "mechanism": "补益脾气、调和胃气",
     "indications": [],
     "related_medicines": [
       "medicine_512"
@@ -16009,8 +16139,8 @@
   {
     "id": "effect_710",
     "name": "益气复脉",
-    "description": "益气复脉：补益元气，复，血脉。",
-    "mechanism": "",
+    "description": "具有补益元气、恢复脉气的治疗作用。",
+    "mechanism": "补益元气、恢复脉气",
     "indications": [],
     "related_medicines": [
       "medicine_512"
@@ -16022,8 +16152,8 @@
   {
     "id": "effect_711",
     "name": "健脾益肺",
-    "description": "健脾益肺：健运脾胃，补益肺气。",
-    "mechanism": "",
+    "description": "具有健运脾胃、补益、肺的治疗作用。",
+    "mechanism": "健运脾胃、补益、肺",
     "indications": [],
     "related_medicines": [
       "medicine_513"
@@ -16035,8 +16165,8 @@
   {
     "id": "effect_712",
     "name": "养血生津",
-    "description": "养血生津：补养阴血，滋生津液。",
-    "mechanism": "",
+    "description": "具有滋养血液、滋生津液的治疗作用。",
+    "mechanism": "滋养血液、滋生津液",
     "indications": [],
     "related_medicines": [
       "medicine_513"
@@ -16048,8 +16178,8 @@
   {
     "id": "effect_713",
     "name": "补脾养胃",
-    "description": "补脾养胃：补益脾气，滋养，胃。",
-    "mechanism": "",
+    "description": "具有补益脾气、滋养胃阴的治疗作用。",
+    "mechanism": "补益脾气、滋养胃阴",
     "indications": [],
     "related_medicines": [
       "medicine_514"
@@ -16061,8 +16191,8 @@
   {
     "id": "effect_714",
     "name": "生津益肺",
-    "description": "生津益肺：滋生津液，补益肺气。",
-    "mechanism": "",
+    "description": "具有滋生津液、补益、肺的治疗作用。",
+    "mechanism": "滋生津液、补益、肺",
     "indications": [],
     "related_medicines": [
       "medicine_514"
@@ -16074,8 +16204,8 @@
   {
     "id": "effect_715",
     "name": "升举阳气",
-    "description": "升举阳气：升，举，阳气，气机。",
-    "mechanism": "",
+    "description": "具有升举、阳气、气机的治疗作用。",
+    "mechanism": "升举、阳气、气机",
     "indications": [],
     "related_medicines": [
       "medicine_515"
@@ -16087,8 +16217,8 @@
   {
     "id": "effect_716",
     "name": "破气消积",
-    "description": "破气消积：破气消积，消导食积。",
-    "mechanism": "",
+    "description": "具有破泄滞气、消导积滞的治疗作用。",
+    "mechanism": "破泄滞气、消导积滞",
     "indications": [],
     "related_medicines": [
       "medicine_516"
@@ -16100,8 +16230,8 @@
   {
     "id": "effect_717",
     "name": "化痰散痞",
-    "description": "化痰散痞：化解痰浊，化痰散痞。",
-    "mechanism": "",
+    "description": "具有化解痰浊、消散痞满的治疗作用。",
+    "mechanism": "化解痰浊、消散痞满",
     "indications": [],
     "related_medicines": [
       "medicine_516"
@@ -16113,8 +16243,8 @@
   {
     "id": "effect_718",
     "name": "渗湿通淋",
-    "description": "渗湿通淋：甘淡渗利以祛湿，通，淋。",
-    "mechanism": "",
+    "description": "具有渗利湿邪、通利淋证的治疗作用。",
+    "mechanism": "渗利湿邪、通利淋证",
     "indications": [],
     "related_medicines": [
       "medicine_517"
@@ -16126,8 +16256,8 @@
   {
     "id": "effect_719",
     "name": "退热除蒸",
-    "description": "退热除蒸：消退，热邪，清退骨蒸劳热。",
-    "mechanism": "",
+    "description": "具有消退热邪、清退骨蒸劳热的治疗作用。",
+    "mechanism": "消退热邪、清退骨蒸劳热",
     "indications": [],
     "related_medicines": [
       "medicine_518"
@@ -16139,8 +16269,8 @@
   {
     "id": "effect_720",
     "name": "清心除烦",
-    "description": "清心除烦：清心凉血，清除烦热。",
-    "mechanism": "",
+    "description": "具有清心凉血、清除烦热的治疗作用。",
+    "mechanism": "清心凉血、清除烦热",
     "indications": [],
     "related_medicines": [
       "medicine_521"
@@ -16152,8 +16282,8 @@
   {
     "id": "effect_721",
     "name": "收涩止带",
-    "description": "收涩止带：收敛固涩，制止，带下。",
-    "mechanism": "",
+    "description": "具有收涩固脱、制止带下的治疗作用。",
+    "mechanism": "收涩固脱、制止带下",
     "indications": [],
     "related_medicines": [
       "medicine_525"
@@ -16165,8 +16295,8 @@
   {
     "id": "effect_722",
     "name": "滑肠通便",
-    "description": "滑肠通便：滑，肠，通利大便。",
-    "mechanism": "",
+    "description": "具有滑润、大肠、通导大便的治疗作用。",
+    "mechanism": "滑润、大肠、通导大便",
     "indications": [],
     "related_medicines": [
       "medicine_526"
@@ -16178,8 +16308,8 @@
   {
     "id": "effect_723",
     "name": "养血息风",
-    "description": "养血息风：补养阴血，平息肝风。",
-    "mechanism": "",
+    "description": "具有滋养血液、平息肝风的治疗作用。",
+    "mechanism": "滋养血液、平息肝风",
     "indications": [],
     "related_medicines": [
       "medicine_529"
@@ -16191,8 +16321,8 @@
   {
     "id": "effect_724",
     "name": "行水消肿",
-    "description": "行水消肿：通利水道，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有通行水湿、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "通行水湿、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_532"
@@ -16204,8 +16334,8 @@
   {
     "id": "effect_725",
     "name": "化痰开窍",
-    "description": "化痰开窍：化解痰浊，开通心窍清窍。",
-    "mechanism": "",
+    "description": "具有化解痰浊、开通心窍的治疗作用。",
+    "mechanism": "化解痰浊、开通心窍",
     "indications": [],
     "related_medicines": [
       "medicine_536"
@@ -16217,8 +16347,8 @@
   {
     "id": "effect_726",
     "name": "排脓利湿",
-    "description": "排脓利湿：排出痈脓，祛除湿邪、通利小便。",
-    "mechanism": "",
+    "description": "具有排出痈脓、祛除湿邪、通利小便的治疗作用。",
+    "mechanism": "排出痈脓、祛除湿邪、通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_540"
@@ -16230,8 +16360,8 @@
   {
     "id": "effect_727",
     "name": "解毒排脓",
-    "description": "解毒排脓：解毒，排出痈脓。",
-    "mechanism": "",
+    "description": "具有解除毒邪、排出痈脓的治疗作用。",
+    "mechanism": "解除毒邪、排出痈脓",
     "indications": [],
     "related_medicines": [
       "medicine_547"
@@ -16243,8 +16373,8 @@
   {
     "id": "effect_728",
     "name": "解酒醒脾",
-    "description": "解酒醒脾：解散，酒，醒脾开胃。",
-    "mechanism": "",
+    "description": "具有解除酒毒、醒悦脾气的治疗作用。",
+    "mechanism": "解除酒毒、醒悦脾气",
     "indications": [],
     "related_medicines": [
       "medicine_548"
@@ -16256,8 +16386,8 @@
   {
     "id": "effect_729",
     "name": "消积止痛",
-    "description": "消积止痛：消导食积，缓急缓解疼痛。",
-    "mechanism": "",
+    "description": "具有消导积滞、缓急止痛、制止疼痛的治疗作用。",
+    "mechanism": "消导积滞、缓急止痛、制止疼痛",
     "indications": [],
     "related_medicines": [
       "medicine_549"
@@ -16269,8 +16399,8 @@
   {
     "id": "effect_730",
     "name": "排脓消痈",
-    "description": "排脓消痈：排出痈脓，消散热毒痈肿。",
-    "mechanism": "",
+    "description": "具有排出痈脓、消散痈肿的治疗作用。",
+    "mechanism": "排出痈脓、消散痈肿",
     "indications": [],
     "related_medicines": [
       "medicine_552"
@@ -16282,8 +16412,8 @@
   {
     "id": "effect_731",
     "name": "利湿",
-    "description": "利湿：祛除湿邪、通利小便。",
-    "mechanism": "",
+    "description": "具有祛除湿邪、通利小便的治疗作用。",
+    "mechanism": "祛除湿邪、通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_552"
@@ -16295,8 +16425,8 @@
   {
     "id": "effect_732",
     "name": "通利二便",
-    "description": "通利二便：通，通利，二，便。",
-    "mechanism": "",
+    "description": "具有通利、二便（大小便）的治疗作用。",
+    "mechanism": "通利、二便（大小便）",
     "indications": [],
     "related_medicines": [
       "medicine_553"
@@ -16308,8 +16438,8 @@
   {
     "id": "effect_733",
     "name": "解表祛暑",
-    "description": "解表祛暑：辛散表邪、解除表证，祛，暑。",
-    "mechanism": "",
+    "description": "具有解除表证、祛除、暑邪的治疗作用。",
+    "mechanism": "解除表证、祛除、暑邪",
     "indications": [],
     "related_medicines": [
       "medicine_555"
@@ -16321,8 +16451,8 @@
   {
     "id": "effect_734",
     "name": "理气散结",
-    "description": "理气散结：疏理气机，消散结聚。",
-    "mechanism": "",
+    "description": "具有疏理气机、消散结聚的治疗作用。",
+    "mechanism": "疏理气机、消散结聚",
     "indications": [],
     "related_medicines": [
       "medicine_557"
@@ -16334,8 +16464,8 @@
   {
     "id": "effect_735",
     "name": "消瘿瘤",
-    "description": "消瘿瘤：消瘿瘤，瘤。",
-    "mechanism": "",
+    "description": "具有消散瘿瘤、瘤结的治疗作用。",
+    "mechanism": "消散瘿瘤、瘤结",
     "indications": [],
     "related_medicines": [
       "medicine_559"
@@ -16347,8 +16477,8 @@
   {
     "id": "effect_736",
     "name": "温肾阳",
-    "description": "温肾阳：温煦，肾，阳气。",
-    "mechanism": "",
+    "description": "具有温补肾阳的治疗作用。",
+    "mechanism": "温补肾阳",
     "indications": [],
     "related_medicines": [
       "medicine_561"
@@ -16360,8 +16490,8 @@
   {
     "id": "effect_737",
     "name": "行血消肿",
-    "description": "行血消肿：通行血分，消除水肿、散消肿毒。",
-    "mechanism": "",
+    "description": "具有通行血脉、消除肿毒、消退肿胀的治疗作用。",
+    "mechanism": "通行血脉、消除肿毒、消退肿胀",
     "indications": [],
     "related_medicines": [
       "medicine_561"
@@ -16373,8 +16503,8 @@
   {
     "id": "effect_738",
     "name": "泻水通便",
-    "description": "泻水通便：泻水逐饮，通利大便。",
-    "mechanism": "",
+    "description": "具有泻下、水湿、通导大便的治疗作用。",
+    "mechanism": "泻下、水湿、通导大便",
     "indications": [],
     "related_medicines": [
       "medicine_563"
@@ -16386,8 +16516,8 @@
   {
     "id": "effect_739",
     "name": "消痰涤饮",
-    "description": "消痰涤饮：消痰化饮，涤除痰饮。",
-    "mechanism": "",
+    "description": "具有消导痰饮、涤荡、饮邪的治疗作用。",
+    "mechanism": "消导痰饮、涤荡、饮邪",
     "indications": [],
     "related_medicines": [
       "medicine_563"
@@ -16399,8 +16529,8 @@
   {
     "id": "effect_740",
     "name": "杀虫攻积",
-    "description": "杀虫攻积：杀灭肠寄生虫积，攻逐，积滞。",
-    "mechanism": "",
+    "description": "具有杀灭寄生虫、攻逐积滞的治疗作用。",
+    "mechanism": "杀灭寄生虫、攻逐积滞",
     "indications": [],
     "related_medicines": [
       "medicine_563"
@@ -16412,8 +16542,8 @@
   {
     "id": "effect_741",
     "name": "涌吐",
-    "description": "涌吐：涌吐痰涎食积。",
-    "mechanism": "",
+    "description": "具有涌吐痰食的治疗作用。",
+    "mechanism": "涌吐痰食",
     "indications": [],
     "related_medicines": [
       "medicine_564"
@@ -16425,8 +16555,8 @@
   {
     "id": "effect_742",
     "name": "润燥",
-    "description": "润燥：润燥。",
-    "mechanism": "",
+    "description": "具有润燥的治疗作用。",
+    "mechanism": "润燥",
     "indications": [],
     "related_medicines": [
       "medicine_564"
@@ -16438,8 +16568,8 @@
   {
     "id": "effect_743",
     "name": "攻坚破积",
-    "description": "攻坚破积：攻逐，坚，破，积滞。",
-    "mechanism": "",
+    "description": "具有攻逐、坚结、破散、积滞的治疗作用。",
+    "mechanism": "攻逐、坚结、破散、积滞",
     "indications": [],
     "related_medicines": [
       "medicine_565"
@@ -16451,8 +16581,8 @@
   {
     "id": "effect_744",
     "name": "利水泻下",
-    "description": "利水泻下：通利水道、渗湿利水，泻下通便。",
-    "mechanism": "",
+    "description": "具有通利水道、渗湿利水、泻下通便的治疗作用。",
+    "mechanism": "通利水道、渗湿利水、泻下通便",
     "indications": [],
     "related_medicines": [
       "medicine_565"
@@ -16464,8 +16594,8 @@
   {
     "id": "effect_745",
     "name": "通血脉",
-    "description": "通血脉：通，血分，血脉。",
-    "mechanism": "",
+    "description": "具有通利、血分、血脉的治疗作用。",
+    "mechanism": "通利、血分、血脉",
     "indications": [],
     "related_medicines": [
       "medicine_568"
@@ -16477,8 +16607,8 @@
   {
     "id": "effect_746",
     "name": "行药势",
-    "description": "行药势：通行，药，势。",
-    "mechanism": "",
+    "description": "具有通行、药力走势的治疗作用。",
+    "mechanism": "通行、药力走势",
     "indications": [],
     "related_medicines": [
       "medicine_568"
@@ -16490,8 +16620,8 @@
   {
     "id": "effect_747",
     "name": "清心润肺",
-    "description": "清心润肺：清心凉血，滋润肺燥。",
-    "mechanism": "",
+    "description": "具有清心凉血、滋润肺燥的治疗作用。",
+    "mechanism": "清心凉血、滋润肺燥",
     "indications": [],
     "related_medicines": [
       "medicine_569"
@@ -16503,8 +16633,8 @@
   {
     "id": "effect_748",
     "name": "降火生津",
-    "description": "降火生津：降泄，火热，滋生津液。",
-    "mechanism": "",
+    "description": "具有降泄火热、滋生津液的治疗作用。",
+    "mechanism": "降泄火热、滋生津液",
     "indications": [],
     "related_medicines": [
       "medicine_569"
@@ -16516,8 +16646,8 @@
   {
     "id": "effect_749",
     "name": "清暑解热",
-    "description": "清暑解热：清解暑热，解散，热邪。",
-    "mechanism": "",
+    "description": "具有清解、暑邪、解除、热邪的治疗作用。",
+    "mechanism": "清解、暑邪、解除、热邪",
     "indications": [],
     "related_medicines": [
       "medicine_570"
@@ -16529,8 +16659,8 @@
   {
     "id": "effect_750",
     "name": "止渴利小便",
-    "description": "止渴利小便：制止，渴，通利，小，便。",
-    "mechanism": "",
+    "description": "具有制止口渴、通利小便的治疗作用。",
+    "mechanism": "制止口渴、通利小便",
     "indications": [],
     "related_medicines": [
       "medicine_570"
@@ -16542,8 +16672,8 @@
   {
     "id": "effect_751",
     "name": "和胃润肺",
-    "description": "和胃润肺：调和胃气，滋润肺燥。",
-    "mechanism": "",
+    "description": "具有调和胃气、滋润肺燥的治疗作用。",
+    "mechanism": "调和胃气、滋润肺燥",
     "indications": [],
     "related_medicines": [
       "medicine_572"
@@ -16555,8 +16685,8 @@
   {
     "id": "effect_752",
     "name": "养血润燥",
-    "description": "养血润燥：补养阴血，润燥。",
-    "mechanism": "",
+    "description": "具有滋养血液、润燥的治疗作用。",
+    "mechanism": "滋养血液、润燥",
     "indications": [],
     "related_medicines": [
       "medicine_573"
@@ -16568,8 +16698,8 @@
   {
     "id": "effect_753",
     "name": "涩精止血",
-    "description": "涩精止血：涩，肾精，收敛或凉血以止血。",
-    "mechanism": "",
+    "description": "具有固涩精气、制止出血的治疗作用。",
+    "mechanism": "固涩精气、制止出血",
     "indications": [],
     "related_medicines": [
       "medicine_574"

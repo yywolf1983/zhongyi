@@ -21,6 +21,7 @@
       "syndrome_017",
       "syndrome_036",
       "syndrome_042",
+      "syndrome_049",
       "syndrome_059",
       "syndrome_061",
       "syndrome_064",
@@ -33,7 +34,7 @@
       "formula_005",
       "formula_030",
       "formula_031",
-      "formula_077",
+      "formula_115",
       "formula_078",
       "formula_080"
     ],
@@ -68,11 +69,13 @@
       "syndrome_003",
       "syndrome_037",
       "syndrome_051",
+      "syndrome_062",
+      "syndrome_069",
       "syndrome_083"
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004",
+      "formula_123",
       "formula_005",
       "formula_030",
       "formula_031",
@@ -103,11 +106,14 @@
     "modern_explanation": "益气健脾法通过调节胃肠功能、促进营养吸收、增强体质来治疗脾胃虚弱，相当于现代医学的营养支持和功能调节",
     "related_syndromes": [
       "syndrome_003",
+      "syndrome_026",
       "syndrome_045",
       "syndrome_048",
+      "syndrome_056",
       "syndrome_059",
       "syndrome_063",
       "syndrome_067",
+      "syndrome_074",
       "syndrome_086",
       "syndrome_087"
     ],
@@ -153,7 +159,9 @@
       "syndrome_004",
       "syndrome_046",
       "syndrome_058",
+      "syndrome_071",
       "syndrome_073",
+      "syndrome_077",
       "syndrome_081"
     ],
     "related_formulas": [
@@ -200,12 +208,12 @@
     ],
     "related_formulas": [
       "formula_009",
-      "formula_010",
+      "formula_108",
       "formula_021",
       "formula_025",
       "formula_026",
       "formula_042",
-      "formula_043",
+      "formula_110",
       "formula_052",
       "formula_054",
       "formula_055",
@@ -272,14 +280,17 @@
     "related_syndromes": [
       "syndrome_007",
       "syndrome_033",
+      "syndrome_037",
       "syndrome_038",
-      "syndrome_049"
+      "syndrome_049",
+      "syndrome_055",
+      "syndrome_064"
     ],
     "related_formulas": [
       "formula_005",
       "formula_012",
       "formula_063",
-      "formula_064",
+      "formula_116",
       "formula_066",
       "formula_067"
     ],
@@ -310,6 +321,7 @@
       "syndrome_029",
       "syndrome_048",
       "syndrome_060",
+      "syndrome_068",
       "syndrome_085"
     ],
     "related_formulas": [
@@ -348,9 +360,11 @@
       "syndrome_013",
       "syndrome_023",
       "syndrome_034",
+      "syndrome_053",
       "syndrome_055",
       "syndrome_056",
       "syndrome_057",
+      "syndrome_074",
       "syndrome_079",
       "syndrome_082"
     ],
@@ -358,16 +372,16 @@
       "formula_003",
       "formula_006",
       "formula_007",
-      "formula_010",
+      "formula_108",
       "formula_014",
       "formula_016",
       "formula_019",
       "formula_029",
       "formula_039",
-      "formula_045",
-      "formula_046",
-      "formula_073",
-      "formula_075"
+      "formula_120",
+      "formula_103",
+      "formula_106",
+      "formula_107"
     ],
     "related_needle": [
       "needle_002",
@@ -446,19 +460,21 @@
       "syndrome_057",
       "syndrome_069",
       "syndrome_070",
+      "syndrome_071",
       "syndrome_078",
+      "syndrome_081",
       "syndrome_089"
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004",
+      "formula_123",
       "formula_008",
       "formula_016",
       "formula_019",
       "formula_029",
-      "formula_073",
+      "formula_106",
       "formula_074",
-      "formula_075"
+      "formula_107"
     ],
     "related_needle": [
       "needle_002",
@@ -497,11 +513,11 @@
     "related_formulas": [
       "formula_017",
       "formula_056",
-      "formula_077",
+      "formula_115",
       "formula_081",
       "formula_082",
-      "formula_083",
-      "formula_084"
+      "formula_234",
+      "formula_114"
     ],
     "related_needle": [
       "needle_012",
@@ -541,7 +557,7 @@
       "formula_018",
       "formula_023",
       "formula_024",
-      "formula_045"
+      "formula_120"
     ],
     "related_needle": [
       "needle_013",
@@ -599,6 +615,7 @@
     "modern_explanation": "补气活血法通过改善微循环、抗血小板聚集、保护神经功能来治疗气虚血瘀，相当于现代医学的抗血栓治疗和康复治疗",
     "related_syndromes": [
       "syndrome_015",
+      "syndrome_035",
       "syndrome_068"
     ],
     "related_formulas": [
@@ -681,7 +698,7 @@
       "formula_029",
       "formula_068",
       "formula_069",
-      "formula_073"
+      "formula_106"
     ],
     "related_needle": [
       "needle_001",
@@ -707,12 +724,14 @@
     "modern_explanation": "回阳救逆法通过强心、升压、改善休克状态来救治阳气衰微的危重症",
     "related_syndromes": [
       "syndrome_022",
-      "syndrome_027"
+      "syndrome_027",
+      "syndrome_065",
+      "syndrome_075"
     ],
     "related_formulas": [
       "formula_025",
       "formula_026",
-      "formula_077",
+      "formula_115",
       "formula_081"
     ],
     "related_needle": [
@@ -740,7 +759,11 @@
       "syndrome_019",
       "syndrome_025",
       "syndrome_041",
-      "syndrome_062"
+      "syndrome_052",
+      "syndrome_054",
+      "syndrome_062",
+      "syndrome_063",
+      "syndrome_072"
     ],
     "related_formulas": [
       "formula_003",
@@ -780,7 +803,7 @@
       "formula_069",
       "formula_070",
       "formula_071",
-      "formula_075"
+      "formula_107"
     ],
     "related_needle": [
       "needle_003",
@@ -814,7 +837,7 @@
     ],
     "related_formulas": [
       "formula_070",
-      "formula_077",
+      "formula_115",
       "formula_078",
       "formula_081",
       "formula_082"
@@ -877,7 +900,8 @@
     "related_syndromes": [
       "syndrome_025",
       "syndrome_029",
-      "syndrome_038"
+      "syndrome_038",
+      "syndrome_080"
     ],
     "related_formulas": [
       "formula_005",
@@ -915,7 +939,7 @@
     ],
     "related_formulas": [
       "formula_003",
-      "formula_004",
+      "formula_123",
       "formula_005",
       "formula_006",
       "formula_014"
@@ -986,8 +1010,8 @@
     "related_formulas": [
       "formula_056",
       "formula_081",
-      "formula_083",
-      "formula_084"
+      "formula_234",
+      "formula_114"
     ],
     "related_needle": [
       "needle_012",
@@ -1016,7 +1040,7 @@
       "syndrome_084"
     ],
     "related_formulas": [
-      "formula_077",
+      "formula_115",
       "formula_078",
       "formula_081",
       "formula_082"
@@ -1084,7 +1108,7 @@
       "formula_068",
       "formula_069",
       "formula_070",
-      "formula_073"
+      "formula_106"
     ],
     "related_needle": [
       "needle_005",
