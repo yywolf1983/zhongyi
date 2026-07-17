@@ -800,7 +800,6 @@ mark,
   padding: 0;
   box-shadow: none;
   border: none;
-  animation: fadeInUp 0.35s var(--transition-slow);
 }
 /* 返回按钮：浮动显示（随页面滚动固定于左上） */
 .back-button {
@@ -852,34 +851,36 @@ mark,
   transform: scale(0.96);
 }
 
-/* 详情页返回：左侧中部悬浮圆形图标（毛玻璃 + 霁青蓝） */
+/* 详情页返回：浮动圆形图标（绝对定位于内容区左上角，不占用内容行，避开底部系统导航/手势区） */
 .back-fab {
   position: fixed;
-  left: 14px;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 60;
+  top: calc(var(--safe-top) + 56px);
+  left: var(--space-md);
+  z-index: 200;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 46px;
-  height: 46px;
+  width: 44px;
+  height: 44px;
   padding: 0;
-  background: rgba(31, 63, 87, 0.92);
-  border: 1px solid rgba(255, 255, 255, 0.16);
+  background-color: #2f5d7c;
+  opacity: 1;
+  border: none;
   border-radius: 50%;
   cursor: pointer;
   transition: transform var(--transition-normal), box-shadow var(--transition-normal), background var(--transition-normal);
   color: #fff;
-  box-shadow: var(--shadow-lg);
-  backdrop-filter: saturate(1.3) blur(10px);
-  -webkit-backdrop-filter: saturate(1.3) blur(10px);
+  box-shadow: var(--shadow-md);
   -webkit-appearance: none;
   -webkit-tap-highlight-color: transparent;
 }
+/* 返回按钮（Portal 到 body，fixed 常驻左上）浮于内容左上角，其后内容向右让出空间，与标题共处一行 */
+.detail-container > :first-child {
+  padding-left: 56px;
+}
 .back-fab:active {
-  transform: translateY(-50%) scale(0.92);
-  background: rgba(31, 63, 87, 1);
+  transform: scale(0.92);
+  background: #244c69;
 }
 .back-fab svg {
   width: 24px;
@@ -1667,7 +1668,7 @@ mark,
 /* ===== Scroll to Top Button ===== */
 .scroll-top-btn {
   position: fixed;
-  bottom: calc(var(--space-2xl) + var(--safe-bottom));
+  bottom: calc(var(--safe-bottom) + 72px);
   right: var(--space-xl);
   width: 50px;
   height: 50px;
@@ -1681,7 +1682,7 @@ mark,
   align-items: center;
   justify-content: center;
   font-size: 1.4rem;
-  z-index: 50;
+  z-index: 300;
   transition: all var(--transition-normal);
   opacity: 0;
   transform: translateY(20px);
@@ -1909,8 +1910,7 @@ mark,
     font-size: var(--font-size-md);
   }
 
-  .back-button,
-  .back-fab {
+  .back-button {
     padding: var(--space-sm) var(--space-md);
     font-size: var(--font-size-sm);
   }
@@ -2092,8 +2092,7 @@ mark,
     padding: 3px 8px;
   }
 
-  .back-button,
-  .back-fab {
+  .back-button {
     padding: var(--space-sm) var(--space-sm);
     font-size: var(--font-size-sm);
   }

@@ -8,6 +8,7 @@ import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
+import FloatingBackButton from '../common/FloatingBackButton.jsx'
 
 export default function FormulaModule() {
   const navigate = useNavigate()
@@ -139,9 +140,8 @@ export default function FormulaModule() {
 
     return (
       <div className="detail-container">
-        <button className="back-fab" onClick={handleBack} aria-label="返回">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
-        </button>
+      <FloatingBackButton onClick={handleBack} />
+
 
         <div className="detail-header-row">
           <div className="detail-header">
@@ -317,9 +317,8 @@ export default function FormulaModule() {
 
     return (
       <div className="detail-container">
-        <button className="back-fab" onClick={handleBack} aria-label="返回">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
-        </button>
+      <FloatingBackButton onClick={handleBack} />
+
 
         <div className="detail-header-row">
           <div className="detail-header">

@@ -7,6 +7,7 @@ import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
+import FloatingBackButton from '../common/FloatingBackButton.jsx'
 
 // 经外奇穴部位子类列表（固定顺序）
 const EXTRA_POINT_SUBCATEGORIES = ['头颈部奇穴', '胸腹部奇穴', '背腰部奇穴', '上肢部奇穴', '下肢部奇穴', '其他奇穴']
@@ -202,9 +203,7 @@ export default function AcupunctureModule() {
 
     return (
       <div className="detail-container">
-        <button className="back-fab" onClick={handleBack} aria-label="返回">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
-        </button>
+        <FloatingBackButton onClick={handleBack} />
 
         <div className="detail-header-row">
           <div className="detail-header">
@@ -361,9 +360,7 @@ export default function AcupunctureModule() {
 
     return (
       <div className="detail-container">
-        <button className="back-fab" onClick={handleBack} aria-label="返回">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
-        </button>
+        <FloatingBackButton onClick={handleBack} />
 
         <div className="detail-header-row">
           <div className="detail-header">

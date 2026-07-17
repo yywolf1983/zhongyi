@@ -1,4 +1,5 @@
 import { useEffect, useState, useCallback } from 'react'
+import { createPortal } from 'react-dom'
 import { BrowserRouter, Routes, Route, useLocation, useNavigate } from 'react-router-dom'
 import { AppProvider } from '../context/AppContext'
 import Header from '../components/common/Header'
@@ -29,7 +30,7 @@ function ScrollTopButton() {
 
   useEffect(() => {
     const onScroll = () => {
-      setVisible(window.scrollY > 400)
+      setVisible(window.scrollY > 100)
     }
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
@@ -39,14 +40,15 @@ function ScrollTopButton() {
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
-  return (
+  return createPortal(
     <button
       className={`scroll-top-btn ${visible ? 'visible' : ''}`}
       onClick={scrollToTop}
       aria-label="回到顶部"
     >
       ↑
-    </button>
+    </button>,
+    document.body
   )
 }
 
