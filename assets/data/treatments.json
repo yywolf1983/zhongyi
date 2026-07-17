@@ -1,1153 +1,1373 @@
 [
-  {
-    "id": "treatment_001",
-    "name": "辛温解表法",
-    "category": "解表法",
-    "principle": "发散风寒，解除表证",
-    "indications": [
-      "风寒感冒",
-      "风寒咳嗽",
-      "风寒头痛"
-    ],
-    "methods": [
-      "药物治疗：麻黄汤、桂枝汤",
-      "针灸治疗：风池、大椎、合谷",
-      "艾灸治疗：风门、肺俞"
-    ],
-    "modern_explanation": "辛温解表法通过促进汗腺分泌、改善微循环、增强免疫力来治疗风寒感冒，相当于现代医学的对症治疗和支持治疗",
-    "related_syndromes": [
-      "syndrome_001",
-      "syndrome_016",
-      "syndrome_017",
-      "syndrome_036",
-      "syndrome_042",
-      "syndrome_049",
-      "syndrome_059",
-      "syndrome_061",
-      "syndrome_064",
-      "syndrome_088"
-    ],
-    "related_formulas": [
-      "formula_001",
-      "formula_002",
-      "formula_003",
-      "formula_005",
-      "formula_030",
-      "formula_031",
-      "formula_115",
-      "formula_078",
-      "formula_080"
-    ],
-    "related_needle": [
-      "needle_001",
-      "needle_003",
-      "needle_005",
-      "needle_006",
-      "needle_015",
-      "needle_016",
-      "needle_079"
-    ]
-  },
-  {
-    "id": "treatment_002",
-    "name": "辛凉解表法",
-    "category": "解表法",
-    "principle": "疏散风热，清热解毒",
-    "indications": [
-      "风热感冒",
-      "温病初起",
-      "咽喉肿痛"
-    ],
-    "methods": [
-      "药物治疗：银翘散、桑菊饮",
-      "针灸治疗：风池、大椎、合谷",
-      "放血疗法：少商、商阳"
-    ],
-    "modern_explanation": "辛凉解表法通过抑制病原微生物、减轻炎症反应、降低体温来治疗风热感冒，相当于现代医学的抗感染和抗炎治疗",
-    "related_syndromes": [
-      "syndrome_002",
-      "syndrome_003",
-      "syndrome_037",
-      "syndrome_051",
-      "syndrome_062",
-      "syndrome_069",
-      "syndrome_083"
-    ],
-    "related_formulas": [
-      "formula_003",
-      "formula_123",
-      "formula_005",
-      "formula_030",
-      "formula_031",
-      "formula_065"
-    ],
-    "related_needle": [
-      "needle_002",
-      "needle_003",
-      "needle_080"
-    ]
-  },
-  {
-    "id": "treatment_003",
-    "name": "益气健脾法",
-    "category": "补益法",
-    "principle": "补益脾气，增强运化",
-    "indications": [
-      "脾胃虚弱",
-      "气虚乏力",
-      "食欲不振",
-      "大便溏薄"
-    ],
-    "methods": [
-      "药物治疗：四君子汤、参苓白术散",
-      "针灸治疗：中脘、足三里、脾俞",
-      "艾灸治疗：足三里、中脘"
-    ],
-    "modern_explanation": "益气健脾法通过调节胃肠功能、促进营养吸收、增强体质来治疗脾胃虚弱，相当于现代医学的营养支持和功能调节",
-    "related_syndromes": [
-      "syndrome_003",
-      "syndrome_026",
-      "syndrome_045",
-      "syndrome_048",
-      "syndrome_056",
-      "syndrome_059",
-      "syndrome_063",
-      "syndrome_067",
-      "syndrome_074",
-      "syndrome_086",
-      "syndrome_087"
-    ],
-    "related_formulas": [
-      "formula_005",
-      "formula_006",
-      "formula_007",
-      "formula_030",
-      "formula_031",
-      "formula_034",
-      "formula_035",
-      "formula_036",
-      "formula_041",
-      "formula_056"
-    ],
-    "related_needle": [
-      "needle_003",
-      "needle_006",
-      "needle_010",
-      "needle_015",
-      "needle_019",
-      "needle_071"
-    ]
-  },
-  {
-    "id": "treatment_004",
-    "name": "疏肝理气法",
-    "category": "理气法",
-    "principle": "疏解肝郁，调和气机",
-    "indications": [
-      "肝郁气滞",
-      "胸闷胁痛",
-      "烦躁易怒",
-      "月经不调"
-    ],
-    "methods": [
-      "药物治疗：逍遥散、小柴胡汤",
-      "针灸治疗：太冲、行间、期门",
-      "情志调节"
-    ],
-    "modern_explanation": "疏肝理气法通过调节神经系统功能、改善情绪状态、缓解躯体症状来治疗肝郁气滞，相当于现代医学的心理治疗和对症治疗",
-    "related_syndromes": [
-      "syndrome_004",
-      "syndrome_046",
-      "syndrome_058",
-      "syndrome_071",
-      "syndrome_073",
-      "syndrome_077",
-      "syndrome_081"
-    ],
-    "related_formulas": [
-      "formula_003",
-      "formula_007",
-      "formula_008",
-      "formula_019",
-      "formula_021",
-      "formula_022",
-      "formula_052",
-      "formula_074"
-    ],
-    "related_needle": [
-      "needle_004",
-      "needle_066",
-      "needle_078"
-    ]
-  },
-  {
-    "id": "treatment_005",
-    "name": "温补肾阳法",
-    "category": "补益法",
-    "principle": "温补肾阳，增强气化",
-    "indications": [
-      "肾阳虚",
-      "畏寒怕冷",
-      "腰膝酸软",
-      "夜尿多",
-      "阳痿早泄"
-    ],
-    "methods": [
-      "药物治疗：金匮肾气丸、右归丸",
-      "针灸治疗：关元、肾俞、命门",
-      "艾灸治疗：关元、气海"
-    ],
-    "modern_explanation": "温补肾阳法通过调节内分泌功能、改善能量代谢、增强生殖功能来治疗肾阳虚，相当于现代医学的激素替代治疗和功能调节",
-    "related_syndromes": [
-      "syndrome_005",
-      "syndrome_029",
-      "syndrome_046",
-      "syndrome_058",
-      "syndrome_060",
-      "syndrome_075"
-    ],
-    "related_formulas": [
-      "formula_009",
-      "formula_108",
-      "formula_021",
-      "formula_025",
-      "formula_026",
-      "formula_042",
-      "formula_110",
-      "formula_052",
-      "formula_054",
-      "formula_055",
-      "formula_056"
-    ],
-    "related_needle": [
-      "needle_004",
-      "needle_005",
-      "needle_008",
-      "needle_020",
-      "needle_036"
-    ]
-  },
-  {
-    "id": "treatment_006",
-    "name": "养阴润肺法",
-    "category": "补益法",
-    "principle": "滋养肺阴，润燥止咳",
-    "indications": [
-      "肺阴虚",
-      "干咳无痰",
-      "咽干声嘶",
-      "手足心热"
-    ],
-    "methods": [
-      "药物治疗：沙参麦冬汤、养阴清肺汤",
-      "针灸治疗：肺俞、足三里、中脘",
-      "食疗：百合、银耳"
-    ],
-    "modern_explanation": "养阴润肺法通过滋阴润燥、增强免疫、改善呼吸道黏膜功能来治疗肺阴虚，相当于现代医学的对症治疗和营养支持",
-    "related_syndromes": [
-      "syndrome_006",
-      "syndrome_067",
-      "syndrome_074"
-    ],
-    "related_formulas": [
-      "formula_011",
-      "formula_030",
-      "formula_037",
-      "formula_041"
-    ],
-    "related_needle": [
-      "needle_006",
-      "needle_064"
-    ]
-  },
-  {
-    "id": "treatment_007",
-    "name": "燥湿化痰法",
-    "category": "祛湿法",
-    "principle": "干燥湿邪，化解痰饮",
-    "indications": [
-      "痰湿内阻",
-      "咳嗽痰多",
-      "胸闷气喘",
-      "肢体沉重"
-    ],
-    "methods": [
-      "药物治疗：二陈汤、三子养亲汤",
-      "针灸治疗：中脘、足三里、阴陵泉",
-      "食疗：薏米、冬瓜"
-    ],
-    "modern_explanation": "燥湿化痰法通过调节胃肠功能、促进痰液排出、改善呼吸功能来治疗痰湿内阻，相当于现代医学的祛痰治疗和呼吸支持",
-    "related_syndromes": [
-      "syndrome_007",
-      "syndrome_033",
-      "syndrome_037",
-      "syndrome_038",
-      "syndrome_049",
-      "syndrome_055",
-      "syndrome_064"
-    ],
-    "related_formulas": [
-      "formula_005",
-      "formula_012",
-      "formula_063",
-      "formula_116",
-      "formula_066",
-      "formula_067"
-    ],
-    "related_needle": [
-      "needle_007",
-      "needle_012"
-    ]
-  },
-  {
-    "id": "treatment_008",
-    "name": "活血化瘀法",
-    "category": "理血法",
-    "principle": "促进血液运行，消除瘀血",
-    "indications": [
-      "气滞血瘀",
-      "疼痛固定",
-      "面色晦暗",
-      "月经不调"
-    ],
-    "methods": [
-      "药物治疗：血府逐瘀汤、桃红四物汤",
-      "针灸治疗：太冲、血海、内关",
-      "推拿按摩"
-    ],
-    "modern_explanation": "活血化瘀法通过改善微循环、抗血小板聚集、调节血脂来治疗气滞血瘀，相当于现代医学的抗血栓治疗和心血管保护",
-    "related_syndromes": [
-      "syndrome_008",
-      "syndrome_029",
-      "syndrome_048",
-      "syndrome_060",
-      "syndrome_068",
-      "syndrome_085"
-    ],
-    "related_formulas": [
-      "formula_013",
-      "formula_030",
-      "formula_054",
-      "formula_055",
-      "formula_056"
-    ],
-    "related_needle": [
-      "needle_003",
-      "needle_008",
-      "needle_020",
-      "needle_073"
-    ]
-  },
-  {
-    "id": "treatment_009",
-    "name": "滋阴降火法",
-    "category": "补益法",
-    "principle": "滋养阴液，清除虚火",
-    "indications": [
-      "阴虚火旺",
-      "潮热盗汗",
-      "口干咽燥",
-      "头晕耳鸣"
-    ],
-    "methods": [
-      "药物治疗：知柏地黄丸、大补阴丸",
-      "针灸治疗：百会、肺俞、肾俞",
-      "食疗：银耳、莲子"
-    ],
-    "modern_explanation": "滋阴降火法通过调节内分泌、改善代谢、镇静安神来治疗阴虚火旺，相当于现代医学的激素调节和对症治疗",
-    "related_syndromes": [
-      "syndrome_009",
-      "syndrome_013",
-      "syndrome_023",
-      "syndrome_034",
-      "syndrome_053",
-      "syndrome_055",
-      "syndrome_056",
-      "syndrome_057",
-      "syndrome_074",
-      "syndrome_079",
-      "syndrome_082"
-    ],
-    "related_formulas": [
-      "formula_003",
-      "formula_006",
-      "formula_007",
-      "formula_108",
-      "formula_014",
-      "formula_016",
-      "formula_019",
-      "formula_029",
-      "formula_039",
-      "formula_120",
-      "formula_103",
-      "formula_106",
-      "formula_107"
-    ],
-    "related_needle": [
-      "needle_002",
-      "needle_003",
-      "needle_007",
-      "needle_009",
-      "needle_011",
-      "needle_013",
-      "needle_052"
-    ]
-  },
-  {
-    "id": "treatment_010",
-    "name": "补血养血法",
-    "category": "补益法",
-    "principle": "补充血液，滋养脏腑",
-    "indications": [
-      "血虚",
-      "面色苍白",
-      "头晕眼花",
-      "心悸失眠"
-    ],
-    "methods": [
-      "药物治疗：四物汤、当归补血汤",
-      "针灸治疗：中脘、足三里、脾俞",
-      "食疗：红枣、桂圆"
-    ],
-    "modern_explanation": "补血养血法通过促进造血功能、改善微循环、调节营养代谢来治疗血虚，相当于现代医学的补血治疗和营养支持",
-    "related_syndromes": [
-      "syndrome_010",
-      "syndrome_031",
-      "syndrome_032",
-      "syndrome_045",
-      "syndrome_066",
-      "syndrome_086",
-      "syndrome_087"
-    ],
-    "related_formulas": [
-      "formula_015",
-      "formula_034",
-      "formula_035",
-      "formula_036",
-      "formula_068",
-      "formula_069",
-      "formula_070"
-    ],
-    "related_needle": [
-      "needle_005",
-      "needle_010",
-      "needle_020",
-      "needle_071"
-    ]
-  },
-  {
-    "id": "treatment_011",
-    "name": "清热利湿法",
-    "category": "祛湿法",
-    "principle": "清除湿热，利尿通淋",
-    "indications": [
-      "湿热下注",
-      "小便短赤",
-      "灼热疼痛",
-      "口苦口黏"
-    ],
-    "methods": [
-      "药物治疗：八正散、龙胆泻肝汤",
-      "针灸治疗：阴陵泉、曲池、合谷",
-      "多喝水"
-    ],
-    "modern_explanation": "清热利湿法通过抗菌抗炎、促进尿液排出、调节免疫来治疗湿热下注，相当于现代医学的抗感染治疗和对症支持",
-    "related_syndromes": [
-      "syndrome_011",
-      "syndrome_047",
-      "syndrome_055",
-      "syndrome_056",
-      "syndrome_057",
-      "syndrome_069",
-      "syndrome_070",
-      "syndrome_071",
-      "syndrome_078",
-      "syndrome_081",
-      "syndrome_089"
-    ],
-    "related_formulas": [
-      "formula_003",
-      "formula_123",
-      "formula_008",
-      "formula_016",
-      "formula_019",
-      "formula_029",
-      "formula_106",
-      "formula_074",
-      "formula_107"
-    ],
-    "related_needle": [
-      "needle_002",
-      "needle_003",
-      "needle_007",
-      "needle_011",
-      "needle_019",
-      "needle_061",
-      "needle_079",
-      "needle_081"
-    ]
-  },
-  {
-    "id": "treatment_012",
-    "name": "平肝熄风法",
-    "category": "治风法",
-    "principle": "平定肝阳，熄风止痉",
-    "indications": [
-      "肝阳上亢",
-      "头痛眩晕",
-      "面红目赤",
-      "烦躁易怒"
-    ],
-    "methods": [
-      "药物治疗：天麻钩藤饮、镇肝熄风汤",
-      "针灸治疗：太冲、风池、肝俞",
-      "情志调节"
-    ],
-    "modern_explanation": "平肝熄风法通过降低血压、镇静安神、改善脑循环来治疗肝阳上亢，相当于现代医学的降压治疗和神经调节",
-    "related_syndromes": [
-      "syndrome_012",
-      "syndrome_035",
-      "syndrome_043",
-      "syndrome_076"
-    ],
-    "related_formulas": [
-      "formula_017",
-      "formula_056",
-      "formula_115",
-      "formula_081",
-      "formula_082",
-      "formula_234",
-      "formula_114"
-    ],
-    "related_needle": [
-      "needle_012",
-      "needle_015",
-      "needle_068"
-    ]
-  },
-  {
-    "id": "treatment_013",
-    "name": "清心泻火法",
-    "category": "清热法",
-    "principle": "清除心火，安定心神",
-    "indications": [
-      "心火亢盛",
-      "心烦失眠",
-      "口舌生疮",
-      "舌尖红赤"
-    ],
-    "methods": [
-      "药物治疗：酸枣仁汤、导赤散",
-      "针灸治疗：神门、内关、中脘",
-      "食疗：莲子心茶"
-    ],
-    "modern_explanation": "清心泻火法通过镇静安神、抗炎止痛、调节神经功能来治疗心火亢盛，相当于现代医学的镇静治疗和对症支持",
-    "related_syndromes": [
-      "syndrome_013",
-      "syndrome_014",
-      "syndrome_041",
-      "syndrome_050",
-      "syndrome_072"
-    ],
-    "related_formulas": [
-      "formula_006",
-      "formula_007",
-      "formula_014",
-      "formula_017",
-      "formula_018",
-      "formula_023",
-      "formula_024",
-      "formula_120"
-    ],
-    "related_needle": [
-      "needle_013",
-      "needle_014",
-      "needle_019",
-      "needle_066"
-    ]
-  },
-  {
-    "id": "treatment_014",
-    "name": "消食化积法",
-    "category": "消导法",
-    "principle": "促进消化，消除积滞",
-    "indications": [
-      "食积停滞",
-      "脘腹胀满",
-      "嗳腐吞酸",
-      "不思饮食"
-    ],
-    "methods": [
-      "药物治疗：保和丸、大山楂丸",
-      "针灸治疗：中脘、足三里、阴陵泉",
-      "食疗：山楂、麦芽"
-    ],
-    "modern_explanation": "消食化积法通过促进胃肠蠕动、增强消化酶活性、调节肠道菌群来治疗食积停滞，相当于现代医学的助消化治疗",
-    "related_syndromes": [
-      "syndrome_014",
-      "syndrome_050"
-    ],
-    "related_formulas": [
-      "formula_019",
-      "formula_023",
-      "formula_024"
-    ],
-    "related_needle": [
-      "needle_014"
-    ]
-  },
-  {
-    "id": "treatment_015",
-    "name": "补气活血法",
-    "category": "补益法",
-    "principle": "补益正气，活血化瘀",
-    "indications": [
-      "气虚血瘀",
-      "半身不遂",
-      "肢体麻木",
-      "神疲乏力"
-    ],
-    "methods": [
-      "药物治疗：补阳还五汤、黄芪桂枝五物汤",
-      "针灸治疗：关元、足三里、血海",
-      "康复训练"
-    ],
-    "modern_explanation": "补气活血法通过改善微循环、抗血小板聚集、保护神经功能来治疗气虚血瘀，相当于现代医学的抗血栓治疗和康复治疗",
-    "related_syndromes": [
-      "syndrome_015",
-      "syndrome_035",
-      "syndrome_068"
-    ],
-    "related_formulas": [
-      "formula_020",
-      "formula_055",
-      "formula_056",
-      "formula_081"
-    ],
-    "related_needle": [
-      "needle_008",
-      "needle_015"
-    ]
-  },
-  {
-    "id": "treatment_016",
-    "name": "和解少阳法",
-    "category": "和解法",
-    "principle": "和解少阳，调和表里",
-    "indications": [
-      "少阳病",
-      "寒热往来",
-      "胸胁苦满",
-      "口苦咽干"
-    ],
-    "methods": [
-      "药物治疗：小柴胡汤、大柴胡汤",
-      "针灸治疗：外关、足临泣、期门"
-    ],
-    "modern_explanation": "和解少阳法通过调节自主神经系统功能、改善免疫功能来治疗半表半里之证",
-    "related_syndromes": [
-      "syndrome_016",
-      "syndrome_020",
-      "syndrome_024",
-      "syndrome_026"
-    ],
-    "related_formulas": [
-      "formula_002",
-      "formula_019",
-      "formula_020",
-      "formula_022"
-    ],
-    "related_needle": [
-      "needle_003",
-      "needle_016",
-      "needle_017"
-    ]
-  },
-  {
-    "id": "treatment_017",
-    "name": "温中散寒法",
-    "category": "温里法",
-    "principle": "温补中焦，驱散寒邪",
-    "indications": [
-      "太阴病",
-      "脾胃虚寒",
-      "腹痛喜按"
-    ],
-    "methods": [
-      "药物治疗：理中汤、小建中汤",
-      "针灸治疗：中脘、足三里、脾俞",
-      "艾灸治疗：神阙、中脘"
-    ],
-    "modern_explanation": "温中散寒法通过改善消化道血液循环、促进消化功能来治疗脾胃虚寒证",
-    "related_syndromes": [
-      "syndrome_017",
-      "syndrome_021",
-      "syndrome_022",
-      "syndrome_024",
-      "syndrome_032",
-      "syndrome_039",
-      "syndrome_040",
-      "syndrome_065"
-    ],
-    "related_formulas": [
-      "formula_001",
-      "formula_002",
-      "formula_019",
-      "formula_025",
-      "formula_026",
-      "formula_029",
-      "formula_068",
-      "formula_069",
-      "formula_106"
-    ],
-    "related_needle": [
-      "needle_001",
-      "needle_017",
-      "needle_018",
-      "needle_020"
-    ]
-  },
-  {
-    "id": "treatment_018",
-    "name": "回阳救逆法",
-    "category": "温里法",
-    "principle": "大温阳气，救治厥脱",
-    "indications": [
-      "少阴寒化",
-      "四肢厥冷",
-      "脉微欲绝"
-    ],
-    "methods": [
-      "药物治疗：四逆汤、参附汤",
-      "针灸治疗：关元、气海、神阙（灸）"
-    ],
-    "modern_explanation": "回阳救逆法通过强心、升压、改善休克状态来救治阳气衰微的危重症",
-    "related_syndromes": [
-      "syndrome_022",
-      "syndrome_027",
-      "syndrome_065",
-      "syndrome_075"
-    ],
-    "related_formulas": [
-      "formula_025",
-      "formula_026",
-      "formula_115",
-      "formula_081"
-    ],
-    "related_needle": [
-      "needle_008",
-      "needle_018"
-    ]
-  },
-  {
-    "id": "treatment_019",
-    "name": "通腑泻热法",
-    "category": "下法",
-    "principle": "通利肠道，泻除热结",
-    "indications": [
-      "阳明腑实证",
-      "大便秘结",
-      "腹胀满痛"
-    ],
-    "methods": [
-      "药物治疗：大承气汤、小承气汤",
-      "针灸治疗：天枢、大肠俞、上巨虚"
-    ],
-    "modern_explanation": "通腑泻热法通过促进肠道蠕动、排出肠内容物来治疗肠梗阻、发热等病症",
-    "related_syndromes": [
-      "syndrome_018",
-      "syndrome_019",
-      "syndrome_025",
-      "syndrome_041",
-      "syndrome_052",
-      "syndrome_054",
-      "syndrome_062",
-      "syndrome_063",
-      "syndrome_072"
-    ],
-    "related_formulas": [
-      "formula_003",
-      "formula_006",
-      "formula_014",
-      "formula_015",
-      "formula_017"
-    ],
-    "related_needle": [
-      "needle_002",
-      "needle_019"
-    ]
-  },
-  {
-    "id": "treatment_020",
-    "name": "利水渗湿法",
-    "category": "祛湿法",
-    "principle": "通利小便，渗除水湿",
-    "indications": [
-      "水肿",
-      "小便不利",
-      "痰饮"
-    ],
-    "methods": [
-      "药物治疗：五苓散、猪苓汤",
-      "针灸治疗：水分、阴陵泉、三阴交"
-    ],
-    "modern_explanation": "利水渗湿法通过促进肾脏排尿功能、调节水盐代谢来治疗水肿性疾病",
-    "related_syndromes": [
-      "syndrome_031",
-      "syndrome_032",
-      "syndrome_057"
-    ],
-    "related_formulas": [
-      "formula_016",
-      "formula_068",
-      "formula_069",
-      "formula_070",
-      "formula_071",
-      "formula_107"
-    ],
-    "related_needle": [
-      "needle_003",
-      "needle_005",
-      "needle_011",
-      "needle_020"
-    ]
-  },
-  {
-    "id": "treatment_021",
-    "name": "祛风除湿法",
-    "category": "祛风法",
-    "principle": "祛除风湿，通络止痛",
-    "indications": [
-      "痹证",
-      "关节疼痛",
-      "屈伸不利"
-    ],
-    "methods": [
-      "药物治疗：独活寄生汤、羌活胜湿汤",
-      "针灸治疗：阿是穴、阳陵泉、足三里"
-    ],
-    "modern_explanation": "祛风除湿法通过抗炎、镇痛、改善关节功能来治疗风湿性疾病",
-    "related_syndromes": [
-      "syndrome_027",
-      "syndrome_028",
-      "syndrome_031",
-      "syndrome_044",
-      "syndrome_076",
-      "syndrome_084"
-    ],
-    "related_formulas": [
-      "formula_070",
-      "formula_115",
-      "formula_078",
-      "formula_081",
-      "formula_082"
-    ],
-    "related_needle": [
-      "needle_005",
-      "needle_008",
-      "needle_027",
-      "needle_068"
-    ]
-  },
-  {
-    "id": "treatment_022",
-    "name": "清热退黄法",
-    "category": "清热法",
-    "principle": "清利湿热，消退黄疸",
-    "indications": [
-      "黄疸",
-      "身黄目黄",
-      "小便黄"
-    ],
-    "methods": [
-      "药物治疗：茵陈蒿汤",
-      "针灸治疗：胆俞、阳陵泉、阴陵泉"
-    ],
-    "modern_explanation": "清热退黄法通过保肝利胆、促进胆红素排泄来治疗黄疸性肝炎",
-    "related_syndromes": [
-      "syndrome_030",
-      "syndrome_070",
-      "syndrome_071",
-      "syndrome_077"
-    ],
-    "related_formulas": [
-      "formula_007",
-      "formula_021",
-      "formula_074"
-    ],
-    "related_needle": [
-      "needle_011",
-      "needle_061",
-      "needle_062",
-      "needle_066"
-    ]
-  },
-  {
-    "id": "treatment_023",
-    "name": "宽胸化痰法",
-    "category": "理气法",
-    "principle": "宽展胸膈，化散痰浊",
-    "indications": [
-      "胸痹",
-      "胸闷痛",
-      "冠心病"
-    ],
-    "methods": [
-      "药物治疗：枳实薤白桂枝汤",
-      "针灸治疗：膻中、内关、心俞"
-    ],
-    "modern_explanation": "宽胸化痰法通过扩张冠脉、改善心肌供血来治疗胸痹心痛",
-    "related_syndromes": [
-      "syndrome_025",
-      "syndrome_029",
-      "syndrome_038",
-      "syndrome_080"
-    ],
-    "related_formulas": [
-      "formula_005",
-      "formula_014",
-      "formula_054",
-      "formula_066"
-    ],
-    "related_needle": [
-      "needle_007",
-      "needle_019",
-      "needle_020"
-    ]
-  },
-  {
-    "id": "treatment_024",
-    "name": "清营凉血法",
-    "category": "清热法",
-    "principle": "清泄营分热邪，凉散血分瘀热",
-    "indications": [
-      "热入营血",
-      "高热烦躁",
-      "斑疹吐衄",
-      "神昏谵语"
-    ],
-    "methods": [
-      "药物治疗：清营汤",
-      "针刺治疗：大椎放血、曲池、十宣"
-    ],
-    "modern_explanation": "清营凉血法通过抗炎、降体温、改善微循环、防止DIC等机制治疗重症感染",
-    "related_syndromes": [
-      "syndrome_051",
-      "syndrome_052",
-      "syndrome_053",
-      "syndrome_054"
-    ],
-    "related_formulas": [
-      "formula_003",
-      "formula_123",
-      "formula_005",
-      "formula_006",
-      "formula_014"
-    ],
-    "related_needle": [
-      "needle_002",
-      "needle_012",
-      "needle_019"
-    ]
-  },
-  {
-    "id": "treatment_025",
-    "name": "益气固表法",
-    "category": "补益法",
-    "principle": "补益正气，增强肌表防御功能",
-    "indications": [
-      "表虚自汗",
-      "反复感冒",
-      "恶风",
-      "过敏性鼻炎"
-    ],
-    "methods": [
-      "药物治疗：玉屏风散",
-      "针刺治疗：足三里、关元、气海"
-    ],
-    "modern_explanation": "益气固表法通过调节免疫功能、增强呼吸道黏膜防御来预防感染性疾病",
-    "related_syndromes": [
-      "syndrome_010",
-      "syndrome_059",
-      "syndrome_067",
-      "syndrome_087"
-    ],
-    "related_formulas": [
-      "formula_030",
-      "formula_031",
-      "formula_035",
-      "formula_036",
-      "formula_041"
-    ],
-    "related_needle": [
-      "needle_003",
-      "needle_006",
-      "needle_010",
-      "needle_015"
-    ]
-  },
-  {
-    "id": "treatment_026",
-    "name": "镇肝熄风法",
-    "category": "治风法",
-    "principle": "平镇肝阳，熄风止痉",
-    "indications": [
-      "肝阳上亢",
-      "中风先兆",
-      "头痛眩晕",
-      "高血压"
-    ],
-    "methods": [
-      "药物治疗：镇肝熄风汤、天麻钩藤饮",
-      "针刺治疗：太冲、风池、百会"
-    ],
-    "modern_explanation": "镇肝熄风法通过降血压、改善脑循环、镇静安神来防治脑血管意外",
-    "related_syndromes": [
-      "syndrome_012",
-      "syndrome_035",
-      "syndrome_043"
-    ],
-    "related_formulas": [
-      "formula_056",
-      "formula_081",
-      "formula_234",
-      "formula_114"
-    ],
-    "related_needle": [
-      "needle_012",
-      "needle_015"
-    ]
-  },
-  {
-    "id": "treatment_027",
-    "name": "祛风胜湿法",
-    "category": "祛湿法",
-    "principle": "祛除风湿之邪，蠲痹通络止痛",
-    "indications": [
-      "风湿痹证",
-      "关节疼痛",
-      "筋脉拘挛",
-      "腰膝冷痛"
-    ],
-    "methods": [
-      "药物治疗：独活寄生汤、羌活胜湿汤",
-      "针刺治疗：阳陵泉、足三里、阿是穴"
-    ],
-    "modern_explanation": "祛风胜湿法通过抗炎镇痛、改善关节功能、调节免疫来治疗风湿类疾病",
-    "related_syndromes": [
-      "syndrome_028",
-      "syndrome_044",
-      "syndrome_084"
-    ],
-    "related_formulas": [
-      "formula_115",
-      "formula_078",
-      "formula_081",
-      "formula_082"
-    ],
-    "related_needle": [
-      "needle_005",
-      "needle_008",
-      "needle_027"
-    ]
-  },
-  {
-    "id": "treatment_028",
-    "name": "豁痰开窍法",
-    "category": "开窍法",
-    "principle": "化散痰浊，开窍醒神",
-    "indications": [
-      "痰蒙心窍",
-      "中风昏迷",
-      "癫痫",
-      "热闭神昏"
-    ],
-    "methods": [
-      "药物治疗：安宫牛黄丸、紫雪丹",
-      "针刺治疗：人中、十宣放血、涌泉"
-    ],
-    "modern_explanation": "豁痰开窍法通过保护脑细胞、抗惊厥、降颅内压等机制治疗昏迷和脑损伤",
-    "related_syndromes": [
-      "syndrome_035",
-      "syndrome_053"
-    ],
-    "related_formulas": [
-      "formula_003",
-      "formula_056",
-      "formula_081"
-    ],
-    "related_needle": [
-      "needle_002",
-      "needle_015",
-      "needle_019"
-    ]
-  },
-  {
-    "id": "treatment_029",
-    "name": "健脾利湿法",
-    "category": "祛湿法",
-    "principle": "健脾运湿，利水消肿",
-    "indications": [
-      "脾虚水肿",
-      "小便不利",
-      "腹胀泄泻",
-      "湿困脾胃"
-    ],
-    "methods": [
-      "药物治疗：参苓白术散、五苓散",
-      "针刺治疗：阴陵泉、三阴交、足三里"
-    ],
-    "modern_explanation": "健脾利湿法通过调节水盐代谢、促进肾脏排尿、改善消化功能来治疗水湿内停",
-    "related_syndromes": [
-      "syndrome_031",
-      "syndrome_032",
-      "syndrome_040"
-    ],
-    "related_formulas": [
-      "formula_029",
-      "formula_068",
-      "formula_069",
-      "formula_070",
-      "formula_106"
-    ],
-    "related_needle": [
-      "needle_005",
-      "needle_017",
-      "needle_020"
-    ]
-  },
-  {
-    "id": "treatment_030",
-    "name": "活血通窍法",
-    "category": "理血法",
-    "principle": "活血化瘀，通利清窍",
-    "indications": [
-      "瘀阻头面",
-      "头痛不愈",
-      "耳聋",
-      "脱发"
-    ],
-    "methods": [
-      "药物治疗：通窍活血汤",
-      "针刺治疗：百会、风池、血海"
-    ],
-    "modern_explanation": "活血通窍法通过改善头部微循环、促进神经修复来治疗头面部瘀血性疾病",
-    "related_syndromes": [
-      "syndrome_029",
-      "syndrome_060",
-      "syndrome_080",
-      "syndrome_085"
-    ],
-    "related_formulas": [
-      "formula_054",
-      "formula_055",
-      "formula_056"
-    ],
-    "related_needle": [
-      "needle_008",
-      "needle_020",
-      "needle_065",
-      "needle_073"
-    ]
-  }
+ {
+  "id": "treatment_001",
+  "name": "辛温解表法",
+  "category": "解表法",
+  "principle": "发散风寒，解除表证",
+  "indications": [
+   "风寒感冒",
+   "风寒咳嗽",
+   "风寒头痛"
+  ],
+  "methods": [
+   "药物治疗：麻黄汤、桂枝汤",
+   "针灸治疗：风池、大椎、合谷",
+   "艾灸治疗：风门、肺俞"
+  ],
+  "modern_explanation": "辛温解表法通过促进汗腺分泌、改善微循环、增强免疫力来治疗风寒感冒，相当于现代医学的对症治疗和支持治疗",
+  "related_syndromes": [
+   "syndrome_001",
+   "syndrome_016",
+   "syndrome_017",
+   "syndrome_036",
+   "syndrome_042",
+   "syndrome_049",
+   "syndrome_059",
+   "syndrome_061",
+   "syndrome_064",
+   "syndrome_088"
+  ],
+  "related_formulas": [
+   "formula_001",
+   "formula_002",
+   "formula_090",
+   "formula_152",
+   "formula_211",
+   "formula_242",
+   "formula_258",
+   "formula_260",
+   "formula_262",
+   "formula_264",
+   "formula_265",
+   "formula_267",
+   "formula_268",
+   "formula_269",
+   "formula_271",
+   "formula_273",
+   "formula_277",
+   "formula_291"
+  ],
+  "related_needle": [
+   "needle_001",
+   "needle_003",
+   "needle_005",
+   "needle_006",
+   "needle_015",
+   "needle_016",
+   "needle_079"
+  ]
+ },
+ {
+  "id": "treatment_002",
+  "name": "辛凉解表法",
+  "category": "解表法",
+  "principle": "疏散风热，清热解毒",
+  "indications": [
+   "风热感冒",
+   "温病初起",
+   "咽喉肿痛"
+  ],
+  "methods": [
+   "药物治疗：银翘散、桑菊饮",
+   "针灸治疗：风池、大椎、合谷",
+   "放血疗法：少商、商阳"
+  ],
+  "modern_explanation": "辛凉解表法通过抑制病原微生物、减轻炎症反应、降低体温来治疗风热感冒，相当于现代医学的抗感染和抗炎治疗",
+  "related_syndromes": [
+   "syndrome_002",
+   "syndrome_003",
+   "syndrome_037",
+   "syndrome_051",
+   "syndrome_062",
+   "syndrome_069",
+   "syndrome_083"
+  ],
+  "related_formulas": [
+   "formula_003",
+   "formula_123",
+   "formula_275",
+   "formula_365",
+   "formula_369"
+  ],
+  "related_needle": [
+   "needle_002",
+   "needle_003",
+   "needle_080"
+  ]
+ },
+ {
+  "id": "treatment_003",
+  "name": "益气健脾法",
+  "category": "补益法",
+  "principle": "补益脾气，增强运化",
+  "indications": [
+   "脾胃虚弱",
+   "气虚乏力",
+   "食欲不振",
+   "大便溏薄"
+  ],
+  "methods": [
+   "药物治疗：四君子汤、参苓白术散",
+   "针灸治疗：中脘、足三里、脾俞",
+   "艾灸治疗：足三里、中脘"
+  ],
+  "modern_explanation": "益气健脾法通过调节胃肠功能、促进营养吸收、增强体质来治疗脾胃虚弱，相当于现代医学的营养支持和功能调节",
+  "related_syndromes": [
+   "syndrome_003",
+   "syndrome_026",
+   "syndrome_045",
+   "syndrome_048",
+   "syndrome_056",
+   "syndrome_059",
+   "syndrome_063",
+   "syndrome_067",
+   "syndrome_074",
+   "syndrome_086",
+   "syndrome_087"
+  ],
+  "related_formulas": [
+   "formula_030",
+   "formula_031",
+   "formula_032",
+   "formula_033",
+   "formula_034",
+   "formula_113",
+   "formula_130",
+   "formula_141",
+   "formula_142",
+   "formula_163",
+   "formula_246",
+   "formula_278",
+   "formula_326",
+   "formula_328",
+   "formula_360",
+   "formula_362",
+   "formula_363"
+  ],
+  "related_needle": [
+   "needle_003",
+   "needle_006",
+   "needle_010",
+   "needle_015",
+   "needle_019",
+   "needle_071"
+  ]
+ },
+ {
+  "id": "treatment_004",
+  "name": "疏肝理气法",
+  "category": "理气法",
+  "principle": "疏解肝郁，调和气机",
+  "indications": [
+   "肝郁气滞",
+   "胸闷胁痛",
+   "烦躁易怒",
+   "月经不调"
+  ],
+  "methods": [
+   "药物治疗：逍遥散、小柴胡汤",
+   "针灸治疗：太冲、行间、期门",
+   "情志调节"
+  ],
+  "modern_explanation": "疏肝理气法通过调节神经系统功能、改善情绪状态、缓解躯体症状来治疗肝郁气滞，相当于现代医学的心理治疗和对症治疗",
+  "related_syndromes": [
+   "syndrome_004",
+   "syndrome_046",
+   "syndrome_058",
+   "syndrome_071",
+   "syndrome_073",
+   "syndrome_077",
+   "syndrome_081"
+  ],
+  "related_formulas": [
+   "formula_021",
+   "formula_022",
+   "formula_052",
+   "formula_054",
+   "formula_161",
+   "formula_171",
+   "formula_173",
+   "formula_174",
+   "formula_185",
+   "formula_235",
+   "formula_250",
+   "formula_251",
+   "formula_272",
+   "formula_327",
+   "formula_332"
+  ],
+  "related_needle": [
+   "needle_004",
+   "needle_066",
+   "needle_078"
+  ]
+ },
+ {
+  "id": "treatment_005",
+  "name": "温补肾阳法",
+  "category": "补益法",
+  "principle": "温补肾阳，增强气化",
+  "indications": [
+   "肾阳虚",
+   "畏寒怕冷",
+   "腰膝酸软",
+   "夜尿多",
+   "阳痿早泄"
+  ],
+  "methods": [
+   "药物治疗：金匮肾气丸、右归丸",
+   "针灸治疗：关元、肾俞、命门",
+   "艾灸治疗：关元、气海"
+  ],
+  "modern_explanation": "温补肾阳法通过调节内分泌功能、改善能量代谢、增强生殖功能来治疗肾阳虚，相当于现代医学的激素替代治疗和功能调节",
+  "related_syndromes": [
+   "syndrome_005",
+   "syndrome_029",
+   "syndrome_046",
+   "syndrome_058",
+   "syndrome_060",
+   "syndrome_075"
+  ],
+  "related_formulas": [
+   "formula_042",
+   "formula_110",
+   "formula_165",
+   "formula_166",
+   "formula_215",
+   "formula_238",
+   "formula_245",
+   "formula_355"
+  ],
+  "related_needle": [
+   "needle_004",
+   "needle_005",
+   "needle_008",
+   "needle_020",
+   "needle_036"
+  ]
+ },
+ {
+  "id": "treatment_006",
+  "name": "养阴润肺法",
+  "category": "补益法",
+  "principle": "滋养肺阴，润燥止咳",
+  "indications": [
+   "肺阴虚",
+   "干咳无痰",
+   "咽干声嘶",
+   "手足心热"
+  ],
+  "methods": [
+   "药物治疗：沙参麦冬汤、养阴清肺汤",
+   "针灸治疗：肺俞、足三里、中脘",
+   "食疗：百合、银耳"
+  ],
+  "modern_explanation": "养阴润肺法通过滋阴润燥、增强免疫、改善呼吸道黏膜功能来治疗肺阴虚，相当于现代医学的对症治疗和营养支持",
+  "related_syndromes": [
+   "syndrome_006",
+   "syndrome_067",
+   "syndrome_074"
+  ],
+  "related_formulas": [
+   "formula_037",
+   "formula_039",
+   "formula_040",
+   "formula_041",
+   "formula_109",
+   "formula_164",
+   "formula_247",
+   "formula_330"
+  ],
+  "related_needle": [
+   "needle_006",
+   "needle_064"
+  ]
+ },
+ {
+  "id": "treatment_007",
+  "name": "燥湿化痰法",
+  "category": "祛湿法",
+  "principle": "干燥湿邪，化解痰饮",
+  "indications": [
+   "痰湿内阻",
+   "咳嗽痰多",
+   "胸闷气喘",
+   "肢体沉重"
+  ],
+  "methods": [
+   "药物治疗：二陈汤、三子养亲汤",
+   "针灸治疗：中脘、足三里、阴陵泉",
+   "食疗：薏米、冬瓜"
+  ],
+  "modern_explanation": "燥湿化痰法通过调节胃肠功能、促进痰液排出、改善呼吸功能来治疗痰湿内阻，相当于现代医学的祛痰治疗和呼吸支持",
+  "related_syndromes": [
+   "syndrome_007",
+   "syndrome_033",
+   "syndrome_037",
+   "syndrome_038",
+   "syndrome_049",
+   "syndrome_055",
+   "syndrome_064"
+  ],
+  "related_formulas": [
+   "formula_063",
+   "formula_116",
+   "formula_182",
+   "formula_183",
+   "formula_184",
+   "formula_186",
+   "formula_226",
+   "formula_227",
+   "formula_228",
+   "formula_229",
+   "formula_236",
+   "formula_303",
+   "formula_343",
+   "formula_344",
+   "formula_345"
+  ],
+  "related_needle": [
+   "needle_007",
+   "needle_012"
+  ]
+ },
+ {
+  "id": "treatment_008",
+  "name": "活血化瘀法",
+  "category": "理血法",
+  "principle": "促进血液运行，消除瘀血",
+  "indications": [
+   "气滞血瘀",
+   "疼痛固定",
+   "面色晦暗",
+   "月经不调"
+  ],
+  "methods": [
+   "药物治疗：血府逐瘀汤、桃红四物汤",
+   "针灸治疗：太冲、血海、内关",
+   "推拿按摩"
+  ],
+  "modern_explanation": "活血化瘀法通过改善微循环、抗血小板聚集、调节血脂来治疗气滞血瘀，相当于现代医学的抗血栓治疗和心血管保护",
+  "related_syndromes": [
+   "syndrome_008",
+   "syndrome_029",
+   "syndrome_048",
+   "syndrome_060",
+   "syndrome_068",
+   "syndrome_085"
+  ],
+  "related_formulas": [
+   "formula_055",
+   "formula_056",
+   "formula_057",
+   "formula_058",
+   "formula_059",
+   "formula_061",
+   "formula_062",
+   "formula_111",
+   "formula_112",
+   "formula_118",
+   "formula_206",
+   "formula_252",
+   "formula_253",
+   "formula_285",
+   "formula_333"
+  ],
+  "related_needle": [
+   "needle_003",
+   "needle_008",
+   "needle_020",
+   "needle_073"
+  ]
+ },
+ {
+  "id": "treatment_009",
+  "name": "滋阴降火法",
+  "category": "补益法",
+  "principle": "滋养阴液，清除虚火",
+  "indications": [
+   "阴虚火旺",
+   "潮热盗汗",
+   "口干咽燥",
+   "头晕耳鸣"
+  ],
+  "methods": [
+   "药物治疗：知柏地黄丸、大补阴丸",
+   "针灸治疗：百会、肺俞、肾俞",
+   "食疗：银耳、莲子"
+  ],
+  "modern_explanation": "滋阴降火法通过调节内分泌、改善代谢、镇静安神来治疗阴虚火旺，相当于现代医学的激素调节和对症治疗",
+  "related_syndromes": [
+   "syndrome_009",
+   "syndrome_013",
+   "syndrome_023",
+   "syndrome_034",
+   "syndrome_053",
+   "syndrome_055",
+   "syndrome_056",
+   "syndrome_057",
+   "syndrome_074",
+   "syndrome_079",
+   "syndrome_082"
+  ],
+  "related_formulas": [
+   "formula_013",
+   "formula_037",
+   "formula_039",
+   "formula_040",
+   "formula_041",
+   "formula_109",
+   "formula_164",
+   "formula_244",
+   "formula_247",
+   "formula_295",
+   "formula_330"
+  ],
+  "related_needle": [
+   "needle_002",
+   "needle_003",
+   "needle_007",
+   "needle_009",
+   "needle_011",
+   "needle_013",
+   "needle_052"
+  ]
+ },
+ {
+  "id": "treatment_010",
+  "name": "补血养血法",
+  "category": "补益法",
+  "principle": "补充血液，滋养脏腑",
+  "indications": [
+   "血虚",
+   "面色苍白",
+   "头晕眼花",
+   "心悸失眠"
+  ],
+  "methods": [
+   "药物治疗：四物汤、当归补血汤",
+   "针灸治疗：中脘、足三里、脾俞",
+   "食疗：红枣、桂圆"
+  ],
+  "modern_explanation": "补血养血法通过促进造血功能、改善微循环、调节营养代谢来治疗血虚，相当于现代医学的补血治疗和营养支持",
+  "related_syndromes": [
+   "syndrome_010",
+   "syndrome_031",
+   "syndrome_032",
+   "syndrome_045",
+   "syndrome_066",
+   "syndrome_086",
+   "syndrome_087"
+  ],
+  "related_formulas": [
+   "formula_035",
+   "formula_036",
+   "formula_141",
+   "formula_142",
+   "formula_162",
+   "formula_163",
+   "formula_188",
+   "formula_246"
+  ],
+  "related_needle": [
+   "needle_005",
+   "needle_010",
+   "needle_020",
+   "needle_071"
+  ]
+ },
+ {
+  "id": "treatment_011",
+  "name": "清热利湿法",
+  "category": "祛湿法",
+  "principle": "清除湿热，利尿通淋",
+  "indications": [
+   "湿热下注",
+   "小便短赤",
+   "灼热疼痛",
+   "口苦口黏"
+  ],
+  "methods": [
+   "药物治疗：八正散、龙胆泻肝汤",
+   "针灸治疗：阴陵泉、曲池、合谷",
+   "多喝水"
+  ],
+  "modern_explanation": "清热利湿法通过抗菌抗炎、促进尿液排出、调节免疫来治疗湿热下注，相当于现代医学的抗感染治疗和对症支持",
+  "related_syndromes": [
+   "syndrome_011",
+   "syndrome_047",
+   "syndrome_055",
+   "syndrome_056",
+   "syndrome_057",
+   "syndrome_069",
+   "syndrome_070",
+   "syndrome_071",
+   "syndrome_078",
+   "syndrome_081",
+   "syndrome_089"
+  ],
+  "related_formulas": [
+   "formula_074",
+   "formula_104",
+   "formula_105",
+   "formula_107",
+   "formula_179",
+   "formula_248",
+   "formula_266",
+   "formula_299",
+   "formula_311",
+   "formula_339",
+   "formula_340",
+   "formula_341"
+  ],
+  "related_needle": [
+   "needle_002",
+   "needle_003",
+   "needle_007",
+   "needle_011",
+   "needle_019",
+   "needle_061",
+   "needle_079",
+   "needle_081"
+  ]
+ },
+ {
+  "id": "treatment_012",
+  "name": "平肝熄风法",
+  "category": "治风法",
+  "principle": "平定肝阳，熄风止痉",
+  "indications": [
+   "肝阳上亢",
+   "头痛眩晕",
+   "面红目赤",
+   "烦躁易怒"
+  ],
+  "methods": [
+   "药物治疗：天麻钩藤饮、镇肝熄风汤",
+   "针灸治疗：太冲、风池、肝俞",
+   "情志调节"
+  ],
+  "modern_explanation": "平肝熄风法通过降低血压、镇静安神、改善脑循环来治疗肝阳上亢，相当于现代医学的降压治疗和神经调节",
+  "related_syndromes": [
+   "syndrome_012",
+   "syndrome_035",
+   "syndrome_043",
+   "syndrome_076"
+  ],
+  "related_formulas": [
+   "formula_085",
+   "formula_209",
+   "formula_221",
+   "formula_234",
+   "formula_289",
+   "formula_335",
+   "formula_336"
+  ],
+  "related_needle": [
+   "needle_012",
+   "needle_015",
+   "needle_068"
+  ]
+ },
+ {
+  "id": "treatment_013",
+  "name": "清心泻火法",
+  "category": "清热法",
+  "principle": "清除心火，安定心神",
+  "indications": [
+   "心火亢盛",
+   "心烦失眠",
+   "口舌生疮",
+   "舌尖红赤"
+  ],
+  "methods": [
+   "药物治疗：酸枣仁汤、导赤散",
+   "针灸治疗：神门、内关、中脘",
+   "食疗：莲子心茶"
+  ],
+  "modern_explanation": "清心泻火法通过镇静安神、抗炎止痛、调节神经功能来治疗心火亢盛，相当于现代医学的镇静治疗和对症支持",
+  "related_syndromes": [
+   "syndrome_013",
+   "syndrome_014",
+   "syndrome_041",
+   "syndrome_050",
+   "syndrome_072"
+  ],
+  "related_formulas": [
+   "formula_005",
+   "formula_006",
+   "formula_008",
+   "formula_009",
+   "formula_011",
+   "formula_012",
+   "formula_013",
+   "formula_093",
+   "formula_108",
+   "formula_126",
+   "formula_150",
+   "formula_156",
+   "formula_202",
+   "formula_212",
+   "formula_213",
+   "formula_244",
+   "formula_254",
+   "formula_261",
+   "formula_276",
+   "formula_293",
+   "formula_295",
+   "formula_297",
+   "formula_304",
+   "formula_306",
+   "formula_308",
+   "formula_319",
+   "formula_320",
+   "formula_329"
+  ],
+  "related_needle": [
+   "needle_013",
+   "needle_014",
+   "needle_019",
+   "needle_066"
+  ]
+ },
+ {
+  "id": "treatment_014",
+  "name": "消食化积法",
+  "category": "消导法",
+  "principle": "促进消化，消除积滞",
+  "indications": [
+   "食积停滞",
+   "脘腹胀满",
+   "嗳腐吞酸",
+   "不思饮食"
+  ],
+  "methods": [
+   "药物治疗：保和丸、大山楂丸",
+   "针灸治疗：中脘、足三里、阴陵泉",
+   "食疗：山楂、麦芽"
+  ],
+  "modern_explanation": "消食化积法通过促进胃肠蠕动、增强消化酶活性、调节肠道菌群来治疗食积停滞，相当于现代医学的助消化治疗",
+  "related_syndromes": [
+   "syndrome_014",
+   "syndrome_050"
+  ],
+  "related_formulas": [
+   "formula_193",
+   "formula_301",
+   "formula_313",
+   "formula_347"
+  ],
+  "related_needle": [
+   "needle_014"
+  ]
+ },
+ {
+  "id": "treatment_015",
+  "name": "补气活血法",
+  "category": "补益法",
+  "principle": "补益正气，活血化瘀",
+  "indications": [
+   "气虚血瘀",
+   "半身不遂",
+   "肢体麻木",
+   "神疲乏力"
+  ],
+  "methods": [
+   "药物治疗：补阳还五汤、黄芪桂枝五物汤",
+   "针灸治疗：关元、足三里、血海",
+   "康复训练"
+  ],
+  "modern_explanation": "补气活血法通过改善微循环、抗血小板聚集、保护神经功能来治疗气虚血瘀，相当于现代医学的抗血栓治疗和康复治疗",
+  "related_syndromes": [
+   "syndrome_015",
+   "syndrome_035",
+   "syndrome_068"
+  ],
+  "related_formulas": [
+   "formula_030",
+   "formula_031",
+   "formula_032",
+   "formula_033",
+   "formula_034",
+   "formula_055",
+   "formula_056",
+   "formula_057",
+   "formula_058",
+   "formula_059",
+   "formula_061",
+   "formula_062",
+   "formula_111",
+   "formula_112",
+   "formula_113",
+   "formula_118",
+   "formula_130",
+   "formula_141",
+   "formula_142",
+   "formula_163",
+   "formula_206",
+   "formula_246",
+   "formula_252",
+   "formula_253",
+   "formula_278",
+   "formula_285",
+   "formula_326",
+   "formula_328",
+   "formula_333",
+   "formula_360",
+   "formula_362",
+   "formula_363"
+  ],
+  "related_needle": [
+   "needle_008",
+   "needle_015"
+  ]
+ },
+ {
+  "id": "treatment_016",
+  "name": "和解少阳法",
+  "category": "和解法",
+  "principle": "和解少阳，调和表里",
+  "indications": [
+   "少阳病",
+   "寒热往来",
+   "胸胁苦满",
+   "口苦咽干"
+  ],
+  "methods": [
+   "药物治疗：小柴胡汤、大柴胡汤",
+   "针灸治疗：外关、足临泣、期门"
+  ],
+  "modern_explanation": "和解少阳法通过调节自主神经系统功能、改善免疫功能来治疗半表半里之证",
+  "related_syndromes": [
+   "syndrome_016",
+   "syndrome_020",
+   "syndrome_024",
+   "syndrome_026"
+  ],
+  "related_formulas": [
+   "formula_019",
+   "formula_020",
+   "formula_021",
+   "formula_022",
+   "formula_161",
+   "formula_185",
+   "formula_294",
+   "formula_296",
+   "formula_298",
+   "formula_300",
+   "formula_302",
+   "formula_305"
+  ],
+  "related_needle": [
+   "needle_003",
+   "needle_016",
+   "needle_017"
+  ]
+ },
+ {
+  "id": "treatment_017",
+  "name": "温中散寒法",
+  "category": "温里法",
+  "principle": "温补中焦，驱散寒邪",
+  "indications": [
+   "太阴病",
+   "脾胃虚寒",
+   "腹痛喜按"
+  ],
+  "methods": [
+   "药物治疗：理中汤、小建中汤",
+   "针灸治疗：中脘、足三里、脾俞",
+   "艾灸治疗：神阙、中脘"
+  ],
+  "modern_explanation": "温中散寒法通过改善消化道血液循环、促进消化功能来治疗脾胃虚寒证",
+  "related_syndromes": [
+   "syndrome_017",
+   "syndrome_021",
+   "syndrome_022",
+   "syndrome_024",
+   "syndrome_032",
+   "syndrome_039",
+   "syndrome_040",
+   "syndrome_065"
+  ],
+  "related_formulas": [
+   "formula_024",
+   "formula_025",
+   "formula_026",
+   "formula_027",
+   "formula_029",
+   "formula_096",
+   "formula_117",
+   "formula_131",
+   "formula_203",
+   "formula_208",
+   "formula_214",
+   "formula_240",
+   "formula_274",
+   "formula_321",
+   "formula_322",
+   "formula_324",
+   "formula_325"
+  ],
+  "related_needle": [
+   "needle_001",
+   "needle_017",
+   "needle_018",
+   "needle_020"
+  ]
+ },
+ {
+  "id": "treatment_018",
+  "name": "回阳救逆法",
+  "category": "温里法",
+  "principle": "大温阳气，救治厥脱",
+  "indications": [
+   "少阴寒化",
+   "四肢厥冷",
+   "脉微欲绝"
+  ],
+  "methods": [
+   "药物治疗：四逆汤、参附汤",
+   "针灸治疗：关元、气海、神阙（灸）"
+  ],
+  "modern_explanation": "回阳救逆法通过强心、升压、改善休克状态来救治阳气衰微的危重症",
+  "related_syndromes": [
+   "syndrome_022",
+   "syndrome_027",
+   "syndrome_065",
+   "syndrome_075"
+  ],
+  "related_formulas": [
+   "formula_027",
+   "formula_203",
+   "formula_322",
+   "formula_325"
+  ],
+  "related_needle": [
+   "needle_008",
+   "needle_018"
+  ]
+ },
+ {
+  "id": "treatment_019",
+  "name": "通腑泻热法",
+  "category": "下法",
+  "principle": "通利肠道，泻除热结",
+  "indications": [
+   "阳明腑实证",
+   "大便秘结",
+   "腹胀满痛"
+  ],
+  "methods": [
+   "药物治疗：大承气汤、小承气汤",
+   "针灸治疗：天枢、大肠俞、上巨虚"
+  ],
+  "modern_explanation": "通腑泻热法通过促进肠道蠕动、排出肠内容物来治疗肠梗阻、发热等病症",
+  "related_syndromes": [
+   "syndrome_018",
+   "syndrome_019",
+   "syndrome_025",
+   "syndrome_041",
+   "syndrome_052",
+   "syndrome_054",
+   "syndrome_062",
+   "syndrome_063",
+   "syndrome_072"
+  ],
+  "related_formulas": [
+   "formula_014",
+   "formula_015",
+   "formula_016",
+   "formula_017",
+   "formula_018",
+   "formula_159",
+   "formula_187",
+   "formula_201",
+   "formula_210",
+   "formula_280",
+   "formula_282",
+   "formula_284",
+   "formula_286",
+   "formula_288",
+   "formula_386"
+  ],
+  "related_needle": [
+   "needle_002",
+   "needle_019"
+  ]
+ },
+ {
+  "id": "treatment_020",
+  "name": "利水渗湿法",
+  "category": "祛湿法",
+  "principle": "通利小便，渗除水湿",
+  "indications": [
+   "水肿",
+   "小便不利",
+   "痰饮"
+  ],
+  "methods": [
+   "药物治疗：五苓散、猪苓汤",
+   "针灸治疗：水分、阴陵泉、三阴交"
+  ],
+  "modern_explanation": "利水渗湿法通过促进肾脏排尿功能、调节水盐代谢来治疗水肿性疾病",
+  "related_syndromes": [
+   "syndrome_031",
+   "syndrome_032",
+   "syndrome_057"
+  ],
+  "related_formulas": [
+   "formula_069",
+   "formula_070",
+   "formula_071",
+   "formula_177",
+   "formula_178",
+   "formula_180",
+   "formula_181",
+   "formula_189",
+   "formula_191",
+   "formula_192",
+   "formula_204",
+   "formula_237",
+   "formula_249",
+   "formula_256",
+   "formula_323",
+   "formula_342",
+   "formula_356",
+   "formula_357",
+   "formula_358"
+  ],
+  "related_needle": [
+   "needle_003",
+   "needle_005",
+   "needle_011",
+   "needle_020"
+  ]
+ },
+ {
+  "id": "treatment_021",
+  "name": "祛风除湿法",
+  "category": "祛风法",
+  "principle": "祛除风湿，通络止痛",
+  "indications": [
+   "痹证",
+   "关节疼痛",
+   "屈伸不利"
+  ],
+  "methods": [
+   "药物治疗：独活寄生汤、羌活胜湿汤",
+   "针灸治疗：阿是穴、阳陵泉、足三里"
+  ],
+  "modern_explanation": "祛风除湿法通过抗炎、镇痛、改善关节功能来治疗风湿性疾病",
+  "related_syndromes": [
+   "syndrome_027",
+   "syndrome_028",
+   "syndrome_031",
+   "syndrome_044",
+   "syndrome_076",
+   "syndrome_084"
+  ],
+  "related_formulas": [
+   "formula_078",
+   "formula_079",
+   "formula_115",
+   "formula_205",
+   "formula_224",
+   "formula_239",
+   "formula_281",
+   "formula_374",
+   "formula_382"
+  ],
+  "related_needle": [
+   "needle_005",
+   "needle_008",
+   "needle_027",
+   "needle_068"
+  ]
+ },
+ {
+  "id": "treatment_022",
+  "name": "清热退黄法",
+  "category": "清热法",
+  "principle": "清利湿热，消退黄疸",
+  "indications": [
+   "黄疸",
+   "身黄目黄",
+   "小便黄"
+  ],
+  "methods": [
+   "药物治疗：茵陈蒿汤",
+   "针灸治疗：胆俞、阳陵泉、阴陵泉"
+  ],
+  "modern_explanation": "清热退黄法通过保肝利胆、促进胆红素排泄来治疗黄疸性肝炎",
+  "related_syndromes": [
+   "syndrome_030",
+   "syndrome_070",
+   "syndrome_071",
+   "syndrome_077"
+  ],
+  "related_formulas": [
+   "formula_074",
+   "formula_104",
+   "formula_105",
+   "formula_107",
+   "formula_179",
+   "formula_248",
+   "formula_266",
+   "formula_299",
+   "formula_311",
+   "formula_339",
+   "formula_340",
+   "formula_341"
+  ],
+  "related_needle": [
+   "needle_011",
+   "needle_061",
+   "needle_062",
+   "needle_066"
+  ]
+ },
+ {
+  "id": "treatment_023",
+  "name": "宽胸化痰法",
+  "category": "理气法",
+  "principle": "宽展胸膈，化散痰浊",
+  "indications": [
+   "胸痹",
+   "胸闷痛",
+   "冠心病"
+  ],
+  "methods": [
+   "药物治疗：枳实薤白桂枝汤",
+   "针灸治疗：膻中、内关、心俞"
+  ],
+  "modern_explanation": "宽胸化痰法通过扩张冠脉、改善心肌供血来治疗胸痹心痛",
+  "related_syndromes": [
+   "syndrome_025",
+   "syndrome_029",
+   "syndrome_038",
+   "syndrome_080"
+  ],
+  "related_formulas": [
+   "formula_052",
+   "formula_054",
+   "formula_171",
+   "formula_173",
+   "formula_174",
+   "formula_182",
+   "formula_183",
+   "formula_184",
+   "formula_186",
+   "formula_226",
+   "formula_227",
+   "formula_228",
+   "formula_229",
+   "formula_235",
+   "formula_236",
+   "formula_250",
+   "formula_251",
+   "formula_272",
+   "formula_303",
+   "formula_327",
+   "formula_332"
+  ],
+  "related_needle": [
+   "needle_007",
+   "needle_019",
+   "needle_020"
+  ]
+ },
+ {
+  "id": "treatment_024",
+  "name": "清营凉血法",
+  "category": "清热法",
+  "principle": "清泄营分热邪，凉散血分瘀热",
+  "indications": [
+   "热入营血",
+   "高热烦躁",
+   "斑疹吐衄",
+   "神昏谵语"
+  ],
+  "methods": [
+   "药物治疗：清营汤",
+   "针刺治疗：大椎放血、曲池、十宣"
+  ],
+  "modern_explanation": "清营凉血法通过抗炎、降体温、改善微循环、防止DIC等机制治疗重症感染",
+  "related_syndromes": [
+   "syndrome_051",
+   "syndrome_052",
+   "syndrome_053",
+   "syndrome_054"
+  ],
+  "related_formulas": [
+   "formula_101",
+   "formula_102"
+  ],
+  "related_needle": [
+   "needle_002",
+   "needle_012",
+   "needle_019"
+  ]
+ },
+ {
+  "id": "treatment_025",
+  "name": "益气固表法",
+  "category": "补益法",
+  "principle": "补益正气，增强肌表防御功能",
+  "indications": [
+   "表虚自汗",
+   "反复感冒",
+   "恶风",
+   "过敏性鼻炎"
+  ],
+  "methods": [
+   "药物治疗：玉屏风散",
+   "针刺治疗：足三里、关元、气海"
+  ],
+  "modern_explanation": "益气固表法通过调节免疫功能、增强呼吸道黏膜防御来预防感染性疾病",
+  "related_syndromes": [
+   "syndrome_010",
+   "syndrome_059",
+   "syndrome_067",
+   "syndrome_087"
+  ],
+  "related_formulas": [
+   "formula_030",
+   "formula_031",
+   "formula_032",
+   "formula_033",
+   "formula_034",
+   "formula_113",
+   "formula_130",
+   "formula_141",
+   "formula_142",
+   "formula_163",
+   "formula_246",
+   "formula_278",
+   "formula_326",
+   "formula_328",
+   "formula_360",
+   "formula_362",
+   "formula_363"
+  ],
+  "related_needle": [
+   "needle_003",
+   "needle_006",
+   "needle_010",
+   "needle_015"
+  ]
+ },
+ {
+  "id": "treatment_026",
+  "name": "镇肝熄风法",
+  "category": "治风法",
+  "principle": "平镇肝阳，熄风止痉",
+  "indications": [
+   "肝阳上亢",
+   "中风先兆",
+   "头痛眩晕",
+   "高血压"
+  ],
+  "methods": [
+   "药物治疗：镇肝熄风汤、天麻钩藤饮",
+   "针刺治疗：太冲、风池、百会"
+  ],
+  "modern_explanation": "镇肝熄风法通过降血压、改善脑循环、镇静安神来防治脑血管意外",
+  "related_syndromes": [
+   "syndrome_012",
+   "syndrome_035",
+   "syndrome_043"
+  ],
+  "related_formulas": [
+   "formula_085",
+   "formula_209",
+   "formula_221",
+   "formula_234",
+   "formula_289",
+   "formula_335",
+   "formula_336"
+  ],
+  "related_needle": [
+   "needle_012",
+   "needle_015"
+  ]
+ },
+ {
+  "id": "treatment_027",
+  "name": "祛风胜湿法",
+  "category": "祛湿法",
+  "principle": "祛除风湿之邪，蠲痹通络止痛",
+  "indications": [
+   "风湿痹证",
+   "关节疼痛",
+   "筋脉拘挛",
+   "腰膝冷痛"
+  ],
+  "methods": [
+   "药物治疗：独活寄生汤、羌活胜湿汤",
+   "针刺治疗：阳陵泉、足三里、阿是穴"
+  ],
+  "modern_explanation": "祛风胜湿法通过抗炎镇痛、改善关节功能、调节免疫来治疗风湿类疾病",
+  "related_syndromes": [
+   "syndrome_028",
+   "syndrome_044",
+   "syndrome_084"
+  ],
+  "related_formulas": [
+   "formula_078",
+   "formula_079",
+   "formula_115",
+   "formula_205",
+   "formula_224",
+   "formula_239",
+   "formula_281",
+   "formula_374",
+   "formula_382"
+  ],
+  "related_needle": [
+   "needle_005",
+   "needle_008",
+   "needle_027"
+  ]
+ },
+ {
+  "id": "treatment_028",
+  "name": "豁痰开窍法",
+  "category": "开窍法",
+  "principle": "化散痰浊，开窍醒神",
+  "indications": [
+   "痰蒙心窍",
+   "中风昏迷",
+   "癫痫",
+   "热闭神昏"
+  ],
+  "methods": [
+   "药物治疗：安宫牛黄丸、紫雪丹",
+   "针刺治疗：人中、十宣放血、涌泉"
+  ],
+  "modern_explanation": "豁痰开窍法通过保护脑细胞、抗惊厥、降颅内压等机制治疗昏迷和脑损伤",
+  "related_syndromes": [
+   "syndrome_035",
+   "syndrome_053"
+  ],
+  "related_formulas": [
+   "formula_047",
+   "formula_103",
+   "formula_125",
+   "formula_182",
+   "formula_183",
+   "formula_184",
+   "formula_186",
+   "formula_200",
+   "formula_226",
+   "formula_227",
+   "formula_228",
+   "formula_229",
+   "formula_231",
+   "formula_236",
+   "formula_259",
+   "formula_283",
+   "formula_303",
+   "formula_318"
+  ],
+  "related_needle": [
+   "needle_002",
+   "needle_015",
+   "needle_019"
+  ]
+ },
+ {
+  "id": "treatment_029",
+  "name": "健脾利湿法",
+  "category": "祛湿法",
+  "principle": "健脾运湿，利水消肿",
+  "indications": [
+   "脾虚水肿",
+   "小便不利",
+   "腹胀泄泻",
+   "湿困脾胃"
+  ],
+  "methods": [
+   "药物治疗：参苓白术散、五苓散",
+   "针刺治疗：阴陵泉、三阴交、足三里"
+  ],
+  "modern_explanation": "健脾利湿法通过调节水盐代谢、促进肾脏排尿、改善消化功能来治疗水湿内停",
+  "related_syndromes": [
+   "syndrome_031",
+   "syndrome_032",
+   "syndrome_040"
+  ],
+  "related_formulas": [
+   "formula_069",
+   "formula_070",
+   "formula_071",
+   "formula_177",
+   "formula_178",
+   "formula_180",
+   "formula_181",
+   "formula_189",
+   "formula_191",
+   "formula_192",
+   "formula_204",
+   "formula_237",
+   "formula_249",
+   "formula_256",
+   "formula_323",
+   "formula_342",
+   "formula_356",
+   "formula_357",
+   "formula_358"
+  ],
+  "related_needle": [
+   "needle_005",
+   "needle_017",
+   "needle_020"
+  ]
+ },
+ {
+  "id": "treatment_030",
+  "name": "活血通窍法",
+  "category": "理血法",
+  "principle": "活血化瘀，通利清窍",
+  "indications": [
+   "瘀阻头面",
+   "头痛不愈",
+   "耳聋",
+   "脱发"
+  ],
+  "methods": [
+   "药物治疗：通窍活血汤",
+   "针刺治疗：百会、风池、血海"
+  ],
+  "modern_explanation": "活血通窍法通过改善头部微循环、促进神经修复来治疗头面部瘀血性疾病",
+  "related_syndromes": [
+   "syndrome_029",
+   "syndrome_060",
+   "syndrome_080",
+   "syndrome_085"
+  ],
+  "related_formulas": [
+   "formula_055",
+   "formula_056",
+   "formula_057",
+   "formula_058",
+   "formula_059",
+   "formula_061",
+   "formula_062",
+   "formula_111",
+   "formula_112",
+   "formula_118",
+   "formula_206",
+   "formula_252",
+   "formula_253",
+   "formula_285",
+   "formula_333"
+  ],
+  "related_needle": [
+   "needle_008",
+   "needle_020",
+   "needle_065",
+   "needle_073"
+  ]
+ }
 ]
