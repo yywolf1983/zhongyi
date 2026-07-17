@@ -14961,7 +14961,7 @@
       },
       {
         "acupoint_id": "acupoint_383",
-        "name": "颈夹脊",
+        "name": "夹脊",
         "method": "针刺"
       }
     ],
@@ -15389,7 +15389,7 @@
     "acupoints": [
       {
         "acupoint_id": "acupoint_442",
-        "name": "局部围刺",
+        "name": "阿是穴",
         "method": "针刺"
       },
       {
@@ -16288,7 +16288,7 @@
       },
       {
         "acupoint_id": "acupoint_442",
-        "name": "局部阿是穴",
+        "name": "阿是穴",
         "method": "针刺"
       }
     ],
@@ -19548,7 +19548,7 @@
       },
       {
         "acupoint_id": "acupoint_383",
-        "name": "夹脊穴",
+        "name": "夹脊",
         "method": "针刺"
       },
       {
@@ -23753,7 +23753,7 @@
     "acupoints": [
       {
         "acupoint_id": "acupoint_383",
-        "name": "颈夹脊",
+        "name": "夹脊",
         "method": "针刺"
       },
       {
@@ -23948,7 +23948,7 @@
     "acupoints": [
       {
         "acupoint_id": "acupoint_335",
-        "name": "人中（水沟）",
+        "name": "水沟",
         "method": "针刺"
       },
       {
@@ -24622,12 +24622,12 @@
     "acupoints": [
       {
         "acupoint_id": "acupoint_265",
-        "name": "阳白【透鱼腰】",
+        "name": "阳白",
         "method": "针刺"
       },
       {
         "acupoint_id": "acupoint_035",
-        "name": "地仓【透颊车】",
+        "name": "地仓",
         "method": "针刺"
       },
       {
