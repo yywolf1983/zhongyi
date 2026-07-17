@@ -6,6 +6,8 @@ import { DATA_TYPES } from '../../services/DataManager.js'
 import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
+import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
+import ComparisonItems from '../common/ComparisonItems.jsx'
 
 export default function FormulaModule() {
   const navigate = useNavigate()
@@ -137,7 +139,9 @@ export default function FormulaModule() {
 
     return (
       <div className="detail-container">
-        <button className="back-button" onClick={handleBack}>← 返回</button>
+        <button className="back-fab" onClick={handleBack} aria-label="返回">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        </button>
 
         <div className="detail-header-row">
           <div className="detail-header">
@@ -156,6 +160,8 @@ export default function FormulaModule() {
           <div className="section-content"><strong>书籍：</strong>{formula.source}</div>
           {formula.author && <div className="section-content"><strong>作者：</strong>{formula.author}</div>}
         </div>
+
+        <ClassicExcerpts excerpts={formula.classic_excerpts} />
 
         {formula.effects && formula.effects.length > 0 && (
           <div className="section">
@@ -237,33 +243,11 @@ export default function FormulaModule() {
           </div>
         )}
 
-        {/* Comparison Table if formula has it */}
+        {/* Comparison items if formula has it */}
         {formula.comparison && formula.comparison.length > 0 && (
           <div className="section">
             <h2 className="section-title mapping-title">中西对照</h2>
-            <div className="comparison-table-wrapper">
-              <table className="comparison-table">
-                <thead>
-                  <tr>
-                    <th className="comparison-aspect-col">对比维度</th>
-                    <th className="comparison-tcm-col"><span className="comparison-col-label">🀄 中医</span></th>
-                    <th className="comparison-western-col"><span className="comparison-col-label">🏥 西医</span></th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {formula.comparison.map((row, idx) => (
-                    <tr key={idx}>
-                      <td className="comparison-aspect">
-                        <div>{row.aspect}</div>
-                        {row.classic && <div className="comparison-classic">{row.classic}</div>}
-                      </td>
-                      <td className="comparison-tcm">{row.tcm}</td>
-                      <td className="comparison-western">{row.western}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
+            <ComparisonItems comparison={formula.comparison} />
           </div>
         )}
 
@@ -333,7 +317,9 @@ export default function FormulaModule() {
 
     return (
       <div className="detail-container">
-        <button className="back-button" onClick={handleBack}>← 返回</button>
+        <button className="back-fab" onClick={handleBack} aria-label="返回">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        </button>
 
         <div className="detail-header-row">
           <div className="detail-header">
@@ -395,6 +381,8 @@ export default function FormulaModule() {
           </div>
         )}
 
+        <ClassicExcerpts excerpts={medicine.classic_excerpts} />
+
         {medicine.contraindications && medicine.contraindications.length > 0 && (
           <div className="section">
             <h2 className="section-title">禁忌</h2>
@@ -433,33 +421,11 @@ export default function FormulaModule() {
           </div>
         )}
 
-        {/* Comparison Table if medicine has it */}
+        {/* Comparison items if medicine has it */}
         {medicine.comparison && medicine.comparison.length > 0 && (
           <div className="section">
             <h2 className="section-title mapping-title">中西对照</h2>
-            <div className="comparison-table-wrapper">
-              <table className="comparison-table">
-                <thead>
-                  <tr>
-                    <th className="comparison-aspect-col">对比维度</th>
-                    <th className="comparison-tcm-col"><span className="comparison-col-label">🀄 中医</span></th>
-                    <th className="comparison-western-col"><span className="comparison-col-label">🏥 西医</span></th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {medicine.comparison.map((row, idx) => (
-                    <tr key={idx}>
-                      <td className="comparison-aspect">
-                        <div>{row.aspect}</div>
-                        {row.classic && <div className="comparison-classic">{row.classic}</div>}
-                      </td>
-                      <td className="comparison-tcm">{row.tcm}</td>
-                      <td className="comparison-western">{row.western}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
+            <ComparisonItems comparison={medicine.comparison} />
           </div>
         )}
 

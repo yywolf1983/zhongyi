@@ -3,6 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
 import EmptyState from '../common/EmptyState.jsx'
+import ComparisonItems from '../common/ComparisonItems.jsx'
 
 const CATEGORY_LABELS = {
   'all': '全部',
@@ -167,35 +168,9 @@ export default function ModernMapping() {
                   )}
                 </div>
 
-                {/* Comparison Table */}
+                {/* Comparison items */}
                 {hasComparison && (
-                  <div className="comparison-table-wrapper">
-                    <table className="comparison-table">
-                      <thead>
-                        <tr>
-                          <th className="comparison-aspect-col">对比维度</th>
-                          <th className="comparison-tcm-col">
-                            <span className="comparison-col-label">🀄 中医</span>
-                          </th>
-                          <th className="comparison-western-col">
-                            <span className="comparison-col-label">🏥 西医</span>
-                          </th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        {mapping.comparison.map((row, idx) => (
-                          <tr key={idx}>
-                            <td className="comparison-aspect">
-                              <div>{row.aspect}</div>
-                              {row.classic && <div className="comparison-classic">{row.classic}</div>}
-                            </td>
-                            <td className="comparison-tcm">{row.tcm}</td>
-                            <td className="comparison-western">{row.western}</td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
+                  <ComparisonItems comparison={mapping.comparison} />
                 )}
 
                 {/* Related Syndrome Link */}

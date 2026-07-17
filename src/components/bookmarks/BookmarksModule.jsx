@@ -72,7 +72,7 @@ export default function BookmarksModule() {
                     )}
                   </div>
                   <button
-                    className="back-button"
+                    className="remove-btn"
                     style={{ margin: 0, flexShrink: 0 }}
                     onClick={(e) => handleRemove(e, item)}
                   >

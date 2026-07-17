@@ -5,15 +5,15 @@ import { DATA_TYPES } from '../../services/DataManager.js'
 import EmptyState from '../common/EmptyState.jsx'
 
 const NODE_COLORS = {
-  syndrome: '#4a9c8c',
-  formula: '#4a7fb5',
-  medicine: '#d4813c',
-  acupoint: '#8b5ba0',
-  needle: '#3d8b89',
-  treatment: '#5c9e6e',
-  effect: '#b55276',
-  meridian: '#4a7fb5',
-  modern: '#c98b3c'
+  syndrome: '#2f5d7c',
+  formula: '#3a6f93',
+  medicine: '#b8802f',
+  acupoint: '#7a5a93',
+  needle: '#2f7d75',
+  treatment: '#4a7d5e',
+  effect: '#b04a6a',
+  meridian: '#3a6f93',
+  modern: '#b8802f'
 }
 
 const NODE_LABELS = {

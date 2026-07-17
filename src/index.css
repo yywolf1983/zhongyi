@@ -1,76 +1,76 @@
 /* ============================================================
-   中医辨证论治系统 - 全局样式 v4.0
-   设计理念：温润中医美学 + 移动端优先体验
-   配色：宣纸底 / 墨色字 / 青玉绿 / 琥珀金 / 朱砂红
+   中医辨证论治系统 - 全局样式 v5.0
+   设计理念：霁青蓝 + 琥珀金的雅致书院风 + 移动端优先体验
+   配色：月白宣纸底 / 墨青字 / 霁青蓝（主）/ 琥珀金（强调）
    色系统一 · 全部使用 CSS 变量
    ============================================================ */
 
 /* ===== CSS 设计令牌 ===== */
 :root {
-  /* ── 主色调：黛青（墨色系绿）── */
-  --color-primary: #3c5a52;
-  --color-primary-light: #5b7a72;
-  --color-primary-dark: #264039;
-  --color-primary-bg: #e8eeea;
-  --color-primary-gradient: linear-gradient(135deg, #3c5a52 0%, #264039 100%);
+  /* ── 主色调：霁青蓝（沉静书卷气）── */
+  --color-primary: #2f5d7c;
+  --color-primary-light: #4a7da0;
+  --color-primary-dark: #1f3f57;
+  --color-primary-bg: #e6eef4;
+  --color-primary-gradient: linear-gradient(135deg, #3a6f93 0%, #244c69 100%);
 
-  /* ── 强调色：朱砂（印泥红）── */
-  --color-accent: #a83a2c;
-  --color-accent-light: #c25a48;
-  --color-accent-dark: #7e2a20;
-  --color-accent-bg: #f4e7e3;
-  --color-accent-gradient: linear-gradient(135deg, #b54435 0%, #8a2c20 100%);
+  /* ── 强调色：琥珀金（暖调点睛）── */
+  --color-accent: #b8802f;
+  --color-accent-light: #cf9a4d;
+  --color-accent-dark: #94621f;
+  --color-accent-bg: #f6ecdc;
+  --color-accent-gradient: linear-gradient(135deg, #c98f3c 0%, #9a6320 100%);
 
-  /* ── 警示色：朱砂红 ── */
-  --color-danger: #9e342a;
-  --color-danger-bg: #f4e7e3;
-  --color-danger-light: #c05242;
+  /* ── 警示色：绛红 ── */
+  --color-danger: #b0493f;
+  --color-danger-bg: #f7e4e1;
+  --color-danger-light: #c96a5f;
 
   /* ── 功能色 ── */
-  --color-warning: #a9782e;
-  --color-warning-bg: #f1e9da;
-  --color-info: #3f5d79;
-  --color-info-bg: #e6ecf2;
-  --color-info-dark: #34526e;
-  --color-success: #3d6b52;
-  --color-success-bg: #e4efe9;
+  --color-warning: #b8802f;
+  --color-warning-bg: #f6ecdc;
+  --color-info: #3a6f93;
+  --color-info-bg: #e6eef4;
+  --color-info-dark: #2f5775;
+  --color-success: #2f7d5e;
+  --color-success-bg: #e2efe9;
 
-  /* ── 中性色（宣纸 / 墨）── */
-  --color-bg: #f4f0e8;
-  --color-surface: #faf8f2;
-  --color-surface-warm: #ece8de;
-  --color-border: #ddd8cc;
-  --color-divider: #d9d3c6;
-  --color-text-primary: #211d18;
-  --color-text-secondary: #57514a;
-  --color-text-hint: #968d80;
-  --color-text-on-primary: #f7f4ec;
-  --color-text-on-accent: #f7f4ec;
+  /* ── 中性色（月白宣纸 / 墨青）── */
+  --color-bg: #f5f3ee;
+  --color-surface: #fbfaf6;
+  --color-surface-warm: #efece4;
+  --color-border: #e2ddd2;
+  --color-divider: #ddd8cc;
+  --color-text-primary: #20262d;
+  --color-text-secondary: #565e66;
+  --color-text-hint: #949aa1;
+  --color-text-on-primary: #ffffff;
+  --color-text-on-accent: #ffffff;
 
   /* ── 组件专属色 ── */
-  --color-filter-bar: #ece8de;
-  --color-filter-inactive: #f0ece3;
-  --color-surface-active: #e3ded2;
-  --color-surface-green: #dde8e3;
+  --color-filter-bar: #efece4;
+  --color-filter-inactive: #f2efe8;
+  --color-surface-active: #e6e3da;
+  --color-surface-green: #e3edf2;
 
   /* ── 分类色板（彩墨点缀）── */
-  --color-syndrome: #3c5a52;
-  --color-formula: #3f5d79;
-  --color-medicine: #a9782e;
-  --color-acupoint: #6e4f86;
-  --color-acupoint-bg: #efe9f3;
-  --color-needle: #3d6b68;
-  --color-treatment: #4f7d5a;
-  --color-effect: #a8456a;
-  --color-meridian: #3f5d79;
-  --color-mapping: #a9782e;
+  --color-syndrome: #2f5d7c;
+  --color-formula: #3a6f93;
+  --color-medicine: #b8802f;
+  --color-acupoint: #7a5a93;
+  --color-acupoint-bg: #efeaf4;
+  --color-needle: #2f7d75;
+  --color-treatment: #4a7d5e;
+  --color-effect: #b04a6a;
+  --color-meridian: #3a6f93;
+  --color-mapping: #b8802f;
 
-  /* ── 阴影（柔和）── */
-  --shadow-xs: 0 1px 2px rgba(61, 50, 38, 0.04);
-  --shadow-sm: 0 1px 3px rgba(61, 50, 38, 0.06), 0 1px 2px rgba(61, 50, 38, 0.03);
-  --shadow-md: 0 4px 12px rgba(61, 50, 38, 0.07), 0 1px 3px rgba(61, 50, 38, 0.04);
-  --shadow-lg: 0 8px 24px rgba(61, 50, 38, 0.08), 0 2px 6px rgba(61, 50, 38, 0.05);
-  --shadow-xl: 0 16px 40px rgba(61, 50, 38, 0.10), 0 4px 12px rgba(61, 50, 38, 0.06);
+  /* ── 阴影（柔和冷调）── */
+  --shadow-xs: 0 1px 2px rgba(30, 40, 52, 0.04);
+  --shadow-sm: 0 1px 3px rgba(30, 40, 52, 0.06), 0 1px 2px rgba(30, 40, 52, 0.03);
+  --shadow-md: 0 4px 12px rgba(30, 40, 52, 0.07), 0 1px 3px rgba(30, 40, 52, 0.04);
+  --shadow-lg: 0 8px 24px rgba(30, 40, 52, 0.08), 0 2px 6px rgba(30, 40, 52, 0.05);
+  --shadow-xl: 0 16px 40px rgba(30, 40, 52, 0.10), 0 4px 12px rgba(30, 40, 52, 0.06);
 
   /* ── 圆角 ── */
   --radius-sm: 8px;
@@ -254,9 +254,9 @@ button:not(.allow-context) {
   gap: var(--space-md);
   margin-bottom: var(--space-lg);
   padding: 14px 18px;
-  background: linear-gradient(160deg, #4a9c8c 0%, #3d8576 35%, #2e7d6b 70%, #266a5a 100%);
+  background: linear-gradient(160deg, #4a7da0 0%, #3a6f93 35%, #2f5d7c 70%, #244c69 100%);
   border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-lg), 0 0 80px rgba(74, 156, 140, 0.12);
+  box-shadow: var(--shadow-lg), 0 0 80px rgba(47, 93, 124, 0.16);
   position: relative;
   overflow: hidden;
   cursor: pointer;
@@ -275,7 +275,7 @@ button:not(.allow-context) {
   width: 200%; height: 200%;
   background:
     radial-gradient(circle at 25% 40%, rgba(255,255,255,0.10) 0%, transparent 55%),
-    radial-gradient(circle at 75% 60%, rgba(201,169,110,0.12) 0%, transparent 50%);
+    radial-gradient(circle at 75% 60%, rgba(184,128,47,0.14) 0%, transparent 50%);
   pointer-events: none;
 }
 .header-container::after {
@@ -349,7 +349,7 @@ button:not(.allow-context) {
 }
 .global-search-input:focus {
   border-color: var(--color-primary);
-  box-shadow: 0 0 0 4px rgba(74, 156, 140, 0.1);
+  box-shadow: 0 0 0 4px rgba(47, 93, 124, 0.1);
   background: var(--color-primary-bg);
 }
 .global-search-input::placeholder {
@@ -517,7 +517,7 @@ button:not(.allow-context) {
 }
 .search-input:focus {
   border-color: var(--color-primary);
-  box-shadow: 0 0 0 4px rgba(74, 156, 140, 0.1);
+  box-shadow: 0 0 0 4px rgba(47, 93, 124, 0.1);
 }
 .search-input::placeholder {
   color: var(--color-text-hint);
@@ -690,7 +690,7 @@ button:not(.allow-context) {
 /* ===== Highlight ===== */
 mark,
 .highlight {
-  background: linear-gradient(180deg, transparent 55%, rgba(201, 169, 110, 0.5) 55%);
+  background: linear-gradient(180deg, transparent 55%, rgba(184, 128, 47, 0.4) 55%);
   padding: 0 3px;
   border-radius: 3px;
   font-weight: 600;
@@ -794,6 +794,7 @@ mark,
 
 /* ===== Detail Container ===== */
 .detail-container {
+  position: relative;
   background: transparent;
   border-radius: 0;
   padding: 0;
@@ -801,26 +802,89 @@ mark,
   border: none;
   animation: fadeInUp 0.35s var(--transition-slow);
 }
+/* 返回按钮：浮动显示（随页面滚动固定于左上） */
 .back-button {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: var(--space-sm) var(--space-lg);
-  background: var(--color-surface-warm);
-  border: 1px solid var(--color-divider);
-  border-radius: var(--radius-md);
-  font-size: var(--font-size-sm);
-  font-weight: var(--font-weight-medium);
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 50%;
   cursor: pointer;
-  margin-bottom: var(--space-lg);
   transition: all var(--transition-normal);
   color: var(--color-text-secondary);
-  min-height: var(--touch-target);
+  box-shadow: var(--shadow-xs);
   -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
 }
 .back-button:active {
   background: var(--color-divider);
+  transform: scale(0.94);
+}
+.back-button svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+/* 收藏页「取消收藏」按钮（非返回，保留文字胶囊） */
+.remove-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 14px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: all var(--transition-normal);
+  color: var(--color-text-secondary);
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.remove-btn:active {
+  background: var(--color-divider);
   transform: scale(0.96);
+}
+
+/* 详情页返回：左侧中部悬浮圆形图标（毛玻璃 + 霁青蓝） */
+.back-fab {
+  position: fixed;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 60;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  height: 46px;
+  padding: 0;
+  background: rgba(31, 63, 87, 0.92);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: transform var(--transition-normal), box-shadow var(--transition-normal), background var(--transition-normal);
+  color: #fff;
+  box-shadow: var(--shadow-lg);
+  backdrop-filter: saturate(1.3) blur(10px);
+  -webkit-backdrop-filter: saturate(1.3) blur(10px);
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.back-fab:active {
+  transform: translateY(-50%) scale(0.92);
+  background: rgba(31, 63, 87, 1);
+}
+.back-fab svg {
+  width: 24px;
+  height: 24px;
+  display: block;
 }
 .detail-title {
   font-size: var(--font-size-2xl);
@@ -845,7 +909,7 @@ mark,
   border-radius: var(--radius-full);
   font-size: var(--font-size-xs);
   font-weight: 500;
-  box-shadow: 0 2px 8px rgba(74, 156, 140, 0.2);
+  box-shadow: 0 2px 8px rgba(47, 93, 124, 0.2);
 }
 
 /* ===== Section（分区卡片化） ===== */
@@ -952,7 +1016,7 @@ mark,
 .tag-item.primary {
   background: var(--color-primary-gradient);
   color: var(--color-text-on-primary);
-  box-shadow: 0 2px 8px rgba(74, 156, 140, 0.15);
+  box-shadow: 0 2px 8px rgba(47, 93, 124, 0.15);
 }
 .tag-item.warning {
   background: var(--color-warning-bg);
@@ -1154,7 +1218,7 @@ mark,
   box-shadow: var(--shadow-sm);
 }
 .graph-node.focused {
-  box-shadow: 0 0 0 3px rgba(74, 156, 140, 0.3);
+  box-shadow: 0 0 0 3px rgba(47, 93, 124, 0.3);
   transform: scale(1.06);
   z-index: 2;
 }
@@ -1259,13 +1323,13 @@ mark,
 }
 .mapping-item-highlight {
   border-color: var(--color-primary) !important;
-  box-shadow: 0 0 0 3px rgba(196, 165, 95, 0.25) !important;
+  box-shadow: 0 0 0 3px rgba(184, 128, 47, 0.28) !important;
   animation: highlightPulse 2s ease-out;
 }
 @keyframes highlightPulse {
-  0% { box-shadow: 0 0 0 0px rgba(196, 165, 95, 0.5); }
-  50% { box-shadow: 0 0 0 8px rgba(196, 165, 95, 0.15); }
-  100% { box-shadow: 0 0 0 3px rgba(196, 165, 95, 0.25); }
+  0% { box-shadow: 0 0 0 0px rgba(184, 128, 47, 0.5); }
+  50% { box-shadow: 0 0 0 8px rgba(184, 128, 47, 0.16); }
+  100% { box-shadow: 0 0 0 3px rgba(184, 128, 47, 0.28); }
 }
 .mapping-header {
   display: flex;
@@ -1334,71 +1398,78 @@ mark,
 }
 
 /* ===== Comparison Table ===== */
-.comparison-table-wrapper {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+/* ===== 中西对照（条目形式） ===== */
+.comparison-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
   margin-top: var(--space-sm);
-  border-radius: var(--radius-md);
+}
+.comparison-item {
   border: 1px solid var(--color-border);
-}
-.comparison-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: var(--font-size-sm);
-  min-width: 600px;
-}
-.comparison-table thead th {
-  background: var(--color-primary-gradient);
-  color: var(--color-text-on-primary);
-  padding: var(--space-md) 16px;
-  font-weight: 600;
-  text-align: left;
-  font-size: var(--font-size-sm);
-}
-.comparison-table thead th.comparison-aspect-col {
-  background: #3d8576;
-  width: 14%;
-}
-.comparison-table thead th.comparison-tcm-col {
-  width: 40%;
-}
-.comparison-table thead th.comparison-western-col {
-  background: linear-gradient(135deg, #4a7fb5 0%, #3a6895 100%);
-  width: 46%;
-}
-.comparison-table tbody td {
-  padding: var(--space-sm) 16px;
-  border-bottom: 1px solid var(--color-divider);
-  vertical-align: top;
-  line-height: 1.7;
-}
-.comparison-table tbody tr:nth-child(even) {
-  background: var(--color-filter-bar);
-}
-.comparison-table tbody tr:active {
-  background: var(--color-surface-green);
+  border-radius: var(--radius-md);
+  overflow: hidden;
 }
 .comparison-aspect {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px 14px;
+  background: var(--color-filter-bar);
+  border-bottom: 1px solid var(--color-divider);
+}
+.comparison-badge {
+  flex: none;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--color-text-on-primary);
+  background: #3a6f93;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+.comparison-aspect-name {
   font-weight: var(--font-weight-semibold);
   color: var(--color-primary-dark);
-  white-space: nowrap;
 }
 /* 对比维度下的经典出处标签（朱砂小字） */
 .comparison-classic {
-  margin-top: 4px;
   font-size: 0.72rem;
   font-weight: 400;
   color: var(--color-accent);
-  white-space: normal;
   line-height: 1.4;
 }
-.comparison-tcm {
-  color: var(--color-text-secondary);
+.comparison-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: var(--color-divider);
 }
-.comparison-western {
-  color: var(--color-info);
+.comparison-col {
+  padding: 10px 14px;
+  background: var(--color-surface);
+  line-height: 1.7;
+}
+.comparison-col.tcm {
+  background: var(--color-surface-green, var(--color-surface));
+}
+.comparison-col.western {
+  background: #eef4fa;
 }
 .comparison-col-label {
+  display: block;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.comparison-col.tcm .comparison-col-label {
+  color: var(--color-primary-dark);
+}
+.comparison-col.western .comparison-col-label {
+  color: #2f5775;
+}
+.comparison-text {
+  color: var(--color-text-secondary);
   font-size: var(--font-size-sm);
 }
 
@@ -1745,24 +1816,6 @@ mark,
     font-size: var(--font-size-sm);
   }
 
-  .comparison-table-wrapper {
-    margin: var(--space-sm) -12px 0;
-    border-radius: var(--radius-sm);
-  }
-  .comparison-table {
-    font-size: var(--font-size-sm);
-    min-width: 500px;
-  }
-  .comparison-table thead th {
-    padding: var(--space-sm) 12px;
-    font-size: var(--font-size-sm);
-  }
-  .comparison-table tbody td {
-    padding: var(--space-sm) 12px;
-    font-size: var(--font-size-sm);
-    line-height: 1.6;
-  }
-
   .detail-title {
     font-size: var(--font-size-xl);
   }
@@ -1856,10 +1909,10 @@ mark,
     font-size: var(--font-size-md);
   }
 
-  .back-button {
+  .back-button,
+  .back-fab {
     padding: var(--space-sm) var(--space-md);
     font-size: var(--font-size-sm);
-    margin-bottom: var(--space-md);
   }
 
   .bookmarks-header h2 {
@@ -1934,19 +1987,6 @@ mark,
   .toggle-btn {
     font-size: var(--font-size-sm);
     padding: var(--space-md) 8px;
-  }
-
-  .comparison-table {
-    min-width: 420px;
-    font-size: var(--font-size-sm);
-  }
-  .comparison-table thead th {
-    padding: var(--space-sm) 10px;
-    font-size: var(--font-size-sm);
-  }
-  .comparison-table tbody td {
-    padding: var(--space-sm) 10px;
-    font-size: var(--font-size-sm);
   }
 
   .composition-table {
@@ -2052,7 +2092,8 @@ mark,
     padding: 3px 8px;
   }
 
-  .back-button {
+  .back-button,
+  .back-fab {
     padding: var(--space-sm) var(--space-sm);
     font-size: var(--font-size-sm);
   }
@@ -2119,18 +2160,6 @@ mark,
     font-size: 0.85rem;
     padding: var(--space-md) 6px;
   }
-  .comparison-table {
-    min-width: 380px;
-    font-size: var(--font-size-xs);
-  }
-  .comparison-table thead th {
-    padding: var(--space-xs) 8px;
-    font-size: var(--font-size-xs);
-  }
-  .comparison-table tbody td {
-    padding: var(--space-xs) 8px;
-    font-size: var(--font-size-xs);
-  }
   .composition-table {
     min-width: 340px;
     font-size: var(--font-size-xs);
@@ -2161,29 +2190,33 @@ mark,
    ============================================ */
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-bg: #1f1d18;
-    --color-surface: #2a2722;
-    --color-surface-warm: #302c26;
-    --color-surface-active: #35312a;
-    --color-surface-green: #2a332f;
-    --color-border: #3d3830;
-    --color-divider: #3d3830;
-    --color-filter-bar: #2d2922;
-    --color-filter-inactive: #333028;
-    --color-text-primary: #e8e3d8;
-    --color-text-secondary: #b8b0a2;
-    --color-text-hint: #8a8276;
+    --color-bg: #161b20;
+    --color-surface: #1e242b;
+    --color-surface-warm: #252b32;
+    --color-surface-active: #2b323b;
+    --color-surface-green: #1f2e33;
+    --color-border: #313a43;
+    --color-divider: #313a43;
+    --color-filter-bar: #222932;
+    --color-filter-inactive: #2a323b;
+    --color-text-primary: #e9edf2;
+    --color-text-secondary: #b3bcc6;
+    --color-text-hint: #84909c;
     --color-text-on-primary: #ffffff;
-    --color-text-on-accent: #2d2618;
-    --color-primary-bg: #253832;
-    --color-accent-bg: #353025;
-    --color-danger-bg: #3d2826;
+    --color-text-on-accent: #ffffff;
+    --color-primary-bg: #1d2f3d;
+    --color-accent-bg: #322817;
+    --color-danger-bg: #3a2421;
     --color-danger-light: #f07b6c;
-    --color-warning-bg: #3d3022;
-    --color-info-bg: #2a323d;
-    --color-success-bg: #253830;
-    --color-acupoint-bg: #33283a;
+    --color-warning-bg: #322817;
+    --color-info-bg: #1d2f3d;
+    --color-success-bg: #1c2e27;
+    --color-acupoint-bg: #2a2036;
     --color-info-dark: #6ba8d8;
+    /* 暗色下主色三档整体提亮，确保小标题/文字在深底上清晰可读 */
+    --color-primary: #6fa3c8;
+    --color-primary-light: #8fbcdc;
+    --color-primary-dark: #aacede;
   }
 
   body {
@@ -2192,17 +2225,17 @@ mark,
 
   .search-input,
   .global-search-input {
-    background: #333028;
+    background: #2a323b;
     color: var(--color-text-primary);
     border-color: var(--color-border);
   }
   .search-input::placeholder,
   .global-search-input::placeholder {
-    color: #706858;
+    color: #6b7682;
   }
   .search-input:focus,
   .global-search-input:focus {
-    background: #38332a;
+    background: #2b323b;
   }
 
   .list-item,
@@ -2230,7 +2263,7 @@ mark,
     border-color: var(--color-divider);
   }
   .tag-filter-btn:active {
-    background: #38332a;
+    background: #2b323b;
   }
 
   .tag-item {
@@ -2239,22 +2272,18 @@ mark,
   }
   .tag-item.warning {
     background: var(--color-warning-bg);
-    color: #e0a860;
-    border-color: #5c4830;
+    color: #d9a55e;
+    border-color: #5a4324;
   }
 
   .suggestion-item {
-    border-bottom-color: #38332a;
+    border-bottom-color: #2b323b;
   }
   .suggestion-item:active {
     background: var(--color-surface-active);
   }
   .suggestion-type {
-    background: #3d3830;
-  }
-
-  .comparison-table tbody tr:nth-child(even) {
-    background: var(--color-filter-bar);
+    background: #313a43;
   }
   .acupoint-location {
     background: var(--color-filter-bar);
@@ -2280,7 +2309,7 @@ mark,
     border-color: var(--color-divider);
   }
   .toggle-btn:active:not(.active) {
-    background: #38332a;
+    background: #2b323b;
   }
   .back-button {
     background: var(--color-surface-warm);
@@ -2288,7 +2317,7 @@ mark,
     color: var(--color-text-secondary);
   }
   .back-button:active {
-    background: #38332a;
+    background: #2b323b;
   }
   .composition-table th {
     background: var(--color-filter-bar);
@@ -2296,17 +2325,8 @@ mark,
   .composition-table tbody tr:active {
     background: var(--color-surface-active);
   }
-  .comparison-aspect {
-    color: #7bc4b4;
-  }
-  .comparison-tcm {
-    color: var(--color-text-secondary);
-  }
-  .comparison-western {
-    color: #7db8e8;
-  }
   .mapping-term-chinese {
-    color: #7bc4b4;
+    color: #6fb0c8;
   }
   .mapping-term-modern {
     color: #7db8e8;
@@ -2324,7 +2344,7 @@ mark,
     color: var(--color-text-hint);
   }
   .skeleton {
-    background: linear-gradient(90deg, var(--color-divider) 25%, #4a4438 50%, var(--color-divider) 75%);
+    background: linear-gradient(90deg, var(--color-divider) 25%, #3a444e 50%, var(--color-divider) 75%);
   }
 }
 
@@ -2339,11 +2359,11 @@ mark,
 
 .home-hero {
   position: relative;
-  background: linear-gradient(160deg, #4a9c8c 0%, #3d8576 38%, #2e7d6b 72%, #266a5a 100%);
+  background: linear-gradient(160deg, #4a7da0 0%, #3a6f93 38%, #2f5d7c 72%, #244c69 100%);
   border-radius: var(--radius-xl);
   padding: var(--space-xl) var(--space-xl) var(--space-lg);
   color: #fff;
-  box-shadow: var(--shadow-lg), 0 0 60px rgba(74, 156, 140, 0.15);
+  box-shadow: var(--shadow-lg), 0 0 60px rgba(47, 93, 124, 0.18);
   overflow: hidden;
 }
 .home-hero::before {
@@ -2353,7 +2373,7 @@ mark,
   width: 160%; height: 200%;
   background:
     radial-gradient(circle at 25% 35%, rgba(255, 255, 255, 0.12) 0%, transparent 55%),
-    radial-gradient(circle at 80% 70%, rgba(201, 169, 110, 0.18) 0%, transparent 50%);
+    radial-gradient(circle at 80% 70%, rgba(184, 128, 47, 0.18) 0%, transparent 50%);
   pointer-events: none;
 }
 .home-hero-badge {
@@ -2578,7 +2598,7 @@ mark,
 /* ===== 暗色模式补充 ===== */
 @media (prefers-color-scheme: dark) {
   .home-hero {
-    background: linear-gradient(160deg, #2e7d6b 0%, #266a5a 45%, #1f5649 100%);
+    background: linear-gradient(160deg, #244c69 0%, #1f3f57 45%, #16304a 100%);
   }
   .home-stat {
     background: rgba(255, 255, 255, 0.1);
@@ -2590,7 +2610,8 @@ mark,
   .home-recent-type {
     background: var(--color-surface-warm);
   }
-  .detail-header {
+  .detail-header,
+  .detail-header-row {
     background: linear-gradient(135deg, var(--color-primary-bg), var(--color-surface));
     border-color: var(--color-border);
   }
@@ -2616,16 +2637,32 @@ mark,
 .list-item.meridian  { --bar-color: var(--color-meridian); }
 .list-item.mapping   { --bar-color: var(--color-mapping); }
 
-/* 详情头部行（替代散落的 inline flex 布局） */
+/* 详情头部行：标题卡片 + 收藏按钮融为一体（不割裂） */
 .detail-header-row {
+  position: relative;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   gap: var(--space-md);
+  margin-bottom: var(--space-2xl);
+  padding: var(--space-lg) var(--space-xl);
+  background: linear-gradient(135deg, var(--color-primary-bg), var(--color-surface));
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-primary);
 }
+/* 内层 header 去掉自身 banner 样式（改由 header-row 承载） */
 .detail-header-row .detail-header {
   flex: 1;
   min-width: 0;
+  margin-bottom: 0;
+  padding: 0;
+  background: none;
+  border: none;
+}
+.detail-header-row .bookmark-btn {
+  flex: none;
+  margin: -4px -6px 0 0;
 }
 
 /* ===== 经络介绍卡（消除散落 inline） ===== */
@@ -2688,4 +2725,36 @@ mark,
   font-size: 0.78rem;
   margin-left: 3px;
   opacity: 0.7;
+}
+
+/* ===== 经典摘录 ===== */
+.classic-excerpt-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.classic-excerpt {
+  background: var(--color-surface-warm);
+  border-left: 3px solid var(--color-accent);
+  padding: 10px 14px;
+  border-radius: 0 8px 8px 0;
+}
+.classic-source {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-accent-dark);
+  background: var(--color-accent-bg);
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-bottom: 6px;
+}
+.classic-text {
+  margin: 4px 0 0;
+  line-height: 1.75;
+  color: var(--color-text-secondary);
+  font-size: 0.95rem;
+  text-align: justify;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }

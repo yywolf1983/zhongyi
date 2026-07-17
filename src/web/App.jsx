@@ -61,7 +61,7 @@ function useCapacitorNative() {
       try {
         const { StatusBar, Style } = await import('@capacitor/status-bar')
         if (window.Capacitor?.getPlatform() === 'android') {
-          await StatusBar.setBackgroundColor({ color: '#211d18' })
+          await StatusBar.setBackgroundColor({ color: '#161b20' })
           await StatusBar.setStyle({ style: Style.Dark })
         }
       } catch {

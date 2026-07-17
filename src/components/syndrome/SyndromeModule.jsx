@@ -6,6 +6,8 @@ import { DATA_TYPES } from '../../services/DataManager.js'
 import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
+import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
+import ComparisonItems from '../common/ComparisonItems.jsx'
 
 export default function SyndromeModule() {
   const navigate = useNavigate()
@@ -131,7 +133,9 @@ export default function SyndromeModule() {
 
     return (
       <div className="detail-container">
-        <button className="back-button" onClick={handleBack}>← 返回</button>
+        <button className="back-fab" onClick={handleBack} aria-label="返回">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        </button>
 
         <div className="detail-header-row">
           <div className="detail-header">
@@ -172,6 +176,8 @@ export default function SyndromeModule() {
             )}
           </div>
         </div>
+
+        <ClassicExcerpts excerpts={syndrome.classic_excerpts} />
 
         {syndrome.pathogenesis && (
           <div className="section" id="sec-pathogenesis">
@@ -246,6 +252,7 @@ export default function SyndromeModule() {
                     <div className="section-content"><strong>治疗原则：</strong>{treatment.principle}</div>
                     <div className="section-content"><strong>适应症：</strong>{treatment.indications?.join('、')}</div>
                     <div className="section-content"><strong>方法：</strong>{treatment.methods?.join('；')}</div>
+                    <ClassicExcerpts excerpts={treatment.classic_excerpts} />
                     {isExpanded && hasLinks && (
                       <div className="treatment-links">
                         {links.formulas.length > 0 && (
@@ -295,33 +302,11 @@ export default function SyndromeModule() {
           </div>
         )}
 
-        {/* Structured Comparison Table */}
+        {/* Structured Comparison items */}
         {syndrome.comparison && syndrome.comparison.length > 0 && (
           <div className="section" id="sec-comparison">
             <h2 className="section-title mapping-title">中西对照</h2>
-            <div className="comparison-table-wrapper">
-              <table className="comparison-table">
-                <thead>
-                  <tr>
-                    <th className="comparison-aspect-col">对比维度</th>
-                    <th className="comparison-tcm-col"><span className="comparison-col-label">🀄 中医</span></th>
-                    <th className="comparison-western-col"><span className="comparison-col-label">🏥 西医</span></th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {syndrome.comparison.map((row, idx) => (
-                    <tr key={idx}>
-                      <td className="comparison-aspect">
-                        <div>{row.aspect}</div>
-                        {row.classic && <div className="comparison-classic">{row.classic}</div>}
-                      </td>
-                      <td className="comparison-tcm">{row.tcm}</td>
-                      <td className="comparison-western">{row.western}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
+            <ComparisonItems comparison={syndrome.comparison} />
           </div>
         )}
 

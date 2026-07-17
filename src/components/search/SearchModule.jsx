@@ -303,7 +303,9 @@ export default function SearchModule() {
   // Results loaded
   return (
     <div>
-      <button className="back-button" onClick={handleBack} style={{ marginBottom: '12px' }}>← 返回</button>
+      <button className="back-fab" onClick={handleBack} aria-label="返回">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
+      </button>
 
       <div className="search-results-header">
         搜索 "<strong>{searchResults.keyword}</strong>" 共找到 <strong>{searchResults.total}</strong> 条结果
