@@ -9,11 +9,13 @@ import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
 import FloatingBackButton from '../common/FloatingBackButton.jsx'
+import { useAppContext } from '../../context/AppContext.jsx'
 
 export default function SyndromeModule() {
   const navigate = useNavigate()
   const { syndromeId } = useParams()
   const [searchParams] = useSearchParams()
+  const { addRecent } = useAppContext()
 
   const allSyndromes = useMemo(() => DataManager.getAll(DATA_TYPES.SYNDROMES), [])
   const [selectedSyndrome, setSelectedSyndrome] = useState(null)
@@ -45,6 +47,7 @@ export default function SyndromeModule() {
         const relations = RelationService.getSyndromeRelations(found.id)
         setSelectedSyndrome(relations)
         setExpandedTreatment(null)
+        addRecent({ type: 'syndrome', id: found.id, name: found.name, sub: found.category?.[0], navPath: `/syndromes/${found.id}` })
         // If there's a ?treatment= or ?effect= param, expand it
         const treatmentId = searchParams.get('treatment')
         const effectId = searchParams.get('effect')

@@ -1,9 +1,11 @@
 import { useState, useEffect, useMemo } from 'react'
-import { useNavigate, useParams } from 'react-router-dom'
+import { useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
 import { navigateToEntityByName } from '../../services/EntityRoute.js'
+import { useAppContext } from '../../context/AppContext.jsx'
+import EntityList from '../common/EntityList.jsx'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
@@ -13,13 +15,18 @@ import FloatingBackButton from '../common/FloatingBackButton.jsx'
 export default function FormulaModule() {
   const navigate = useNavigate()
   const { formulaId, medicineId } = useParams()
+  const [searchParams] = useSearchParams()
 
   const allFormulas = useMemo(() => DataManager.getAll(DATA_TYPES.FORMULAS), [])
   const allMedicines = useMemo(() => DataManager.getAll(DATA_TYPES.MEDICINES), [])
 
   const [selectedFormula, setSelectedFormula] = useState(null)
   const [selectedMedicine, setSelectedMedicine] = useState(null)
-  const [viewMode, setViewMode] = useState('formulas')
+  // 支持从首页「中药百科」卡片带 ?tab=medicines 直达中药列表
+  const [viewMode, setViewMode] = useState(() =>
+    searchParams.get('tab') === 'medicines' ? 'medicines' : 'formulas'
+  )
+  const { addRecent } = useAppContext()
   const [formulaCatFilter, setFormulaCatFilter] = useState('all')
   const [medicineCatFilter, setMedicineCatFilter] = useState('all')
 
@@ -67,6 +74,7 @@ export default function FormulaModule() {
         const relations = RelationService.getFormulaRelations(found.id)
         setSelectedFormula(relations)
         setSelectedMedicine(null)
+        addRecent({ type: 'formula', id: found.id, name: found.name, sub: found.category, navPath: `/formulas/${found.id}` })
       }
     } else if (medicineId) {
       const found = DataManager.getById(DATA_TYPES.MEDICINES, medicineId)
@@ -74,6 +82,7 @@ export default function FormulaModule() {
         const relations = RelationService.getMedicineRelations(found.id)
         setSelectedMedicine(relations)
         setSelectedFormula(null)
+        addRecent({ type: 'medicine', id: found.id, name: found.name, sub: found.category, navPath: `/formulas/medicine/${found.id}` })
       }
     } else {
       setSelectedFormula(null)
@@ -505,33 +514,31 @@ export default function FormulaModule() {
       )}
 
       {viewMode === 'formulas' ? (
-        formulas.length === 0 ? (
-          <EmptyState message="未找到匹配的方剂" icon="🔍" />
-        ) : (
-          <div className="list-container">
-            {formulas.map(formula => (
-              <div key={formula.id} className="list-item formula" onClick={() => handleSelectFormula(formula)}>
-                <div className="list-item-title">{formula.name}</div>
-                <div className="list-item-pinyin">{formula.pinyin}</div>
-                <div className="list-item-desc">{formula.effects?.join('、')}</div>
-              </div>
-            ))}
-          </div>
-        )
+        <EntityList
+          items={formulas}
+          getKey={(f) => f.id}
+          emptyMessage="未找到匹配的方剂"
+          renderItem={(formula) => (
+            <div key={formula.id} className="list-item formula" onClick={() => handleSelectFormula(formula)}>
+              <div className="list-item-title">{formula.name}</div>
+              <div className="list-item-pinyin">{formula.pinyin}</div>
+              <div className="list-item-desc">{formula.effects?.join('、')}</div>
+            </div>
+          )}
+        />
       ) : (
-        medicines.length === 0 ? (
-          <EmptyState message="未找到匹配的中药" icon="🔍" />
-        ) : (
-          <div className="list-container">
-            {medicines.map(medicine => (
-              <div key={medicine.id} className="list-item medicine" onClick={() => handleSelectMedicine(medicine)}>
-                <div className="list-item-title">{medicine.name}</div>
-                <div className="list-item-pinyin">{medicine.pinyin}</div>
-                <div className="list-item-desc">{medicine.effects?.join('、')}</div>
-              </div>
-            ))}
-          </div>
-        )
+        <EntityList
+          items={medicines}
+          getKey={(m) => m.id}
+          emptyMessage="未找到匹配的中药"
+          renderItem={(medicine) => (
+            <div key={medicine.id} className="list-item medicine" onClick={() => handleSelectMedicine(medicine)}>
+              <div className="list-item-title">{medicine.name}</div>
+              <div className="list-item-pinyin">{medicine.pinyin}</div>
+              <div className="list-item-desc">{medicine.effects?.join('、')}</div>
+            </div>
+          )}
+        />
       )}
     </div>
   )

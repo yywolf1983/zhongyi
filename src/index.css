@@ -792,6 +792,39 @@ mark,
   color: var(--color-text-hint);
 }
 
+/* ===== 通用分页列表：加载更多 ===== */
+.load-more-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-lg);
+}
+.load-more-btn {
+  padding: var(--space-md) 36px;
+  background: var(--color-surface);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-full);
+  color: var(--color-primary);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: var(--shadow-xs);
+  -webkit-appearance: none;
+  transition: all var(--transition-normal);
+  min-height: var(--touch-target);
+}
+.load-more-btn:active {
+  background: var(--color-primary-bg);
+  transform: scale(0.97);
+  border-color: var(--color-primary);
+}
+@media (prefers-color-scheme: dark) {
+  .load-more-btn {
+    background: var(--color-surface-warm);
+    color: var(--color-primary-light);
+    border-color: var(--color-border);
+  }
+}
+
 /* ===== Detail Container ===== */
 .detail-container {
   position: relative;
@@ -1737,7 +1770,38 @@ mark,
   .app-container {
     padding: var(--space-sm);
     padding-top: calc(var(--safe-top) + var(--space-xl));
-    padding-bottom: calc(var(--space-3xl) + var(--safe-bottom));
+    /* 让出底部固定 Tab 栏的高度 */
+    padding-bottom: calc(92px + var(--safe-bottom));
+  }
+
+  /* 移动端文字美化：舒适字距 + 正文两端对齐（书院风） */
+  body {
+    line-height: 1.75;
+    letter-spacing: 0.015em;
+  }
+  .detail-title {
+    letter-spacing: 0.02em;
+    text-wrap: balance;
+  }
+  .section-title {
+    letter-spacing: 0.04em;
+  }
+  .list-item-title {
+    letter-spacing: 0.01em;
+  }
+  .detail-pinyin,
+  .list-item-pinyin {
+    letter-spacing: 0.03em;
+  }
+  .section-content,
+  .list-item-desc,
+  p,
+  .mapping-explanation,
+  .classic-text {
+    line-height: 1.9;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    overflow-wrap: break-word;
   }
 
   .header-container {
@@ -1755,20 +1819,41 @@ mark,
     font-size: 0.75rem;
   }
 
-  /* 横幅下导航：保持 3 列卡片，字号加大更易点 */
+  /* 移动端：主导航改为底部固定 Tab 栏（拇指可达，释放顶部空间） */
+  .nav-wrapper {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    top: auto;
+    z-index: 200;
+    margin: 0;
+    padding: 6px var(--space-sm) calc(6px + var(--safe-bottom));
+    background: rgba(251, 250, 246, 0.92);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-top: 1px solid var(--color-border);
+  }
   .nav-container {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     gap: var(--space-xs);
     padding: var(--space-xs);
-    border-radius: var(--radius-md);
+    border-radius: var(--radius-lg);
+    max-width: 720px;
+    margin: 0 auto;
+    box-shadow: var(--shadow-lg);
   }
   .nav-item {
-    font-size: var(--font-size-xs);
-    padding: var(--space-md) 6px;
-    border-radius: var(--radius-sm);
+    font-size: 0.72rem;
+    padding: 6px 2px;
+    border-radius: var(--radius-md);
+    min-height: 0;
   }
   .nav-icon {
     font-size: 1.15rem;
+  }
+
+  /* 回到顶部按钮上移，避免与底部 Tab 栏重叠 */
+  .scroll-top-btn {
+    bottom: calc(var(--safe-bottom) + 96px);
   }
 
   .search-bar {
@@ -1962,13 +2047,13 @@ mark,
   }
 
   .nav-container {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 4px;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 2px;
     padding: 4px;
   }
   .nav-item {
-    font-size: 0.85rem;
-    padding: 10px 4px;
+    font-size: 0.7rem;
+    padding: 5px 1px;
     border-radius: var(--radius-sm);
   }
   .nav-icon {
@@ -2011,7 +2096,7 @@ mark,
   }
   .section-content {
     font-size: var(--font-size-base);
-    line-height: 1.75;
+    line-height: 1.9;
   }
 
   .list-item {
@@ -2135,8 +2220,8 @@ mark,
 /* ===== 超小屏 (iPhone SE 等 374px-) - 最小字号 0.85rem ===== */
 @media (max-width: 374px) {
   .nav-item {
-    font-size: 0.85rem;
-    padding: 10px 3px;
+    font-size: 0.68rem;
+    padding: 4px 1px;
   }
   .nav-icon {
     font-size: 1rem;
@@ -2344,6 +2429,12 @@ mark,
   }
   .skeleton {
     background: linear-gradient(90deg, var(--color-divider) 25%, #3a444e 50%, var(--color-divider) 75%);
+  }
+
+  /* 底部 Tab 栏暗色适配 */
+  .nav-wrapper {
+    background: rgba(30, 36, 43, 0.92);
+    border-top-color: var(--color-border);
   }
 }
 
