@@ -410,6 +410,9 @@ export default function FormulaModule() {
                   onClick={() => handleEffectClick(effect)}>{effect}</span>
               ))}
             </div>
+            {medicine.has_reference_effects ? (
+              <p className="reference-note">部分功效由常识补充，仅供参考，待校对</p>
+            ) : null}
           </div>
         )}
 

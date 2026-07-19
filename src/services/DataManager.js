@@ -32,7 +32,7 @@ const TABLE_OF = {
 // 每个表的 list 字段（在 SQLite 中被拆成 `${table}_${field}` 子表），物化时重新组装回数组
 const LIST_FIELDS = {
   syndromes: ['category', 'classic_excerpts', 'classification', 'comparison', 'diagnosis_points', 'modern_medicine', 'related_effects', 'related_formulas', 'related_needle', 'related_treatments'],
-  medicines: ['classic_excerpts', 'contraindications', 'effect_ids', 'effects', 'flavor', 'indications', 'meridian', 'meridian_ids', 'usage'],
+  medicines: ['classic_excerpts', 'contraindications', 'effect_ids', 'effects', 'flavor', 'indications', 'meridian', 'meridian_ids'],
   acupoints: ['classic_excerpts', 'indications'],
   formulas: ['classic_excerpts', 'comparison', 'effect_ids', 'effects', 'indications', 'ingredients', 'modern_applications', 'related_syndromes', 'syndrome_ids'],
   needle_prescriptions: ['acupoints', 'classic_excerpts', 'effects', 'indications', 'modern_applications', 'related_syndromes'],

@@ -1059,6 +1059,14 @@ mark,
   margin-bottom: var(--space-sm);
 }
 
+/* 常识补充的功效标签来源提示 */
+.reference-note {
+  margin: var(--space-xs) 0 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-text-hint);
+  font-style: italic;
+}
+
 /* ===== Detail Anchor Nav（分区锚点导航） ===== */
 .detail-anchors {
   position: sticky;
