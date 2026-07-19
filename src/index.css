@@ -1910,7 +1910,7 @@ mark,
   }
   .detail-header {
     margin-bottom: var(--space-lg);
-    padding-bottom: var(--space-md);
+    padding: var(--space-md) var(--space-sm);
   }
 
   .section-title {
@@ -2088,7 +2088,7 @@ mark,
     font-size: var(--font-size-lg);
   }
   .detail-container {
-    padding: var(--space-md);
+    padding: 0;
   }
   .section-title {
     font-size: var(--font-size-md);
@@ -2559,6 +2559,13 @@ mark,
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: var(--space-md);
+}
+/* 首页卡片小屏单列显示 */
+@media (max-width: 768px) {
+  .home-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-sm);
+  }
 }
 .home-card {
   display: flex;
