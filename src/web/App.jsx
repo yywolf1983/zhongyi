@@ -16,29 +16,32 @@ import ModernMapping from '../components/knowledge/ModernMapping'
 import BookmarksModule from '../components/bookmarks/BookmarksModule'
 import HomeModule from '../components/home/HomeModule'
 
-// 路由变化自动滚动到顶部
+// 路由变化自动滚动到顶部（滚动容器为 .app-scroll）
 function ScrollToTop() {
   const { pathname } = useLocation()
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: 'smooth' })
+    const el = document.querySelector('.app-scroll')
+    if (el) el.scrollTo({ top: 0, behavior: 'smooth' })
   }, [pathname])
   return null
 }
 
-// 滚动到顶部按钮
+// 滚动到顶部按钮（监听独立滚动区 .app-scroll）
 function ScrollTopButton() {
   const [visible, setVisible] = useState(false)
 
   useEffect(() => {
-    const onScroll = () => {
-      setVisible(window.scrollY > 100)
-    }
-    window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
+    const el = document.querySelector('.app-scroll')
+    if (!el) return
+    const onScroll = () => setVisible(el.scrollTop > 100)
+    el.addEventListener('scroll', onScroll, { passive: true })
+    onScroll()
+    return () => el.removeEventListener('scroll', onScroll)
   }, [])
 
   const scrollToTop = () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' })
+    const el = document.querySelector('.app-scroll')
+    if (el) el.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   return createPortal(
@@ -188,21 +191,24 @@ function DataLoader({ children }) {
   return children
 }
 
+// App Shell：独立滚动区（.app-scroll）+ 底部固定导航（flex 子项，不依赖 position:fixed）
 function Layout({ children }) {
   useCapacitorNative()
 
   return (
-    <div className="app-container">
-      <Header />
-      <GlobalSearchBar />
+    <div className="app-shell">
+      <div className="app-scroll">
+        <Header />
+        <GlobalSearchBar />
+        <main className="main-content">
+          <div className="page-enter">
+            <ErrorBoundary>
+              <DataLoader>{children}</DataLoader>
+            </ErrorBoundary>
+          </div>
+        </main>
+      </div>
       <Navigation />
-      <main className="main-content">
-        <div className="page-enter">
-          <ErrorBoundary>
-            <DataLoader>{children}</DataLoader>
-          </ErrorBoundary>
-        </div>
-      </main>
       <ScrollTopButton />
     </div>
   )
@@ -225,6 +231,8 @@ export default function App() {
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas/:formulaId" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/formulas/medicine/:medicineId" />
+          <Route element={<Layout><FormulaModule /></Layout>} path="/medicines" />
+          <Route element={<Layout><FormulaModule /></Layout>} path="/medicines/:medicineId" />
           <Route element={<Layout><SearchModule /></Layout>} path="/search" />
           <Route element={<Layout><KnowledgeGraph /></Layout>} path="/knowledge-graph" />
           <Route element={<Layout><KnowledgeGraph /></Layout>} path="/knowledge-graph/:entityType/:entityId" />

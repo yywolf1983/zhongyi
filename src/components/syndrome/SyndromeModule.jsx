@@ -6,6 +6,7 @@ import { DATA_TYPES } from '../../services/DataManager.js'
 import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
+import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
 import FloatingBackButton from '../common/FloatingBackButton.jsx'
@@ -347,16 +348,23 @@ export default function SyndromeModule() {
   return (
     <div>
       {/* Classification filter */}
-      <div className="tag-filter-bar" style={{ marginBottom: '16px' }}>
-        {classifications.map(cat => (
-          <button
-            key={cat}
-            className={`tag-filter-btn ${classificationFilter === cat ? 'active' : ''}`}
-            onClick={() => setClassificationFilter(cat)}
-          >
-            {cat === 'all' ? `全部分类（${allSyndromes.length}）` : cat}
-          </button>
-        ))}
+      <div style={{ marginBottom: '16px' }}>
+        <CollapsibleFilter
+          label="分类"
+          summary={classificationFilter === 'all' ? `全部分类（${allSyndromes.length}）` : classificationFilter}
+        >
+          <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
+            {classifications.map(cat => (
+              <button
+                key={cat}
+                className={`tag-filter-btn ${classificationFilter === cat ? 'active' : ''}`}
+                onClick={() => setClassificationFilter(cat)}
+              >
+                {cat === 'all' ? `全部分类（${allSyndromes.length}）` : cat}
+              </button>
+            ))}
+          </div>
+        </CollapsibleFilter>
       </div>
 
       {syndromes.length === 0 ? (

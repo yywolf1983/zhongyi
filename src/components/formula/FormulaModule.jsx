@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { useNavigate, useParams, useSearchParams } from 'react-router-dom'
+import { useNavigate, useParams, useSearchParams, useLocation } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
@@ -11,9 +11,11 @@ import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
 import FloatingBackButton from '../common/FloatingBackButton.jsx'
+import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
 
 export default function FormulaModule() {
   const navigate = useNavigate()
+  const location = useLocation()
   const { formulaId, medicineId } = useParams()
   const [searchParams] = useSearchParams()
 
@@ -22,13 +24,16 @@ export default function FormulaModule() {
 
   const [selectedFormula, setSelectedFormula] = useState(null)
   const [selectedMedicine, setSelectedMedicine] = useState(null)
-  // 支持从首页「中药百科」卡片带 ?tab=medicines 直达中药列表
+  // 支持从首页「中药百科」卡片带 ?tab=medicines，或从独立路由 /medicines 直达中药列表
+  const isMedicineRoute = location.pathname.startsWith('/medicines')
   const [viewMode, setViewMode] = useState(() =>
-    searchParams.get('tab') === 'medicines' ? 'medicines' : 'formulas'
+    (searchParams.get('tab') === 'medicines' || isMedicineRoute) ? 'medicines' : 'formulas'
   )
   const { addRecent } = useAppContext()
   const [formulaCatFilter, setFormulaCatFilter] = useState('all')
+  const [formulaSubFilter, setFormulaSubFilter] = useState('all')
   const [medicineCatFilter, setMedicineCatFilter] = useState('all')
+  const [medicineSubFilter, setMedicineSubFilter] = useState('all')
 
   // ---- 分类统计：category → count ----
   const formulaCategories = useMemo(() => {
@@ -49,10 +54,28 @@ export default function FormulaModule() {
     return map
   }, [allFormulas])
 
-  const formulas = useMemo(() => {
-    if (formulaCatFilter === 'all') return allFormulas
-    return allFormulas.filter(f => f.category === formulaCatFilter)
+  // 子类（subcategory 为数组，部分为空）
+  const formulaSubOptions = useMemo(() => {
+    const base = formulaCatFilter === 'all' ? allFormulas : allFormulas.filter(f => f.category === formulaCatFilter)
+    const subs = new Set()
+    base.forEach(f => {
+      const arr = Array.isArray(f.subcategory) ? f.subcategory : (f.subcategory ? [f.subcategory] : [])
+      arr.forEach(s => { if (s) subs.add(s) })
+    })
+    return ['all', ...Array.from(subs).sort()]
   }, [allFormulas, formulaCatFilter])
+
+  const formulas = useMemo(() => {
+    let list = allFormulas
+    if (formulaCatFilter !== 'all') list = list.filter(f => f.category === formulaCatFilter)
+    if (formulaSubFilter !== 'all') {
+      list = list.filter(f => {
+        const arr = Array.isArray(f.subcategory) ? f.subcategory : (f.subcategory ? [f.subcategory] : [])
+        return arr.includes(formulaSubFilter)
+      })
+    }
+    return list
+  }, [allFormulas, formulaCatFilter, formulaSubFilter])
 
   // Medicine category options
   const medicineCategories = useMemo(() => {
@@ -61,10 +84,27 @@ export default function FormulaModule() {
     return ['all', ...Array.from(set).sort()]
   }, [allMedicines])
 
-  const medicines = useMemo(() => {
-    if (medicineCatFilter === 'all') return allMedicines
-    return allMedicines.filter(m => m.category === medicineCatFilter)
+  const medicineSubOptions = useMemo(() => {
+    const base = medicineCatFilter === 'all' ? allMedicines : allMedicines.filter(m => m.category === medicineCatFilter)
+    const subs = new Set()
+    base.forEach(m => {
+      const arr = Array.isArray(m.subcategory) ? m.subcategory : (m.subcategory ? [m.subcategory] : [])
+      arr.forEach(s => { if (s) subs.add(s) })
+    })
+    return ['all', ...Array.from(subs).sort()]
   }, [allMedicines, medicineCatFilter])
+
+  const medicines = useMemo(() => {
+    let list = allMedicines
+    if (medicineCatFilter !== 'all') list = list.filter(m => m.category === medicineCatFilter)
+    if (medicineSubFilter !== 'all') {
+      list = list.filter(m => {
+        const arr = Array.isArray(m.subcategory) ? m.subcategory : (m.subcategory ? [m.subcategory] : [])
+        return arr.includes(medicineSubFilter)
+      })
+    }
+    return list
+  }, [allMedicines, medicineCatFilter, medicineSubFilter])
 
   // Handle URL deep linking
   useEffect(() => {
@@ -117,7 +157,9 @@ export default function FormulaModule() {
   const handleViewModeChange = (mode) => {
     setViewMode(mode)
     setFormulaCatFilter('all')
+    setFormulaSubFilter('all')
     setMedicineCatFilter('all')
+    setMedicineSubFilter('all')
   }
 
   const handleMeridianClick = (meridianName) => {
@@ -158,7 +200,7 @@ export default function FormulaModule() {
             <p className="detail-pinyin">{formula.pinyin}</p>
             <div className="detail-category">
               <span className="category-tag">{formula.category}</span>
-              {formula.subcategory && <span className="category-tag">{formula.subcategory}</span>}
+              {formula.subcategory && <span className="category-tag">{Array.isArray(formula.subcategory) ? formula.subcategory.join('、') : formula.subcategory}</span>}
             </div>
           </div>
           <BookmarkButton item={formula} type="formula" />
@@ -335,7 +377,7 @@ export default function FormulaModule() {
             <p className="detail-pinyin">{medicine.pinyin}{medicine.latin_name ? ` (${medicine.latin_name})` : ''}</p>
             <div className="detail-category">
               <span className="category-tag">{medicine.category}</span>
-              {medicine.subcategory && <span className="category-tag">{medicine.subcategory}</span>}
+              {medicine.subcategory && <span className="category-tag">{Array.isArray(medicine.subcategory) ? medicine.subcategory.join('、') : medicine.subcategory}</span>}
             </div>
           </div>
           <BookmarkButton item={medicine} type="medicine" />
@@ -486,31 +528,83 @@ export default function FormulaModule() {
       </div>
 
       {viewMode === 'formulas' && (
-        <div className="tag-filter-bar" style={{ marginBottom: '16px' }}>
-          {formulaCategories.map(cat => (
-            <button
-              key={cat}
-              className={`tag-filter-btn ${formulaCatFilter === cat ? 'active' : ''}`}
-              onClick={() => setFormulaCatFilter(cat)}
+        <>
+          <CollapsibleFilter
+            label="分类"
+            summary={formulaCatFilter === 'all' ? '全部' : formulaCatFilter}
+          >
+            <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
+              {formulaCategories.map(cat => (
+                <button
+                  key={cat}
+                  className={`tag-filter-btn ${formulaCatFilter === cat ? 'active' : ''}`}
+                  onClick={() => { setFormulaCatFilter(cat); setFormulaSubFilter('all') }}
+                >
+                  {cat === 'all' ? `全部（${allFormulas.length}）` : `${cat}（${formulaCategoryCount[cat] || 0}）`}
+                </button>
+              ))}
+            </div>
+          </CollapsibleFilter>
+          {formulaSubOptions.length > 1 && (
+            <CollapsibleFilter
+              label="子类"
+              summary={formulaSubFilter === 'all' ? '全部子类' : formulaSubFilter}
             >
-              {cat === 'all' ? `全部（${allFormulas.length}）` : `${cat}（${formulaCategoryCount[cat] || 0}）`}
-            </button>
-          ))}
-        </div>
+              <div className="tag-filter-bar" style={{ marginBottom: '16px' }}>
+                {formulaSubOptions.map(sub => (
+                  <button
+                    key={sub}
+                    className={`tag-filter-btn ${formulaSubFilter === sub ? 'active' : ''}`}
+                    onClick={() => setFormulaSubFilter(sub)}
+                    style={formulaSubFilter !== sub ? { background: 'var(--color-filter-inactive)' } : {}}
+                  >
+                    {sub === 'all' ? '全部子类' : sub}
+                  </button>
+                ))}
+              </div>
+            </CollapsibleFilter>
+          )}
+        </>
       )}
 
       {viewMode === 'medicines' && (
-        <div className="tag-filter-bar" style={{ marginBottom: '16px' }}>
-          {medicineCategories.map(cat => (
-            <button
-              key={cat}
-              className={`tag-filter-btn ${medicineCatFilter === cat ? 'active' : ''}`}
-              onClick={() => setMedicineCatFilter(cat)}
+        <>
+          <CollapsibleFilter
+            label="分类"
+            summary={medicineCatFilter === 'all' ? '全部' : medicineCatFilter}
+          >
+            <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
+              {medicineCategories.map(cat => (
+                <button
+                  key={cat}
+                  className={`tag-filter-btn ${medicineCatFilter === cat ? 'active' : ''}`}
+                  onClick={() => { setMedicineCatFilter(cat); setMedicineSubFilter('all') }}
+                >
+                  {cat === 'all' ? `全部分类（${allMedicines.length}）` : cat}
+                </button>
+              ))}
+            </div>
+          </CollapsibleFilter>
+          {medicineSubOptions.length > 1 && (
+            <CollapsibleFilter
+              label="子类"
+              summary={medicineSubFilter === 'all' ? '全部子类' : medicineSubFilter}
             >
-              {cat === 'all' ? `全部分类（${allMedicines.length}）` : cat}
-            </button>
-          ))}
-        </div>
+              <div className="tag-filter-bar" style={{ marginBottom: '16px' }}>
+                {medicineSubOptions.map(sub => (
+                  <button
+                    key={sub}
+                    className={`tag-filter-btn ${medicineSubFilter === sub ? 'active' : ''}`}
+                    onClick={() => setMedicineSubFilter(sub)}
+                    style={medicineSubFilter !== sub ? { background: 'var(--color-filter-inactive)' } : {}}
+                  >
+                    {sub === 'all' ? '全部子类' : sub}
+                  </button>
+                ))}
+              </div>
+            </CollapsibleFilter>
+          )}
+        </>
       )}
 
       {viewMode === 'formulas' ? (

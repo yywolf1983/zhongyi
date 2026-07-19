@@ -9,6 +9,7 @@ import EntityList from '../common/EntityList.jsx'
 import DetailSection from '../common/DetailSection.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import FloatingBackButton from '../common/FloatingBackButton.jsx'
+import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
 import { useAppContext } from '../../context/AppContext.jsx'
 
 // 经外奇穴部位子类列表（固定顺序）
@@ -24,23 +25,22 @@ export default function AcupunctureModule() {
   const [prescriptions, setPrescriptions] = useState(() => DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS))
   const [selectedAcupoint, setSelectedAcupoint] = useState(null)
   const [selectedPresc, setSelectedPresc] = useState(null)
-  const [viewMode, setViewMode] = useState('acupoints')
+  const [viewMode, setViewMode] = useState(() => searchParams.get('view') === 'prescriptions' ? 'prescriptions' : 'acupoints')
   const [expandedMeridian, setExpandedMeridian] = useState(false)
 
-  // 针方（已合并原“针灸处方”，统一为单一针方数据集）：分类筛选
-  const [prescCategoryFilter, setPrescCategoryFilter] = useState('all')
+  // 针方按功效(传统中医分类)单级筛选，主治仅作卡片/详情标签展示
+  const [prescCatFilter, setPrescCatFilter] = useState('all')
 
-  const prescCategoryOptions = useMemo(() => {
+  const prescCatOptions = useMemo(() => {
     const cats = new Set()
     prescriptions.forEach(n => { if (n.category) cats.add(n.category) })
     return ['all', ...Array.from(cats).sort()]
   }, [prescriptions])
 
   const filteredPrescs = useMemo(() => {
-    let list = prescriptions
-    if (prescCategoryFilter !== 'all') list = list.filter(p => p.category === prescCategoryFilter)
-    return list
-  }, [prescriptions, prescCategoryFilter])
+    if (prescCatFilter === 'all') return prescriptions
+    return prescriptions.filter(p => p.category === prescCatFilter)
+  }, [prescriptions, prescCatFilter])
 
   // 两级穴位筛选
   const [acupointCatFilter, setAcupointCatFilter] = useState('all')   // 全部 / 十二正经 / 奇经八脉 / 经外奇穴
@@ -179,7 +179,7 @@ export default function AcupunctureModule() {
       setMeridianSubFilter('all')
     } else if (mode === 'prescriptions') {
       setPrescriptions(DataManager.getAll(DATA_TYPES.NEEDLE_PRESCRIPTIONS))
-      setPrescCategoryFilter('all')
+      setPrescCatFilter('all')
     }
   }
 
@@ -525,31 +525,41 @@ export default function AcupunctureModule() {
       {/* ========== ACUPOINT VIEW ========== */}
       {viewMode === 'acupoints' && (
         <>
-          {/* 两级筛选：大类 → 子类 */}
-          <div className="tag-filter-bar" style={{ marginBottom: '8px' }}>
-            {['all', '十二正经', '奇经八脉', '经外奇穴'].map(cat => (
-              <button
-                key={cat}
-                className={`tag-filter-btn ${acupointCatFilter === cat ? 'active' : ''}`}
-                onClick={() => { setAcupointCatFilter(cat); setAcupointSubFilter('all') }}
-              >
-                {cat === 'all' ? '全部经络' : cat}
-              </button>
-            ))}
-          </div>
-          {acupointSubCategories.length > 0 && (
-            <div className="tag-filter-bar" style={{ marginBottom: '16px', marginTop: '0', borderTopLeftRadius: '0', borderTopRightRadius: '0', borderTop: 'none' }}>
-              {acupointSubCategories.map(sub => (
+          {/* 两级筛选：大类 → 子类（可折叠，默认收起） */}
+          <CollapsibleFilter
+            label="经络"
+            summary={acupointCatFilter === 'all' ? '全部' : acupointCatFilter}
+          >
+            <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
+              {['all', '十二正经', '奇经八脉', '经外奇穴'].map(cat => (
                 <button
-                  key={sub}
-                  className={`tag-filter-btn ${acupointSubFilter === sub ? 'active' : ''}`}
-                  onClick={() => setAcupointSubFilter(sub)}
-                  style={acupointSubFilter !== sub ? { background: 'var(--color-filter-inactive)' } : {}}
+                  key={cat}
+                  className={`tag-filter-btn ${acupointCatFilter === cat ? 'active' : ''}`}
+                  onClick={() => { setAcupointCatFilter(cat); setAcupointSubFilter('all') }}
                 >
-                  {sub === 'all' ? '全部子类' : sub}
+                  {cat === 'all' ? '全部经络' : cat}
                 </button>
               ))}
             </div>
+          </CollapsibleFilter>
+          {acupointSubCategories.length > 0 && (
+            <CollapsibleFilter
+              label="子类"
+              summary={acupointSubFilter === 'all' ? '全部子类' : acupointSubFilter}
+            >
+              <div className="tag-filter-bar" style={{ marginBottom: '16px' }}>
+                {acupointSubCategories.map(sub => (
+                  <button
+                    key={sub}
+                    className={`tag-filter-btn ${acupointSubFilter === sub ? 'active' : ''}`}
+                    onClick={() => setAcupointSubFilter(sub)}
+                    style={acupointSubFilter !== sub ? { background: 'var(--color-filter-inactive)' } : {}}
+                  >
+                    {sub === 'all' ? '全部子类' : sub}
+                  </button>
+                ))}
+              </div>
+            </CollapsibleFilter>
           )}
 
           {/* ===== 选中经络介绍（信息融合）===== */}
@@ -647,18 +657,23 @@ export default function AcupunctureModule() {
       {/* ========== PRESCRIPTIONS VIEW（针方，已合并原“针灸处方”） ========== */}
       {viewMode === 'prescriptions' && (
         <>
-          {/* 分类筛选 */}
-          <div className="tag-filter-bar" style={{ marginBottom: '16px', display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
-            {prescCategoryOptions.map(cat => (
-              <button
-                key={cat}
-                className={`tag-filter-btn ${prescCategoryFilter === cat ? 'active' : ''}`}
-                onClick={() => setPrescCategoryFilter(cat)}
-              >
-                {cat === 'all' ? '全部类别' : cat}
-              </button>
-            ))}
-          </div>
+          {/* 按功效(传统中医分类)单级筛选（可折叠，默认收起） */}
+          <CollapsibleFilter
+            label="功效"
+            summary={prescCatFilter === 'all' ? '全部' : prescCatFilter}
+          >
+            <div className="tag-filter-bar" style={{ marginBottom: '16px' }}>
+              {prescCatOptions.map(cat => (
+                <button
+                  key={cat}
+                  className={`tag-filter-btn ${prescCatFilter === cat ? 'active' : ''}`}
+                  onClick={() => setPrescCatFilter(cat)}
+                >
+                  {cat === 'all' ? '全部功效' : cat}
+                </button>
+              ))}
+            </div>
+          </CollapsibleFilter>
 
           <EntityList
             items={filteredPrescs}
@@ -666,15 +681,8 @@ export default function AcupunctureModule() {
             emptyMessage="未找到匹配的针方"
             renderItem={(presc) => (
               <div key={presc.id} className="list-item needle" onClick={() => handleSelectNeedle(presc)}>
-                <div className="list-item-title">
-                  {presc.name}
-                  {presc.subcategory && (
-                    <span style={{ fontSize: '0.78rem', color: 'var(--color-mapping)', marginLeft: '8px', fontWeight: 'normal' }}>
-                      {presc.subcategory}
-                    </span>
-                  )}
-                </div>
-                <div className="list-item-pinyin">{presc.category}</div>
+                <div className="list-item-title">{presc.name}</div>
+                <div className="list-item-pinyin">{presc.category || '未分类'}{presc.subcategory ? ` · ${presc.subcategory}` : ''}</div>
                 <div className="list-item-desc">{presc.effects?.join('、')}</div>
               </div>
             )}

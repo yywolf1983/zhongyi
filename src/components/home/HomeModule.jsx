@@ -28,15 +28,14 @@ export default function HomeModule() {
   }), [])
 
   const domains = [
-    { icon: '📋', title: '辨证论治', desc: '证型 · 治法', count: stats.syndromes, nav: '/syndromes' },
-    { icon: '💉', title: '针灸针方', desc: '经络 · 穴位', count: stats.acupoints + stats.needles, nav: '/acupuncture' },
-    { icon: '🌿', title: '方剂查询', desc: '经典名方', count: stats.formulas, nav: '/formulas' },
-    { icon: '🪴', title: '中药百科', desc: '性味归经', count: stats.medicines, nav: '/formulas?tab=medicines' }
+    { icon: '☯', title: '辨证论治', desc: '证型 · 治法', count: stats.syndromes, nav: '/syndromes', accent: '#3a6b78' },
+    { icon: '📍', title: '经络穴位', desc: '经络 · 腧穴', count: stats.acupoints, nav: '/acupuncture?view=acupoints', accent: '#3f8f7d' },
+    { icon: '💉', title: '针方处方', desc: '配穴 · 刺法', count: stats.needles, nav: '/acupuncture?view=prescriptions', accent: '#c0892e' },
+    { icon: '📜', title: '方剂中药', desc: '名方 · 药材', count: stats.formulas + stats.medicines, nav: '/formulas', accent: '#9c6b8e' }
   ]
 
   const explores = [
-    { icon: '🔗', title: '知识图谱', desc: '实体关系网络', nav: '/knowledge-graph' },
-    { icon: '🔄', title: '中西对照', desc: '中医 · 现代映射', nav: '/modern-mapping' }
+    { icon: '🔄', title: '中西对照', desc: '中医 · 现代映射', nav: '/modern-mapping', accent: '#4a7c9c' }
   ]
 
   return (
@@ -45,7 +44,7 @@ export default function HomeModule() {
         <h2 className="home-section-title">浏览内容</h2>
         <div className="home-grid">
           {domains.map((d) => (
-            <button key={d.title} className="home-card" onClick={() => navigate(d.nav)} type="button">
+            <button key={d.title} className="home-card" style={{ '--accent': d.accent }} onClick={() => navigate(d.nav)} type="button">
               <span className="home-card-icon">{d.icon}</span>
               <span className="home-card-body">
                 <span className="home-card-title">{d.title}</span>
@@ -60,7 +59,7 @@ export default function HomeModule() {
         <h2 className="home-section-title">探索</h2>
         <div className="home-grid">
           {explores.map((e) => (
-            <button key={e.title} className="home-card" onClick={() => navigate(e.nav)} type="button">
+            <button key={e.title} className="home-card" style={{ '--accent': e.accent }} onClick={() => navigate(e.nav)} type="button">
               <span className="home-card-icon">{e.icon}</span>
               <span className="home-card-body">
                 <span className="home-card-title">{e.title}</span>

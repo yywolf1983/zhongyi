@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
 import EmptyState from '../common/EmptyState.jsx'
+import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
 
 const NODE_COLORS = {
   syndrome: '#2f5d7c',
@@ -302,24 +303,31 @@ export default function KnowledgeGraph() {
 
       {/* Sub-category filter */}
       {viewCategories.length > 0 && (
-        <div className="tag-filter-bar" style={{ marginBottom: '16px' }}>
-          <button
-            className={`tag-filter-btn ${innerCatFilter === 'all' ? 'active' : ''}`}
-            onClick={() => setInnerCatFilter('all')}
-            style={innerCatFilter !== 'all' ? { background: 'var(--color-filter-inactive)' } : {}}
+        <div style={{ marginBottom: '16px' }}>
+          <CollapsibleFilter
+            label="分类"
+            summary={innerCatFilter === 'all' ? `全部分类（${viewData.length}）` : innerCatFilter}
           >
-            全部分类（{viewData.length}）
-          </button>
-          {viewCategories.map(cat => (
-            <button
-              key={cat}
-              className={`tag-filter-btn ${innerCatFilter === cat ? 'active' : ''}`}
-              onClick={() => setInnerCatFilter(cat)}
-              style={innerCatFilter !== cat ? { background: 'var(--color-filter-inactive)' } : {}}
-            >
-              {cat}
-            </button>
-          ))}
+            <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
+              <button
+                className={`tag-filter-btn ${innerCatFilter === 'all' ? 'active' : ''}`}
+                onClick={() => setInnerCatFilter('all')}
+                style={innerCatFilter !== 'all' ? { background: 'var(--color-filter-inactive)' } : {}}
+              >
+                全部分类（{viewData.length}）
+              </button>
+              {viewCategories.map(cat => (
+                <button
+                  key={cat}
+                  className={`tag-filter-btn ${innerCatFilter === cat ? 'active' : ''}`}
+                  onClick={() => setInnerCatFilter(cat)}
+                  style={innerCatFilter !== cat ? { background: 'var(--color-filter-inactive)' } : {}}
+                >
+                  {cat}
+                </button>
+              ))}
+            </div>
+          </CollapsibleFilter>
         </div>
       )}
 
