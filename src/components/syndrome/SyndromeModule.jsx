@@ -145,13 +145,23 @@ export default function SyndromeModule() {
             <h1 className="detail-title">{syndrome.name}</h1>
             <p className="detail-pinyin">{syndrome.pinyin}</p>
             <div className="detail-category">
-              {syndrome.category?.map((cat, i) => (
+              {syndrome.category?.length > 0 && syndrome.category.map((cat, i) => (
                 <span key={i} className="category-tag">{cat}</span>
               ))}
-              {syndrome.classification?.map((classif, i) => (
-                <span key={i} className="category-tag">{classif}</span>
-              ))}
             </div>
+            {syndrome.classification?.length > 0 && (
+              <div className="detail-meta-row">
+                <span className="detail-meta-label">八纲</span>
+                <div className="tag-list">
+                  {syndrome.classification.map(c => (
+                    <span key={c}
+                      className={`tag-item ${(c === '阴证' || c === '阳证' || c === '阴阳错杂') ? 'primary' : ''}`}>
+                      {c}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
           <BookmarkButton item={syndrome} type="syndrome" />
         </div>
@@ -347,20 +357,26 @@ export default function SyndromeModule() {
 
   return (
     <div>
-      {/* Classification filter */}
+      {/* Classification filter (八纲四轴分组) */}
       <div style={{ marginBottom: '16px' }}>
         <CollapsibleFilter
-          label="分类"
+          label="八纲分类"
           summary={classificationFilter === 'all' ? `全部分类（${allSyndromes.length}）` : classificationFilter}
         >
-          <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
-            {classifications.map(cat => (
+          <div className="tag-filter-bar">
+            <button
+              className={`tag-filter-btn ${classificationFilter === 'all' ? 'active' : ''}`}
+              onClick={() => setClassificationFilter('all')}
+            >
+              全部（{allSyndromes.length}）
+            </button>
+            {classifications.slice(1).map(v => (
               <button
-                key={cat}
-                className={`tag-filter-btn ${classificationFilter === cat ? 'active' : ''}`}
-                onClick={() => setClassificationFilter(cat)}
+                key={v}
+                className={`tag-filter-btn ${classificationFilter === v ? 'active' : ''}`}
+                onClick={() => setClassificationFilter(v)}
               >
-                {cat === 'all' ? `全部分类（${allSyndromes.length}）` : cat}
+                {v}
               </button>
             ))}
           </div>
@@ -384,6 +400,16 @@ export default function SyndromeModule() {
                 )}
               </div>
               <div className="list-item-pinyin">{syndrome.pinyin}</div>
+              {syndrome.classification && syndrome.classification.length > 0 && (
+                <div className="tag-list list-item-tags">
+                  {syndrome.classification.map((c, i) => (
+                    <span
+                      key={c}
+                      className={`tag-item ${(c === '阴证' || c === '阳证' || c === '阴阳错杂') ? 'primary' : ''}`}
+                    >{c}</span>
+                  ))}
+                </div>
+              )}
               <div className="list-item-desc">
                 {syndrome.pathogenesis?.substring(0, 80)}{syndrome.pathogenesis && syndrome.pathogenesis.length > 80 ? '...' : ''}
               </div>

@@ -854,6 +854,13 @@ mark,
   margin-left: 8px;
   font-weight: 400;
 }
+
+/* 列表项八纲小标签：复用通用 .tag-item，仅缩小间距 */
+.list-item-tags {
+  gap: 5px;
+  margin-bottom: var(--space-xs);
+  min-width: 0;
+}
 /* 暂无数据等弱提示（替代散落 inline 颜色） */
 .empty-hint {
   color: var(--color-text-hint);
@@ -1000,8 +1007,32 @@ mark,
 }
 .detail-category {
   display: flex;
+  flex-direction: row;
+  align-items: flex-start;
   gap: var(--space-sm);
   flex-wrap: wrap;
+}
+/* 详情头部次要维度（如八纲）：内联小标签 + 标签流 */
+.detail-meta-row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-top: var(--space-xs);
+  flex-wrap: wrap;
+  min-width: 0;
+}
+.detail-meta-label {
+  flex-shrink: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-text-hint);
+  letter-spacing: 0.04em;
+}
+/* 分类标签均为短词，禁止按字拆行（避免「寒热错杂」类被拆成两行） */
+.category-tag,
+.detail-meta-row .tag-item,
+.list-item-tags .tag-item {
+  white-space: nowrap;
 }
 .category-tag {
   padding: 5px 16px;
@@ -1696,6 +1727,8 @@ mark,
   border-radius: var(--radius-md);
   border: 1px solid var(--color-border);
   margin-top: var(--space-sm);
+  min-width: 0;
+  flex: 1 1 auto;
 }
 
 /* 可折叠筛选分组：收起时只显示一行摘要，展开才平铺 chips */
