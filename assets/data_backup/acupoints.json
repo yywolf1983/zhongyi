@@ -8,7 +8,7 @@
     "method": "向外斜刺或平刺0.5-0.8寸，不可向内深刺",
     "name": "中府",
     "pinyin": "Zhong Fu",
-    "subcategory": null,
+    "subcategory": "肺之募穴",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -26,7 +26,7 @@
     "method": "向外斜刺0.5-0.8寸",
     "name": "云门",
     "pinyin": "Yun Men",
-    "subcategory": null,
+    "subcategory": "手太阴肺经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -44,7 +44,7 @@
     "method": "直刺0.5-1寸",
     "name": "天府",
     "pinyin": "Tian Fu",
-    "subcategory": null,
+    "subcategory": "手太阴肺经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -62,7 +62,7 @@
     "method": "直刺0.5-1寸",
     "name": "侠白",
     "pinyin": "Xia Bai",
-    "subcategory": null,
+    "subcategory": "手太阴肺经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -80,7 +80,7 @@
     "method": "直刺0.8-1.2寸，或点刺出血",
     "name": "尺泽",
     "pinyin": "Chi Ze",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -105,7 +105,7 @@
     "method": "直刺0.5-1寸",
     "name": "孔最",
     "pinyin": "Kong Zui",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -125,7 +125,7 @@
     "method": "向上斜刺0.3-0.5寸",
     "name": "列缺",
     "pinyin": "Lie Que",
-    "subcategory": null,
+    "subcategory": "络穴；八脉交会穴（通任脉）",
     "classic_excerpts": [
       {
         "source": "《四总穴歌》",
@@ -151,7 +151,7 @@
     "method": "避开桡动脉，直刺0.3-0.5寸",
     "name": "经渠",
     "pinyin": "Jing Qu",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -170,7 +170,7 @@
     "method": "避开桡动脉，直刺0.3-0.5寸",
     "name": "太渊",
     "pinyin": "Tai Yuan",
-    "subcategory": null,
+    "subcategory": "输穴；原穴；八会穴（脉会）",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -191,7 +191,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "鱼际",
     "pinyin": "Yu Ji",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -210,7 +210,7 @@
     "method": "浅刺0.1寸，或点刺出血",
     "name": "少商",
     "pinyin": "Shao Shang",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -235,7 +235,7 @@
     "method": "浅刺0.1寸，或点刺出血",
     "name": "商阳",
     "pinyin": "Shang Yang",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "咽喉肿痛",
@@ -255,7 +255,7 @@
     "method": "直刺0.2-0.3寸",
     "name": "二间",
     "pinyin": "Er Jian",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "目痛",
@@ -274,7 +274,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "三间",
     "pinyin": "San Jian",
-    "subcategory": null,
+    "subcategory": "输穴",
     "classic_excerpts": null,
     "indications": [
       "目痛",
@@ -293,7 +293,7 @@
     "method": "直刺0.5-1寸",
     "name": "合谷",
     "pinyin": "He Gu",
-    "subcategory": null,
+    "subcategory": "原穴",
     "classic_excerpts": [
       {
         "source": "《四总穴歌》",
@@ -322,7 +322,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "阳溪",
     "pinyin": "Yang Xi",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -341,7 +341,7 @@
     "method": "直刺或斜刺0.5-0.8寸",
     "name": "偏历",
     "pinyin": "Pian Li",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": null,
     "indications": [
       "目赤",
@@ -360,7 +360,7 @@
     "method": "直刺0.5-1寸",
     "name": "温溜",
     "pinyin": "Wen Liu",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -379,7 +379,7 @@
     "method": "直刺0.5-1寸",
     "name": "下廉",
     "pinyin": "Xia Lian",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -398,7 +398,7 @@
     "method": "直刺0.5-1寸",
     "name": "上廉",
     "pinyin": "Shang Lian",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "肩臂酸痛",
@@ -417,7 +417,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "手三里",
     "pinyin": "Shou San Li",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -437,7 +437,7 @@
     "method": "直刺1-1.5寸",
     "name": "曲池",
     "pinyin": "Qu Chi",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -465,7 +465,7 @@
     "method": "直刺0.5-1寸",
     "name": "肘髎",
     "pinyin": "Zhou Liao",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "肘臂酸痛",
@@ -482,7 +482,7 @@
     "method": "直刺1-1.5寸",
     "name": "手五里",
     "pinyin": "Shou Wu Li",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "肘臂挛痛",
@@ -498,7 +498,7 @@
     "method": "直刺或向上斜刺0.8-1.5寸",
     "name": "臂臑",
     "pinyin": "Bi Nao",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "肩臂疼痛",
@@ -516,7 +516,7 @@
     "method": "直刺或向下斜刺0.8-1.5寸",
     "name": "肩髃",
     "pinyin": "Jian Yu",
-    "subcategory": null,
+    "subcategory": "手阳明、阳跷之会",
     "classic_excerpts": null,
     "indications": [
       "肩臂疼痛",
@@ -534,7 +534,7 @@
     "method": "直刺0.5-0.8寸，不可深刺",
     "name": "巨骨",
     "pinyin": "Ju Gu",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "肩臂疼痛",
@@ -552,7 +552,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "天鼎",
     "pinyin": "Tian Ding",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "咽喉肿痛",
@@ -570,7 +570,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "扶突",
     "pinyin": "Fu Tu",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -590,7 +590,7 @@
     "method": "直刺或斜刺0.3-0.5寸",
     "name": "口禾髎",
     "pinyin": "Kou He Liao",
-    "subcategory": null,
+    "subcategory": "手阳明大肠经",
     "classic_excerpts": null,
     "indications": [
       "鼻塞",
@@ -608,7 +608,7 @@
     "method": "斜刺或平刺0.3-0.5寸",
     "name": "迎香",
     "pinyin": "Ying Xiang",
-    "subcategory": null,
+    "subcategory": "手足阳明之会",
     "classic_excerpts": null,
     "indications": [
       "鼻塞",
@@ -628,7 +628,7 @@
     "method": "紧靠眶下缘缓慢直刺0.3-0.5寸，不宜提插",
     "name": "承泣",
     "pinyin": "Cheng Qi",
-    "subcategory": null,
+    "subcategory": "足阳明、阳跷、任脉之会",
     "classic_excerpts": null,
     "indications": [
       "目赤肿痛",
@@ -647,7 +647,7 @@
     "method": "直刺或微向上斜刺0.3-0.5寸",
     "name": "四白",
     "pinyin": "Si Bai",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -672,7 +672,7 @@
     "method": "斜刺或平刺0.3-0.5寸",
     "name": "巨髎",
     "pinyin": "Ju Liao",
-    "subcategory": null,
+    "subcategory": "手足阳明、阳跷之会",
     "classic_excerpts": null,
     "indications": [
       "口眼歪斜",
@@ -691,7 +691,7 @@
     "method": "斜刺或平刺0.5-0.8寸，可向颊车透刺",
     "name": "地仓",
     "pinyin": "Di Cang",
-    "subcategory": null,
+    "subcategory": "手足阳明、阳跷之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -714,7 +714,7 @@
     "method": "避开动脉，斜刺或平刺0.3-0.5寸",
     "name": "大迎",
     "pinyin": "Da Ying",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "口歪",
@@ -732,7 +732,7 @@
     "method": "直刺0.3-0.5寸，平刺0.5-1寸",
     "name": "颊车",
     "pinyin": "Jia Che",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -755,7 +755,7 @@
     "method": "直刺0.5-1寸",
     "name": "下关",
     "pinyin": "Xia Guan",
-    "subcategory": null,
+    "subcategory": "足阳明、少阳之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -779,7 +779,7 @@
     "method": "平刺0.5-1寸",
     "name": "头维",
     "pinyin": "Tou Wei",
-    "subcategory": null,
+    "subcategory": "足阳明、少阳、阳维之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -798,7 +798,7 @@
     "method": "避开颈总动脉，直刺0.3-0.5寸",
     "name": "人迎",
     "pinyin": "Ren Ying",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咽喉肿痛",
@@ -817,7 +817,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "水突",
     "pinyin": "Shui Tu",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -836,7 +836,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "气舍",
     "pinyin": "Qi She",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -856,7 +856,7 @@
     "method": "直刺或斜刺0.3-0.5寸，不可深刺",
     "name": "缺盆",
     "pinyin": "Que Pen",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -875,7 +875,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "气户",
     "pinyin": "Qi Hu",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -893,7 +893,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "库房",
     "pinyin": "Ku Fang",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -910,7 +910,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "屋翳",
     "pinyin": "Wu Yi",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -928,7 +928,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "膺窗",
     "pinyin": "Ying Chuang",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -946,7 +946,7 @@
     "method": "禁针，禁灸",
     "name": "乳中",
     "pinyin": "Ru Zhong",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "本穴不针不灸，只作定位标志"
@@ -961,7 +961,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "乳根",
     "pinyin": "Ru Gen",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -980,7 +980,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "不容",
     "pinyin": "Bu Rong",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -998,7 +998,7 @@
     "method": "直刺0.8-1寸",
     "name": "承满",
     "pinyin": "Cheng Man",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -1016,7 +1016,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "梁门",
     "pinyin": "Liang Men",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -1035,7 +1035,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "关门",
     "pinyin": "Guan Men",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "腹胀",
@@ -1054,7 +1054,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "太乙",
     "pinyin": "Tai Yi",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -1071,7 +1071,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "滑肉门",
     "pinyin": "Hua Rou Men",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -1088,7 +1088,7 @@
     "method": "直刺1-1.5寸",
     "name": "天枢",
     "pinyin": "Tian Shu",
-    "subcategory": null,
+    "subcategory": "大肠之募穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -1113,7 +1113,7 @@
     "method": "直刺1-1.5寸",
     "name": "外陵",
     "pinyin": "Wai Ling",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1130,7 +1130,7 @@
     "method": "直刺1-1.5寸",
     "name": "大巨",
     "pinyin": "Da Ju",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "小腹胀满",
@@ -1149,7 +1149,7 @@
     "method": "直刺1-1.5寸",
     "name": "水道",
     "pinyin": "Shui Dao",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "小腹胀满",
@@ -1168,7 +1168,7 @@
     "method": "直刺1-1.5寸",
     "name": "归来",
     "pinyin": "Gui Lai",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1187,7 +1187,7 @@
     "method": "直刺0.5-1寸",
     "name": "气冲",
     "pinyin": "Qi Chong",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1206,7 +1206,7 @@
     "method": "直刺1-2寸",
     "name": "髀关",
     "pinyin": "Bi Guan",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "下肢痿痹",
@@ -1223,7 +1223,7 @@
     "method": "直刺1-2寸",
     "name": "伏兔",
     "pinyin": "Fu Tu",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "下肢痿痹",
@@ -1241,7 +1241,7 @@
     "method": "直刺1-1.5寸",
     "name": "阴市",
     "pinyin": "Yin Shi",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "下肢痿痹",
@@ -1258,7 +1258,7 @@
     "method": "直刺1-1.2寸",
     "name": "梁丘",
     "pinyin": "Liang Qiu",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -1281,7 +1281,7 @@
     "method": "向后内斜刺0.5-1寸",
     "name": "犊鼻",
     "pinyin": "Du Bi",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "膝痛",
@@ -1298,7 +1298,7 @@
     "method": "直刺1-2寸",
     "name": "足三里",
     "pinyin": "Zu San Li",
-    "subcategory": null,
+    "subcategory": "合穴；胃之下合穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -1327,7 +1327,7 @@
     "method": "直刺1-2寸",
     "name": "上巨虚",
     "pinyin": "Shang Ju Xu",
-    "subcategory": null,
+    "subcategory": "大肠之下合穴",
     "classic_excerpts": null,
     "indications": [
       "肠鸣",
@@ -1347,7 +1347,7 @@
     "method": "直刺1-1.5寸",
     "name": "条口",
     "pinyin": "Tiao Kou",
-    "subcategory": null,
+    "subcategory": "足阳明胃经",
     "classic_excerpts": null,
     "indications": [
       "下肢痿痹",
@@ -1364,7 +1364,7 @@
     "method": "直刺1-1.5寸",
     "name": "下巨虚",
     "pinyin": "Xia Ju Xu",
-    "subcategory": null,
+    "subcategory": "小肠之下合穴",
     "classic_excerpts": null,
     "indications": [
       "小腹痛",
@@ -1382,7 +1382,7 @@
     "method": "直刺1-1.5寸",
     "name": "丰隆",
     "pinyin": "Feng Long",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -1408,7 +1408,7 @@
     "method": "直刺0.5-1寸",
     "name": "解溪",
     "pinyin": "Jie Xi",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -1429,7 +1429,7 @@
     "method": "避开动脉，直刺0.3-0.5寸",
     "name": "冲阳",
     "pinyin": "Chong Yang",
-    "subcategory": null,
+    "subcategory": "原穴",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -1449,7 +1449,7 @@
     "method": "直刺0.3-0.5寸，可灸",
     "name": "陷谷",
     "pinyin": "Xian Gu",
-    "subcategory": null,
+    "subcategory": "输穴",
     "classic_excerpts": null,
     "indications": [
       "面浮身肿",
@@ -1467,7 +1467,7 @@
     "method": "直刺或斜刺0.3-0.5寸",
     "name": "内庭",
     "pinyin": "Nei Ting",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -1495,7 +1495,7 @@
     "method": "浅刺0.1-0.2寸",
     "name": "厉兑",
     "pinyin": "Li Dui",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "鼻衄",
@@ -1515,7 +1515,7 @@
     "method": "浅刺0.1寸，或点刺出血",
     "name": "隐白",
     "pinyin": "Yin Bai",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "月经过多",
@@ -1537,7 +1537,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "大都",
     "pinyin": "Da Du",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "腹胀",
@@ -1557,7 +1557,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "太白",
     "pinyin": "Tai Bai",
-    "subcategory": null,
+    "subcategory": "输穴；原穴",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -1578,7 +1578,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "公孙",
     "pinyin": "Gong Sun",
-    "subcategory": null,
+    "subcategory": "络穴；八脉交会穴（通冲脉）",
     "classic_excerpts": [
       {
         "source": "《八脉交会穴歌》",
@@ -1604,7 +1604,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "商丘",
     "pinyin": "Shang Qiu",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "腹胀",
@@ -1623,7 +1623,7 @@
     "method": "直刺1-1.5寸",
     "name": "三阴交",
     "pinyin": "San Yin Jiao",
-    "subcategory": null,
+    "subcategory": "足三阴经之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -1653,7 +1653,7 @@
     "method": "直刺1-1.5寸",
     "name": "漏谷",
     "pinyin": "Lou Gu",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "腹胀",
@@ -1672,7 +1672,7 @@
     "method": "直刺1-1.5寸",
     "name": "地机",
     "pinyin": "Di Ji",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1693,7 +1693,7 @@
     "method": "直刺1-2寸",
     "name": "阴陵泉",
     "pinyin": "Yin Ling Quan",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -1718,7 +1718,7 @@
     "method": "直刺1-1.5寸",
     "name": "血海",
     "pinyin": "Xue Hai",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -1744,7 +1744,7 @@
     "method": "直刺0.5-1寸",
     "name": "箕门",
     "pinyin": "Ji Men",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "小便不利",
@@ -1761,7 +1761,7 @@
     "method": "避开动脉，直刺0.5-1寸",
     "name": "冲门",
     "pinyin": "Chong Men",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1779,7 +1779,7 @@
     "method": "直刺1-1.5寸",
     "name": "府舍",
     "pinyin": "Fu She",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1796,7 +1796,7 @@
     "method": "直刺1-1.5寸",
     "name": "腹结",
     "pinyin": "Fu Jie",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1814,7 +1814,7 @@
     "method": "直刺1-1.5寸",
     "name": "大横",
     "pinyin": "Da Heng",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1832,7 +1832,7 @@
     "method": "直刺1-1.5寸",
     "name": "腹哀",
     "pinyin": "Fu Ai",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -1850,7 +1850,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "食窦",
     "pinyin": "Shi Dou",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "胸胁胀满",
@@ -1869,7 +1869,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "天溪",
     "pinyin": "Tian Xi",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "胸胁胀痛",
@@ -1887,7 +1887,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "胸乡",
     "pinyin": "Xiong Xiang",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "胸胁胀满",
@@ -1903,7 +1903,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "周荣",
     "pinyin": "Zhou Rong",
-    "subcategory": null,
+    "subcategory": "足太阴脾经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -1920,7 +1920,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "大包",
     "pinyin": "Da Bao",
-    "subcategory": null,
+    "subcategory": "脾之大络",
     "classic_excerpts": null,
     "indications": [
       "胸胁痛",
@@ -1938,7 +1938,7 @@
     "method": "避开腋动脉，直刺或斜刺0.3-0.5寸",
     "name": "极泉",
     "pinyin": "Ji Quan",
-    "subcategory": null,
+    "subcategory": "足少阳胆经",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -1957,7 +1957,7 @@
     "method": "直刺0.5-1寸",
     "name": "青灵",
     "pinyin": "Qing Ling",
-    "subcategory": null,
+    "subcategory": "足少阳胆经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -1974,7 +1974,7 @@
     "method": "直刺0.5-1寸",
     "name": "少海",
     "pinyin": "Shao Hai",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -1993,7 +1993,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "灵道",
     "pinyin": "Ling Dao",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -2011,7 +2011,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "通里",
     "pinyin": "Tong Li",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2035,7 +2035,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "阴郄",
     "pinyin": "Yin Xi",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -2055,7 +2055,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "神门",
     "pinyin": "Shen Men",
-    "subcategory": null,
+    "subcategory": "输穴；原穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2081,7 +2081,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "少府",
     "pinyin": "Shao Fu",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "心悸",
@@ -2101,7 +2101,7 @@
     "method": "浅刺0.1-0.2寸，或点刺出血",
     "name": "少冲",
     "pinyin": "Shao Chong",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "心悸",
@@ -2121,7 +2121,7 @@
     "method": "浅刺0.1寸，或点刺出血",
     "name": "少泽",
     "pinyin": "Shao Ze",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2142,7 +2142,7 @@
     "method": "直刺0.2-0.3寸",
     "name": "前谷",
     "pinyin": "Qian Gu",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2162,7 +2162,7 @@
     "method": "直刺0.5-1寸",
     "name": "后溪",
     "pinyin": "Hou Xi",
-    "subcategory": null,
+    "subcategory": "输穴；八脉交会穴（通督脉）",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2189,7 +2189,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "腕骨",
     "pinyin": "Wan Gu",
-    "subcategory": null,
+    "subcategory": "原穴",
     "classic_excerpts": null,
     "indications": [
       "头顶强痛",
@@ -2210,7 +2210,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "阳谷",
     "pinyin": "Yang Gu",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2230,7 +2230,7 @@
     "method": "直刺或斜刺0.5-0.8寸",
     "name": "养老",
     "pinyin": "Yang Lao",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "目视不明",
@@ -2248,7 +2248,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "支正",
     "pinyin": "Zhi Zheng",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2268,7 +2268,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "小海",
     "pinyin": "Xiao Hai",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": null,
     "indications": [
       "肘臂疼痛",
@@ -2287,7 +2287,7 @@
     "method": "直刺1-1.5寸",
     "name": "肩贞",
     "pinyin": "Jian Zhen",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "肩臂疼痛",
@@ -2305,7 +2305,7 @@
     "method": "直刺或斜刺0.5-1.5寸",
     "name": "臑俞",
     "pinyin": "Nao Shu",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "肩臂酸痛",
@@ -2322,7 +2322,7 @@
     "method": "直刺或斜刺0.5-1寸",
     "name": "天宗",
     "pinyin": "Tian Zong",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "肩胛疼痛",
@@ -2340,7 +2340,7 @@
     "method": "直刺或斜刺0.5-1寸",
     "name": "秉风",
     "pinyin": "Bing Feng",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "肩胛疼痛",
@@ -2357,7 +2357,7 @@
     "method": "直刺或斜刺0.5-1寸",
     "name": "曲垣",
     "pinyin": "Qu Yuan",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "肩胛疼痛",
@@ -2373,7 +2373,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "肩外俞",
     "pinyin": "Jian Wai Shu",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "肩背酸痛",
@@ -2390,7 +2390,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "肩中俞",
     "pinyin": "Jian Zhong Shu",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -2408,7 +2408,7 @@
     "method": "直刺0.5-1寸",
     "name": "天窗",
     "pinyin": "Tian Chuang",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "耳鸣",
@@ -2427,7 +2427,7 @@
     "method": "直刺0.5-1寸",
     "name": "天容",
     "pinyin": "Tian Rong",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "耳鸣",
@@ -2447,7 +2447,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "颧髎",
     "pinyin": "Quan Liao",
-    "subcategory": null,
+    "subcategory": "任脉",
     "classic_excerpts": null,
     "indications": [
       "口眼歪斜",
@@ -2466,7 +2466,7 @@
     "method": "张口，直刺1-1.5寸",
     "name": "听宫",
     "pinyin": "Ting Gong",
-    "subcategory": null,
+    "subcategory": "手足少阳、手太阳之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2490,7 +2490,7 @@
     "method": "直刺，将眼球轻推向外侧固定，缓慢刺入0.5-1寸，禁提插捻转",
     "name": "睛明",
     "pinyin": "Jing Ming",
-    "subcategory": null,
+    "subcategory": "手足太阳、足阳明、阴跷、阳跷之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2516,7 +2516,7 @@
     "method": "平刺0.3-0.5寸，或斜刺透鱼腰",
     "name": "攒竹",
     "pinyin": "Cuan Zhu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2541,7 +2541,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "眉冲",
     "pinyin": "Mei Chong",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2559,7 +2559,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "曲差",
     "pinyin": "Qu Cha",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2577,7 +2577,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "五处",
     "pinyin": "Wu Chu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2594,7 +2594,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "承光",
     "pinyin": "Cheng Guang",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2612,7 +2612,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "通天",
     "pinyin": "Tong Tian",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2631,7 +2631,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "络却",
     "pinyin": "Luo Que",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2650,7 +2650,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "玉枕",
     "pinyin": "Yu Zhen",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "头项痛",
@@ -2667,7 +2667,7 @@
     "method": "直刺或斜刺0.5-0.8寸，不可向内上方深刺",
     "name": "天柱",
     "pinyin": "Tian Zhu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -2687,7 +2687,7 @@
     "method": "斜刺0.5-0.8寸，不可深刺",
     "name": "大杼",
     "pinyin": "Da Zhu",
-    "subcategory": null,
+    "subcategory": "八会穴（骨会）",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -2707,7 +2707,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "风门",
     "pinyin": "Feng Men",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "伤风咳嗽",
@@ -2725,7 +2725,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "肺俞",
     "pinyin": "Fei Shu",
-    "subcategory": null,
+    "subcategory": "肺之背俞穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2751,7 +2751,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "厥阴俞",
     "pinyin": "Jue Yin Shu",
-    "subcategory": null,
+    "subcategory": "心包之背俞穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -2770,7 +2770,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "心俞",
     "pinyin": "Xin Shu",
-    "subcategory": null,
+    "subcategory": "心之背俞穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2796,7 +2796,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "督俞",
     "pinyin": "Du Shu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -2815,7 +2815,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "膈俞",
     "pinyin": "Ge Shu",
-    "subcategory": null,
+    "subcategory": "八会穴（血会）",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2842,7 +2842,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "肝俞",
     "pinyin": "Gan Shu",
-    "subcategory": null,
+    "subcategory": "肝之背俞穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2869,7 +2869,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "胆俞",
     "pinyin": "Dan Shu",
-    "subcategory": null,
+    "subcategory": "胆之背俞穴",
     "classic_excerpts": null,
     "indications": [
       "黄疸",
@@ -2889,7 +2889,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "脾俞",
     "pinyin": "Pi Shu",
-    "subcategory": null,
+    "subcategory": "脾之背俞穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2916,7 +2916,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "胃俞",
     "pinyin": "Wei Shu",
-    "subcategory": null,
+    "subcategory": "胃之背俞穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2940,7 +2940,7 @@
     "method": "直刺0.5-1寸",
     "name": "三焦俞",
     "pinyin": "San Jiao Shu",
-    "subcategory": null,
+    "subcategory": "三焦之背俞穴",
     "classic_excerpts": null,
     "indications": [
       "腹胀",
@@ -2962,7 +2962,7 @@
     "method": "直刺0.5-1寸",
     "name": "肾俞",
     "pinyin": "Shen Shu",
-    "subcategory": null,
+    "subcategory": "肾之背俞穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -2991,7 +2991,7 @@
     "method": "直刺0.5-1寸",
     "name": "气海俞",
     "pinyin": "Qi Hai Shu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "肠鸣腹胀",
@@ -3009,7 +3009,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "大肠俞",
     "pinyin": "Da Chang Shu",
-    "subcategory": null,
+    "subcategory": "大肠之背俞穴",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -3028,7 +3028,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "关元俞",
     "pinyin": "Guan Yuan Shu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -3047,7 +3047,7 @@
     "method": "直刺或斜刺0.8-1.2寸",
     "name": "小肠俞",
     "pinyin": "Xiao Chang Shu",
-    "subcategory": null,
+    "subcategory": "小肠之背俞穴",
     "classic_excerpts": null,
     "indications": [
       "遗精",
@@ -3068,7 +3068,7 @@
     "method": "直刺或斜刺0.8-1.2寸",
     "name": "膀胱俞",
     "pinyin": "Pang Guang Shu",
-    "subcategory": null,
+    "subcategory": "膀胱之背俞穴",
     "classic_excerpts": null,
     "indications": [
       "小便不利",
@@ -3087,7 +3087,7 @@
     "method": "直刺1-1.5寸",
     "name": "中膂俞",
     "pinyin": "Zhong Lv Shu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "泄泻",
@@ -3105,7 +3105,7 @@
     "method": "直刺1-1.5寸",
     "name": "白环俞",
     "pinyin": "Bai Huan Shu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "遗尿",
@@ -3125,7 +3125,7 @@
     "method": "直刺1-1.5寸",
     "name": "上髎",
     "pinyin": "Shang Liao",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -3146,7 +3146,7 @@
     "method": "直刺1-1.5寸",
     "name": "次髎",
     "pinyin": "Ci Liao",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -3168,7 +3168,7 @@
     "method": "直刺1-1.5寸",
     "name": "中髎",
     "pinyin": "Zhong Liao",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -3188,7 +3188,7 @@
     "method": "直刺1-1.5寸",
     "name": "下髎",
     "pinyin": "Xia Liao",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -3208,7 +3208,7 @@
     "method": "直刺0.5-1寸",
     "name": "会阳",
     "pinyin": "Hui Yang",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "泄泻",
@@ -3228,7 +3228,7 @@
     "method": "直刺1-2寸",
     "name": "承扶",
     "pinyin": "Cheng Fu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腰腿痛",
@@ -3245,7 +3245,7 @@
     "method": "直刺1-2寸",
     "name": "殷门",
     "pinyin": "Yin Men",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腰腿痛",
@@ -3261,7 +3261,7 @@
     "method": "直刺0.5-1寸",
     "name": "浮郄",
     "pinyin": "Fu Xi",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "膝痛",
@@ -3278,7 +3278,7 @@
     "method": "直刺0.5-1寸",
     "name": "委阳",
     "pinyin": "Wei Yang",
-    "subcategory": null,
+    "subcategory": "三焦之下合穴",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -3296,7 +3296,7 @@
     "method": "直刺1-1.5寸，或点刺静脉出血",
     "name": "委中",
     "pinyin": "Wei Zhong",
-    "subcategory": null,
+    "subcategory": "合穴；膀胱之下合穴",
     "classic_excerpts": [
       {
         "source": "《四总穴歌》",
@@ -3323,7 +3323,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "附分",
     "pinyin": "Fu Fen",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "颈项强痛",
@@ -3340,7 +3340,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "魄户",
     "pinyin": "Po Hu",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -3359,7 +3359,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "膏肓",
     "pinyin": "Gao Huang",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -3379,7 +3379,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "神堂",
     "pinyin": "Shen Tang",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -3399,7 +3399,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "譩譆",
     "pinyin": "Yi Xi",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -3418,7 +3418,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "膈关",
     "pinyin": "Ge Guan",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "呕吐",
@@ -3436,7 +3436,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "魂门",
     "pinyin": "Hun Men",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "胁痛",
@@ -3454,7 +3454,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "阳纲",
     "pinyin": "Yang Gang",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "肠鸣",
@@ -3473,7 +3473,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "意舍",
     "pinyin": "Yi She",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腹胀",
@@ -3491,7 +3491,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "胃仓",
     "pinyin": "Wei Cang",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -3510,7 +3510,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "肓门",
     "pinyin": "Huang Men",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -3528,7 +3528,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "志室",
     "pinyin": "Zhi Shi",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "遗精",
@@ -3547,7 +3547,7 @@
     "method": "直刺1-1.5寸",
     "name": "胞肓",
     "pinyin": "Bao Huang",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "肠鸣",
@@ -3565,7 +3565,7 @@
     "method": "直刺1.5-2寸",
     "name": "秩边",
     "pinyin": "Zhi Bian",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腰骶痛",
@@ -3585,7 +3585,7 @@
     "method": "直刺1-2寸",
     "name": "合阳",
     "pinyin": "He Yang",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腰脊强痛",
@@ -3603,7 +3603,7 @@
     "method": "直刺1-2寸",
     "name": "承筋",
     "pinyin": "Cheng Jin",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "腰腿拘急疼痛",
@@ -3619,7 +3619,7 @@
     "method": "直刺1-2寸",
     "name": "承山",
     "pinyin": "Cheng Shan",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -3643,7 +3643,7 @@
     "method": "直刺1-1.5寸",
     "name": "飞扬",
     "pinyin": "Fei Yang",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -3664,7 +3664,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "跗阳",
     "pinyin": "Fu Yang",
-    "subcategory": null,
+    "subcategory": "阳跷之郄穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -3682,7 +3682,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "昆仑",
     "pinyin": "Kun Lun",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -3709,7 +3709,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "仆参",
     "pinyin": "Pu Can",
-    "subcategory": null,
+    "subcategory": "手厥阴心包经",
     "classic_excerpts": null,
     "indications": [
       "下肢痿痹",
@@ -3726,7 +3726,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "申脉",
     "pinyin": "Shen Mai",
-    "subcategory": null,
+    "subcategory": "八脉交会穴（通阳跷）",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -3752,7 +3752,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "金门",
     "pinyin": "Jin Men",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -3771,7 +3771,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "京骨",
     "pinyin": "Jing Gu",
-    "subcategory": null,
+    "subcategory": "原穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -3790,7 +3790,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "束骨",
     "pinyin": "Shu Gu",
-    "subcategory": null,
+    "subcategory": "输穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -3809,7 +3809,7 @@
     "method": "直刺0.2-0.3寸",
     "name": "足通谷",
     "pinyin": "Zu Tong Gu",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -3828,7 +3828,7 @@
     "method": "浅刺0.1-0.2寸，艾灸矫正胎位",
     "name": "至阴",
     "pinyin": "Zhi Yin",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -3848,7 +3848,7 @@
     "method": "直刺0.5-1寸",
     "name": "涌泉",
     "pinyin": "Yong Quan",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": [
       {
         "source": "《灵枢》",
@@ -3876,7 +3876,7 @@
     "method": "直刺0.5-1寸",
     "name": "然谷",
     "pinyin": "Ran Gu",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -3897,7 +3897,7 @@
     "method": "直刺0.5-1寸",
     "name": "太溪",
     "pinyin": "Tai Xi",
-    "subcategory": null,
+    "subcategory": "输穴；原穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -3928,7 +3928,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "大钟",
     "pinyin": "Da Zhong",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": null,
     "indications": [
       "癃闭",
@@ -3950,7 +3950,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "水泉",
     "pinyin": "Shui Quan",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -3969,7 +3969,7 @@
     "method": "直刺0.5-1寸",
     "name": "照海",
     "pinyin": "Zhao Hai",
-    "subcategory": null,
+    "subcategory": "八脉交会穴（通阴跷）",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -3997,7 +3997,7 @@
     "method": "直刺0.5-1寸",
     "name": "复溜",
     "pinyin": "Fu Liu",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "水肿",
@@ -4019,7 +4019,7 @@
     "method": "直刺0.5-1寸",
     "name": "交信",
     "pinyin": "Jiao Xin",
-    "subcategory": null,
+    "subcategory": "阴跷之郄穴",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -4039,7 +4039,7 @@
     "method": "直刺1-1.5寸",
     "name": "筑宾",
     "pinyin": "Zhu Bin",
-    "subcategory": null,
+    "subcategory": "阴维之郄穴",
     "classic_excerpts": null,
     "indications": [
       "癫狂",
@@ -4057,7 +4057,7 @@
     "method": "直刺1-1.5寸",
     "name": "阴谷",
     "pinyin": "Yin Gu",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": null,
     "indications": [
       "阳痿",
@@ -4077,7 +4077,7 @@
     "method": "直刺1-1.5寸",
     "name": "横骨",
     "pinyin": "Heng Gu",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "小腹胀痛",
@@ -4097,7 +4097,7 @@
     "method": "直刺1-1.5寸",
     "name": "大赫",
     "pinyin": "Da He",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "遗精",
@@ -4116,7 +4116,7 @@
     "method": "直刺1-1.5寸",
     "name": "气穴",
     "pinyin": "Qi Xue",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -4135,7 +4135,7 @@
     "method": "直刺1-1.5寸",
     "name": "四满",
     "pinyin": "Si Man",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -4155,7 +4155,7 @@
     "method": "直刺1-1.5寸",
     "name": "中注",
     "pinyin": "Zhong Zhu",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -4173,7 +4173,7 @@
     "method": "直刺1-1.5寸",
     "name": "肓俞",
     "pinyin": "Huang Shu",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -4193,7 +4193,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "商曲",
     "pinyin": "Shang Qu",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -4212,7 +4212,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "石关",
     "pinyin": "Shi Guan",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "呕吐",
@@ -4231,7 +4231,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "阴都",
     "pinyin": "Yin Du",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -4250,7 +4250,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "腹通谷",
     "pinyin": "Fu Tong Gu",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -4269,7 +4269,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "幽门",
     "pinyin": "You Men",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -4287,7 +4287,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "步廊",
     "pinyin": "Bu Lang",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -4305,7 +4305,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "神封",
     "pinyin": "Shen Feng",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -4323,7 +4323,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "灵墟",
     "pinyin": "Ling Xu",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -4342,7 +4342,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "神藏",
     "pinyin": "Shen Cang",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -4360,7 +4360,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "彧中",
     "pinyin": "Yu Zhong",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -4377,7 +4377,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "俞府",
     "pinyin": "Shu Fu",
-    "subcategory": null,
+    "subcategory": "足厥阴肝经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -4395,7 +4395,7 @@
     "method": "斜刺或平刺0.3-0.5寸，不可深刺",
     "name": "天池",
     "pinyin": "Tian Chi",
-    "subcategory": null,
+    "subcategory": "手少阳三焦经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -4415,7 +4415,7 @@
     "method": "直刺1-1.5寸",
     "name": "天泉",
     "pinyin": "Tian Quan",
-    "subcategory": null,
+    "subcategory": "手少阳三焦经",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -4433,7 +4433,7 @@
     "method": "直刺0.8-1寸，或点刺出血",
     "name": "曲泽",
     "pinyin": "Qu Ze",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -4454,7 +4454,7 @@
     "method": "直刺0.5-1寸",
     "name": "郄门",
     "pinyin": "Xi Men",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -4474,7 +4474,7 @@
     "method": "直刺0.5-1寸",
     "name": "间使",
     "pinyin": "Jian Shi",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -4496,7 +4496,7 @@
     "method": "直刺0.5-1寸",
     "name": "内关",
     "pinyin": "Nei Guan",
-    "subcategory": null,
+    "subcategory": "络穴；八脉交会穴（通阴维）",
     "classic_excerpts": [
       {
         "source": "《灵枢》",
@@ -4526,7 +4526,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "大陵",
     "pinyin": "Da Ling",
-    "subcategory": null,
+    "subcategory": "输穴；原穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -4548,7 +4548,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "劳宫",
     "pinyin": "Lao Gong",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -4569,7 +4569,7 @@
     "method": "浅刺0.1-0.2寸，或点刺出血",
     "name": "中冲",
     "pinyin": "Zhong Chong",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -4590,7 +4590,7 @@
     "method": "浅刺0.1-0.2寸，或点刺出血",
     "name": "关冲",
     "pinyin": "Guan Chong",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -4610,7 +4610,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "液门",
     "pinyin": "Ye Men",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -4631,7 +4631,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "中渚",
     "pinyin": "Zhong Zhu",
-    "subcategory": null,
+    "subcategory": "输穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -4652,7 +4652,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "阳池",
     "pinyin": "Yang Chi",
-    "subcategory": null,
+    "subcategory": "原穴",
     "classic_excerpts": null,
     "indications": [
       "目赤肿痛",
@@ -4672,7 +4672,7 @@
     "method": "直刺0.5-1寸",
     "name": "外关",
     "pinyin": "Wai Guan",
-    "subcategory": null,
+    "subcategory": "络穴；八脉交会穴（通阳维）",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -4699,7 +4699,7 @@
     "method": "直刺0.5-1寸",
     "name": "支沟",
     "pinyin": "Zhi Gou",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "耳鸣",
@@ -4720,7 +4720,7 @@
     "method": "直刺0.5-1寸",
     "name": "会宗",
     "pinyin": "Hui Zong",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "耳聋",
@@ -4738,7 +4738,7 @@
     "method": "直刺0.5-1寸",
     "name": "三阳络",
     "pinyin": "San Yang Luo",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "耳聋",
@@ -4756,7 +4756,7 @@
     "method": "直刺0.5-1寸",
     "name": "四渎",
     "pinyin": "Si Du",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "耳聋",
@@ -4775,7 +4775,7 @@
     "method": "直刺0.5-1寸",
     "name": "天井",
     "pinyin": "Tian Jing",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -4795,7 +4795,7 @@
     "method": "直刺0.5-1寸",
     "name": "清冷渊",
     "pinyin": "Qing Leng Yuan",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -4812,7 +4812,7 @@
     "method": "直刺0.5-1寸",
     "name": "消泺",
     "pinyin": "Xiao Luo",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -4830,7 +4830,7 @@
     "method": "直刺0.5-1寸",
     "name": "臑会",
     "pinyin": "Nao Hui",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "瘿气",
@@ -4848,7 +4848,7 @@
     "method": "向肩关节直刺1-1.5寸",
     "name": "肩髎",
     "pinyin": "Jian Liao",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "肩臂痛",
@@ -4864,7 +4864,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "天髎",
     "pinyin": "Tian Liao",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "肩臂痛",
@@ -4880,7 +4880,7 @@
     "method": "直刺0.5-1寸",
     "name": "天牖",
     "pinyin": "Tian You",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -4899,7 +4899,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "翳风",
     "pinyin": "Yi Feng",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "耳鸣",
@@ -4919,7 +4919,7 @@
     "method": "平刺0.3-0.5寸，或点刺出血",
     "name": "瘈脉",
     "pinyin": "Chi Mai",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -4937,7 +4937,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "颅息",
     "pinyin": "Lu Xi",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -4956,7 +4956,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "角孙",
     "pinyin": "Jiao Sun",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "目赤肿痛",
@@ -4975,7 +4975,7 @@
     "method": "张口，直刺0.5-1寸",
     "name": "耳门",
     "pinyin": "Er Men",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "耳鸣",
@@ -4994,7 +4994,7 @@
     "method": "避开动脉，斜刺或平刺0.3-0.5寸",
     "name": "耳和髎",
     "pinyin": "Er He Liao",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5012,7 +5012,7 @@
     "method": "平刺0.5-1寸",
     "name": "丝竹空",
     "pinyin": "Si Zhu Kong",
-    "subcategory": null,
+    "subcategory": "督脉",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5032,7 +5032,7 @@
     "method": "向后平刺或斜刺0.3-0.5寸",
     "name": "瞳子髎",
     "pinyin": "Tong Zi Liao",
-    "subcategory": null,
+    "subcategory": "手太阳、手足少阳之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5051,7 +5051,7 @@
     "method": "张口，直刺0.5-1寸",
     "name": "听会",
     "pinyin": "Ting Hui",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "耳鸣",
@@ -5071,7 +5071,7 @@
     "method": "直刺0.5-1寸",
     "name": "上关",
     "pinyin": "Shang Guan",
-    "subcategory": null,
+    "subcategory": "手足少阳、足阳明之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5091,7 +5091,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "颔厌",
     "pinyin": "Han Yan",
-    "subcategory": null,
+    "subcategory": "手足少阳、足阳明之会",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -5110,7 +5110,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "悬颅",
     "pinyin": "Xuan Lu",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -5128,7 +5128,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "悬厘",
     "pinyin": "Xuan Li",
-    "subcategory": null,
+    "subcategory": "手足少阳、足阳明之会",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -5146,7 +5146,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "曲鬓",
     "pinyin": "Qu Bin",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -5165,7 +5165,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "率谷",
     "pinyin": "Shuai Gu",
-    "subcategory": null,
+    "subcategory": "足少阳、足太阳之会",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -5182,7 +5182,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "天冲",
     "pinyin": "Tian Chong",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5200,7 +5200,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "浮白",
     "pinyin": "Fu Bai",
-    "subcategory": null,
+    "subcategory": "足少阳、足太阳之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5219,7 +5219,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "头窍阴",
     "pinyin": "Tou Qiao Yin",
-    "subcategory": null,
+    "subcategory": "足少阳、足太阳之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5238,7 +5238,7 @@
     "method": "斜刺0.5-0.8寸",
     "name": "完骨",
     "pinyin": "Wan Gu",
-    "subcategory": null,
+    "subcategory": "足少阳、足太阳之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5258,7 +5258,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "本神",
     "pinyin": "Ben Shen",
-    "subcategory": null,
+    "subcategory": "足少阳、阳维之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5277,7 +5277,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "阳白",
     "pinyin": "Yang Bai",
-    "subcategory": null,
+    "subcategory": "足少阳、阳维之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5296,7 +5296,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "头临泣",
     "pinyin": "Tou Lin Qi",
-    "subcategory": null,
+    "subcategory": "足少阳、足太阳、阳维之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5316,7 +5316,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "目窗",
     "pinyin": "Mu Chuang",
-    "subcategory": null,
+    "subcategory": "足少阳、阳维之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5336,7 +5336,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "正营",
     "pinyin": "Zheng Ying",
-    "subcategory": null,
+    "subcategory": "足少阳、阳维之会",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -5354,7 +5354,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "承灵",
     "pinyin": "Cheng Ling",
-    "subcategory": null,
+    "subcategory": "足少阳、阳维之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5373,7 +5373,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "脑空",
     "pinyin": "Nao Kong",
-    "subcategory": null,
+    "subcategory": "足少阳、阳维之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5392,7 +5392,7 @@
     "method": "向鼻尖方向斜刺0.8-1.2寸，或平刺透风府",
     "name": "风池",
     "pinyin": "Feng Chi",
-    "subcategory": null,
+    "subcategory": "足少阳、阳维之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -5421,7 +5421,7 @@
     "method": "直刺0.5-0.8寸，孕妇禁针",
     "name": "肩井",
     "pinyin": "Jian Jing",
-    "subcategory": null,
+    "subcategory": "手足少阳、足阳明、阳维之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -5447,7 +5447,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "渊腋",
     "pinyin": "Yuan Ye",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "胸满",
@@ -5464,7 +5464,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "辄筋",
     "pinyin": "Zhe Jin",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "胸胁痛",
@@ -5482,7 +5482,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "日月",
     "pinyin": "Ri Yue",
-    "subcategory": null,
+    "subcategory": "胆之募穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -5506,7 +5506,7 @@
     "method": "直刺0.5-1寸",
     "name": "京门",
     "pinyin": "Jing Men",
-    "subcategory": null,
+    "subcategory": "肾之募穴",
     "classic_excerpts": null,
     "indications": [
       "小便不利",
@@ -5526,7 +5526,7 @@
     "method": "直刺1-1.5寸",
     "name": "带脉",
     "pinyin": "Dai Mai",
-    "subcategory": null,
+    "subcategory": "足少阳、带脉之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -5549,7 +5549,7 @@
     "method": "直刺1-1.5寸",
     "name": "五枢",
     "pinyin": "Wu Shu",
-    "subcategory": null,
+    "subcategory": "足少阳、带脉之会",
     "classic_excerpts": null,
     "indications": [
       "带下",
@@ -5568,7 +5568,7 @@
     "method": "直刺或斜刺1-1.5寸",
     "name": "维道",
     "pinyin": "Wei Dao",
-    "subcategory": null,
+    "subcategory": "足少阳、带脉之会",
     "classic_excerpts": null,
     "indications": [
       "带下",
@@ -5587,7 +5587,7 @@
     "method": "直刺1-1.5寸",
     "name": "居髎",
     "pinyin": "Ju Liao",
-    "subcategory": null,
+    "subcategory": "足少阳、阳跷之会",
     "classic_excerpts": null,
     "indications": [
       "腰腿痹痛",
@@ -5604,7 +5604,7 @@
     "method": "直刺2-3寸",
     "name": "环跳",
     "pinyin": "Huan Tiao",
-    "subcategory": null,
+    "subcategory": "足少阳、足太阳之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -5627,7 +5627,7 @@
     "method": "直刺1-2寸",
     "name": "风市",
     "pinyin": "Feng Shi",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": [
       {
         "source": "《针灸大成》",
@@ -5650,7 +5650,7 @@
     "method": "直刺1-2寸",
     "name": "中渎",
     "pinyin": "Zhong Du",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "下肢痿痹",
@@ -5666,7 +5666,7 @@
     "method": "直刺1-1.5寸",
     "name": "膝阳关",
     "pinyin": "Xi Yang Guan",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "膝肿痛",
@@ -5683,7 +5683,7 @@
     "method": "直刺1-1.5寸",
     "name": "阳陵泉",
     "pinyin": "Yang Ling Quan",
-    "subcategory": null,
+    "subcategory": "合穴；胆之下合穴；八会穴（筋会）",
     "classic_excerpts": [
       {
         "source": "《四总穴歌》",
@@ -5710,7 +5710,7 @@
     "method": "直刺1-1.5寸",
     "name": "阳交",
     "pinyin": "Yang Jiao",
-    "subcategory": null,
+    "subcategory": "阳维之郄穴",
     "classic_excerpts": null,
     "indications": [
       "胸胁胀满",
@@ -5728,7 +5728,7 @@
     "method": "直刺1-1.5寸",
     "name": "外丘",
     "pinyin": "Wai Qiu",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "胸胁胀满",
@@ -5746,7 +5746,7 @@
     "method": "直刺1-1.5寸",
     "name": "光明",
     "pinyin": "Guang Ming",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": null,
     "indications": [
       "目痛",
@@ -5766,7 +5766,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "阳辅",
     "pinyin": "Yang Fu",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -5786,7 +5786,7 @@
     "method": "直刺0.8-1.2寸",
     "name": "悬钟",
     "pinyin": "Xuan Zhong",
-    "subcategory": null,
+    "subcategory": "八会穴（髓会）",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -5810,7 +5810,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "丘墟",
     "pinyin": "Qiu Xu",
-    "subcategory": null,
+    "subcategory": "原穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -5834,7 +5834,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "足临泣",
     "pinyin": "Zu Lin Qi",
-    "subcategory": null,
+    "subcategory": "输穴；八脉交会穴（通带脉）",
     "classic_excerpts": null,
     "indications": [
       "偏头痛",
@@ -5854,7 +5854,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "地五会",
     "pinyin": "Di Wu Hui",
-    "subcategory": null,
+    "subcategory": "手少阴心经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5874,7 +5874,7 @@
     "method": "直刺0.3-0.5寸",
     "name": "侠溪",
     "pinyin": "Xia Xi",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5895,7 +5895,7 @@
     "method": "浅刺0.1-0.2寸",
     "name": "足窍阴",
     "pinyin": "Zu Qiao Yin",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5917,7 +5917,7 @@
     "method": "浅刺0.1-0.2寸，或点刺出血",
     "name": "大敦",
     "pinyin": "Da Dun",
-    "subcategory": null,
+    "subcategory": "井穴",
     "classic_excerpts": null,
     "indications": [
       "疝气",
@@ -5937,7 +5937,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "行间",
     "pinyin": "Xing Jian",
-    "subcategory": null,
+    "subcategory": "荥穴",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -5962,7 +5962,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "太冲",
     "pinyin": "Tai Chong",
-    "subcategory": null,
+    "subcategory": "输穴；原穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -5992,7 +5992,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "中封",
     "pinyin": "Zhong Feng",
-    "subcategory": null,
+    "subcategory": "经穴",
     "classic_excerpts": null,
     "indications": [
       "疝气",
@@ -6011,7 +6011,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "蠡沟",
     "pinyin": "Li Gou",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -6030,7 +6030,7 @@
     "method": "直刺0.5-0.8寸",
     "name": "中都",
     "pinyin": "Zhong Du",
-    "subcategory": null,
+    "subcategory": "郄穴",
     "classic_excerpts": null,
     "indications": [
       "疝气",
@@ -6049,7 +6049,7 @@
     "method": "直刺1-1.5寸",
     "name": "膝关",
     "pinyin": "Xi Guan",
-    "subcategory": null,
+    "subcategory": "手太阳小肠经",
     "classic_excerpts": null,
     "indications": [
       "膝肿痛",
@@ -6066,7 +6066,7 @@
     "method": "直刺1-1.5寸",
     "name": "曲泉",
     "pinyin": "Qu Quan",
-    "subcategory": null,
+    "subcategory": "合穴",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -6088,7 +6088,7 @@
     "method": "直刺1-2寸",
     "name": "阴包",
     "pinyin": "Yin Bao",
-    "subcategory": null,
+    "subcategory": "手太阳小肠经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -6106,7 +6106,7 @@
     "method": "直刺1-2寸",
     "name": "足五里",
     "pinyin": "Zu Wu Li",
-    "subcategory": null,
+    "subcategory": "手太阳小肠经",
     "classic_excerpts": null,
     "indications": [
       "少腹胀痛",
@@ -6124,7 +6124,7 @@
     "method": "直刺1-2寸",
     "name": "阴廉",
     "pinyin": "Yin Lian",
-    "subcategory": null,
+    "subcategory": "手太阳小肠经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -6142,7 +6142,7 @@
     "method": "直刺0.5-1寸",
     "name": "急脉",
     "pinyin": "Ji Mai",
-    "subcategory": null,
+    "subcategory": "手太阳小肠经",
     "classic_excerpts": null,
     "indications": [
       "疝气",
@@ -6159,7 +6159,7 @@
     "method": "直刺0.8-1寸",
     "name": "章门",
     "pinyin": "Zhang Men",
-    "subcategory": null,
+    "subcategory": "脾之募穴；八会穴（脏会）",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6184,7 +6184,7 @@
     "method": "斜刺或平刺0.5-0.8寸",
     "name": "期门",
     "pinyin": "Qi Men",
-    "subcategory": null,
+    "subcategory": "肝之募穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6209,7 +6209,7 @@
     "method": "斜刺，针尖向上与骶骨平行刺入0.5-1寸",
     "name": "长强",
     "pinyin": "Chang Qiang",
-    "subcategory": null,
+    "subcategory": "络穴",
     "classic_excerpts": null,
     "indications": [
       "泄泻",
@@ -6230,7 +6230,7 @@
     "method": "向上斜刺0.5-1寸",
     "name": "腰俞",
     "pinyin": "Yao Shu",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "月经不调",
@@ -6249,7 +6249,7 @@
     "method": "直刺0.5-1寸",
     "name": "腰阳关",
     "pinyin": "Yao Yang Guan",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "腰骶疼痛",
@@ -6268,7 +6268,7 @@
     "method": "直刺0.5-1寸",
     "name": "命门",
     "pinyin": "Ming Men",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6295,7 +6295,7 @@
     "method": "斜刺0.5-1寸",
     "name": "悬枢",
     "pinyin": "Xuan Shu",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "腰脊强痛",
@@ -6313,7 +6313,7 @@
     "method": "斜刺0.5-1寸",
     "name": "脊中",
     "pinyin": "Ji Zhong",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "泄泻",
@@ -6332,7 +6332,7 @@
     "method": "斜刺0.5-1寸",
     "name": "中枢",
     "pinyin": "Zhong Shu",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -6351,7 +6351,7 @@
     "method": "斜刺0.5-1寸",
     "name": "筋缩",
     "pinyin": "Jin Suo",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -6370,7 +6370,7 @@
     "method": "斜刺0.5-1寸",
     "name": "至阳",
     "pinyin": "Zhi Yang",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "黄疸",
@@ -6390,7 +6390,7 @@
     "method": "斜刺0.5-1寸",
     "name": "灵台",
     "pinyin": "Ling Tai",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -6408,7 +6408,7 @@
     "method": "斜刺0.5-1寸",
     "name": "神道",
     "pinyin": "Shen Dao",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -6429,7 +6429,7 @@
     "method": "斜刺0.5-1寸",
     "name": "身柱",
     "pinyin": "Shen Zhu",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -6449,7 +6449,7 @@
     "method": "斜刺0.5-1寸",
     "name": "陶道",
     "pinyin": "Tao Dao",
-    "subcategory": null,
+    "subcategory": "督脉、足太阳之会",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -6468,7 +6468,7 @@
     "method": "向上斜刺0.5-1寸",
     "name": "大椎",
     "pinyin": "Da Zhui",
-    "subcategory": null,
+    "subcategory": "手足三阳、督脉之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6497,7 +6497,7 @@
     "method": "伏案正坐，头微前倾，向下颌方向缓慢刺入0.5-1寸，不可向上斜刺或深刺",
     "name": "哑门",
     "pinyin": "Ya Men",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "暴喑",
@@ -6517,7 +6517,7 @@
     "method": "伏案正坐，头微前倾，向下颌方向缓慢刺入0.5-1寸，不可深刺",
     "name": "风府",
     "pinyin": "Feng Fu",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6543,7 +6543,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "脑户",
     "pinyin": "Nao Hu",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -6562,7 +6562,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "强间",
     "pinyin": "Qiang Jian",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -6581,7 +6581,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "后顶",
     "pinyin": "Hou Ding",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -6599,7 +6599,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "百会",
     "pinyin": "Bai Hui",
-    "subcategory": null,
+    "subcategory": "手足三阳、督脉之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6626,7 +6626,7 @@
     "method": "平刺0.5-0.8寸",
     "name": "前顶",
     "pinyin": "Qian Ding",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -6645,7 +6645,7 @@
     "method": "平刺0.3-0.5寸，小儿囟门未闭合者禁针",
     "name": "囟会",
     "pinyin": "Xin Hui",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -6665,7 +6665,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "上星",
     "pinyin": "Shang Xing",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -6686,7 +6686,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "神庭",
     "pinyin": "Shen Ting",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "头痛",
@@ -6708,7 +6708,7 @@
     "method": "向上斜刺0.3-0.5寸，或点刺出血",
     "name": "素髎",
     "pinyin": "Su Liao",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "鼻渊",
@@ -6728,7 +6728,7 @@
     "method": "向上斜刺0.3-0.5寸，或指甲按掐",
     "name": "水沟",
     "pinyin": "Shui Gou",
-    "subcategory": null,
+    "subcategory": "手足阳明、督脉之会",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6755,7 +6755,7 @@
     "method": "向上斜刺0.2-0.3寸",
     "name": "兑端",
     "pinyin": "Dui Duan",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "癫狂",
@@ -6773,7 +6773,7 @@
     "method": "向上斜刺0.2-0.3寸，或点刺出血",
     "name": "龈交",
     "pinyin": "Yin Jiao",
-    "subcategory": null,
+    "subcategory": "足太阳膀胱经",
     "classic_excerpts": null,
     "indications": [
       "牙龈肿痛",
@@ -6793,7 +6793,7 @@
     "method": "直刺0.5-1寸",
     "name": "会阴",
     "pinyin": "Hui Yin",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "小便不利",
@@ -6813,7 +6813,7 @@
     "method": "直刺0.5-1寸，排尿后针刺",
     "name": "曲骨",
     "pinyin": "Qu Gu",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "小便不利",
@@ -6833,7 +6833,7 @@
     "method": "直刺1-1.5寸，排尿后针刺",
     "name": "中极",
     "pinyin": "Zhong Ji",
-    "subcategory": null,
+    "subcategory": "膀胱之募穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6859,7 +6859,7 @@
     "method": "直刺1-1.5寸，排尿后针刺",
     "name": "关元",
     "pinyin": "Guan Yuan",
-    "subcategory": null,
+    "subcategory": "小肠之募穴",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6889,7 +6889,7 @@
     "method": "直刺1-1.5寸",
     "name": "石门",
     "pinyin": "Shi Men",
-    "subcategory": null,
+    "subcategory": "三焦之募穴",
     "classic_excerpts": null,
     "indications": [
       "小便不利",
@@ -6911,7 +6911,7 @@
     "method": "直刺1-1.5寸",
     "name": "气海",
     "pinyin": "Qi Hai",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6941,7 +6941,7 @@
     "method": "直刺1-1.5寸",
     "name": "阴交",
     "pinyin": "Yin Jiao",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "腹痛",
@@ -6960,7 +6960,7 @@
     "method": "禁针，宜用艾灸或隔盐灸",
     "name": "神阙",
     "pinyin": "Shen Que",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -6985,7 +6985,7 @@
     "method": "直刺1-1.5寸",
     "name": "水分",
     "pinyin": "Shui Fen",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "水肿",
@@ -7004,7 +7004,7 @@
     "method": "直刺1-1.5寸",
     "name": "下脘",
     "pinyin": "Xia Wan",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -7023,7 +7023,7 @@
     "method": "直刺1-1.5寸",
     "name": "建里",
     "pinyin": "Jian Li",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -7043,7 +7043,7 @@
     "method": "直刺1-1.5寸",
     "name": "中脘",
     "pinyin": "Zhong Wan",
-    "subcategory": null,
+    "subcategory": "胃之募穴；八会穴（腑会）",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -7070,7 +7070,7 @@
     "method": "直刺1-1.5寸",
     "name": "上脘",
     "pinyin": "Shang Wan",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -7089,7 +7089,7 @@
     "method": "向下斜刺0.5-1寸，不可深刺",
     "name": "巨阙",
     "pinyin": "Ju Que",
-    "subcategory": null,
+    "subcategory": "心之募穴",
     "classic_excerpts": null,
     "indications": [
       "胃痛",
@@ -7110,7 +7110,7 @@
     "method": "向下斜刺0.5-1寸，不可深刺伤及肝脾",
     "name": "鸠尾",
     "pinyin": "Jiu Wei",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "心痛",
@@ -7131,7 +7131,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "中庭",
     "pinyin": "Zhong Ting",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "胸胁胀满",
@@ -7149,7 +7149,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "膻中",
     "pinyin": "Dan Zhong",
-    "subcategory": null,
+    "subcategory": "心包之募穴；八会穴（气会）",
     "classic_excerpts": [
       {
         "source": "《灵枢·海论》",
@@ -7176,7 +7176,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "玉堂",
     "pinyin": "Yu Tang",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -7195,7 +7195,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "紫宫",
     "pinyin": "Zi Gong",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -7214,7 +7214,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "华盖",
     "pinyin": "Hua Gai",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -7232,7 +7232,7 @@
     "method": "平刺0.3-0.5寸",
     "name": "璇玑",
     "pinyin": "Xuan Ji",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": null,
     "indications": [
       "咳嗽",
@@ -7251,7 +7251,7 @@
     "method": "先直刺0.2寸，然后将针尖转向下方，沿胸骨柄后缘、气管前缘缓慢向下刺入0.5-1寸",
     "name": "天突",
     "pinyin": "Tian Tu",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -7278,7 +7278,7 @@
     "method": "向舌根方向斜刺0.5-0.8寸",
     "name": "廉泉",
     "pinyin": "Lian Quan",
-    "subcategory": null,
+    "subcategory": "足少阴肾经",
     "classic_excerpts": [
       {
         "source": "《针灸甲乙经》",
@@ -7303,7 +7303,7 @@
     "method": "斜刺0.3-0.5寸",
     "name": "承浆",
     "pinyin": "Cheng Jiang",
-    "subcategory": null,
+    "subcategory": "手足阳明、督脉、任脉之会",
     "classic_excerpts": null,
     "indications": [
       "口歪",
@@ -8333,7 +8333,7 @@
     "method": "直刺或围刺",
     "name": "阿是穴",
     "pinyin": "A Shi Xue",
-    "subcategory": null,
+    "subcategory": "经外奇穴",
     "classic_excerpts": null,
     "indications": [
       "局部疼痛",
@@ -8349,7 +8349,7 @@
     "method": "直刺0.5-1寸，嘱患者活动颈部",
     "name": "落枕穴",
     "pinyin": "Lao Zhen Xue",
-    "subcategory": null,
+    "subcategory": "经外奇穴",
     "classic_excerpts": null,
     "indications": [
       "落枕",
@@ -8366,7 +8366,7 @@
     "method": "直刺0.5～1寸；可灸。",
     "name": "百劳",
     "pinyin": "Bai Lao",
-    "subcategory": null,
+    "subcategory": "经外奇穴",
     "classic_excerpts": null,
     "indications": [
       "瘰疬",
