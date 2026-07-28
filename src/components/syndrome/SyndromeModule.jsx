@@ -10,7 +10,18 @@ import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
 import FloatingBackButton from '../common/FloatingBackButton.jsx'
+import SearchBar from '../common/SearchBar.jsx'
+import GroupedList, { Highlight } from '../common/GroupedList.jsx'
 import { useAppContext } from '../../context/AppContext.jsx'
+
+// 标题（名称 + 拼音）模糊匹配辅助
+function matchTitle(item, q, nameKey, pinyinKey) {
+  if (!q.trim()) return true
+  const t = q.trim().toLowerCase()
+  const name = (item[nameKey] || '').toLowerCase()
+  const pinyin = (item[pinyinKey] || '').toLowerCase()
+  return name.includes(t) || pinyin.includes(t)
+}
 
 export default function SyndromeModule() {
   const navigate = useNavigate()
@@ -22,6 +33,7 @@ export default function SyndromeModule() {
   const [selectedSyndrome, setSelectedSyndrome] = useState(null)
   const [expandedTreatment, setExpandedTreatment] = useState(null)
   const [classificationFilter, setClassificationFilter] = useState('all')
+  const [syndromeSearch, setSyndromeSearch] = useState('')
 
   // Extract all unique classifications
   const classifications = useMemo(() => {
@@ -34,11 +46,13 @@ export default function SyndromeModule() {
 
   // Filtered syndromes
   const syndromes = useMemo(() => {
-    if (classificationFilter === 'all') return allSyndromes
-    return allSyndromes.filter(s => 
-      (s.classification || []).includes(classificationFilter)
-    )
-  }, [allSyndromes, classificationFilter])
+    let list = allSyndromes
+    if (classificationFilter !== 'all') {
+      list = list.filter(s => (s.classification || []).includes(classificationFilter))
+    }
+    list = list.filter(s => matchTitle(s, syndromeSearch, 'name', 'pinyin'))
+    return list
+  }, [allSyndromes, classificationFilter, syndromeSearch])
 
   // Handle URL params for deep linking
   useEffect(() => {
@@ -357,6 +371,13 @@ export default function SyndromeModule() {
 
   return (
     <div>
+      <div className="module-toolbar">
+        <SearchBar
+          value={syndromeSearch}
+          onChange={setSyndromeSearch}
+          placeholder="搜索证型名称或拼音…"
+        />
+      </div>
       {/* Classification filter (八纲四轴分组) */}
       <div style={{ marginBottom: '16px' }}>
         <CollapsibleFilter
@@ -386,15 +407,19 @@ export default function SyndromeModule() {
       {syndromes.length === 0 ? (
         <EmptyState message="未找到匹配的证型" icon="🔍" />
       ) : (
-        <div className="list-container">
-          {syndromes.map(syndrome => (
+        <GroupedList
+          items={syndromes}
+          getGroup={(s) => s.category?.[0] || s.classification?.[0] || '其他'}
+          getKey={(s) => s.id}
+          emptyMessage="未找到匹配的证型"
+          renderItem={(syndrome) => (
             <div
               key={syndrome.id}
               className="list-item syndrome"
               onClick={() => handleSelectSyndrome(syndrome)}
             >
               <div className="list-item-title">
-                {syndrome.name}
+                <Highlight text={syndrome.name} query={syndromeSearch} />
                 {syndrome.category && syndrome.category.length > 0 && (
                   <span className="list-item-cat">{syndrome.category.slice(0, 2).join('·')}</span>
                 )}
@@ -414,8 +439,8 @@ export default function SyndromeModule() {
                 {syndrome.pathogenesis?.substring(0, 80)}{syndrome.pathogenesis && syndrome.pathogenesis.length > 80 ? '...' : ''}
               </div>
             </div>
-          ))}
-        </div>
+          )}
+        />
       )}
     </div>
   )

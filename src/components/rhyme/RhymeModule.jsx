@@ -1,6 +1,7 @@
 import { useState, useMemo, useCallback } from 'react'
 import { rhymes, CATEGORIES, SUB_CATEGORIES } from '../../data/rhymes.js'
 import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
+import GroupedList, { Highlight } from '../common/GroupedList.jsx'
 
 export default function RhymeModule() {
   const [activeCategory, setActiveCategory] = useState('all')
@@ -56,20 +57,22 @@ export default function RhymeModule() {
   return (
     <div className="rhyme-container">
       {/* 搜索栏 */}
-      <div className="rhyme-search-bar">
-        <span className="rhyme-search-icon">🔍</span>
-        <input
-          type="text"
-          className="rhyme-search-input"
-          placeholder="搜索歌诀名称、内容…"
-          value={searchText}
-          onChange={(e) => setSearchText(e.target.value)}
-        />
-        {searchText && (
-          <button className="rhyme-search-clear" onClick={() => setSearchText('')} type="button">
-            ✕
-          </button>
-        )}
+      <div className="module-toolbar">
+        <div className="rhyme-search-bar">
+          <span className="rhyme-search-icon">🔍</span>
+          <input
+            type="text"
+            className="rhyme-search-input"
+            placeholder="搜索歌诀名称、内容…"
+            value={searchText}
+            onChange={(e) => setSearchText(e.target.value)}
+          />
+          {searchText && (
+            <button className="rhyme-search-clear" onClick={() => setSearchText('')} type="button">
+              ✕
+            </button>
+          )}
+        </div>
       </div>
 
       {/* 分类筛选 — 折叠 */}
@@ -125,53 +128,50 @@ export default function RhymeModule() {
         )}
       </div>
 
-      {/* 歌诀列表 */}
-      <div className="rhyme-list">
-        {filtered.length === 0 ? (
-          <div className="rhyme-empty">
-            <span className="rhyme-empty-icon">📭</span>
-            <p>没有找到匹配的歌诀</p>
-            <p className="rhyme-empty-hint">试试换个分类或搜索词</p>
-          </div>
-        ) : (
-          filtered.map((rhyme) => {
-            const isExpanded = expandedId === rhyme.id
-            return (
-              <div key={rhyme.id} className={`rhyme-card ${isExpanded ? 'expanded' : ''}`}>
-                <button
-                  type="button"
-                  className="rhyme-card-header"
-                  onClick={() => toggleExpand(rhyme.id)}
-                >
-                  <div className="rhyme-card-top">
-                    <h3 className="rhyme-card-title">{rhyme.title}</h3>
-                    <div className="rhyme-card-meta">
-                      <span className="rhyme-card-category">{rhyme.category}</span>
-                      {rhyme.subCategory && (
-                        <span className="rhyme-card-sub">{rhyme.subCategory}</span>
-                      )}
-                    </div>
-                  </div>
-                  <div className="rhyme-card-source">{rhyme.source}</div>
-                  <span className={`rhyme-card-arrow ${isExpanded ? 'open' : ''}`}>▾</span>
-                </button>
-
-                {isExpanded && (
-                  <div className="rhyme-card-body">
-                    <pre className="rhyme-content">{rhyme.content}</pre>
-                    {rhyme.notes && (
-                      <div className="rhyme-notes">
-                        <strong>📝 按语：</strong>
-                        {rhyme.notes}
-                      </div>
+      {/* 歌诀列表（按子分类分组） */}
+      <GroupedList
+        className="rhyme-list"
+        items={filtered}
+        getGroup={(r) => r.subCategory || r.category || '其他'}
+        getKey={(r) => r.id}
+        emptyMessage="没有找到匹配的歌诀"
+        renderItem={(rhyme) => {
+          const isExpanded = expandedId === rhyme.id
+          return (
+            <div key={rhyme.id} className={`rhyme-card ${isExpanded ? 'expanded' : ''}`}>
+              <button
+                type="button"
+                className="rhyme-card-header"
+                onClick={() => toggleExpand(rhyme.id)}
+              >
+                <div className="rhyme-card-top">
+                  <h3 className="rhyme-card-title"><Highlight text={rhyme.title} query={searchText} /></h3>
+                  <div className="rhyme-card-meta">
+                    <span className="rhyme-card-category">{rhyme.category}</span>
+                    {rhyme.subCategory && (
+                      <span className="rhyme-card-sub">{rhyme.subCategory}</span>
                     )}
                   </div>
-                )}
-              </div>
-            )
-          })
-        )}
-      </div>
+                </div>
+                <div className="rhyme-card-source">{rhyme.source}</div>
+                <span className={`rhyme-card-arrow ${isExpanded ? 'open' : ''}`}>▾</span>
+              </button>
+
+              {isExpanded && (
+                <div className="rhyme-card-body">
+                  <pre className="rhyme-content">{rhyme.content}</pre>
+                  {rhyme.notes && (
+                    <div className="rhyme-notes">
+                      <strong>📝 按语：</strong>
+                      {rhyme.notes}
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+          )
+        }}
+      />
     </div>
   )
 }

@@ -5,15 +5,26 @@ import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
 import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
-import EntityList from '../common/EntityList.jsx'
 import DetailSection from '../common/DetailSection.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import FloatingBackButton from '../common/FloatingBackButton.jsx'
 import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
+import SearchBar from '../common/SearchBar.jsx'
+import GroupedList, { Highlight } from '../common/GroupedList.jsx'
 import { useAppContext } from '../../context/AppContext.jsx'
 
 // 经外奇穴部位子类列表（固定顺序）
 const EXTRA_POINT_SUBCATEGORIES = ['头颈部奇穴', '胸腹部奇穴', '背腰部奇穴', '上肢部奇穴', '下肢部奇穴', '其他奇穴']
+
+// 标题（名称 + 拼音 + 代码）模糊匹配辅助
+function matchTitle(item, q, nameKey, pinyinKey, codeKey) {
+  if (!q.trim()) return true
+  const t = q.trim().toLowerCase()
+  const name = (item[nameKey] || '').toLowerCase()
+  const pinyin = (item[pinyinKey] || '').toLowerCase()
+  const code = codeKey ? (item[codeKey] || '').toLowerCase() : ''
+  return name.includes(t) || pinyin.includes(t) || code.includes(t)
+}
 
 export default function AcupunctureModule() {
   const navigate = useNavigate()
@@ -30,6 +41,10 @@ export default function AcupunctureModule() {
 
   // 针方按功效(传统中医分类)单级筛选，主治仅作卡片/详情标签展示
   const [prescCatFilter, setPrescCatFilter] = useState('all')
+  const [prescSearch, setPrescSearch] = useState('')
+
+  // 穴位标题模糊搜索
+  const [acupointSearch, setAcupointSearch] = useState('')
 
   const prescCatOptions = useMemo(() => {
     const cats = new Set()
@@ -38,9 +53,11 @@ export default function AcupunctureModule() {
   }, [prescriptions])
 
   const filteredPrescs = useMemo(() => {
-    if (prescCatFilter === 'all') return prescriptions
-    return prescriptions.filter(p => p.category === prescCatFilter)
-  }, [prescriptions, prescCatFilter])
+    let list = prescriptions
+    if (prescCatFilter !== 'all') list = list.filter(p => p.category === prescCatFilter)
+    list = list.filter(p => matchTitle(p, prescSearch, 'name', 'pinyin'))
+    return list
+  }, [prescriptions, prescCatFilter, prescSearch])
 
   // 两级穴位筛选
   const [acupointCatFilter, setAcupointCatFilter] = useState('all')   // 全部 / 十二正经 / 奇经八脉 / 经外奇穴
@@ -478,22 +495,25 @@ export default function AcupunctureModule() {
   // ============ List Views ============
   // 穴位两级筛选
   const filteredAcupoints = (() => {
-    if (acupointCatFilter === 'all') return acupoints
-    const inCat = acupoints.filter(a => {
-      const m = DataManager.getById(DATA_TYPES.MERIDIANS, a.meridian_id)
-      return m?.category === acupointCatFilter
-    })
-    if (acupointSubFilter === 'all' || !acupointSubFilter) return inCat
-    // 经外奇穴按穴位自身的 subcategory 筛选
-    if (acupointCatFilter === '经外奇穴') {
-      return inCat.filter(a => (a.subcategory || '其他奇穴') === acupointSubFilter)
+    let result
+    if (acupointCatFilter === 'all') result = acupoints
+    else {
+      const inCat = acupoints.filter(a => {
+        const m = DataManager.getById(DATA_TYPES.MERIDIANS, a.meridian_id)
+        return m?.category === acupointCatFilter
+      })
+      if (acupointSubFilter === 'all' || !acupointSubFilter) result = inCat
+      // 经外奇穴按穴位自身的 subcategory 筛选
+      else if (acupointCatFilter === '经外奇穴') {
+        result = inCat.filter(a => (a.subcategory || '其他奇穴') === acupointSubFilter)
+      }
+      // 十二正经 / 奇经八脉按具体经络名筛选
+      else {
+        result = inCat.filter(a => a.meridian === acupointSubFilter)
+      }
     }
-    // 十二正经按具体经络名筛选
-    if (acupointCatFilter === '十二正经') {
-      return inCat.filter(a => a.meridian === acupointSubFilter)
-    }
-    // 奇经八脉按具体经络名筛选
-    return inCat.filter(a => a.meridian === acupointSubFilter)
+    result = result.filter(a => matchTitle(a, acupointSearch, 'name', 'pinyin', 'code'))
+    return result
   })()
 
   // Meridian filter options
@@ -525,6 +545,13 @@ export default function AcupunctureModule() {
       {/* ========== ACUPOINT VIEW ========== */}
       {viewMode === 'acupoints' && (
         <>
+          <div className="module-toolbar">
+            <SearchBar
+              value={acupointSearch}
+              onChange={setAcupointSearch}
+              placeholder="搜索穴位名称、拼音或代码…"
+            />
+          </div>
           {/* 两级筛选：大类 → 子类（可折叠，默认收起） */}
           <CollapsibleFilter
             label="经络"
@@ -622,14 +649,15 @@ export default function AcupunctureModule() {
 
           {/* 未选具体经络时：显示穴位列表 */}
           {!selectedMeridian && (
-            <EntityList
+            <GroupedList
               items={filteredAcupoints}
+              getGroup={(a) => a.meridian || a.category || '其他'}
               getKey={(a) => a.id}
               emptyMessage="未找到匹配的穴位"
               renderItem={(acupoint) => (
                 <div key={acupoint.id} className="list-item acupoint" onClick={() => handleSelectAcupoint(acupoint)}>
                   <div className="list-item-title">
-                    {acupoint.name} ({acupoint.code})
+                    <Highlight text={acupoint.name} query={acupointSearch} /> ({acupoint.code})
                     <span
                       onClick={(e) => handleMeridianClick(e, acupoint)}
                       title={`查看${acupoint.meridian}详情`}
@@ -657,6 +685,13 @@ export default function AcupunctureModule() {
       {/* ========== PRESCRIPTIONS VIEW（针方，已合并原“针灸处方”） ========== */}
       {viewMode === 'prescriptions' && (
         <>
+          <div className="module-toolbar">
+            <SearchBar
+              value={prescSearch}
+              onChange={setPrescSearch}
+              placeholder="搜索针方名称或拼音…"
+            />
+          </div>
           {/* 按功效(传统中医分类)单级筛选（可折叠，默认收起） */}
           <CollapsibleFilter
             label="功效"
@@ -675,13 +710,14 @@ export default function AcupunctureModule() {
             </div>
           </CollapsibleFilter>
 
-          <EntityList
+          <GroupedList
             items={filteredPrescs}
+            getGroup={(p) => p.category || '未分类'}
             getKey={(p) => p.id}
             emptyMessage="未找到匹配的针方"
             renderItem={(presc) => (
               <div key={presc.id} className="list-item needle" onClick={() => handleSelectNeedle(presc)}>
-                <div className="list-item-title">{presc.name}</div>
+                <div className="list-item-title"><Highlight text={presc.name} query={prescSearch} /></div>
                 <div className="list-item-pinyin">{presc.category || '未分类'}{presc.subcategory ? ` · ${presc.subcategory}` : ''}</div>
                 <div className="list-item-desc">{presc.effects?.join('、')}</div>
               </div>

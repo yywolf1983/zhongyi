@@ -4,6 +4,8 @@ import { DataManager } from '../../services/DataManager.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
 import EmptyState from '../common/EmptyState.jsx'
 import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
+import SearchBar from '../common/SearchBar.jsx'
+import { Highlight } from '../common/GroupedList.jsx'
 
 const NODE_COLORS = {
   syndrome: '#2f5d7c',
@@ -266,10 +268,16 @@ export default function KnowledgeGraph() {
 
   // Internal category filter state
   const [innerCatFilter, setInnerCatFilter] = useState('all')
+  const [search, setSearch] = useState('')
   const displayedData = useMemo(() => {
-    if (innerCatFilter === 'all') return viewData
-    return viewData.filter(d => d.category === innerCatFilter)
-  }, [viewData, innerCatFilter])
+    let list = viewData
+    if (innerCatFilter !== 'all') list = list.filter(d => d.category === innerCatFilter)
+    if (search.trim()) {
+      const q = search.trim().toLowerCase()
+      list = list.filter(d => (d.name || '').toLowerCase().includes(q))
+    }
+    return list
+  }, [viewData, innerCatFilter, search])
 
   // Reset category filter when view mode changes
   const handleViewModeChange = (mode) => {
@@ -299,6 +307,14 @@ export default function KnowledgeGraph() {
             <span className="category-count">{stat.count}</span>
           </div>
         ))}
+      </div>
+
+      <div className="module-toolbar">
+        <SearchBar
+          value={search}
+          onChange={setSearch}
+          placeholder="搜索节点名称…"
+        />
       </div>
 
       {/* Sub-category filter */}
@@ -349,7 +365,7 @@ export default function KnowledgeGraph() {
                 <span className="graph-node-type" style={{ background: NODE_COLORS[item.type] }}>
                   {NODE_LABELS[item.type]}
                 </span>
-                <span className="graph-node-name">{item.name}</span>
+                <span className="graph-node-name"><Highlight text={item.name} query={search} /></span>
                 {item.category && item.category !== '未分类' && (
                   <span className="graph-node-category" style={{ fontSize: '0.7rem', color: 'var(--color-text-hint)', marginTop: '2px' }}>
                     {item.category}
