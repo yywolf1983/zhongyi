@@ -1,7 +1,7 @@
 import { useLocation, useNavigate } from 'react-router-dom'
 
 const tabs = [
-  { id: 'home', path: '/', label: '首页', icon: '🏠' },
+  { id: 'home', path: '/', label: '歌诀', icon: '📖' },
   { id: 'formulas', path: '/formulas', label: '方剂', icon: '📜' },
   { id: 'acupuncture', path: '/acupuncture', label: '针灸', icon: '💉' },
   { id: 'syndromes', path: '/syndromes', label: '辨证', icon: '☯' },

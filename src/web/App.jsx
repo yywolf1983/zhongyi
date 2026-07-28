@@ -14,7 +14,7 @@ import SearchModule from '../components/search/SearchModule'
 import KnowledgeGraph from '../components/knowledge/KnowledgeGraph'
 import ModernMapping from '../components/knowledge/ModernMapping'
 import BookmarksModule from '../components/bookmarks/BookmarksModule'
-import HomeModule from '../components/home/HomeModule'
+import RhymeModule from '../components/rhyme/RhymeModule'
 
 // 路由变化自动滚动到顶部（滚动容器为 .app-scroll）
 function ScrollToTop() {
@@ -81,7 +81,7 @@ function useCapacitorNative() {
         const { App } = await import('@capacitor/app')
         App.addListener('backButton', ({ canGoBack }) => {
           if (!canGoBack) {
-            // 如果已经在首页，按返回键退出应用
+            // 如果已经在首页（歌诀），按返回键退出应用
             if (location.pathname === '/' || location.pathname === '/syndromes') {
               App.exitApp()
             } else {
@@ -220,7 +220,7 @@ export default function App() {
       <AppProvider>
         <ScrollToTop />
         <Routes>
-          <Route element={<Layout><HomeModule /></Layout>} path="/" />
+          <Route element={<Layout><RhymeModule /></Layout>} path="/" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes/:syndromeId" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture" />

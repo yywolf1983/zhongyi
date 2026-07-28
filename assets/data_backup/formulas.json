@@ -48400,7 +48400,10 @@
       "syndrome_119",
       "syndrome_057"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_057",
+      "syndrome_119"
+    ]
   },
   {
     "id": "formula_374",
@@ -50385,7 +50388,11 @@
       "syndrome_088",
       "syndrome_059"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_016",
+      "syndrome_059",
+      "syndrome_088"
+    ]
   },
   {
     "id": "formula_388",
@@ -50513,7 +50520,10 @@
       "syndrome_065",
       "syndrome_016"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_016",
+      "syndrome_065"
+    ]
   },
   {
     "id": "formula_389",
@@ -50669,7 +50679,11 @@
       "syndrome_001",
       "syndrome_088"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_001",
+      "syndrome_088",
+      "syndrome_121"
+    ]
   },
   {
     "id": "formula_390",
@@ -50824,7 +50838,10 @@
       "syndrome_121",
       "syndrome_001"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_001",
+      "syndrome_121"
+    ]
   },
   {
     "id": "formula_391",
@@ -50975,7 +50992,10 @@
       "syndrome_121",
       "syndrome_052"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_052",
+      "syndrome_121"
+    ]
   },
   {
     "id": "formula_392",
@@ -51118,7 +51138,10 @@
       "syndrome_121",
       "syndrome_007"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_007",
+      "syndrome_121"
+    ]
   },
   {
     "id": "formula_393",
@@ -51250,7 +51273,10 @@
       "syndrome_016",
       "syndrome_059"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_016",
+      "syndrome_059"
+    ]
   },
   {
     "id": "formula_394",
@@ -51340,7 +51366,10 @@
       "syndrome_022",
       "syndrome_065"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022",
+      "syndrome_065"
+    ]
   },
   {
     "id": "formula_395",
@@ -51479,7 +51508,10 @@
       "syndrome_122",
       "syndrome_019"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_019",
+      "syndrome_122"
+    ]
   },
   {
     "id": "formula_396",
@@ -51616,7 +51648,10 @@
       "syndrome_020",
       "syndrome_039"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_020",
+      "syndrome_039"
+    ]
   },
   {
     "id": "formula_397",
@@ -51739,7 +51774,10 @@
       "syndrome_003",
       "syndrome_058"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_003",
+      "syndrome_058"
+    ]
   },
   {
     "id": "formula_398",
@@ -51848,7 +51886,11 @@
       "syndrome_130",
       "syndrome_007"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_007",
+      "syndrome_032",
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_399",
@@ -51977,7 +52019,11 @@
       "syndrome_027",
       "syndrome_088"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_027",
+      "syndrome_084",
+      "syndrome_088"
+    ]
   },
   {
     "id": "formula_400",
@@ -52085,7 +52131,10 @@
       "syndrome_084",
       "syndrome_028"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_028",
+      "syndrome_084"
+    ]
   },
   {
     "id": "formula_401",
@@ -52181,7 +52230,10 @@
       "syndrome_052",
       "syndrome_058"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_052",
+      "syndrome_058"
+    ]
   },
   {
     "id": "formula_402",
@@ -52260,7 +52312,9 @@
     "related_syndromes": [
       "syndrome_030"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_030"
+    ]
   },
   {
     "id": "formula_403",
@@ -52418,7 +52472,10 @@
       "syndrome_030",
       "syndrome_088"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_030",
+      "syndrome_088"
+    ]
   },
   {
     "id": "formula_404",
@@ -52582,7 +52639,10 @@
       "syndrome_026",
       "syndrome_014"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_014",
+      "syndrome_026"
+    ]
   },
   {
     "id": "formula_405",
@@ -52728,7 +52788,10 @@
       "syndrome_026",
       "syndrome_003"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_003",
+      "syndrome_026"
+    ]
   },
   {
     "id": "formula_406",
@@ -52852,7 +52915,10 @@
       "syndrome_021",
       "syndrome_016"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_016",
+      "syndrome_021"
+    ]
   },
   {
     "id": "formula_407",
@@ -52947,7 +53013,10 @@
       "syndrome_022",
       "syndrome_017"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_017",
+      "syndrome_022"
+    ]
   },
   {
     "id": "formula_408",
@@ -53045,7 +53114,9 @@
     "related_syndromes": [
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022"
+    ]
   },
   {
     "id": "formula_409",
@@ -53154,7 +53225,9 @@
     "related_syndromes": [
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022"
+    ]
   },
   {
     "id": "formula_410",
@@ -53254,7 +53327,9 @@
     "related_syndromes": [
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022"
+    ]
   },
   {
     "id": "formula_411",
@@ -53348,7 +53423,11 @@
       "syndrome_058",
       "syndrome_046"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_024",
+      "syndrome_046",
+      "syndrome_058"
+    ]
   },
   {
     "id": "formula_412",
@@ -53408,7 +53487,10 @@
       "syndrome_023",
       "syndrome_079"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_023",
+      "syndrome_079"
+    ]
   },
   {
     "id": "formula_413",
@@ -53471,7 +53553,9 @@
     "related_syndromes": [
       "syndrome_023"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_023"
+    ]
   },
   {
     "id": "formula_414",
@@ -53557,7 +53641,10 @@
       "syndrome_023",
       "syndrome_037"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_023",
+      "syndrome_037"
+    ]
   },
   {
     "id": "formula_415",
@@ -53644,7 +53731,9 @@
     "related_syndromes": [
       "syndrome_023"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_023"
+    ]
   },
   {
     "id": "formula_416",
@@ -53739,7 +53828,9 @@
     "related_syndromes": [
       "syndrome_023"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_023"
+    ]
   },
   {
     "id": "formula_417",
@@ -53946,7 +54037,10 @@
       "syndrome_024",
       "syndrome_060"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_024",
+      "syndrome_060"
+    ]
   },
   {
     "id": "formula_418",
@@ -54052,7 +54146,9 @@
     "related_syndromes": [
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022"
+    ]
   },
   {
     "id": "formula_419",
@@ -54161,7 +54257,10 @@
       "syndrome_022",
       "syndrome_059"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022",
+      "syndrome_059"
+    ]
   },
   {
     "id": "formula_420",
@@ -54220,7 +54319,9 @@
     "related_syndromes": [
       "syndrome_057"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_057"
+    ]
   },
   {
     "id": "formula_421",
@@ -54345,7 +54446,10 @@
       "syndrome_032",
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022",
+      "syndrome_032"
+    ]
   },
   {
     "id": "formula_422",
@@ -54416,7 +54520,10 @@
       "syndrome_021",
       "syndrome_040"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_021",
+      "syndrome_040"
+    ]
   },
   {
     "id": "formula_423",
@@ -54543,7 +54650,10 @@
       "syndrome_084",
       "syndrome_127"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_084",
+      "syndrome_127"
+    ]
   },
   {
     "id": "formula_424",
@@ -54660,7 +54770,10 @@
       "syndrome_076",
       "syndrome_127"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_076",
+      "syndrome_127"
+    ]
   },
   {
     "id": "formula_425",
@@ -54754,7 +54867,9 @@
     "related_syndromes": [
       "syndrome_020"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_020"
+    ]
   },
   {
     "id": "formula_426",
@@ -54876,7 +54991,9 @@
     "related_syndromes": [
       "syndrome_020"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_020"
+    ]
   },
   {
     "id": "formula_427",
@@ -55020,7 +55137,10 @@
       "syndrome_020",
       "syndrome_034"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_020",
+      "syndrome_034"
+    ]
   },
   {
     "id": "formula_428",
@@ -55182,7 +55302,10 @@
       "syndrome_020",
       "syndrome_007"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_007",
+      "syndrome_020"
+    ]
   },
   {
     "id": "formula_429",
@@ -55430,7 +55553,10 @@
       "syndrome_035",
       "syndrome_088"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_035",
+      "syndrome_088"
+    ]
   },
   {
     "id": "formula_430",
@@ -55656,7 +55782,11 @@
       "syndrome_090",
       "syndrome_091"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_035",
+      "syndrome_090",
+      "syndrome_091"
+    ]
   },
   {
     "id": "formula_431",
@@ -55773,7 +55903,10 @@
       "syndrome_035",
       "syndrome_009"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_009",
+      "syndrome_035"
+    ]
   },
   {
     "id": "formula_432",
@@ -55838,7 +55971,9 @@
     "related_syndromes": [
       "syndrome_042"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_042"
+    ]
   },
   {
     "id": "formula_433",
@@ -55900,7 +56035,9 @@
     "related_syndromes": [
       "syndrome_078"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_078"
+    ]
   },
   {
     "id": "formula_434",
@@ -56065,7 +56202,10 @@
       "syndrome_100",
       "syndrome_092"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_092",
+      "syndrome_100"
+    ]
   },
   {
     "id": "formula_435",
@@ -56186,7 +56326,10 @@
       "syndrome_005",
       "syndrome_100"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_005",
+      "syndrome_100"
+    ]
   },
   {
     "id": "formula_436",
@@ -56359,7 +56502,11 @@
       "syndrome_015",
       "syndrome_080"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_015",
+      "syndrome_060",
+      "syndrome_080"
+    ]
   },
   {
     "id": "formula_437",
@@ -56475,7 +56622,10 @@
       "syndrome_067",
       "syndrome_006"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_006",
+      "syndrome_067"
+    ]
   },
   {
     "id": "formula_438",
@@ -56545,7 +56695,10 @@
       "syndrome_125",
       "syndrome_009"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_009",
+      "syndrome_125"
+    ]
   },
   {
     "id": "formula_439",
@@ -56623,7 +56776,10 @@
       "syndrome_125",
       "syndrome_009"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_009",
+      "syndrome_125"
+    ]
   },
   {
     "id": "formula_440",
@@ -56693,7 +56849,10 @@
       "syndrome_125",
       "syndrome_010"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_010",
+      "syndrome_125"
+    ]
   },
   {
     "id": "formula_441",
@@ -56764,7 +56923,10 @@
       "syndrome_125",
       "syndrome_011"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_011",
+      "syndrome_125"
+    ]
   },
   {
     "id": "formula_442",
@@ -56861,7 +57023,10 @@
       "syndrome_117",
       "syndrome_107"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_107",
+      "syndrome_117"
+    ]
   },
   {
     "id": "formula_443",
@@ -56952,7 +57117,9 @@
     "related_syndromes": [
       "syndrome_125"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_125"
+    ]
   },
   {
     "id": "formula_444",
@@ -57013,7 +57180,9 @@
     "related_syndromes": [
       "syndrome_078"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_078"
+    ]
   },
   {
     "id": "formula_445",
@@ -57080,7 +57249,9 @@
     "related_syndromes": [
       "syndrome_078"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_078"
+    ]
   },
   {
     "id": "formula_446",
@@ -57151,7 +57322,10 @@
       "syndrome_078",
       "syndrome_010"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_010",
+      "syndrome_078"
+    ]
   },
   {
     "id": "formula_447",
@@ -57241,7 +57415,9 @@
     "related_syndromes": [
       "syndrome_116"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_116"
+    ]
   },
   {
     "id": "formula_448",
@@ -57532,7 +57708,11 @@
       "syndrome_060",
       "syndrome_020"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_020",
+      "syndrome_060",
+      "syndrome_080"
+    ]
   },
   {
     "id": "formula_449",
@@ -57680,7 +57860,10 @@
       "syndrome_037",
       "syndrome_130"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_037",
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_450",
@@ -57777,7 +57960,10 @@
       "syndrome_038",
       "syndrome_037"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_037",
+      "syndrome_038"
+    ]
   },
   {
     "id": "formula_451",
@@ -57878,7 +58064,10 @@
       "syndrome_029",
       "syndrome_007"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_007",
+      "syndrome_029"
+    ]
   },
   {
     "id": "formula_452",
@@ -57964,7 +58153,10 @@
       "syndrome_029",
       "syndrome_058"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_029",
+      "syndrome_058"
+    ]
   },
   {
     "id": "formula_453",
@@ -58043,7 +58235,10 @@
       "syndrome_029",
       "syndrome_065"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_029",
+      "syndrome_065"
+    ]
   },
   {
     "id": "formula_454",
@@ -58132,7 +58327,10 @@
       "syndrome_029",
       "syndrome_065"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_029",
+      "syndrome_065"
+    ]
   },
   {
     "id": "formula_455",
@@ -58248,7 +58446,10 @@
       "syndrome_029",
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022",
+      "syndrome_029"
+    ]
   },
   {
     "id": "formula_456",
@@ -58343,7 +58544,10 @@
       "syndrome_058",
       "syndrome_041"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_041",
+      "syndrome_058"
+    ]
   },
   {
     "id": "formula_457",
@@ -58460,7 +58664,9 @@
     "related_syndromes": [
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022"
+    ]
   },
   {
     "id": "formula_458",
@@ -58525,7 +58731,10 @@
       "syndrome_104",
       "syndrome_028"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_028",
+      "syndrome_104"
+    ]
   },
   {
     "id": "formula_459",
@@ -58612,7 +58821,10 @@
       "syndrome_010",
       "syndrome_005"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_005",
+      "syndrome_010"
+    ]
   },
   {
     "id": "formula_460",
@@ -58748,7 +58960,10 @@
       "syndrome_084",
       "syndrome_104"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_084",
+      "syndrome_104"
+    ]
   },
   {
     "id": "formula_461",
@@ -58840,7 +59055,10 @@
       "syndrome_060",
       "syndrome_085"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_060",
+      "syndrome_085"
+    ]
   },
   {
     "id": "formula_462",
@@ -58946,7 +59164,9 @@
     "related_syndromes": [
       "syndrome_130"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_463",
@@ -59061,7 +59281,10 @@
       "syndrome_130",
       "syndrome_032"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_032",
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_464",
@@ -59149,7 +59372,11 @@
       "syndrome_038",
       "syndrome_041"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_038",
+      "syndrome_041",
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_465",
@@ -59257,7 +59484,9 @@
     "related_syndromes": [
       "syndrome_130"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_466",
@@ -59423,7 +59652,10 @@
       "syndrome_130",
       "syndrome_036"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_036",
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_467",
@@ -59597,7 +59829,10 @@
       "syndrome_130",
       "syndrome_036"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_036",
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_468",
@@ -59763,7 +59998,10 @@
       "syndrome_031",
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022",
+      "syndrome_031"
+    ]
   },
   {
     "id": "formula_469",
@@ -59861,7 +60099,9 @@
     "related_syndromes": [
       "syndrome_047"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_047"
+    ]
   },
   {
     "id": "formula_470",
@@ -59933,7 +60173,10 @@
       "syndrome_047",
       "syndrome_060"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_047",
+      "syndrome_060"
+    ]
   },
   {
     "id": "formula_471",
@@ -60014,7 +60257,9 @@
     "related_syndromes": [
       "syndrome_047"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_047"
+    ]
   },
   {
     "id": "formula_472",
@@ -60106,7 +60351,9 @@
     "related_syndromes": [
       "syndrome_047"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_047"
+    ]
   },
   {
     "id": "formula_473",
@@ -60189,7 +60436,9 @@
     "related_syndromes": [
       "syndrome_031"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_031"
+    ]
   },
   {
     "id": "formula_474",
@@ -60283,7 +60532,10 @@
       "syndrome_031",
       "syndrome_022"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_022",
+      "syndrome_031"
+    ]
   },
   {
     "id": "formula_475",
@@ -60381,7 +60633,10 @@
       "syndrome_031",
       "syndrome_067"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_031",
+      "syndrome_067"
+    ]
   },
   {
     "id": "formula_476",
@@ -60475,7 +60730,10 @@
       "syndrome_031",
       "syndrome_059"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_031",
+      "syndrome_059"
+    ]
   },
   {
     "id": "formula_477",
@@ -60610,7 +60868,10 @@
       "syndrome_031",
       "syndrome_059"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_031",
+      "syndrome_059"
+    ]
   },
   {
     "id": "formula_478",
@@ -60681,7 +60942,10 @@
       "syndrome_030",
       "syndrome_060"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_030",
+      "syndrome_060"
+    ]
   },
   {
     "id": "formula_479",
@@ -60797,7 +61061,10 @@
       "syndrome_030",
       "syndrome_007"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_007",
+      "syndrome_030"
+    ]
   },
   {
     "id": "formula_480",
@@ -60897,7 +61164,10 @@
       "syndrome_030",
       "syndrome_011"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_011",
+      "syndrome_030"
+    ]
   },
   {
     "id": "formula_481",
@@ -60970,7 +61240,10 @@
       "syndrome_030",
       "syndrome_010"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_010",
+      "syndrome_030"
+    ]
   },
   {
     "id": "formula_482",
@@ -61132,7 +61405,10 @@
       "syndrome_065",
       "syndrome_032"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_032",
+      "syndrome_065"
+    ]
   },
   {
     "id": "formula_483",
@@ -61220,7 +61496,9 @@
     "related_syndromes": [
       "syndrome_032"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_032"
+    ]
   },
   {
     "id": "formula_484",
@@ -61310,7 +61588,10 @@
       "syndrome_039",
       "syndrome_107"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_039",
+      "syndrome_107"
+    ]
   },
   {
     "id": "formula_485",
@@ -61438,7 +61719,10 @@
       "syndrome_039",
       "syndrome_130"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_039",
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_486",
@@ -61530,7 +61814,9 @@
     "related_syndromes": [
       "syndrome_039"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_039"
+    ]
   },
   {
     "id": "formula_487",
@@ -61611,7 +61897,9 @@
     "related_syndromes": [
       "syndrome_039"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_039"
+    ]
   },
   {
     "id": "formula_488",
@@ -61680,7 +61968,9 @@
     "related_syndromes": [
       "syndrome_119"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_119"
+    ]
   },
   {
     "id": "formula_489",
@@ -61739,7 +62029,9 @@
     "related_syndromes": [
       "syndrome_040"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_040"
+    ]
   },
   {
     "id": "formula_490",
@@ -61899,7 +62191,9 @@
     "related_syndromes": [
       "syndrome_068"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_068"
+    ]
   },
   {
     "id": "formula_491",
@@ -62027,7 +62321,10 @@
       "syndrome_037",
       "syndrome_023"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_023",
+      "syndrome_037"
+    ]
   },
   {
     "id": "formula_492",
@@ -62107,7 +62404,9 @@
     "related_syndromes": [
       "syndrome_107"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_107"
+    ]
   },
   {
     "id": "formula_493",
@@ -62166,7 +62465,9 @@
     "related_syndromes": [
       "syndrome_090"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_090"
+    ]
   },
   {
     "id": "formula_494",
@@ -62235,7 +62536,9 @@
     "related_syndromes": [
       "syndrome_104"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_104"
+    ]
   },
   {
     "id": "formula_495",
@@ -62311,7 +62614,9 @@
     "related_syndromes": [
       "syndrome_003"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_003"
+    ]
   },
   {
     "id": "formula_496",
@@ -62437,7 +62742,10 @@
       "syndrome_010",
       "syndrome_097"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_010",
+      "syndrome_097"
+    ]
   },
   {
     "id": "formula_497",
@@ -62539,7 +62847,10 @@
       "syndrome_039",
       "syndrome_003"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_003",
+      "syndrome_039"
+    ]
   },
   {
     "id": "formula_498",
@@ -62620,7 +62931,10 @@
       "syndrome_113",
       "syndrome_010"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_010",
+      "syndrome_113"
+    ]
   },
   {
     "id": "formula_499",
@@ -62697,7 +63011,9 @@
     "related_syndromes": [
       "syndrome_031"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_031"
+    ]
   },
   {
     "id": "formula_500",
@@ -62820,7 +63136,10 @@
       "syndrome_010",
       "syndrome_066"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_010",
+      "syndrome_066"
+    ]
   },
   {
     "id": "formula_501",
@@ -62957,7 +63276,10 @@
       "syndrome_003",
       "syndrome_094"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_003",
+      "syndrome_094"
+    ]
   },
   {
     "id": "formula_502",
@@ -63028,7 +63350,10 @@
       "syndrome_058",
       "syndrome_060"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_058",
+      "syndrome_060"
+    ]
   },
   {
     "id": "formula_503",
@@ -63109,7 +63434,9 @@
     "related_syndromes": [
       "syndrome_060"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_060"
+    ]
   },
   {
     "id": "formula_504",
@@ -63312,7 +63639,10 @@
       "syndrome_002",
       "syndrome_059"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_002",
+      "syndrome_059"
+    ]
   },
   {
     "id": "formula_505",
@@ -63427,7 +63757,10 @@
       "syndrome_072",
       "syndrome_107"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_072",
+      "syndrome_107"
+    ]
   },
   {
     "id": "formula_506",
@@ -63504,7 +63837,10 @@
       "syndrome_009",
       "syndrome_010"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_009",
+      "syndrome_010"
+    ]
   },
   {
     "id": "formula_507",
@@ -63636,7 +63972,10 @@
       "syndrome_010",
       "syndrome_003"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_003",
+      "syndrome_010"
+    ]
   },
   {
     "id": "formula_508",
@@ -63720,7 +64059,9 @@
     "related_syndromes": [
       "syndrome_060"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_060"
+    ]
   },
   {
     "id": "formula_509",
@@ -63809,7 +64150,10 @@
       "syndrome_060",
       "syndrome_130"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_060",
+      "syndrome_130"
+    ]
   },
   {
     "id": "formula_510",
@@ -63897,7 +64241,10 @@
       "syndrome_057",
       "syndrome_078"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_057",
+      "syndrome_078"
+    ]
   },
   {
     "id": "formula_511",
@@ -63966,7 +64313,10 @@
       "syndrome_060",
       "syndrome_028"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_028",
+      "syndrome_060"
+    ]
   },
   {
     "id": "formula_512",
@@ -64029,7 +64379,9 @@
     "related_syndromes": [
       "syndrome_057"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_057"
+    ]
   },
   {
     "id": "formula_513",
@@ -64088,7 +64440,9 @@
     "related_syndromes": [
       "syndrome_057"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_057"
+    ]
   },
   {
     "id": "formula_514",
@@ -64309,7 +64663,9 @@
     "related_syndromes": [
       "syndrome_052"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_052"
+    ]
   },
   {
     "id": "formula_515",
@@ -64407,7 +64763,10 @@
       "syndrome_017",
       "syndrome_098"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_017",
+      "syndrome_098"
+    ]
   },
   {
     "id": "formula_516",
@@ -64495,6 +64854,9 @@
       "syndrome_058",
       "syndrome_041"
     ],
-    "syndrome_ids": null
+    "syndrome_ids": [
+      "syndrome_041",
+      "syndrome_058"
+    ]
   }
 ]
