@@ -3,7 +3,6 @@ import { useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
-import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
@@ -122,7 +121,7 @@ export default function SyndromeModule() {
   }
 
   if (selectedSyndrome) {
-    const { syndrome, formulas, needles, treatments, effects, modernMapping } = selectedSyndrome
+    const { syndrome, formulas, needles, treatments, modernMapping } = selectedSyndrome
 
     const anchorSections = [
       { id: 'sec-diagnosis', label: '辨证', show: syndrome.diagnosis_points?.length },
@@ -132,7 +131,6 @@ export default function SyndromeModule() {
       { id: 'sec-formulas', label: '方剂', show: formulas?.length },
       { id: 'sec-needles', label: '针方', show: needles?.length },
       { id: 'sec-treatments', label: '治法', show: treatments?.length },
-      { id: 'sec-effects', label: '功效', show: effects?.length },
       { id: 'sec-comparison', label: '对照', show: syndrome.comparison?.length },
       { id: 'sec-modern', label: '西医', show: syndrome.modern_medicine?.length },
       { id: 'sec-mapping', label: '中西', show: modernMapping?.length }
@@ -301,18 +299,6 @@ export default function SyndromeModule() {
                   </div>
                 )
               })}
-            </div>
-          </div>
-        )}
-
-        {effects && effects.length > 0 && (
-          <div className="section" id="sec-effects">
-            <h2 className="section-title">功效</h2>
-            <div className="tag-list">
-              {effects.map(effect => (
-                <span key={effect.id} id={`effect-${effect.id}`} className="tag-item primary clickable-tag"
-                  onClick={() => navigateToEntityByName(navigate, DATA_TYPES.EFFECTS, effect.name)}>{effect.name}</span>
-              ))}
             </div>
           </div>
         )}

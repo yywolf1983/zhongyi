@@ -7,107 +7,109 @@
 
 /* ===== CSS 设计令牌 ===== */
 :root {
-  /* ── 主色调：霁青蓝（沉静书卷气）── */
-  --color-primary: #2f5d7c;
-  --color-primary-light: #4a7da0;
-  --color-primary-dark: #1f3f57;
-  --color-primary-bg: #e6eef4;
-  --color-primary-gradient: linear-gradient(135deg, #3a6f93 0%, #244c69 100%);
+  /* 设计理念 v6.0：青瓷·宋韵 —— 月白宣纸底 / 墨字 / 青瓷黛绿（主）/ 朱砂（强调）/ 宋体衬线标题 */
+  /* ── 主色：青瓷黛绿（沉静养生气）── */
+  --color-primary: #2f7a68;
+  --color-primary-light: #57a18c;
+  --color-primary-dark: #1f5749;
+  --color-primary-bg: #e7f1ec;
+  --color-primary-gradient: linear-gradient(135deg, #357d6b 0%, #266a59 100%);
 
-  /* ── 强调色：琥珀金（暖调点睛）── */
-  --color-accent: #b8802f;
-  --color-accent-light: #cf9a4d;
-  --color-accent-dark: #94621f;
-  --color-accent-bg: #f6ecdc;
-  --color-accent-gradient: linear-gradient(135deg, #c98f3c 0%, #9a6320 100%);
+  /* ── 强调色：朱砂（暖调点睛）── */
+  --color-accent: #c0492f;
+  --color-accent-light: #d77a5f;
+  --color-accent-dark: #94331f;
+  --color-accent-bg: #f8e6df;
+  --color-accent-gradient: linear-gradient(135deg, #cb563b 0%, #b23c25 100%);
 
   /* ── 警示色：绛红 ── */
-  --color-danger: #b0493f;
-  --color-danger-bg: #f7e4e1;
-  --color-danger-light: #c96a5f;
+  --color-danger: #c0492f;
+  --color-danger-bg: #f8e6df;
+  --color-danger-light: #e07a64;
 
   /* ── 功能色 ── */
-  --color-warning: #b8802f;
-  --color-warning-bg: #f6ecdc;
-  --color-info: #3a6f93;
-  --color-info-bg: #e6eef4;
-  --color-info-dark: #2f5775;
-  --color-success: #2f7d5e;
-  --color-success-bg: #e2efe9;
+  --color-warning: #c0882e;
+  --color-warning-bg: #f7ecd6;
+  --color-info: #3f7d9a;
+  --color-info-bg: #e4eef3;
+  --color-info-dark: #2c607a;
+  --color-success: #2f8a5f;
+  --color-success-bg: #e3f1e9;
 
-  /* ── 中性色（月白宣纸 / 墨青）── */
-  --color-bg: #f5f3ee;
-  --color-surface: #fbfaf6;
-  --color-surface-warm: #efece4;
-  --color-border: #e2ddd2;
-  --color-divider: #ddd8cc;
-  --color-text-primary: #20262d;
-  --color-text-secondary: #565e66;
-  --color-text-hint: #949aa1;
+  /* ── 中性色（月白宣纸 / 墨）── */
+  --color-bg: #f2ede1;
+  --color-surface: #fffdf8;
+  --color-surface-warm: #efe7d6;
+  --color-border: #e4d9c5;
+  --color-divider: #ece4d3;
+  --color-text-primary: #2b2922;
+  --color-text-secondary: #6f6757;
+  --color-text-hint: #a89e8a;
   --color-text-on-primary: #ffffff;
-  --color-text-on-accent: #ffffff;
+  --color-text-on-accent: #fff6ee;
 
   /* ── 组件专属色 ── */
-  --color-filter-bar: #efece4;
-  --color-filter-inactive: #f2efe8;
-  --color-surface-active: #e6e3da;
-  --color-surface-green: #e3edf2;
+  --color-filter-bar: #f0e9da;
+  --color-filter-inactive: #ece2cf;
+  --color-surface-active: #e6efe9;
+  --color-surface-green: #e9f2ec;
 
-  /* ── 分类色板（彩墨点缀）── */
-  --color-syndrome: #2f5d7c;
-  --color-formula: #3a6f93;
-  --color-medicine: #b8802f;
-  --color-acupoint: #7a5a93;
-  --color-acupoint-bg: #efeaf4;
+  /* ── 模块主题色（彩墨点缀）── */
+  --color-syndrome: #2f7a68;
+  --color-formula: #357d6b;
+  --color-medicine: #c0882e;
+  --color-acupoint: #8a5fa6;
+  --color-acupoint-bg: #efeaf5;
   --color-needle: #2f7d75;
   --color-treatment: #4a7d5e;
-  --color-effect: #b04a6a;
+  --color-effect: #b06a8a;
   --color-meridian: #3a6f93;
-  --color-mapping: #b8802f;
+  --color-mapping: #c0882e;
 
-  /* ── 阴影（柔和冷调）── */
-  --shadow-xs: 0 1px 2px rgba(30, 40, 52, 0.04);
-  --shadow-sm: 0 1px 3px rgba(30, 40, 52, 0.06), 0 1px 2px rgba(30, 40, 52, 0.03);
-  --shadow-md: 0 4px 12px rgba(30, 40, 52, 0.07), 0 1px 3px rgba(30, 40, 52, 0.04);
-  --shadow-lg: 0 8px 24px rgba(30, 40, 52, 0.08), 0 2px 6px rgba(30, 40, 52, 0.05);
-  --shadow-xl: 0 16px 40px rgba(30, 40, 52, 0.10), 0 4px 12px rgba(30, 40, 52, 0.06);
+  /* ── 阴影（暖调柔光）── */
+  --shadow-xs: 0 1px 3px rgba(74, 60, 30, 0.05);
+  --shadow-sm: 0 2px 10px rgba(74, 60, 30, 0.07);
+  --shadow-md: 0 8px 24px rgba(74, 60, 30, 0.09);
+  --shadow-lg: 0 18px 48px rgba(74, 60, 30, 0.13);
+  --shadow-xl: 0 28px 64px rgba(74, 60, 30, 0.16);
 
-  /* ── 圆角 ── */
-  --radius-sm: 8px;
-  --radius-md: 12px;
+  /* ── 圆角（紧凑化）── */
+  --radius-sm: 10px;
+  --radius-md: 13px;
   --radius-lg: 18px;
   --radius-xl: 24px;
   --radius-full: 9999px;
 
-  /* ── 间距 ── */
-  --space-xs: 4px;
-  --space-sm: 8px;
-  --space-md: 14px;
-  --space-lg: 18px;
-  --space-xl: 22px;
-  --space-2xl: 28px;
-  --space-3xl: 36px;
+  /* ── 间距（紧凑化）── */
+  --space-xs: 3px;
+  --space-sm: 6px;
+  --space-md: 10px;
+  --space-lg: 14px;
+  --space-xl: 20px;
+  --space-2xl: 26px;
+  --space-3xl: 34px;
 
-  /* ── 字体 ── */
+  /* ── 字体（紧凑化）── */
   --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
-  --font-size-xs: 0.85rem;
-  --font-size-sm: 0.92rem;
-  --font-size-base: 1rem;
-  --font-size-md: 1.08rem;
-  --font-size-lg: 1.2rem;
-  --font-size-xl: 1.4rem;
-  --font-size-2xl: 1.75rem;
-  --font-size-3xl: 2rem;
+  --font-serif: "Noto Serif SC", "Songti SC", "STSong", "SimSun", serif;
+  --font-size-xs: 0.76rem;
+  --font-size-sm: 0.83rem;
+  --font-size-base: 0.9rem;
+  --font-size-md: 0.98rem;
+  --font-size-lg: 1.08rem;
+  --font-size-xl: 1.28rem;
+  --font-size-2xl: 1.55rem;
+  --font-size-3xl: 1.85rem;
   --font-weight-normal: 400;
   --font-weight-medium: 500;
   --font-weight-semibold: 600;
   --font-weight-bold: 700;
 
   /* ── 过渡 ── */
-  --transition-fast: 0.15s ease;
-  --transition-normal: 0.25s ease;
-  --transition-slow: 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-fast: 0.14s ease;
+  --transition-normal: 0.24s ease;
+  --transition-slow: 0.36s cubic-bezier(0.4, 0, 0.2, 1);
 
   /* ── 触摸目标 ── */
   --touch-target: 48px;
@@ -118,7 +120,7 @@
   --safe-left: env(safe-area-inset-left, 0px);
   --safe-right: env(safe-area-inset-right, 0px);
   /* 底部固定 Tab 栏高度（含安全区），内容区/回顶按钮统一避让 */
-  --nav-h: 72px;
+  --nav-h: 66px;
 }
 
 /* ===== Reset & Base ===== */
@@ -167,6 +169,16 @@ input[type="button"] {
   font-weight: var(--font-weight-medium);
   -webkit-appearance: none;
   appearance: none;
+}
+
+/* ===== 宋韵标题（衬线） ===== */
+.app-brand,
+.header-title,
+.detail-title,
+.rhyme-card-title,
+.list-group-header,
+.card-title {
+  font-family: var(--font-serif);
 }
 
 /* 手机上正文（方剂/条文/说明）允许长按复制，仅交互控件禁用选中，避免误触选中 */
@@ -232,9 +244,9 @@ button:not(.allow-context) {
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   overscroll-behavior-y: none;
-  padding: var(--space-md);
-  padding-top: calc(var(--safe-top) + var(--space-lg));
-  padding-bottom: calc(var(--space-3xl) + var(--safe-bottom));
+  padding: var(--space-sm);
+  padding-top: calc(var(--safe-top) + var(--space-md));
+  padding-bottom: calc(var(--space-2xl) + var(--safe-bottom));
   animation: fadeInUp 0.4s var(--transition-slow);
 }
 
@@ -287,11 +299,11 @@ button:not(.allow-context) {
   display: flex;
   align-items: center;
   gap: var(--space-md);
-  margin-bottom: var(--space-lg);
-  padding: 14px 18px;
-  background: linear-gradient(160deg, #4a7da0 0%, #3a6f93 35%, #2f5d7c 70%, #244c69 100%);
+  margin-bottom: var(--space-md);
+  padding: 12px 16px;
+  background: linear-gradient(135deg, #357d6b 0%, #2a6a5a 55%, #1f5749 100%);
   border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-lg), 0 0 80px rgba(47, 93, 124, 0.16);
+  box-shadow: var(--shadow-md), 0 0 64px rgba(47, 122, 104, 0.20);
   position: relative;
   overflow: hidden;
   cursor: pointer;
@@ -309,47 +321,48 @@ button:not(.allow-context) {
   top: -50%; left: -50%;
   width: 200%; height: 200%;
   background:
-    radial-gradient(circle at 25% 40%, rgba(255,255,255,0.10) 0%, transparent 55%),
-    radial-gradient(circle at 75% 60%, rgba(184,128,47,0.14) 0%, transparent 50%);
+    radial-gradient(circle at 22% 35%, rgba(255,255,255,0.10) 0%, transparent 55%),
+    radial-gradient(circle at 78% 65%, rgba(199,86,59,0.16) 0%, transparent 50%);
   pointer-events: none;
 }
 .header-container::after {
   content: '';
   position: absolute;
   bottom: 0; left: 0; right: 0;
-  height: 2px;
-  background: linear-gradient(90deg, transparent, var(--color-accent), transparent);
+  height: 3px;
+  background: linear-gradient(90deg, transparent, var(--color-accent-light), transparent);
 }
 .header-container:active {
   transform: scale(0.985);
 }
 
 .header-icon {
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   line-height: 1;
   flex-shrink: 0;
-  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.25));
+  filter: drop-shadow(0 2px 5px rgba(0,0,0,0.28));
 }
 
 .header-title {
-  font-size: 1.1rem;
-  color: var(--color-text-on-primary);
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  color: #ffffff;
   font-weight: 700;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.10em;
   line-height: 1.3;
   position: relative;
   z-index: 1;
-  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.22);
   overflow-wrap: break-word;
   word-break: break-word;
 }
 .header-subtitle {
   font-size: 0.78rem;
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.80);
   position: relative;
   z-index: 1;
   font-weight: 400;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.10em;
   line-height: 1.3;
   overflow-wrap: break-word;
   word-break: break-word;
@@ -358,33 +371,33 @@ button:not(.allow-context) {
 /* ===== Global Search Bar ===== */
 .global-search-wrapper {
   position: relative;
-  margin-bottom: var(--space-lg);
+  margin-bottom: var(--space-md);
 }
 .global-search-bar {
   display: flex;
   gap: 0;
   align-items: stretch;
   box-shadow: var(--shadow-sm);
-  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+  background: var(--color-surface);
 }
 .global-search-input {
   flex: 1;
-  padding: 15px 20px;
-  border: 2px solid transparent;
-  border-right: none;
-  border-radius: var(--radius-lg) 0 0 var(--radius-lg);
+  padding: 12px 18px;
+  border: none;
+  border-radius: var(--radius-full) 0 0 var(--radius-full);
   font-size: var(--font-size-base);
   transition: all var(--transition-normal);
   outline: none;
-  background: var(--color-surface);
+  background: transparent;
   min-height: var(--touch-target);
   -webkit-appearance: none;
   font-family: var(--font-family);
   color: var(--color-text-primary);
 }
 .global-search-input:focus {
-  border-color: var(--color-primary);
-  box-shadow: 0 0 0 4px rgba(47, 93, 124, 0.1);
   background: var(--color-primary-bg);
 }
 .global-search-input::placeholder {
@@ -394,11 +407,11 @@ button:not(.allow-context) {
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 15px 24px;
-  background: var(--color-primary-gradient);
-  color: var(--color-text-on-primary);
+  padding: 12px 22px;
+  background: var(--color-accent-gradient);
+  color: var(--color-text-on-accent);
   border: none;
-  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+  border-radius: 0 var(--radius-full) var(--radius-full) 0;
   font-size: var(--font-size-base);
   font-weight: var(--font-weight-semibold);
   cursor: pointer;
@@ -436,7 +449,7 @@ button:not(.allow-context) {
 .main-content {
   display: flex;
   flex-direction: column;
-  gap: var(--space-lg);
+  gap: var(--space-md);
 }
 
 /* ===== Navigation（App Shell 底部固定栏，flex 子项，不依赖 fixed） ===== */
@@ -491,10 +504,10 @@ button:not(.allow-context) {
   background: var(--color-primary-bg);
 }
 .nav-item.active {
-  background: var(--color-primary-gradient);
-  color: var(--color-text-on-primary);
-  box-shadow: var(--shadow-md);
+  background: var(--color-primary-bg);
+  color: var(--color-primary-dark);
   font-weight: 600;
+  box-shadow: inset 0 0 0 1.5px var(--color-primary-light);
 }
 .nav-item.active .nav-icon {
   transform: scale(1.15);
@@ -520,11 +533,11 @@ button:not(.allow-context) {
 .view-toggle {
   display: flex;
   gap: var(--space-sm);
-  margin-bottom: var(--space-lg);
+  margin-bottom: var(--space-md);
 }
 .toggle-btn {
   flex: 1;
-  padding: var(--space-md) var(--space-lg);
+  padding: var(--space-sm) var(--space-lg);
   border-radius: var(--radius-md);
   font-size: var(--font-size-sm);
   font-weight: 500;
@@ -537,10 +550,10 @@ button:not(.allow-context) {
   -webkit-appearance: none;
 }
 .toggle-btn.active {
-  background: var(--color-primary-gradient);
-  color: var(--color-text-on-primary);
-  border-color: transparent;
-  box-shadow: var(--shadow-md);
+  background: var(--color-primary-bg);
+  color: var(--color-primary-dark);
+  border-color: var(--color-primary-light);
+  box-shadow: inset 0 0 0 1.5px var(--color-primary-light);
 }
 .toggle-btn:active:not(.active) {
   background: var(--color-surface-green);
@@ -658,7 +671,7 @@ button:not(.allow-context) {
 .search-result-category {
   background: var(--color-surface);
   border-radius: var(--radius-lg);
-  padding: var(--space-lg);
+  padding: var(--space-md);
   box-shadow: var(--shadow-xs);
   border: 1px solid var(--color-border);
 }
@@ -683,7 +696,7 @@ button:not(.allow-context) {
   display: flex;
   flex-direction: column;
   gap: var(--space-sm);
-  padding: var(--space-lg) var(--space-xl);
+  padding: var(--space-md) var(--space-lg);
   animation: slideInLeft 0.3s var(--transition-slow);
 }
 .list-item-header {
@@ -753,19 +766,19 @@ mark,
 .list-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 10px;
+  gap: 8px;
   align-items: start;
 }
 .list-item {
   background: var(--color-surface);
-  padding: var(--space-lg) 40px var(--space-lg) 20px;
+  padding: var(--space-md) 30px var(--space-md) 14px;
   border-radius: var(--radius-md);
   cursor: pointer;
   transition: all var(--transition-normal);
   border: 1px solid transparent;
   position: relative;
   overflow: hidden;
-  min-height: 56px;
+  min-height: 50px;
   box-shadow: var(--shadow-xs);
   display: flex;
   flex-direction: column;
@@ -1035,7 +1048,7 @@ mark,
   white-space: nowrap;
 }
 .category-tag {
-  padding: 5px 16px;
+  padding: 4px 14px;
   background: var(--color-primary-gradient);
   color: var(--color-text-on-primary);
   border-radius: var(--radius-full);
@@ -1049,8 +1062,8 @@ mark,
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
-  padding: var(--space-lg) var(--space-xl);
-  margin-bottom: var(--space-md);
+  padding: var(--space-md) var(--space-lg);
+  margin-bottom: var(--space-sm);
   box-shadow: var(--shadow-xs);
   scroll-margin-top: 64px;
 }
@@ -1086,8 +1099,8 @@ mark,
 .section-content {
   font-size: var(--font-size-base);
   color: var(--color-text-secondary);
-  line-height: 1.85;
-  margin-bottom: var(--space-sm);
+  line-height: 1.7;
+  margin-bottom: var(--space-xs);
 }
 
 /* 常识补充的功效标签来源提示 */
@@ -1143,7 +1156,7 @@ mark,
   gap: var(--space-sm);
 }
 .tag-item {
-  padding: 5px 14px;
+  padding: 4px 12px;
   background: var(--color-surface-warm);
   color: var(--color-text-secondary);
   border-radius: var(--radius-sm);
@@ -1168,9 +1181,9 @@ mark,
 .card {
   background: var(--color-surface);
   border-radius: var(--radius-md);
-  padding: var(--space-lg);
+  padding: var(--space-md);
   border: 1px solid var(--color-border);
-  margin-bottom: var(--space-md);
+  margin-bottom: var(--space-sm);
   box-shadow: var(--shadow-xs);
 }
 .card-title {
@@ -1451,7 +1464,7 @@ mark,
 .mapping-item {
   background: var(--color-surface);
   border-radius: var(--radius-lg);
-  padding: var(--space-xl);
+  padding: var(--space-lg);
   box-shadow: var(--shadow-xs);
   border: 1px solid var(--color-border);
   transition: all var(--transition-normal);
@@ -1632,7 +1645,7 @@ mark,
   border: 1px solid var(--color-border);
   border-left: 4px solid var(--color-primary-dark);
   border-radius: var(--radius-md);
-  padding: var(--space-lg);
+  padding: var(--space-md);
   transition: all var(--transition-fast);
   box-shadow: var(--shadow-xs);
 }
@@ -1679,7 +1692,7 @@ mark,
 
 /* ===== Formula Filter Section ===== */
 .formula-filter-section {
-  margin-bottom: var(--space-lg);
+  margin-bottom: var(--space-md);
 }
 .cat-bar-header {
   display: flex;
@@ -1828,10 +1841,10 @@ mark,
   transform: scale(0.95);
 }
 .tag-filter-btn.active {
-  background: var(--color-primary-gradient);
-  color: var(--color-text-on-primary);
-  border-color: transparent;
-  box-shadow: var(--shadow-sm);
+  background: var(--color-primary-bg);
+  color: var(--color-primary-dark);
+  border-color: var(--color-primary-light);
+  box-shadow: inset 0 0 0 1.5px var(--color-primary-light);
   font-weight: 600;
 }
 
@@ -2491,10 +2504,12 @@ mark,
     --color-success-bg: #1c2e27;
     --color-acupoint-bg: #2a2036;
     --color-info-dark: #6ba8d8;
-    /* 暗色下主色三档整体提亮，确保小标题/文字在深底上清晰可读 */
-    --color-primary: #6fa3c8;
-    --color-primary-light: #8fbcdc;
-    --color-primary-dark: #aacede;
+    --color-primary: #5aa48f;
+    --color-primary-light: #7cbca9;
+    --color-primary-dark: #a6d3c4;
+    --color-accent: #d77a5f;
+    --color-accent-light: #e89a85;
+    --color-accent-dark: #b85a44;
   }
 
   body {
@@ -2645,7 +2660,7 @@ mark,
   position: relative;
   background: linear-gradient(160deg, #4a7da0 0%, #3a6f93 38%, #2f5d7c 72%, #244c69 100%);
   border-radius: var(--radius-xl);
-  padding: var(--space-xl) var(--space-xl) var(--space-lg);
+  padding: var(--space-lg) var(--space-xl) var(--space-md);
   color: #fff;
   box-shadow: var(--shadow-lg), 0 0 60px rgba(47, 93, 124, 0.18);
   overflow: hidden;
@@ -2768,7 +2783,7 @@ mark,
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
-  padding: var(--space-md) var(--space-lg);
+  padding: var(--space-sm) var(--space-lg);
   box-shadow: var(--shadow-xs);
   cursor: pointer;
   text-align: left;
@@ -2776,7 +2791,7 @@ mark,
   position: relative;
   overflow: hidden;
   -webkit-appearance: none;
-  min-height: 78px;
+  min-height: 66px;
   animation: fadeInUp 0.35s var(--transition-slow) both;
 }
 /* 卡片交错入场，层次更自然 */
@@ -2896,8 +2911,8 @@ mark,
 
 /* ===== 详情头部 banner 化 ===== */
 .detail-header {
-  margin-bottom: var(--space-2xl);
-  padding: var(--space-lg) var(--space-xl);
+  margin-bottom: var(--space-lg);
+  padding: var(--space-md) var(--space-lg);
   background: linear-gradient(135deg, var(--color-primary-bg), var(--color-surface));
   border-radius: var(--radius-lg);
   border: 1px solid var(--color-border);
@@ -2953,8 +2968,8 @@ mark,
   justify-content: space-between;
   align-items: flex-start;
   gap: var(--space-md);
-  margin-bottom: var(--space-2xl);
-  padding: var(--space-lg) var(--space-xl);
+  margin-bottom: var(--space-lg);
+  padding: var(--space-md) var(--space-lg);
   background: linear-gradient(135deg, var(--color-primary-bg), var(--color-surface));
   border-radius: var(--radius-lg);
   border: 1px solid var(--color-border);
@@ -3204,24 +3219,20 @@ mark,
   flex-direction: column;
 }
 .list-group-header {
-  position: sticky;
-  top: 84px;
-  z-index: 30;
+  position: static;
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
   padding: 8px 12px;
-  margin: 14px 0 8px;
+  margin: 12px 0 8px;
   background: var(--color-surface-warm);
-  border-left: 3px solid var(--color-primary);
-  border-radius: var(--radius-sm);
+  border-left: 4px solid var(--color-primary);
+  border-radius: var(--radius-md);
+  font-family: var(--font-serif);
   font-weight: 600;
-  font-size: var(--font-size-sm);
-  color: var(--color-text-primary);
-}
-/* 歌诀：分组子标题不吸顶，随内容正常滚动 */
-.rhyme-list .list-group-header {
-  position: static;
+  font-size: var(--font-size-base);
+  color: var(--color-primary-dark);
+  letter-spacing: 0.04em;
 }
 .list-group-label {
   flex: 1;
@@ -3280,7 +3291,7 @@ mark,
   grid-template-rows: auto auto;
   align-items: center;
   width: 100%;
-  padding: var(--space-md) var(--space-lg);
+  padding: var(--space-sm) var(--space-md);
   gap: 4px 12px;
   background: none;
   border: none;
@@ -3362,29 +3373,29 @@ mark,
 
 /* 展开的歌诀正文 */
 .rhyme-card-body {
-  padding: 0 var(--space-lg) var(--space-lg) var(--space-lg);
+  padding: 0 var(--space-md) var(--space-md) var(--space-md);
   border-top: 1px solid var(--color-divider);
-  padding-top: var(--space-md);
+  padding-top: var(--space-sm);
   animation: fadeIn 0.3s var(--transition-slow);
 }
 
 .rhyme-content {
   font-size: var(--font-size-base);
   color: var(--color-text-primary);
-  line-height: 2.1;
+  line-height: 1.85;
   white-space: pre-wrap;
   word-break: break-word;
   font-family: var(--font-family);
   margin: 0;
-  padding: var(--space-md);
+  padding: var(--space-sm);
   background: var(--color-surface-warm);
   border-radius: var(--radius-md);
   border-left: 3px solid var(--color-primary);
 }
 
 .rhyme-notes {
-  margin-top: var(--space-md);
-  padding: var(--space-md);
+  margin-top: var(--space-sm);
+  padding: var(--space-sm);
   background: var(--color-info-bg);
   border-radius: var(--radius-md);
   font-size: var(--font-size-sm);

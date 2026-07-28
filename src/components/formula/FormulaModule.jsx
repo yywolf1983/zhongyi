@@ -187,7 +187,7 @@ export default function FormulaModule() {
   }
 
   if (selectedFormula) {
-    const { formula, medicines: formulaMedicines, syndromes, effects, modernMapping } = selectedFormula
+    const { formula, medicines: formulaMedicines, syndromes, modernMapping } = selectedFormula
 
     return (
       <div className="detail-container">
@@ -282,17 +282,7 @@ export default function FormulaModule() {
           </div>
         )}
 
-        {effects && effects.length > 0 && (
-          <div className="section">
-            <h2 className="section-title">功效分类</h2>
-            <div className="tag-list">
-              {effects.map(effect => (
-                <span key={effect.id} className="tag-item primary clickable-tag"
-                  onClick={() => handleEffectClick(effect.name)}>{effect.name}</span>
-              ))}
-            </div>
-          </div>
-        )}
+
 
         {/* Comparison items if formula has it */}
         {formula.comparison && formula.comparison.length > 0 && (
@@ -361,7 +351,7 @@ export default function FormulaModule() {
   }
 
   if (selectedMedicine) {
-    const { medicine, formulas: medicineFormulas, effects, modernMapping } = selectedMedicine
+    const { medicine, formulas: medicineFormulas, modernMapping } = selectedMedicine
 
     // Determine meridians for display
     const meridians = medicine.meridian_tropism || medicine.meridian || []
@@ -462,17 +452,7 @@ export default function FormulaModule() {
           </div>
         )}
 
-        {effects && effects.length > 0 && (
-          <div className="section">
-            <h2 className="section-title">功效分类</h2>
-            <div className="tag-list">
-              {effects.map(effect => (
-                <span key={effect.id} className="tag-item primary clickable-tag"
-                  onClick={() => handleEffectClick(effect.name)}>{effect.name}</span>
-              ))}
-            </div>
-          </div>
-        )}
+
 
         {/* Comparison items if medicine has it */}
         {medicine.comparison && medicine.comparison.length > 0 && (
