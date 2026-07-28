@@ -11,17 +11,7 @@ import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
 import FloatingBackButton from '../common/FloatingBackButton.jsx'
 import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
-import SearchBar from '../common/SearchBar.jsx'
-import GroupedList, { Highlight } from '../common/GroupedList.jsx'
-
-// 标题（名称 + 拼音）模糊匹配辅助
-function matchTitle(item, q, nameKey, pinyinKey) {
-  if (!q.trim()) return true
-  const t = q.trim().toLowerCase()
-  const name = (item[nameKey] || '').toLowerCase()
-  const pinyin = (item[pinyinKey] || '').toLowerCase()
-  return name.includes(t) || pinyin.includes(t)
-}
+import GroupedList from '../common/GroupedList.jsx'
 
 export default function FormulaModule() {
   const navigate = useNavigate()
@@ -42,10 +32,8 @@ export default function FormulaModule() {
   const { addRecent } = useAppContext()
   const [formulaCatFilter, setFormulaCatFilter] = useState('all')
   const [formulaSubFilter, setFormulaSubFilter] = useState('all')
-  const [formulaSearch, setFormulaSearch] = useState('')
   const [medicineCatFilter, setMedicineCatFilter] = useState('all')
   const [medicineSubFilter, setMedicineSubFilter] = useState('all')
-  const [medicineSearch, setMedicineSearch] = useState('')
 
   // ---- 分类统计：category → count ----
   const formulaCategories = useMemo(() => {
@@ -86,9 +74,8 @@ export default function FormulaModule() {
         return arr.includes(formulaSubFilter)
       })
     }
-    list = list.filter(f => matchTitle(f, formulaSearch, 'name', 'pinyin'))
     return list
-  }, [allFormulas, formulaCatFilter, formulaSubFilter, formulaSearch])
+  }, [allFormulas, formulaCatFilter, formulaSubFilter])
 
   // Medicine category options
   const medicineCategories = useMemo(() => {
@@ -116,9 +103,8 @@ export default function FormulaModule() {
         return arr.includes(medicineSubFilter)
       })
     }
-    list = list.filter(m => matchTitle(m, medicineSearch, 'name', 'pinyin'))
     return list
-  }, [allMedicines, medicineCatFilter, medicineSubFilter, medicineSearch])
+  }, [allMedicines, medicineCatFilter, medicineSubFilter])
 
   // Handle URL deep linking
   useEffect(() => {
@@ -546,13 +532,6 @@ export default function FormulaModule() {
 
       {viewMode === 'formulas' && (
         <>
-          <div className="module-toolbar">
-            <SearchBar
-              value={formulaSearch}
-              onChange={setFormulaSearch}
-              placeholder="搜索方剂名称或拼音…"
-            />
-          </div>
           <CollapsibleFilter
             label="分类"
             summary={formulaCatFilter === 'all' ? '全部' : formulaCatFilter}
@@ -593,13 +572,6 @@ export default function FormulaModule() {
 
       {viewMode === 'medicines' && (
         <>
-          <div className="module-toolbar">
-            <SearchBar
-              value={medicineSearch}
-              onChange={setMedicineSearch}
-              placeholder="搜索中药名称或拼音…"
-            />
-          </div>
           <CollapsibleFilter
             label="分类"
             summary={medicineCatFilter === 'all' ? '全部' : medicineCatFilter}
@@ -646,7 +618,7 @@ export default function FormulaModule() {
           emptyMessage="未找到匹配的方剂"
           renderItem={(formula) => (
             <div key={formula.id} className="list-item formula" onClick={() => handleSelectFormula(formula)}>
-              <div className="list-item-title"><Highlight text={formula.name} query={formulaSearch} /></div>
+              <div className="list-item-title">{formula.name}</div>
               <div className="list-item-pinyin">{formula.pinyin}</div>
               <div className="list-item-desc">{formula.effects?.join('、')}</div>
             </div>
@@ -660,7 +632,7 @@ export default function FormulaModule() {
           emptyMessage="未找到匹配的中药"
           renderItem={(medicine) => (
             <div key={medicine.id} className="list-item medicine" onClick={() => handleSelectMedicine(medicine)}>
-              <div className="list-item-title"><Highlight text={medicine.name} query={medicineSearch} /></div>
+              <div className="list-item-title">{medicine.name}</div>
               <div className="list-item-pinyin">{medicine.pinyin}</div>
               <div className="list-item-desc">{medicine.effects?.join('、')}</div>
             </div>

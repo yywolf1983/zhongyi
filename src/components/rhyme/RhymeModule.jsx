@@ -1,12 +1,11 @@
 import { useState, useMemo, useCallback } from 'react'
 import { rhymes, CATEGORIES, SUB_CATEGORIES } from '../../data/rhymes.js'
 import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
-import GroupedList, { Highlight } from '../common/GroupedList.jsx'
+import GroupedList from '../common/GroupedList.jsx'
 
 export default function RhymeModule() {
   const [activeCategory, setActiveCategory] = useState('all')
   const [activeSubCategory, setActiveSubCategory] = useState('all')
-  const [searchText, setSearchText] = useState('')
   const [expandedId, setExpandedId] = useState(null)
 
   // 当一级分类切换时，重置子分类
@@ -28,19 +27,8 @@ export default function RhymeModule() {
         result = result.filter((r) => r.subCategory === activeSubCategory)
       }
     }
-    if (searchText.trim()) {
-      const q = searchText.trim().toLowerCase()
-      result = result.filter(
-        (r) =>
-          r.title.toLowerCase().includes(q) ||
-          r.category.toLowerCase().includes(q) ||
-          r.source.toLowerCase().includes(q) ||
-          r.content.toLowerCase().includes(q) ||
-          (r.notes && r.notes.toLowerCase().includes(q))
-      )
-    }
     return result
-  }, [activeCategory, activeSubCategory, searchText, currentSubCategories])
+  }, [activeCategory, activeSubCategory, currentSubCategories])
 
   const toggleExpand = useCallback((id) => {
     setExpandedId((prev) => (prev === id ? null : id))
@@ -56,25 +44,6 @@ export default function RhymeModule() {
 
   return (
     <div className="rhyme-container">
-      {/* 搜索栏 */}
-      <div className="module-toolbar">
-        <div className="rhyme-search-bar">
-          <span className="rhyme-search-icon">🔍</span>
-          <input
-            type="text"
-            className="rhyme-search-input"
-            placeholder="搜索歌诀名称、内容…"
-            value={searchText}
-            onChange={(e) => setSearchText(e.target.value)}
-          />
-          {searchText && (
-            <button className="rhyme-search-clear" onClick={() => setSearchText('')} type="button">
-              ✕
-            </button>
-          )}
-        </div>
-      </div>
-
       {/* 分类筛选 — 折叠 */}
       <CollapsibleFilter label="分类" summary={summaryLabel}>
         <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
@@ -145,7 +114,7 @@ export default function RhymeModule() {
                 onClick={() => toggleExpand(rhyme.id)}
               >
                 <div className="rhyme-card-top">
-                  <h3 className="rhyme-card-title"><Highlight text={rhyme.title} query={searchText} /></h3>
+                  <h3 className="rhyme-card-title">{rhyme.title}</h3>
                   <div className="rhyme-card-meta">
                     <span className="rhyme-card-category">{rhyme.category}</span>
                     {rhyme.subCategory && (
