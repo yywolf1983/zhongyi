@@ -3219,6 +3219,10 @@ mark,
   font-size: var(--font-size-sm);
   color: var(--color-text-primary);
 }
+/* 歌诀：分组子标题不吸顶，随内容正常滚动 */
+.rhyme-list .list-group-header {
+  position: static;
+}
 .list-group-label {
   flex: 1;
 }
