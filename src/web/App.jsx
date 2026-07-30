@@ -220,8 +220,8 @@ export default function App() {
       <AppProvider>
         <ScrollToTop />
         <Routes>
-          <Route element={<Layout><RhymeModule /></Layout>} path="/" />
-          <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes" />
+          <Route element={<Layout><SyndromeModule /></Layout>} path="/" />
+          <Route element={<Layout><RhymeModule /></Layout>} path="/syndromes" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes/:syndromeId" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/:acupointId" />

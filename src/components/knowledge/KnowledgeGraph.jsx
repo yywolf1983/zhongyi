@@ -198,7 +198,7 @@ export default function KnowledgeGraph() {
         if (firstSyndrome) {
           navigate(`/syndromes/${firstSyndrome}?treatment=${id}`)
         } else {
-          navigate('/syndromes')
+          navigate('/')
         }
       },
       modern: (id) => navigate(`/modern-mapping`)

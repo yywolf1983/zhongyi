@@ -96,7 +96,7 @@ export default function SyndromeModule() {
     if (window.history.length > 1) {
       navigate(-1)
     } else {
-      navigate('/syndromes')
+      navigate('/')
     }
   }
 

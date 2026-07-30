@@ -28,7 +28,7 @@ export default function HomeModule() {
   }), [])
 
   const domains = [
-    { icon: '☯', title: '辨证论治', desc: '证型 · 治法', count: stats.syndromes, nav: '/syndromes', accent: '#3a6b78' },
+    { icon: '☯', title: '辨证论治', desc: '证型 · 治法', count: stats.syndromes, nav: '/', accent: '#3a6b78' },
     { icon: '📍', title: '经络穴位', desc: '经络 · 腧穴', count: stats.acupoints, nav: '/acupuncture?view=acupoints', accent: '#3f8f7d' },
     { icon: '💉', title: '针方处方', desc: '配穴 · 刺法', count: stats.needles, nav: '/acupuncture?view=prescriptions', accent: '#c0892e' },
     { icon: '📜', title: '方剂中药', desc: '名方 · 药材', count: stats.formulas + stats.medicines, nav: '/formulas', accent: '#9c6b8e' }
