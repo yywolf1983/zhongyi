@@ -11,7 +11,6 @@ import SyndromeModule from '../components/syndrome/SyndromeModule'
 import AcupunctureModule from '../components/acupuncture/AcupunctureModule'
 import FormulaModule from '../components/formula/FormulaModule'
 import SearchModule from '../components/search/SearchModule'
-import KnowledgeGraph from '../components/knowledge/KnowledgeGraph'
 import ModernMapping from '../components/knowledge/ModernMapping'
 import BookmarksModule from '../components/bookmarks/BookmarksModule'
 import RhymeModule from '../components/rhyme/RhymeModule'
@@ -234,8 +233,6 @@ export default function App() {
           <Route element={<Layout><FormulaModule /></Layout>} path="/medicines" />
           <Route element={<Layout><FormulaModule /></Layout>} path="/medicines/:medicineId" />
           <Route element={<Layout><SearchModule /></Layout>} path="/search" />
-          <Route element={<Layout><KnowledgeGraph /></Layout>} path="/knowledge-graph" />
-          <Route element={<Layout><KnowledgeGraph /></Layout>} path="/knowledge-graph/:entityType/:entityId" />
           <Route element={<Layout><ModernMapping /></Layout>} path="/modern-mapping" />
           <Route element={<Layout><BookmarksModule /></Layout>} path="/bookmarks" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="*" />

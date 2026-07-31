@@ -5,7 +5,6 @@ const tabs = [
   { id: 'acupuncture', path: '/acupuncture', label: '针灸', icon: '💉' },
   { id: 'syndromes', path: '/', label: '辨证', icon: '☯' },
   { id: 'home', path: '/syndromes', label: '歌诀', icon: '📖' },
-  { id: 'graph', path: '/knowledge-graph', label: '图谱', icon: '🔗' },
   { id: 'bookmarks', path: '/bookmarks', label: '我的', icon: '👤' }
 ]
 
