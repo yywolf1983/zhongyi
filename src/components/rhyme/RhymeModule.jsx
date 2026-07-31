@@ -1,12 +1,31 @@
 import { useState, useMemo, useCallback } from 'react'
 import { rhymes, CATEGORIES, SUB_CATEGORIES } from '../../data/rhymes.js'
-import CollapsibleFilter from '../common/CollapsibleFilter.jsx'
 import GroupedList from '../common/GroupedList.jsx'
+
+function CatRow({ options, active, onSelect, small }) {
+  return (
+    <div className={`cat-grid ${small ? 'small' : ''}`}>
+      {options.map((opt) => (
+        <button
+          key={opt.value}
+          type="button"
+          className={`cat-chip ${active === opt.value ? 'active' : ''}`}
+          onClick={() => onSelect(opt.value)}
+        >
+          <span className="cat-chip-label">{opt.label}</span>
+          <span className="cat-chip-count">{opt.count}</span>
+        </button>
+      ))}
+    </div>
+  )
+}
 
 export default function RhymeModule() {
   const [activeCategory, setActiveCategory] = useState('all')
   const [activeSubCategory, setActiveSubCategory] = useState('all')
   const [expandedId, setExpandedId] = useState(null)
+  const [categoryOpen, setCategoryOpen] = useState(false)
+  const [subOpen, setSubOpen] = useState(false)
 
   // 当一级分类切换时，重置子分类
   const handleCategoryChange = useCallback((catId) => {
@@ -18,6 +37,28 @@ export default function RhymeModule() {
     () => SUB_CATEGORIES[activeCategory] || null,
     [activeCategory]
   )
+
+  // 一级分类选项 + 数量
+  const categoryOpts = useMemo(() => {
+    const m = {}
+    rhymes.forEach(r => { if (r.category) m[r.category] = (m[r.category] || 0) + 1 })
+    return [
+      { value: 'all', label: '全部', count: rhymes.length },
+      ...CATEGORIES.map(cat => ({ value: cat.id, label: `${cat.icon} ${cat.label}`, count: m[cat.id] || 0 })),
+    ]
+  }, [rhymes])
+
+  // 子分类选项 + 数量（依赖当前大类）
+  const subOpts = useMemo(() => {
+    if (!currentSubCategories) return []
+    const base = activeCategory === 'all' ? rhymes : rhymes.filter(r => r.category === activeCategory)
+    const m = {}
+    base.forEach(r => { if (r.subCategory) m[r.subCategory] = (m[r.subCategory] || 0) + 1 })
+    return [
+      { value: 'all', label: '全部子类', count: base.length },
+      ...currentSubCategories.map(sub => ({ value: sub.id, label: sub.label, count: m[sub.id] || 0 })),
+    ]
+  }, [currentSubCategories, activeCategory, rhymes])
 
   const filtered = useMemo(() => {
     let result = rhymes
@@ -34,56 +75,55 @@ export default function RhymeModule() {
     setExpandedId((prev) => (prev === id ? null : id))
   }, [])
 
-  const summaryLabel = useMemo(() => {
-    if (activeCategory === 'all') return '全部'
-    const cat = CATEGORIES.find((c) => c.id === activeCategory)
-    if (!currentSubCategories || activeSubCategory === 'all') return cat?.label
-    const sub = currentSubCategories.find((s) => s.id === activeSubCategory)
-    return `${cat?.label} · ${sub?.label}`
-  }, [activeCategory, activeSubCategory, currentSubCategories])
-
   return (
     <div className="rhyme-container">
-      {/* 分类筛选 — 折叠 */}
-      <CollapsibleFilter label="分类" summary={summaryLabel}>
-        <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
-          {CATEGORIES.map((cat) => (
-            <button
-              key={cat.id}
-              type="button"
-              className={`tag-filter-btn ${activeCategory === cat.id ? 'active' : ''}`}
-              onClick={() => handleCategoryChange(cat.id)}
-            >
-              {cat.icon} {cat.label}
-            </button>
-          ))}
-        </div>
-      </CollapsibleFilter>
-
-      {/* 子分类筛选 — 仅当选中大类且有子分类时显示 */}
-      {currentSubCategories && (
-        <CollapsibleFilter
-          label="子分类"
-          summary={
-            activeSubCategory === 'all'
-              ? '全部'
-              : currentSubCategories.find((s) => s.id === activeSubCategory)?.label
-          }
+      {/* 一级分类（可折叠，默认收起，选中自动收起） */}
+      <div className="cat-filter">
+        <button
+          type="button"
+          className="cat-filter-toggle"
+          onClick={() => setCategoryOpen(o => !o)}
         >
-          <div className="tag-filter-bar" style={{ marginBottom: 0 }}>
-            {currentSubCategories.map((sub) => (
-              <button
-                key={sub.id}
-                type="button"
-                className={`tag-filter-btn ${activeSubCategory === sub.id ? 'active' : ''}`}
-                onClick={() => setActiveSubCategory(sub.id)}
-              >
-                {sub.label}
-              </button>
-            ))}
-          </div>
-        </CollapsibleFilter>
-      )}
+          <span className="cat-filter-title">分类</span>
+          <span className="cat-filter-summary">
+            {activeCategory === 'all'
+              ? '全部'
+              : CATEGORIES.find((c) => c.id === activeCategory)?.label}
+          </span>
+          <span className={`cat-filter-caret ${categoryOpen ? 'open' : ''}`}>▾</span>
+        </button>
+        {categoryOpen && (
+          <CatRow
+            options={categoryOpts}
+            active={activeCategory}
+            onSelect={(v) => { handleCategoryChange(v); setCategoryOpen(false) }}
+          />
+        )}
+
+        {currentSubCategories && (
+          <button
+            type="button"
+            className="cat-filter-toggle"
+            onClick={() => setSubOpen(o => !o)}
+          >
+            <span className="cat-filter-title">子分类</span>
+            <span className="cat-filter-summary">
+              {activeSubCategory === 'all'
+                ? '全部'
+                : currentSubCategories.find((s) => s.id === activeSubCategory)?.label}
+            </span>
+            <span className={`cat-filter-caret ${subOpen ? 'open' : ''}`}>▾</span>
+          </button>
+        )}
+        {subOpen && currentSubCategories && (
+          <CatRow
+            options={subOpts}
+            active={activeSubCategory}
+            onSelect={(v) => { setActiveSubCategory(v); setSubOpen(false) }}
+            small
+          />
+        )}
+      </div>
 
       {/* 统计 */}
       <div className="rhyme-summary">

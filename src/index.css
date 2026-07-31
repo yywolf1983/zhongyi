@@ -1848,6 +1848,101 @@ mark,
   font-weight: 600;
 }
 
+/* ===== 方剂/中药 分类网格筛选（手机友好，竖向两列）===== */
+.cat-filter { margin-top: var(--space-sm); display: flex; flex-direction: column; gap: 8px; }
+.cat-filter-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  -webkit-appearance: none;
+  transition: border-color var(--transition-fast);
+}
+.cat-filter-toggle:active { border-color: var(--color-primary-light); }
+.cat-filter-title {
+  font-weight: 600;
+  color: var(--color-text-primary);
+  font-size: var(--font-size-sm);
+}
+.cat-filter-summary {
+  flex: 1;
+  min-width: 0;
+  text-align: left;
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.cat-filter-caret {
+  flex: 0 0 auto;
+  color: var(--color-text-hint);
+  transition: transform var(--transition-fast);
+  font-size: var(--font-size-sm);
+}
+.cat-filter-caret.open { transform: rotate(180deg); }
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  padding: 2px 2px 8px;
+}
+.cat-chip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+  width: 100%;
+  min-width: 0;
+  padding: 10px 12px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  cursor: pointer;
+  -webkit-appearance: none;
+  transition: color var(--transition-fast), background var(--transition-fast), border-color var(--transition-fast), transform var(--transition-fast);
+}
+.cat-chip:active { transform: scale(0.97); }
+.cat-chip:hover:not(.active) {
+  border-color: var(--color-primary-light);
+  color: var(--color-primary);
+}
+.cat-chip.active {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-text-on-primary);
+  font-weight: 600;
+}
+.cat-chip-label {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.cat-chip-count {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  line-height: 1.6;
+  padding: 0 6px;
+  border-radius: var(--radius-full);
+  background: var(--color-filter-inactive);
+  color: var(--color-text-hint);
+}
+.cat-chip.active .cat-chip-count {
+  background: rgba(255, 255, 255, 0.22);
+  color: #fff;
+}
+.cat-grid.small { gap: 6px; }
+.cat-grid.small .cat-chip { padding: 7px 10px; font-size: var(--font-size-xs); }
+
 /* ===== Knowledge Graph Category Filter ===== */
 .graph-category-bar {
   display: flex;
