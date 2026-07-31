@@ -8,7 +8,7 @@
     "name": "风寒感冒针方",
     "pinyin": "feng han gan mao zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "风寒感冒",
     "syndrome": "风寒感冒、太阳伤寒、咳嗽·风寒袭肺、头痛·风寒头痛、手太阴肺经病证、足太阳膀胱经病证",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -72,7 +72,7 @@
     "name": "风热感冒针方",
     "pinyin": "feng re gan mao zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "风热感冒",
     "syndrome": "风热感冒、咳嗽·痰热壅肺、卫分证、营分证、上焦湿热、手阳明大肠经病证、暑湿感冒",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -137,7 +137,7 @@
     "name": "脾胃虚弱针方",
     "pinyin": "pi wei xu ruo zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "脾胃虚弱",
     "syndrome": "脾胃虚弱、痞证、痿证、中焦湿热、下焦湿热、气虚证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -202,7 +202,7 @@
     "name": "肝郁气滞针方",
     "pinyin": "gan yu qi zhi zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "肝郁气滞",
     "syndrome": "肝郁气滞、郁证·肝气郁结、气滞证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -265,7 +265,7 @@
     "name": "肾阳虚针方",
     "pinyin": "shen yang xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "肾阳虚",
     "syndrome": "肾阳虚、水肿·风水、腰痛·寒湿腰痛、足太阳膀胱经病证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -328,7 +328,7 @@
     "name": "肺阴虚针方",
     "pinyin": "fei yin xu zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "肺阴虚",
     "syndrome": "肺阴虚、手太阴肺经病证、肺气虚",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -384,7 +384,7 @@
     "name": "痰湿内阻针方",
     "pinyin": "tan shi nei zu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "痰湿内阻",
     "syndrome": "痰湿内阻、喘证·实喘、哮病·冷哮、上焦湿热",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -446,7 +446,7 @@
     "name": "气滞血瘀针方",
     "pinyin": "qi zhi xue yu zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "气滞血瘀",
     "syndrome": "气滞血瘀、痹证·行痹、痹证·痛痹、血瘀证、跌打损伤",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -510,7 +510,7 @@
     "name": "阴虚火旺针方",
     "pinyin": "yin xu huo wang zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "阴虚火旺",
     "syndrome": "阴虚火旺、少阴热化、消渴·上消、肾阴虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -572,7 +572,7 @@
     "name": "血虚针方",
     "pinyin": "xue xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "血虚",
     "syndrome": "血虚、不寐·心脾两虚、肝血虚、气虚血弱",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -634,7 +634,7 @@
     "name": "湿热下注针方",
     "pinyin": "shi re xia zhu zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "湿热下注",
     "syndrome": "湿热下注、黄疸·阳黄、淋证·热淋、中焦湿热、下焦湿热",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -697,7 +697,7 @@
     "name": "肝阳上亢针方",
     "pinyin": "gan yang shang kang zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "肝阳上亢",
     "syndrome": "肝阳上亢、眩晕·痰浊中阻、头痛·肝阳头痛、血分证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -759,7 +759,7 @@
     "name": "心火亢盛针方",
     "pinyin": "xin huo kang sheng zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "心火亢盛",
     "syndrome": "心火亢盛",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -818,7 +818,7 @@
     "name": "食积停滞针方",
     "pinyin": "shi ji ting zhi zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "食积停滞",
     "syndrome": "食积停滞、胃痛·饮食停滞",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -878,7 +878,7 @@
     "name": "气虚血瘀针方",
     "pinyin": "qi xu xue yu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "气虚血瘀",
     "syndrome": "气虚血瘀、中风·中经络、气虚证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -939,7 +939,7 @@
     "name": "少阳病针方",
     "pinyin": "shao yang bing zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "少阳病",
     "syndrome": "太阳中风、少阳病",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -999,7 +999,7 @@
     "name": "太阴病针方",
     "pinyin": "tai yin bing zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "太阴病",
     "syndrome": "太阴病、厥阴病、呕吐·寒邪犯胃、泄泻·寒湿困脾",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1061,7 +1061,7 @@
     "name": "少阴病针方",
     "pinyin": "shao yin bing zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "少阴寒化",
     "syndrome": "少阴寒化、心阳虚、少阴病",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1122,7 +1122,7 @@
     "name": "阳明病针方",
     "pinyin": "yang ming bing zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "阳明热证",
     "syndrome": "阳明经证、阳明腑实、结胸证、便秘·热秘、气分证、营分证、血分证、足阳明胃经病证、暑湿感冒、阳明病",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1190,7 +1190,7 @@
     "name": "胸痹针方",
     "pinyin": "xiong bi zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "胸痹",
     "syndrome": "胸痹、心悸·水饮凌心、心阳虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1250,7 +1250,7 @@
     "name": "外感发热针方（甲乙经）",
     "pinyin": "wai gan fa re zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "外感发热",
     "syndrome": "风寒感冒、风热感冒",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；外感发热取大椎、风池、合谷、曲池，与《针灸甲乙经》热病的\"五十九刺\"思路相符，归属合理。', 'issues': []}",
     "acupoints": [
@@ -1310,7 +1310,7 @@
     "name": "咳嗽针方（甲乙经）",
     "pinyin": "ke sou zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "咳嗽",
     "syndrome": "肺阴虚、痰湿内阻、咳嗽·风寒袭肺",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1371,7 +1371,7 @@
     "name": "胃痛针方（甲乙经）",
     "pinyin": "wei tong zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "胃脘痛",
     "syndrome": "脾胃虚弱、食积停滞、胃痛·饮食停滞",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1432,7 +1432,7 @@
     "name": "头痛针方（甲乙经）",
     "pinyin": "tou tong zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "头痛",
     "syndrome": "肝阳上亢、头痛·风寒头痛、头痛·肝阳头痛",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1494,7 +1494,7 @@
     "name": "面瘫针方（甲乙经）",
     "pinyin": "mian tan zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "口眼歪斜",
     "syndrome": "中风·中经络",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1553,7 +1553,7 @@
     "name": "腰痛针方（甲乙经）",
     "pinyin": "yao tong zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "腰痛",
     "syndrome": "肾阳虚、腰痛·寒湿腰痛",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1614,7 +1614,7 @@
     "name": "痹证针方（甲乙经）",
     "pinyin": "bi zheng zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "关节疼痛",
     "syndrome": "痹证·行痹、痹证·痛痹、痿证、风寒湿痹",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1677,7 +1677,7 @@
     "name": "心悸怔忡针方（甲乙经）",
     "pinyin": "xin ji zheng chong zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "心悸",
     "syndrome": "肝郁气滞、胸痹、心悸·水饮凌心",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1739,7 +1739,7 @@
     "name": "泄泻痢疾针方（甲乙经）",
     "pinyin": "xie xie li ji zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "泄泻",
     "syndrome": "脾胃虚弱、太阴病、泄泻·寒湿困脾",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1801,7 +1801,7 @@
     "name": "黄疸针方（甲乙经）",
     "pinyin": "huang dan zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "黄疸",
     "syndrome": "肝郁气滞、湿热下注、黄疸·阳黄",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1863,7 +1863,7 @@
     "name": "中风七穴针方（针灸大成）",
     "pinyin": "zhong feng qi xue zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "中风",
     "syndrome": "气虚血瘀、中风·中经络",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1934,7 +1934,7 @@
     "name": "不寐安神针方（针灸大成）",
     "pinyin": "bu mei an shen zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "失眠",
     "syndrome": "阴虚火旺、心火亢盛、少阴热化、不寐·心脾两虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -1997,7 +1997,7 @@
     "name": "眩晕平肝针方（针灸大成）",
     "pinyin": "xuan yun ping gan zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "眩晕",
     "syndrome": "肝阳上亢、眩晕·痰浊中阻、头痛·肝阳头痛",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2064,7 +2064,7 @@
     "name": "呕吐降逆针方（针灸大成）",
     "pinyin": "ou tu jiang ni zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "呕吐",
     "syndrome": "脾胃虚弱、食积停滞、呕吐·寒邪犯胃",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；呕吐取内关、中脘、足三里、胃俞，与《针灸大成》呕吐门取穴相符，归属合理。', 'issues': []}",
     "acupoints": [
@@ -2127,7 +2127,7 @@
     "name": "胁痛理气针方（针灸大成）",
     "pinyin": "xie tong li qi zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "胁痛",
     "syndrome": "肝郁气滞、少阳病、郁证·肝气郁结",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2189,7 +2189,7 @@
     "name": "水肿利水针方（针灸大成）",
     "pinyin": "shui zhong li shui zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "水肿",
     "syndrome": "肾阳虚、水肿·风水、心悸·水饮凌心、脾肾阳虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2252,7 +2252,7 @@
     "name": "疝气止痛针方（针灸大成）",
     "pinyin": "shan qi zhi tong zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "疝气疼痛",
     "syndrome": "肾阳虚、气滞血瘀",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2313,7 +2313,7 @@
     "name": "痢疾调中针方（针灸大成）",
     "pinyin": "li ji diao zhong zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "痢疾",
     "syndrome": "湿热下注、阳明经证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2373,7 +2373,7 @@
     "name": "五更泄针方（针灸大成）",
     "pinyin": "wu geng xie zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "五更泄",
     "syndrome": "肾阳虚、太阴病、少阴寒化",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2434,7 +2434,7 @@
     "name": "耳聋耳鸣针方",
     "pinyin": "er long er ming zhen fang",
     "source": "《针灸甲乙经》《针灸大成》",
-    "subcategory": "",
+    "subcategory": "耳鸣",
     "syndrome": "阴虚火旺、肝阳上亢、眩晕·痰浊中阻",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2496,7 +2496,7 @@
     "name": "目赤肿痛针方",
     "pinyin": "mu chi zhong tong zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "目赤肿痛",
     "syndrome": "风热感冒、肝郁气滞、肝阳上亢",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2558,7 +2558,7 @@
     "name": "喉痹咽痛针方",
     "pinyin": "hou bi yan tong zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "咽喉肿痛",
     "syndrome": "风热感冒、肺阴虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2619,7 +2619,7 @@
     "name": "癃闭通利针方",
     "pinyin": "long bi tong li zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "小便不通",
     "syndrome": "肾阳虚、湿热下注、淋证·热淋",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2681,7 +2681,7 @@
     "name": "遗尿固摄针方",
     "pinyin": "yi niao gu she zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "遗尿",
     "syndrome": "肾阳虚、痿证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；遗尿取关元、肾俞、三阴交、神门（灸/补），与《针灸大成》遗尿取穴相符，归属合理。', 'issues': []}",
     "acupoints": [
@@ -2741,7 +2741,7 @@
     "name": "月经不调针方",
     "pinyin": "yue jing bu diao zhen fang",
     "source": "《针灸甲乙经》《针灸大成》",
-    "subcategory": "",
+    "subcategory": "月经不调",
     "syndrome": "肝郁气滞、气滞血瘀、血虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2803,7 +2803,7 @@
     "name": "带下病针方",
     "pinyin": "dai xia bing zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "带下过多",
     "syndrome": "脾胃虚弱、湿热下注",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2864,7 +2864,7 @@
     "name": "小儿惊风针方",
     "pinyin": "xiao er jing feng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "小儿惊风",
     "syndrome": "风热感冒、阳明经证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -2924,7 +2924,7 @@
     "name": "瘰疬散结针方",
     "pinyin": "luo li san jie zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "瘰疬",
     "syndrome": "痰湿内阻",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '百劳：特殊穴/别名/透穴（主穴位库 acupoints.json 未单收，属合法针灸概念）', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。；百劳：特殊穴/别名/透穴（主穴位库 acupoints.json 未单收，属合法针灸概念）', 'issues': []}",
     "acupoints": [
@@ -2983,7 +2983,7 @@
     "name": "痫证定痫针方",
     "pinyin": "xian zheng ding xian zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "痫证",
     "syndrome": "痰湿内阻、肝阳上亢、眩晕·痰浊中阻",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3044,7 +3044,7 @@
     "name": "郁证解郁针方",
     "pinyin": "yu zheng jie yu zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "郁证",
     "syndrome": "肝郁气滞、郁证·肝气郁结",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3105,7 +3105,7 @@
     "name": "哮病平喘针方",
     "pinyin": "xiao bing ping chuan zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "哮病",
     "syndrome": "痰湿内阻、喘证·实喘、哮病·冷哮",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -3166,7 +3166,7 @@
     "name": "消渴降糖针方",
     "pinyin": "xiao ke jiang tang zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "消渴",
     "syndrome": "阴虚火旺、消渴·上消、消渴·中消",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3227,7 +3227,7 @@
     "name": "肩痹通络针方",
     "pinyin": "jian bi tong luo zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "肩关节疼痛",
     "syndrome": "痹证·行痹、痹证·痛痹",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3287,7 +3287,7 @@
     "name": "汗证敛汗针方",
     "pinyin": "han zheng lian han zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "自汗",
     "syndrome": "阴虚火旺、气虚血瘀、消渴·上消",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -3348,7 +3348,7 @@
     "name": "痿证强壮针方",
     "pinyin": "wei zheng qiang zhuang zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "肢体萎软",
     "syndrome": "脾胃虚弱、肾阳虚、痿证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3410,7 +3410,7 @@
     "name": "积聚消癥针方",
     "pinyin": "ji ju xiao zheng zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "腹部肿块",
     "syndrome": "气滞血瘀、气虚血瘀",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3471,7 +3471,7 @@
     "name": "鼻渊通窍针方",
     "pinyin": "bi yuan tong qiao zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "鼻塞",
     "syndrome": "风寒感冒、风热感冒",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3531,7 +3531,7 @@
     "name": "遗精固肾针方",
     "pinyin": "yi jing gu shen zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "遗精",
     "syndrome": "肾阳虚、阴虚火旺",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3591,7 +3591,7 @@
     "name": "疟疾截疟针方",
     "pinyin": "nve ji jie nve zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "疟疾",
     "syndrome": "少阳病",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3649,7 +3649,7 @@
     "name": "狂证安神针方",
     "pinyin": "kuang zheng an shen zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "狂证",
     "syndrome": "心火亢盛、阳明经证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -3709,7 +3709,7 @@
     "name": "胆囊炎针方",
     "pinyin": "dan nang yan zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "胆囊炎",
     "syndrome": "少阳病、结胸证、肝胆湿热",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -3778,7 +3778,7 @@
     "name": "胆结石排石针方",
     "pinyin": "dan jie shi pai shi zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "胆结石",
     "syndrome": "黄疸·阳黄、肝胆湿热、胆石阻滞",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -3845,7 +3845,7 @@
     "name": "高血压平肝针方",
     "pinyin": "gao xue ya ping gan zhen fang",
     "source": "《针灸大成》加减",
-    "subcategory": "",
+    "subcategory": "高血压",
     "syndrome": "肝阳上亢、眩晕·痰浊中阻、头痛·肝阳头痛",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '《针灸大成》加减', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '由经典方加减的现代经验方，非原典原貌；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -3912,7 +3912,7 @@
     "name": "糖尿病调理针方",
     "pinyin": "tang niao bing tiao li zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "消渴",
     "syndrome": "阴虚火旺、消渴·上消、气阴两虚",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -3979,7 +3979,7 @@
     "name": "冠心病通痹针方",
     "pinyin": "guan xin bing tong bi zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "胸痹",
     "syndrome": "气滞血瘀、胸痹、胃热炽盛、痰瘀互结",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4048,7 +4048,7 @@
     "name": "慢性胃炎调中针方",
     "pinyin": "man xing wei yan diao zhong zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "胃痛",
     "syndrome": "脾胃虚弱、胃热炽盛、肝胃不和、肝火犯胃",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4117,7 +4117,7 @@
     "name": "哮喘定喘针方",
     "pinyin": "xiao chuan ding chuan zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "哮病",
     "syndrome": "痰湿内阻、喘证·实喘、哮病·冷哮",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4185,7 +4185,7 @@
     "name": "类风湿关节炎针方",
     "pinyin": "lei feng shi guan jie yan zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "痹证",
     "syndrome": "痹证·行痹、痹证·痛痹、风湿热痹",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4252,7 +4252,7 @@
     "name": "痛风清利针方",
     "pinyin": "tong feng qing li zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "痛风",
     "syndrome": "湿热下注、风湿热痹",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4316,7 +4316,7 @@
     "name": "偏头痛针方",
     "pinyin": "pian tou tong zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "偏头痛",
     "syndrome": "肝郁气滞、肝阳上亢、头痛·肝阳头痛",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4383,7 +4383,7 @@
     "name": "失眠安神针方",
     "pinyin": "shi mian an shen zhen fang",
     "source": "《针灸大成》加减",
-    "subcategory": "",
+    "subcategory": "不寐",
     "syndrome": "阴虚火旺、不寐·心脾两虚、湿热蕴肤、心脾两虚",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '《针灸大成》加减', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '由经典方加减的现代经验方，非原典原貌；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4452,7 +4452,7 @@
     "name": "便秘通腑针方",
     "pinyin": "bian mi tong fu zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "便秘",
     "syndrome": "脾胃虚弱、便秘·热秘",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4519,7 +4519,7 @@
     "name": "颈椎病通络针方",
     "pinyin": "jing chui bing tong luo zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "颈项僵痛",
     "syndrome": "痹证·痛痹、足太阳膀胱经病证、肝火犯胃、瘀血阻络",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4588,7 +4588,7 @@
     "name": "腰椎间盘突出针方",
     "pinyin": "yao zhui jian pan tu chu zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "腰痛连及下肢",
     "syndrome": "肾阳虚、腰痛·寒湿腰痛、肝火犯胃",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4656,7 +4656,7 @@
     "name": "前列腺炎通淋针方",
     "pinyin": "qian lie xian yan tong lin zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "淋证",
     "syndrome": "湿热下注、淋证·热淋、下焦湿热",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4723,7 +4723,7 @@
     "name": "过敏性鼻炎针方",
     "pinyin": "guo min xing bi yan zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "鼻鼽",
     "syndrome": "风寒感冒、太阳中风、肺气虚",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4790,7 +4790,7 @@
     "name": "面瘫恢复期针方",
     "pinyin": "mian tan hui fu qi zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "面瘫恢复期",
     "syndrome": "中风·中经络、痿证",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4856,7 +4856,7 @@
     "name": "带状疱疹清肝针方",
     "pinyin": "dai zhuang pao zhen qing gan zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "蛇串疮",
     "syndrome": "风热感冒、肝郁气滞、脾肾阳虚、肝经郁热",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4923,7 +4923,7 @@
     "name": "湿疹清热利湿针方",
     "pinyin": "shi zhen qing re li shi zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "湿疹",
     "syndrome": "湿热下注、肝火犯胃、湿热蕴肤、痰瘀互结、风邪犯表",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -4993,7 +4993,7 @@
     "name": "痤疮清肺针方",
     "pinyin": "cuo chuang qing fei zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "痤疮",
     "syndrome": "风热感冒、脾肾阳虚、肺经风热",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -5060,7 +5060,7 @@
     "name": "痔疮消肿针方",
     "pinyin": "zhi chuang xiao zhong zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "痔疮肿痛",
     "syndrome": "湿热下注、下焦湿热、痰瘀互结、湿热痔疾",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -5128,7 +5128,7 @@
     "name": "甲亢滋阴针方",
     "pinyin": "jia kang zi yin zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "瘿病",
     "syndrome": "阴虚火旺、肝阳上亢、肾阴虚",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -5194,7 +5194,7 @@
     "name": "慢性肾炎调理针方",
     "pinyin": "man xing shen yan tiao li zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "水肿",
     "syndrome": "肾阳虚、水肿·风水、气阴两虚",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -5261,7 +5261,7 @@
     "name": "子宫肌瘤消癥针方",
     "pinyin": "zi gong ji liu xiao zheng zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "癥瘕",
     "syndrome": "气滞血瘀、气虚血瘀",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -5327,7 +5327,7 @@
     "name": "膝关节炎通痹针方",
     "pinyin": "xi guan jie yan tong bi zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "膝部疼痛",
     "syndrome": "痹证·痛痹、风湿热痹、肝火犯胃",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -5394,7 +5394,7 @@
     "name": "崩漏针方（甲乙经）",
     "pinyin": "beng lou zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "崩漏不止",
     "syndrome": "湿热蕴肤、中气下陷",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5459,7 +5459,7 @@
     "name": "闭经针方（甲乙经）",
     "pinyin": "bi jing zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "闭经不行",
     "syndrome": "气滞血瘀、湿热蕴肤",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5524,7 +5524,7 @@
     "name": "不孕针方（甲乙经）",
     "pinyin": "bu yun zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "婚后不孕",
     "syndrome": "湿热蕴肤、脾气虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5589,7 +5589,7 @@
     "name": "痰饮针方（甲乙经）",
     "pinyin": "tan yin zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "痰饮内停",
     "syndrome": "痰湿阻肺、胃阴虚、痰饮",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5657,7 +5657,7 @@
     "name": "脚气针方（甲乙经）",
     "pinyin": "jiao qi zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "脚气肿痛",
     "syndrome": "痰湿内阻、湿热下注",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5722,7 +5722,7 @@
     "name": "脊背强痛针方（甲乙经）",
     "pinyin": "ji bei qiang tong zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "脊背强痛",
     "syndrome": "气滞血瘀、肺经风热",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5787,7 +5787,7 @@
     "name": "热病针方（甲乙经）",
     "pinyin": "re bing zhen fang （ jia yi jing ）",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "高热不退",
     "syndrome": "风热感冒、肝肾阴虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5852,7 +5852,7 @@
     "name": "崩漏固冲针方（针灸大成）",
     "pinyin": "beng lou gu chong zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "崩漏不止",
     "syndrome": "湿热蕴肤、中气下陷",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5917,7 +5917,7 @@
     "name": "产后缺乳针方（针灸大成）",
     "pinyin": "chan hou que ru zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "产后缺乳",
     "syndrome": "心脾两虚、脾阳虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -5982,7 +5982,7 @@
     "name": "乳痈针方（针灸大成）",
     "pinyin": "ru yong zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "乳房红肿热痛",
     "syndrome": "肝郁气滞、湿热痔疾",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6047,7 +6047,7 @@
     "name": "牙痛针方（针灸大成）",
     "pinyin": "ya tong zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "牙痛剧烈",
     "syndrome": "阴虚火旺、湿热痔疾",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6112,7 +6112,7 @@
     "name": "喉痈针方（针灸大成）",
     "pinyin": "hou yong zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "咽喉肿痛",
     "syndrome": "风热感冒、风热犯肺",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6177,7 +6177,7 @@
     "name": "奔豚针方（针灸大成）",
     "pinyin": "ben tun zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "气从少腹上冲胸咽",
     "syndrome": "肝郁气滞、肝胆湿热",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6242,7 +6242,7 @@
     "name": "鼓胀针方（针灸大成）",
     "pinyin": "gu zhang zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "腹胀如鼓",
     "syndrome": "痰湿内阻、呕吐·寒邪犯胃",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6307,7 +6307,7 @@
     "name": "痞满针方（针灸大成）",
     "pinyin": "pi man zhen fang （ zhen jiu da cheng ）",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "胃脘痞塞",
     "syndrome": "肝肾阴虚、寒滞肝脉",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6372,7 +6372,7 @@
     "name": "肝风内动针方",
     "pinyin": "gan feng nei dong zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "肝风内动",
     "syndrome": "肝阳上亢、肝风内动",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6439,7 +6439,7 @@
     "name": "肝火上炎针方",
     "pinyin": "gan huo shang yan zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "肝火上炎",
     "syndrome": "头痛·肝阳头痛、肝火上炎",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6506,7 +6506,7 @@
     "name": "心肾不交针方",
     "pinyin": "xin shen bu jiao zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "心肾不交",
     "syndrome": "阴虚火旺、心肾不交",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6573,7 +6573,7 @@
     "name": "肝肾阴虚针方",
     "pinyin": "gan shen yin xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "肝肾阴虚",
     "syndrome": "肺阴虚、肝肾阴虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6640,7 +6640,7 @@
     "name": "脾气虚针方",
     "pinyin": "pi qi xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "脾气虚弱",
     "syndrome": "脾胃虚弱、脾气虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6707,7 +6707,7 @@
     "name": "脾阳虚针方",
     "pinyin": "pi yang xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "脾阳虚衰",
     "syndrome": "太阴病、脾阳虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6774,7 +6774,7 @@
     "name": "中气下陷针方",
     "pinyin": "zhong qi xia xian zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "中气下陷",
     "syndrome": "气虚证、中气下陷",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6841,7 +6841,7 @@
     "name": "脾不统血针方",
     "pinyin": "pi bu tong xue zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "脾不统血",
     "syndrome": "脾气虚、脾不统血",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6908,7 +6908,7 @@
     "name": "痰蒙心窍针方",
     "pinyin": "tan meng xin qiao zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "痰蒙心窍",
     "syndrome": "痰湿内阻、痰蒙心窍",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -6975,7 +6975,7 @@
     "name": "心虚胆怯针方",
     "pinyin": "xin xu dan qie zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "心虚胆怯",
     "syndrome": "心虚胆怯、心气虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7042,7 +7042,7 @@
     "name": "肾精不足针方",
     "pinyin": "shen jing bu zu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "肾精不足",
     "syndrome": "肾阳虚、肾精不足",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7109,7 +7109,7 @@
     "name": "肾气不固针方",
     "pinyin": "shen qi bu gu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "肾气不固",
     "syndrome": "肾阳虚、肾气不固",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7176,7 +7176,7 @@
     "name": "肺肾阴虚针方",
     "pinyin": "fei shen yin xu zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "肺肾阴虚",
     "syndrome": "肺阴虚、肺肾阴虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7243,7 +7243,7 @@
     "name": "肝脾不和针方",
     "pinyin": "gan pi bu he zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "肝脾不和",
     "syndrome": "肝郁气滞、肝脾不和",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7310,7 +7310,7 @@
     "name": "寒滞肝脉针方",
     "pinyin": "han zhi gan mai zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "寒滞肝脉",
     "syndrome": "少阴寒化、寒滞肝脉",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7377,7 +7377,7 @@
     "name": "燥邪伤肺针方",
     "pinyin": "zao xie shang fei zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "燥邪伤肺",
     "syndrome": "咳嗽·风寒袭肺、燥邪伤肺",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7444,7 +7444,7 @@
     "name": "痰湿阻肺针方",
     "pinyin": "tan shi zu fei zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "痰湿阻肺",
     "syndrome": "痰湿内阻、痰湿阻肺",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7511,7 +7511,7 @@
     "name": "胃阴虚针方",
     "pinyin": "wei yin xu zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "胃阴不足",
     "syndrome": "脾胃虚弱、胃阴虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7578,7 +7578,7 @@
     "name": "心气虚针方",
     "pinyin": "xin qi xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "心气不足",
     "syndrome": "心阳虚、心气虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7645,7 +7645,7 @@
     "name": "气陷证针方",
     "pinyin": "qi xian zheng zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "气虚下陷",
     "syndrome": "中气下陷、气陷证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7712,7 +7712,7 @@
     "name": "暑热证针方",
     "pinyin": "shu re zheng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "暑热内盛",
     "syndrome": "阳明经证、暑热证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7779,7 +7779,7 @@
     "name": "气血两虚针方",
     "pinyin": "qi xue liang xu zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "气血两虛",
     "syndrome": "血虚、气血两虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7846,7 +7846,7 @@
     "name": "暑湿证针方",
     "pinyin": "shu shi zheng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "暑湿内蕴",
     "syndrome": "暑湿感冒、暑湿证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7913,7 +7913,7 @@
     "name": "膀胱湿热针方",
     "pinyin": "pang guang shi re zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "膀胱湿热",
     "syndrome": "湿热下注、膀胱湿热",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -7980,7 +7980,7 @@
     "name": "风热犯肺针方",
     "pinyin": "feng re fan fei zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "风热犯肺",
     "syndrome": "风热感冒、风热犯肺",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8047,7 +8047,7 @@
     "name": "肝阴虚针方",
     "pinyin": "gan yin xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "肝阴不足",
     "syndrome": "肝肾阴虚、肝阴虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8114,7 +8114,7 @@
     "name": "血热妄行针方",
     "pinyin": "xue re wang xing zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "血热妄行",
     "syndrome": "心火亢盛、血热妄行",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8181,7 +8181,7 @@
     "name": "津液亏虚针方",
     "pinyin": "jin ye kui xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "津液亏虚",
     "syndrome": "阴虚火旺、津液亏虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8248,7 +8248,7 @@
     "name": "风痰阻络针方",
     "pinyin": "feng tan zu luo zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "风痰阻络",
     "syndrome": "中风·中经络、风痰阻络",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8315,7 +8315,7 @@
     "name": "大肠湿热针方",
     "pinyin": "da chang shi re zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "大肠湿热",
     "syndrome": "湿热下注、大肠湿热",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8382,7 +8382,7 @@
     "name": "痰火扰心针方",
     "pinyin": "tan huo rao xin zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "痰火扰心",
     "syndrome": "痰蒙心窍、痰火扰心",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8449,7 +8449,7 @@
     "name": "中风急救针方",
     "pinyin": "zhong feng ji jiu zhen fang",
     "source": "《神应经》",
-    "subcategory": "",
+    "subcategory": "中风闭证",
     "syndrome": "中风·中经络、肝风内动",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《神应经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《神应经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8515,7 +8515,7 @@
     "name": "暑厥救逆针方",
     "pinyin": "shu jue jiu ni zhen fang",
     "source": "《神应经》",
-    "subcategory": "",
+    "subcategory": "暑厥",
     "syndrome": "少阴寒化、暑热证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《神应经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《神应经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8582,7 +8582,7 @@
     "name": "目赤肿痛针方（神应经）",
     "pinyin": "mu chi zhong tong zhen fang （ shen ying jing ）",
     "source": "《神应经》",
-    "subcategory": "",
+    "subcategory": "目赤肿痛",
     "syndrome": "风热感冒、肝火上炎",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《神应经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《神应经》），书名真实；目赤肿痛取睛明、太阳、合谷、太冲、风池，与《神应经》眼疾取穴思路相符，归属合理。', 'issues': []}",
     "acupoints": [
@@ -8648,7 +8648,7 @@
     "name": "中风脱证救逆针方",
     "pinyin": "zhong feng tuo zheng jiu ni zhen fang",
     "source": "《扁鹊心书》",
-    "subcategory": "",
+    "subcategory": "中风脱证",
     "syndrome": "肾阳虚、中风·中经络",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《扁鹊心书》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《扁鹊心书》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8709,7 +8709,7 @@
     "name": "虚劳保健灸方",
     "pinyin": "xu lao bao jian jiu fang",
     "source": "《扁鹊心书》",
-    "subcategory": "",
+    "subcategory": "虚劳",
     "syndrome": "气虚证、气血两虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《扁鹊心书》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《扁鹊心书》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8771,7 +8771,7 @@
     "name": "寒凝腹痛灸方",
     "pinyin": "han ning fu tong jiu fang",
     "source": "《扁鹊心书》",
-    "subcategory": "",
+    "subcategory": "寒凝腹痛",
     "syndrome": "太阴病、脾阳虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《扁鹊心书》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《扁鹊心书》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8833,7 +8833,7 @@
     "name": "疝气针方",
     "pinyin": "shan qi zhen fang",
     "source": "《类经图翼》",
-    "subcategory": "",
+    "subcategory": "疝气",
     "syndrome": "气滞血瘀、寒滞肝脉",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《类经图翼》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《类经图翼》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8899,7 +8899,7 @@
     "name": "胸痹通阳针方",
     "pinyin": "xiong bi tong yang zhen fang",
     "source": "《类经图翼》",
-    "subcategory": "",
+    "subcategory": "胸痹心痛",
     "syndrome": "胸痹、心阳虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《类经图翼》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《类经图翼》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -8965,7 +8965,7 @@
     "name": "脚气冲心急救针方",
     "pinyin": "jiao qi chong xin ji jiu zhen fang",
     "source": "《类经图翼》",
-    "subcategory": "",
+    "subcategory": "脚气冲心",
     "syndrome": "肾阳虚、心悸·水饮凌心",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《类经图翼》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《类经图翼》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9026,7 +9026,7 @@
     "name": "鼻渊通窍针方（针灸聚英）",
     "pinyin": "bi yuan tong qiao zhen fang （ zhen jiu ju ying ）",
     "source": "《针灸聚英》",
-    "subcategory": "",
+    "subcategory": "鼻渊",
     "syndrome": "肺经风热、燥邪伤肺",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸聚英》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸聚英》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9092,7 +9092,7 @@
     "name": "癫证安神针方",
     "pinyin": "dian zheng an shen zhen fang",
     "source": "《针灸聚英》",
-    "subcategory": "",
+    "subcategory": "癫证",
     "syndrome": "郁证·肝气郁结、痰蒙心窍",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸聚英》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸聚英》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9158,7 +9158,7 @@
     "name": "癃闭通利针方（针灸聚英）",
     "pinyin": "long bi tong li zhen fang （ zhen jiu ju ying ）",
     "source": "《针灸聚英》",
-    "subcategory": "",
+    "subcategory": "癃闭",
     "syndrome": "淋证·热淋、膀胱湿热",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸聚英》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸聚英》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9224,7 +9224,7 @@
     "name": "清晨升阳保健针方",
     "pinyin": "qing chen sheng yang bao jian zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "清晨困倦",
     "syndrome": "肾阳虚、气虚证",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -9283,7 +9283,7 @@
     "name": "考前安神定志针方",
     "pinyin": "kao qian an shen ding zhi zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "考前紧张",
     "syndrome": "心虚胆怯、肾精不足",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -9342,7 +9342,7 @@
     "name": "久坐腰痛舒缓针方",
     "pinyin": "jiu zuo yao tong shu huan zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "久坐腰痛",
     "syndrome": "肾阳虚、腰痛·寒湿腰痛",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -9401,7 +9401,7 @@
     "name": "畏寒怕冷温阳针方",
     "pinyin": "wei han pa leng wen yang zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "畏寒怕冷",
     "syndrome": "肾阳虚、脾阳虚",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -9460,7 +9460,7 @@
     "name": "太阳伤寒针方",
     "pinyin": "tai yang shang han zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "太阳伤寒",
     "syndrome": "风寒感冒、太阳伤寒",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；太阳伤寒取风池、列缺、风门、合谷、大椎，与《针灸甲乙经》伤寒取穴相符，归属合理。', 'issues': []}",
     "acupoints": [
@@ -9525,7 +9525,7 @@
     "name": "痞证消痞针方",
     "pinyin": "pi zheng xiao pi zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "痞证",
     "syndrome": "脾胃虚弱、痞证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9590,7 +9590,7 @@
     "name": "痰热壅肺针方",
     "pinyin": "tan re yong fei zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "痰热壅肺",
     "syndrome": "风热感冒、咳嗽·痰热壅肺",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9655,7 +9655,7 @@
     "name": "卫分证针方",
     "pinyin": "wei fen zheng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "卫分证",
     "syndrome": "风热感冒、卫分证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9715,7 +9715,7 @@
     "name": "气分证针方",
     "pinyin": "qi fen zheng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "气分热盛",
     "syndrome": "阳明经证、气分证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9780,7 +9780,7 @@
     "name": "营分证针方",
     "pinyin": "ying fen zheng zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "营分证",
     "syndrome": "阴虚火旺、营分证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9846,7 +9846,7 @@
     "name": "血分证针方",
     "pinyin": "xue fen zheng zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "血分证",
     "syndrome": "血分证、血热妄行",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9912,7 +9912,7 @@
     "name": "上焦湿热针方",
     "pinyin": "shang jiao shi re zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "上焦湿热",
     "syndrome": "卫分证、上焦湿热",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -9977,7 +9977,7 @@
     "name": "中焦湿热针方",
     "pinyin": "zhong jiao shi re zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "中焦湿热",
     "syndrome": "湿热下注、中焦湿热",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10042,7 +10042,7 @@
     "name": "气滞证针方",
     "pinyin": "qi zhi zheng zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "气滞证",
     "syndrome": "肝郁气滞、气滞证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10107,7 +10107,7 @@
     "name": "血瘀证针方",
     "pinyin": "xue yu zheng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "血瘀证",
     "syndrome": "气滞血瘀、血瘀证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10173,7 +10173,7 @@
     "name": "手太阴肺经病证针方",
     "pinyin": "shou tai yin fei jing bing zheng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "手太阴肺经病证",
     "syndrome": "咳嗽·风寒袭肺、手太阴肺经病证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10239,7 +10239,7 @@
     "name": "手阳明大肠经病证针方",
     "pinyin": "shou yang ming da chang jing bing zheng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "手阳明大肠经病证",
     "syndrome": "便秘·热秘、手阳明大肠经病证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10305,7 +10305,7 @@
     "name": "足阳明胃经病证针方",
     "pinyin": "zu yang ming wei jing bing zheng zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "足阳明胃经病证",
     "syndrome": "胃痛·饮食停滞、足阳明胃经病证",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10370,7 +10370,7 @@
     "name": "肝血虚针方",
     "pinyin": "gan xue xu zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "肝血不足",
     "syndrome": "血虚、肝血虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10436,7 +10436,7 @@
     "name": "跌打损伤针方",
     "pinyin": "die da sun shang zhen fang",
     "source": "常用经验方",
-    "subcategory": "",
+    "subcategory": "跌打损伤",
     "syndrome": "血瘀证、跌打损伤",
     "verification": "{'status': 'modern_empirical', 'is_classic': False, 'classic_source': '常用经验方', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '现代临床常用方/经验方，非古代经典方剂；选穴符合辨证取穴原则。', 'issues': []}",
     "acupoints": [
@@ -10501,7 +10501,7 @@
     "name": "肝经郁热针方",
     "pinyin": "gan jing yu re zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "肝经郁热",
     "syndrome": "肝经郁热、肝火上炎",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10566,7 +10566,7 @@
     "name": "中消降糖针方",
     "pinyin": "zhong xiao jiang tang zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "消渴中消",
     "syndrome": "阴虚火旺、消渴·中消",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10631,7 +10631,7 @@
     "name": "风寒湿痹针方",
     "pinyin": "feng han shi bi zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "风寒湿痹",
     "syndrome": "痹证·痛痹、风寒湿痹",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10696,7 +10696,7 @@
     "name": "瘀血阻络针方",
     "pinyin": "yu xue zu luo zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "瘀血阻络",
     "syndrome": "气滞血瘀、瘀血阻络",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10761,7 +10761,7 @@
     "name": "风邪犯表针方",
     "pinyin": "feng xie fan biao zhen fang",
     "source": "《针灸甲乙经》",
-    "subcategory": "",
+    "subcategory": "风邪犯表",
     "syndrome": "风寒感冒、风邪犯表",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸甲乙经》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸甲乙经》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -10826,7 +10826,7 @@
     "name": "四总穴针方",
     "pinyin": "si zong xue zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "头项强痛",
     "syndrome": "",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；四总穴（肚腹三里留、腰背委中求、头项寻列缺、面口合谷收）出自《针灸大成》徐凤四总穴歌，归属准确。', 'issues': []}",
     "acupoints": [
@@ -10884,7 +10884,7 @@
     "name": "四关穴针方",
     "pinyin": "si guan xue zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "气机郁滞",
     "syndrome": "肝郁气滞",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -11023,7 +11023,7 @@
     "name": "十三鬼穴针方",
     "pinyin": "shi san gui xue zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "癫狂",
     "syndrome": "痰火扰心",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -11129,7 +11129,7 @@
     "name": "马丹阳天星十二穴针方",
     "pinyin": "ma dan yang tian xing shi er xue zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "周身诸痛",
     "syndrome": "",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；马丹阳天星十二穴方确载于《针灸大成》（马丹阳十二穴歌），归属准确。', 'issues': []}",
     "acupoints": [
@@ -11227,7 +11227,7 @@
     "name": "老十针调胃针方",
     "pinyin": "lao shi zhen diao wei zhen fang",
     "source": "《金针王乐亭》",
-    "subcategory": "",
+    "subcategory": "脘腹胀满",
     "syndrome": "脾胃虚弱",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《金针王乐亭》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《金针王乐亭》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -11303,7 +11303,7 @@
     "name": "手足十二针方",
     "pinyin": "shou zu shi er zhen fang",
     "source": "《金针王乐亭》",
-    "subcategory": "",
+    "subcategory": "半身不遂",
     "syndrome": "瘀血阻络",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《金针王乐亭》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《金针王乐亭》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -11372,7 +11372,7 @@
     "name": "八脉交会·公孙内关针方",
     "pinyin": "ba mai jiao hui · gong sun nei guan zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "心胸痛",
     "syndrome": "气滞血瘀",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -11423,7 +11423,7 @@
     "name": "八脉交会·后溪申脉针方",
     "pinyin": "ba mai jiao hui · hou xi shen mai zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "颈项强痛",
     "syndrome": "",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -11472,7 +11472,7 @@
     "name": "八脉交会·外关足临泣针方",
     "pinyin": "ba mai jiao hui · wai guan zu lin qi zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "偏头痛",
     "syndrome": "",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
@@ -11521,7 +11521,7 @@
     "name": "八脉交会·列缺照海针方",
     "pinyin": "ba mai jiao hui · lie que zhao hai zhen fang",
     "source": "《针灸大成》",
-    "subcategory": "",
+    "subcategory": "咽喉肿痛",
     "syndrome": "肺阴虚",
     "verification": "{'status': 'verified_classic', 'is_classic': True, 'classic_source': '《针灸大成》', 'checked_by': 'AI知识库核对', 'checked_at': '2026-07-17', 'acupoints_valid': True, 'acupoint_notes': '', 'accuracy_notes': '声称出自经典（《针灸大成》），书名真实；具体条文建议与原典逐条复核。', 'issues': []}",
     "acupoints": [
