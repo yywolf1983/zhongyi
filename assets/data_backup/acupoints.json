@@ -171,7 +171,12 @@
     "name": "太渊",
     "pinyin": "Tai Yuan",
     "subcategory": "输穴；原穴；八会穴（脉会）",
-    "classic_excerpts": null,
+    "classic_excerpts": [
+      {
+        "source": "《难经·四十五难》",
+        "text": "脉会太渊。手太阴肺经之原穴，主治咳嗽、气喘、无脉症、腕臂痛。"
+      }
+    ],
     "indications": [
       "咳嗽",
       "气喘",
@@ -2688,7 +2693,12 @@
     "name": "大杼",
     "pinyin": "Da Zhu",
     "subcategory": "八会穴（骨会）",
-    "classic_excerpts": null,
+    "classic_excerpts": [
+      {
+        "source": "《难经·四十五难》",
+        "text": "骨会大杼。足太阳膀胱经穴，主治项强、肩背痛、咳嗽、发热。"
+      }
+    ],
     "indications": [
       "咳嗽",
       "发热",
@@ -5835,7 +5845,12 @@
     "name": "足临泣",
     "pinyin": "Zu Lin Qi",
     "subcategory": "输穴；八脉交会穴（通带脉）",
-    "classic_excerpts": null,
+    "classic_excerpts": [
+      {
+        "source": "《八脉交会八穴歌》",
+        "text": "临泣胆经连带脉。足少阳胆经之输穴，通带脉，主治偏头痛、目外眦痛、胁痛、瘰疬、月经不调。"
+      }
+    ],
     "indications": [
       "偏头痛",
       "目赤肿痛",

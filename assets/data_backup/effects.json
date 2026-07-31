@@ -54418,7 +54418,7 @@
   {
     "id": "effect_781",
     "auto_desc": null,
-    "description": "",
+    "description": "解除肌表之邪、疏散风邪，用于外感风邪、邪在肌表。",
     "mechanism": "",
     "name": "解肌祛风",
     "indications": [
@@ -54439,7 +54439,7 @@
   {
     "id": "effect_782",
     "auto_desc": null,
-    "description": "",
+    "description": "温通经脉、回复衰微之阳气，用于阳虚寒凝、脉微欲绝。",
     "mechanism": "",
     "name": "温经复阳",
     "indications": [
@@ -54458,7 +54458,7 @@
   {
     "id": "effect_783",
     "auto_desc": null,
-    "description": "",
+    "description": "温补阳气以解散外邪，用于阳气不足、外邪内陷。",
     "mechanism": "",
     "name": "温阳散邪",
     "indications": [
@@ -54476,7 +54476,7 @@
   {
     "id": "effect_784",
     "auto_desc": null,
-    "description": "",
+    "description": "轻发汗力、微微发汗以祛邪，用于表证轻微或体虚有汗。",
     "mechanism": "",
     "name": "小发其汗",
     "indications": [
@@ -54495,7 +54495,7 @@
   {
     "id": "effect_785",
     "auto_desc": null,
-    "description": "",
+    "description": "发汗解表、疏散在表之邪，用于外感表证。",
     "mechanism": "",
     "name": "解表散邪",
     "indications": [
@@ -54516,7 +54516,7 @@
   {
     "id": "effect_786",
     "auto_desc": null,
-    "description": "",
+    "description": "微微发汗使邪从表解，用于表虚有汗或邪气轻浅。",
     "mechanism": "",
     "name": "微发其汗",
     "indications": [
@@ -54536,7 +54536,7 @@
   {
     "id": "effect_787",
     "auto_desc": null,
-    "description": "",
+    "description": "清解并透达郁闭之热，用于热郁胸膈、烦热不宁。",
     "mechanism": "",
     "name": "清透郁热",
     "indications": [
@@ -54554,7 +54554,7 @@
   {
     "id": "effect_788",
     "auto_desc": null,
-    "description": "",
+    "description": "健运脾胃、渗利水湿，用于脾虚水停、水肿小便不利。",
     "mechanism": "",
     "name": "健脾利水",
     "indications": [
@@ -54572,7 +54572,7 @@
   {
     "id": "effect_789",
     "auto_desc": null,
-    "description": "",
+    "description": "温补阳气以散除寒邪，用于阳虚内寒、畏寒肢冷。",
     "mechanism": "",
     "name": "温阳散寒",
     "indications": [
@@ -54595,7 +54595,7 @@
   {
     "id": "effect_790",
     "auto_desc": null,
-    "description": "",
+    "description": "解除肌表邪滞、通利经络，用于邪阻经络、项背强痛。",
     "mechanism": "",
     "name": "解肌通络",
     "indications": [
@@ -54613,7 +54613,7 @@
   {
     "id": "effect_791",
     "auto_desc": null,
-    "description": "",
+    "description": "泻下实热、通利腑气，用于阳明腑实、燥屎内结。",
     "mechanism": "",
     "name": "泻实通腑",
     "indications": [
@@ -54631,7 +54631,7 @@
   {
     "id": "effect_792",
     "auto_desc": null,
-    "description": "",
+    "description": "清解里热、调和脾胃，用于热邪犯中、痞满呕恶。",
     "mechanism": "",
     "name": "清热和中",
     "indications": [
@@ -54649,7 +54649,7 @@
   {
     "id": "effect_793",
     "auto_desc": null,
-    "description": "",
+    "description": "健运脾胃、温补中阳，用于脾胃虚寒、运化失健。",
     "mechanism": "",
     "name": "健脾温运",
     "indications": [
@@ -54667,7 +54667,7 @@
   {
     "id": "effect_794",
     "auto_desc": null,
-    "description": "",
+    "description": "宽畅中焦、消除胀满，用于中焦气滞、脘腹胀满。",
     "mechanism": "",
     "name": "宽中除满",
     "indications": [
@@ -54685,7 +54685,7 @@
   {
     "id": "effect_795",
     "auto_desc": null,
-    "description": "",
+    "description": "温助阳气以化除停饮，用于阳虚水饮内停、胸胁支满。",
     "mechanism": "",
     "name": "温阳化饮",
     "indications": [
@@ -54705,7 +54705,7 @@
   {
     "id": "effect_796",
     "auto_desc": null,
-    "description": "",
+    "description": "温阳以祛除湿邪，用于寒湿内盛、肢体困重。",
     "mechanism": "",
     "name": "温阳除湿",
     "indications": [
@@ -54723,7 +54723,7 @@
   {
     "id": "effect_797",
     "auto_desc": null,
-    "description": "",
+    "description": "宽中行气、消导胀满，用于气滞食积、脘腹痞满。",
     "mechanism": "",
     "name": "宽中消满",
     "indications": [
@@ -54741,7 +54741,7 @@
   {
     "id": "effect_798",
     "auto_desc": null,
-    "description": "",
+    "description": "清热解毒、利胆退黄，用于热毒黄疸。",
     "mechanism": "",
     "name": "解毒退黄",
     "indications": [
@@ -54760,7 +54760,7 @@
   {
     "id": "effect_799",
     "auto_desc": null,
-    "description": "",
+    "description": "清热利湿、利胆退黄，用于湿热黄疸。",
     "mechanism": "",
     "name": "清热利湿退黄",
     "indications": [
@@ -54778,7 +54778,7 @@
   {
     "id": "effect_800",
     "auto_desc": null,
-    "description": "",
+    "description": "调和胃气、消痞除满，用于胃气不和、心下痞满。",
     "mechanism": "",
     "name": "和胃消痞",
     "indications": [
@@ -54796,7 +54796,7 @@
   {
     "id": "effect_801",
     "auto_desc": null,
-    "description": "",
+    "description": "散逐水气、固涩止利，用于水气下趋之下利。",
     "mechanism": "",
     "name": "散水止利",
     "indications": [
@@ -54814,7 +54814,7 @@
   {
     "id": "effect_802",
     "auto_desc": null,
-    "description": "",
+    "description": "消痞除满、固肠止利，用于痞利并见。",
     "mechanism": "",
     "name": "消痞止利",
     "indications": [
@@ -54832,7 +54832,7 @@
   {
     "id": "effect_803",
     "auto_desc": null,
-    "description": "",
+    "description": "温中散寒兼以解表，用于里寒兼表证。",
     "mechanism": "",
     "name": "温中解表",
     "indications": [
@@ -54850,7 +54850,7 @@
   {
     "id": "effect_804",
     "auto_desc": null,
-    "description": "",
+    "description": "散除寒邪、固涩止利，用于寒利。",
     "mechanism": "",
     "name": "散寒止利",
     "indications": [
@@ -54868,7 +54868,7 @@
   {
     "id": "effect_805",
     "auto_desc": null,
-    "description": "",
+    "description": "温通经脉、发汗解表，用于寒凝经脉兼表证。",
     "mechanism": "",
     "name": "温经解表",
     "indications": [
@@ -54886,7 +54886,7 @@
   {
     "id": "effect_806",
     "auto_desc": null,
-    "description": "",
+    "description": "助益阳气以助发汗，用于阳虚外感、无力作汗。",
     "mechanism": "",
     "name": "助阳发汗",
     "indications": [
@@ -54904,7 +54904,7 @@
   {
     "id": "effect_807",
     "auto_desc": null,
-    "description": "",
+    "description": "破除阴寒、回复阳气，用于阴盛阳亡、四肢厥逆。",
     "mechanism": "",
     "name": "破阴回阳",
     "indications": [
@@ -54921,7 +54921,7 @@
   {
     "id": "effect_808",
     "auto_desc": null,
-    "description": "",
+    "description": "宣通气机、交通上下，用于气机痞塞、上下不通。",
     "mechanism": "",
     "name": "宣通上下",
     "indications": [
@@ -54938,7 +54938,7 @@
   {
     "id": "effect_809",
     "auto_desc": null,
-    "description": "",
+    "description": "以反佐法通达阳气，用于热药拒格、阳气不通。",
     "mechanism": "",
     "name": "反佐通阳",
     "indications": [
@@ -54955,7 +54955,7 @@
   {
     "id": "effect_810",
     "auto_desc": null,
-    "description": "",
+    "description": "救治厥逆、固脱救脱，用于亡阳厥脱。",
     "mechanism": "",
     "name": "救逆固脱",
     "indications": [
@@ -54972,7 +54972,7 @@
   {
     "id": "effect_811",
     "auto_desc": null,
-    "description": "",
+    "description": "疏泄肝气、健运脾气，用于肝脾不和。",
     "mechanism": "",
     "name": "疏肝理脾",
     "indications": [
@@ -54991,7 +54991,7 @@
   {
     "id": "effect_812",
     "auto_desc": null,
-    "description": "",
+    "description": "透发郁遏之阳气，用于阳气内郁、手足不温。",
     "mechanism": "",
     "name": "透达郁阳",
     "indications": [
@@ -55010,7 +55010,7 @@
   {
     "id": "effect_813",
     "auto_desc": null,
-    "description": "",
+    "description": "调和脾胃、固涩止利，用于脾胃不和之下利。",
     "mechanism": "",
     "name": "和中止利",
     "indications": [
@@ -55028,7 +55028,7 @@
   {
     "id": "effect_814",
     "auto_desc": null,
-    "description": "",
+    "description": "清利咽喉、缓急止痛，用于咽喉肿痛。",
     "mechanism": "",
     "name": "利咽止痛",
     "indications": [
@@ -55045,7 +55045,7 @@
   {
     "id": "effect_815",
     "auto_desc": null,
-    "description": "",
+    "description": "宣发肺气、利咽开音，用于肺气不宣、咽痛声哑。",
     "mechanism": "",
     "name": "宣肺利咽",
     "indications": [
@@ -55063,7 +55063,7 @@
   {
     "id": "effect_816",
     "auto_desc": null,
-    "description": "",
+    "description": "消肿排脓、收敛疮疡，用于疮疡肿痛。",
     "mechanism": "",
     "name": "消肿敛疮",
     "indications": [
@@ -55080,7 +55080,7 @@
   {
     "id": "effect_817",
     "auto_desc": null,
-    "description": "",
+    "description": "涤除痰浊、利咽开音，用于痰阻咽喉。",
     "mechanism": "",
     "name": "涤痰利咽",
     "indications": [
@@ -55097,7 +55097,7 @@
   {
     "id": "effect_818",
     "auto_desc": null,
-    "description": "",
+    "description": "发越郁遏之阳气，用于阳郁不达。",
     "mechanism": "",
     "name": "发越郁阳",
     "indications": [
@@ -55115,7 +55115,7 @@
   {
     "id": "effect_819",
     "auto_desc": null,
-    "description": "",
+    "description": "清解邪热、滋养阴液，用于热伤阴液。",
     "mechanism": "",
     "name": "清热滋阴",
     "indications": [
@@ -55133,7 +55133,7 @@
   {
     "id": "effect_820",
     "auto_desc": null,
-    "description": "",
+    "description": "补益阴血、缓急止痛，用于阴血不足、筋脉挛急。",
     "mechanism": "",
     "name": "益阴缓急",
     "indications": [
@@ -55150,7 +55150,7 @@
   {
     "id": "effect_821",
     "auto_desc": null,
-    "description": "",
+    "description": "引导邪气下行从下而解，用于热壅上焦。",
     "mechanism": "",
     "name": "引邪下行",
     "indications": [
@@ -55167,7 +55167,7 @@
   {
     "id": "effect_822",
     "auto_desc": null,
-    "description": "",
+    "description": "引导热邪向外透达，用于热郁内伏。",
     "mechanism": "",
     "name": "导热外出",
     "indications": [
@@ -55184,7 +55184,7 @@
   {
     "id": "effect_823",
     "auto_desc": null,
-    "description": "",
+    "description": "平抑冲逆、降气止逆，用于气逆上冲、奔豚。",
     "mechanism": "",
     "name": "平冲降逆",
     "indications": [
@@ -55202,7 +55202,7 @@
   {
     "id": "effect_824",
     "auto_desc": null,
-    "description": "",
+    "description": "涩肠止泻、固脱收涩，用于久利滑脱。",
     "mechanism": "",
     "name": "涩肠固脱",
     "indications": [
@@ -55221,7 +55221,7 @@
   {
     "id": "effect_825",
     "auto_desc": null,
-    "description": "",
+    "description": "止泻并收敛疮口，用于下利兼疮疡。",
     "mechanism": "",
     "name": "止泻敛疮",
     "indications": [
@@ -55239,7 +55239,7 @@
   {
     "id": "effect_826",
     "auto_desc": null,
-    "description": "",
+    "description": "散寒除湿，用于寒湿痹痛。",
     "mechanism": "",
     "name": "散寒除湿",
     "indications": [
@@ -55257,7 +55257,7 @@
   {
     "id": "effect_827",
     "auto_desc": null,
-    "description": "",
+    "description": "以轻清之品宣透气机、化湿清热，用于湿温邪在气分。",
     "mechanism": "",
     "name": "轻清宣化",
     "indications": [
@@ -55275,7 +55275,7 @@
   {
     "id": "effect_828",
     "auto_desc": null,
-    "description": "",
+    "description": "祛痰化浊、截疟止发，用于疟疾痰湿。",
     "mechanism": "",
     "name": "祛痰截疟",
     "indications": [
@@ -55293,7 +55293,7 @@
   {
     "id": "effect_829",
     "auto_desc": null,
-    "description": "",
+    "description": "消散郁结、安定神志，用于痰气郁结、惊悸。",
     "mechanism": "",
     "name": "散结安神",
     "indications": [
@@ -55310,7 +55310,7 @@
   {
     "id": "effect_830",
     "auto_desc": null,
-    "description": "",
+    "description": "温阳化气以蠲水饮，用于寒饮内停。",
     "mechanism": "",
     "name": "温化水饮",
     "indications": [
@@ -55328,7 +55328,7 @@
   {
     "id": "effect_831",
     "auto_desc": null,
-    "description": "",
+    "description": "养血濡络、疏散风邪，用于血虚生风、风中经络。",
     "mechanism": "",
     "name": "养血祛风",
     "indications": [
@@ -55348,7 +55348,7 @@
   {
     "id": "effect_832",
     "auto_desc": null,
-    "description": "",
+    "description": "健运脾胃、燥湿化痰，用于脾虚生痰。",
     "mechanism": "",
     "name": "健脾化痰",
     "indications": [
@@ -55366,7 +55366,7 @@
   {
     "id": "effect_833",
     "auto_desc": null,
-    "description": "",
+    "description": "清解热邪、平息肝风，用于热极生风。",
     "mechanism": "",
     "name": "清热息风",
     "indications": [
@@ -55385,7 +55385,7 @@
   {
     "id": "effect_834",
     "auto_desc": null,
-    "description": "",
+    "description": "重镇潜降以安定神志，用于惊悸失眠、心神浮越。",
     "mechanism": "",
     "name": "重镇安神",
     "indications": [
@@ -55404,7 +55404,7 @@
   {
     "id": "effect_835",
     "auto_desc": null,
-    "description": "",
+    "description": "清解邪热、安定神志，用于热扰心神。",
     "mechanism": "",
     "name": "清热安神",
     "indications": [
@@ -55422,7 +55422,7 @@
   {
     "id": "effect_836",
     "auto_desc": null,
-    "description": "",
+    "description": "祛除湿毒，用于湿毒蕴结。",
     "mechanism": "",
     "name": "除湿毒",
     "indications": [
@@ -55439,7 +55439,7 @@
   {
     "id": "effect_837",
     "auto_desc": null,
-    "description": "",
+    "description": "收敛生肌、促进疮口愈合。",
     "mechanism": "",
     "name": "敛疮",
     "indications": [
@@ -55456,7 +55456,7 @@
   {
     "id": "effect_838",
     "auto_desc": null,
-    "description": "",
+    "description": "调和阴阳使之平衡，用于阴阳不和。",
     "mechanism": "",
     "name": "调和阴阳",
     "indications": [
@@ -55474,7 +55474,7 @@
   {
     "id": "effect_839",
     "auto_desc": null,
-    "description": "",
+    "description": "固摄收敛、涩精止遗，用于肾虚不固、遗精滑泄。",
     "mechanism": "",
     "name": "固涩精气",
     "indications": [
@@ -55494,7 +55494,7 @@
   {
     "id": "effect_840",
     "auto_desc": null,
-    "description": "",
+    "description": "缓急和中、补益虚损，用于虚劳里急。",
     "mechanism": "",
     "name": "缓中补虚",
     "indications": [
@@ -55513,7 +55513,7 @@
   {
     "id": "effect_841",
     "auto_desc": null,
-    "description": "",
+    "description": "温肺散寒、补益肺气，用于肺虚寒咳。",
     "mechanism": "",
     "name": "温肺益气",
     "indications": [
@@ -55531,7 +55531,7 @@
   {
     "id": "effect_842",
     "auto_desc": null,
-    "description": "",
+    "description": "滋养心阴、润肺止咳，用于心肺阴虚。",
     "mechanism": "",
     "name": "养心润肺",
     "indications": [
@@ -55549,7 +55549,7 @@
   {
     "id": "effect_843",
     "auto_desc": null,
-    "description": "",
+    "description": "凉解血热、安定神志，用于血热扰神。",
     "mechanism": "",
     "name": "凉血安神",
     "indications": [
@@ -55567,7 +55567,7 @@
   {
     "id": "effect_844",
     "auto_desc": null,
-    "description": "",
+    "description": "润燥养阴、安定神志，用于燥邪伤阴、心神不宁。",
     "mechanism": "",
     "name": "润燥安神",
     "indications": [
@@ -55585,7 +55585,7 @@
   {
     "id": "effect_845",
     "auto_desc": null,
-    "description": "",
+    "description": "调和胃气、安养中焦，用于胃失和降。",
     "mechanism": "",
     "name": "和胃安中",
     "indications": [
@@ -55606,7 +55606,7 @@
   {
     "id": "effect_846",
     "auto_desc": null,
-    "description": "",
+    "description": "通利小便、泄除邪热，用于热结膀胱、小便不利。",
     "mechanism": "",
     "name": "利尿泄热",
     "indications": [
@@ -55624,7 +55624,7 @@
   {
     "id": "effect_847",
     "auto_desc": null,
-    "description": "",
+    "description": "收敛阴液、潜镇浮阳，用于阴虚阳浮。",
     "mechanism": "",
     "name": "敛阴潜阳",
     "indications": [
@@ -55642,7 +55642,7 @@
   {
     "id": "effect_848",
     "auto_desc": null,
-    "description": "",
+    "description": "降气止逆、调和胃气，用于胃气上逆、呕呃。",
     "mechanism": "",
     "name": "降逆和胃",
     "indications": [
@@ -55659,7 +55659,7 @@
   {
     "id": "effect_849",
     "auto_desc": null,
-    "description": "",
+    "description": "活血化瘀、排脓消肿，用于痈疡脓成。",
     "mechanism": "",
     "name": "活血排脓",
     "indications": [
@@ -55677,7 +55677,7 @@
   {
     "id": "effect_850",
     "auto_desc": null,
-    "description": "",
+    "description": "清热解毒、散瘀消肿，用于热毒瘀结。",
     "mechanism": "",
     "name": "解毒散瘀",
     "indications": [
@@ -55694,7 +55694,7 @@
   {
     "id": "effect_851",
     "auto_desc": null,
-    "description": "",
+    "description": "透热外出、达于血分，用于热入血分。",
     "mechanism": "",
     "name": "透达血分",
     "indications": [
@@ -55711,7 +55711,7 @@
   {
     "id": "effect_852",
     "auto_desc": null,
-    "description": "",
+    "description": "消散癥瘕、散结消肿，用于癥积痞块。",
     "mechanism": "",
     "name": "消癥散结",
     "indications": [
@@ -55730,7 +55730,7 @@
   {
     "id": "effect_853",
     "auto_desc": null,
-    "description": "",
+    "description": "峻逐水饮、消涤痰浊，用于悬饮、痰实。",
     "mechanism": "",
     "name": "逐水消痰",
     "indications": [
@@ -55748,7 +55748,7 @@
   {
     "id": "effect_854",
     "auto_desc": null,
-    "description": "",
+    "description": "逐除水饮、消肿除满，用于水饮停聚、水肿。",
     "mechanism": "",
     "name": "逐饮消肿",
     "indications": [
@@ -55766,7 +55766,7 @@
   {
     "id": "effect_855",
     "auto_desc": null,
-    "description": "",
+    "description": "祛痰化浊、宽胸理气，用于痰阻胸膈。",
     "mechanism": "",
     "name": "祛痰宽胸",
     "indications": [
@@ -55784,7 +55784,7 @@
   {
     "id": "effect_856",
     "auto_desc": null,
-    "description": "",
+    "description": "行气解郁、宽胸除满，用于气机郁滞、胸胁胀满。",
     "mechanism": "",
     "name": "行气宽胸",
     "indications": [
@@ -55802,7 +55802,7 @@
   {
     "id": "effect_857",
     "auto_desc": null,
-    "description": "",
+    "description": "温阳通脉、宣通痹阻，用于胸痹心痛、阳虚寒凝。",
     "mechanism": "",
     "name": "温阳通痹",
     "indications": [
@@ -55820,7 +55820,7 @@
   {
     "id": "effect_858",
     "auto_desc": null,
-    "description": "",
+    "description": "降泄上逆之气，用于肺气上逆、咳喘。",
     "mechanism": "",
     "name": "下气降逆",
     "indications": [
@@ -55838,7 +55838,7 @@
   {
     "id": "effect_859",
     "auto_desc": null,
-    "description": "",
+    "description": "温阳固脱、收涩止遗，用于阳虚滑脱。",
     "mechanism": "",
     "name": "温阳固涩",
     "indications": [
@@ -55856,7 +55856,7 @@
   {
     "id": "effect_860",
     "auto_desc": null,
-    "description": "",
+    "description": "行气消胀、除满止痛，用于气滞胀满。",
     "mechanism": "",
     "name": "行气除满",
     "indications": [
@@ -55877,7 +55877,7 @@
   {
     "id": "effect_861",
     "auto_desc": null,
-    "description": "",
+    "description": "通利腑气、泄除热结，用于腑实热结。",
     "mechanism": "",
     "name": "通腑泄热",
     "indications": [
@@ -55900,7 +55900,7 @@
   {
     "id": "effect_862",
     "auto_desc": null,
-    "description": "",
+    "description": "降气止逆、缓急止痛，用于气逆疼痛。",
     "mechanism": "",
     "name": "降逆止痛",
     "indications": [
@@ -55917,7 +55917,7 @@
   {
     "id": "effect_863",
     "auto_desc": null,
-    "description": "",
+    "description": "温阳补虚、缓急止痛，用于阳虚挛急。",
     "mechanism": "",
     "name": "温阳缓急",
     "indications": [
@@ -55935,7 +55935,7 @@
   {
     "id": "effect_864",
     "auto_desc": null,
-    "description": "",
+    "description": "养血和营、温中散寒，用于血虚中寒。",
     "mechanism": "",
     "name": "养血温中",
     "indications": [
@@ -55953,7 +55953,7 @@
   {
     "id": "effect_865",
     "auto_desc": null,
-    "description": "",
+    "description": "峻下逐水、攻逐停饮，用于胸腹积水。",
     "mechanism": "",
     "name": "攻逐水饮",
     "indications": [
@@ -55971,7 +55971,7 @@
   {
     "id": "effect_866",
     "auto_desc": null,
-    "description": "",
+    "description": "消散郁结、缓急止痛，用于结聚挛急。",
     "mechanism": "",
     "name": "散结缓急",
     "indications": [
@@ -55988,7 +55988,7 @@
   {
     "id": "effect_867",
     "auto_desc": null,
-    "description": "",
+    "description": "利水渗湿、软坚散结，用于水结坚聚。",
     "mechanism": "",
     "name": "利水软坚",
     "indications": [
@@ -56006,7 +56006,7 @@
   {
     "id": "effect_868",
     "auto_desc": null,
-    "description": "",
+    "description": "泻逐水饮、通利腑气，用于饮停腑实。",
     "mechanism": "",
     "name": "泻饮通腑",
     "indications": [
@@ -56025,7 +56025,7 @@
   {
     "id": "effect_869",
     "auto_desc": null,
-    "description": "",
+    "description": "降气平喘、止咳化痰，用于气逆咳喘。",
     "mechanism": "",
     "name": "降气止咳",
     "indications": [
@@ -56043,7 +56043,7 @@
   {
     "id": "effect_870",
     "auto_desc": null,
-    "description": "",
+    "description": "泻下热结、通利大便，用于热结便秘。",
     "mechanism": "",
     "name": "泻热通腑",
     "indications": [
@@ -56061,7 +56061,7 @@
   {
     "id": "effect_871",
     "auto_desc": null,
-    "description": "",
+    "description": "疏通调理气机，用于气机郁滞。",
     "mechanism": "",
     "name": "通利气机",
     "indications": [
@@ -56079,7 +56079,7 @@
   {
     "id": "effect_872",
     "auto_desc": null,
-    "description": "",
+    "description": "化气利水、通行水湿，用于膀胱气化不利。",
     "mechanism": "",
     "name": "化气行水",
     "indications": [
@@ -56099,7 +56099,7 @@
   {
     "id": "effect_873",
     "auto_desc": null,
-    "description": "",
+    "description": "润燥生津、止渴除烦，用于燥伤津液、口渴。",
     "mechanism": "",
     "name": "润燥止渴",
     "indications": [
@@ -56116,7 +56116,7 @@
   {
     "id": "effect_874",
     "auto_desc": null,
-    "description": "",
+    "description": "凉血清热、消散瘀滞，用于血热瘀阻。",
     "mechanism": "",
     "name": "凉血消瘀",
     "indications": [
@@ -56134,7 +56134,7 @@
   {
     "id": "effect_875",
     "auto_desc": null,
-    "description": "",
+    "description": "化瘀止血，用于瘀血出血。",
     "mechanism": "",
     "name": "消瘀止血",
     "indications": [
@@ -56151,7 +56151,7 @@
   {
     "id": "effect_876",
     "auto_desc": null,
-    "description": "",
+    "description": "补益肾气、通淋止痛，用于肾虚淋证。",
     "mechanism": "",
     "name": "益肾通淋",
     "indications": [
@@ -56168,7 +56168,7 @@
   {
     "id": "effect_877",
     "auto_desc": null,
-    "description": "",
+    "description": "发汗解表兼以利水，用于风水水肿。",
     "mechanism": "",
     "name": "发汗利水",
     "indications": [
@@ -56185,7 +56185,7 @@
   {
     "id": "effect_878",
     "auto_desc": null,
-    "description": "",
+    "description": "宣发肺气、利水消肿，用于肺气不宣、水肿。",
     "mechanism": "",
     "name": "宣肺消肿",
     "indications": [
@@ -56202,7 +56202,7 @@
   {
     "id": "effect_879",
     "auto_desc": null,
-    "description": "",
+    "description": "温阳益气、发汗解表，用于阳虚外感。",
     "mechanism": "",
     "name": "温阳解表",
     "indications": [
@@ -56220,7 +56220,7 @@
   {
     "id": "effect_880",
     "auto_desc": null,
-    "description": "",
+    "description": "宣肺理气、通调水道，用于水肿喘咳。",
     "mechanism": "",
     "name": "宣肺利水",
     "indications": [
@@ -56238,7 +56238,7 @@
   {
     "id": "effect_881",
     "auto_desc": null,
-    "description": "",
+    "description": "解表发汗、消肿利咽，用于风水表证。",
     "mechanism": "",
     "name": "解表消肿",
     "indications": [
@@ -56256,7 +56256,7 @@
   {
     "id": "effect_882",
     "auto_desc": null,
-    "description": "",
+    "description": "调和营卫、泻利湿邪，用于风湿在表。",
     "mechanism": "",
     "name": "和营泻湿",
     "indications": [
@@ -56274,7 +56274,7 @@
   {
     "id": "effect_883",
     "auto_desc": null,
-    "description": "",
+    "description": "化瘀利水、分消湿浊，用于瘀湿互结。",
     "mechanism": "",
     "name": "消瘀利湿",
     "indications": [
@@ -56292,7 +56292,7 @@
   {
     "id": "effect_884",
     "auto_desc": null,
-    "description": "",
+    "description": "润燥生津、通导大便，用于肠燥便秘。",
     "mechanism": "",
     "name": "润燥通便",
     "indications": [
@@ -56310,7 +56310,7 @@
   {
     "id": "effect_885",
     "auto_desc": null,
-    "description": "",
+    "description": "化瘀泄浊，用于瘀浊内阻。",
     "mechanism": "",
     "name": "消瘀利浊",
     "indications": [
@@ -56328,7 +56328,7 @@
   {
     "id": "effect_886",
     "auto_desc": null,
-    "description": "",
+    "description": "宣肺理气、温化水饮，用于寒饮射肺。",
     "mechanism": "",
     "name": "宣肺化饮",
     "indications": [
@@ -56345,7 +56345,7 @@
   {
     "id": "effect_887",
     "auto_desc": null,
-    "description": "",
+    "description": "宁心安神、定悸止慌，用于心悸怔忡。",
     "mechanism": "",
     "name": "宁心定悸",
     "indications": [
@@ -56362,7 +56362,7 @@
   {
     "id": "effect_888",
     "auto_desc": null,
-    "description": "",
+    "description": "润燥养胃、降逆止呕，用于胃燥呕逆。",
     "mechanism": "",
     "name": "润燥止呕",
     "indications": [
@@ -56380,7 +56380,7 @@
   {
     "id": "effect_889",
     "auto_desc": null,
-    "description": "",
+    "description": "温胃散寒、化除水饮，用于胃寒停饮。",
     "mechanism": "",
     "name": "温胃化饮",
     "indications": [
@@ -56398,7 +56398,7 @@
   {
     "id": "effect_890",
     "auto_desc": null,
-    "description": "",
+    "description": "辛味开散、苦味降泄，寒热并用以消痞，用于寒热错杂、心下痞。",
     "mechanism": "",
     "name": "辛开苦降",
     "indications": [
@@ -56415,7 +56415,7 @@
   {
     "id": "effect_891",
     "auto_desc": null,
-    "description": "",
+    "description": "降逆止呕、温化水饮，用于水饮呕逆。",
     "mechanism": "",
     "name": "止呕化饮",
     "indications": [
@@ -56432,7 +56432,7 @@
   {
     "id": "effect_892",
     "auto_desc": null,
-    "description": "",
+    "description": "固涩止利、缓急止痛，用于下利腹痛。",
     "mechanism": "",
     "name": "止利止痛",
     "indications": [
@@ -56449,7 +56449,7 @@
   {
     "id": "effect_893",
     "auto_desc": null,
-    "description": "",
+    "description": "行气调中、固涩止泻，用于气滞泄泻。",
     "mechanism": "",
     "name": "行气止泻",
     "indications": [
@@ -56466,7 +56466,7 @@
   {
     "id": "effect_894",
     "auto_desc": null,
-    "description": "",
+    "description": "续接筋脉、愈合骨折，用于跌打骨折。",
     "mechanism": "",
     "name": "续筋接骨",
     "indications": [
@@ -56483,7 +56483,7 @@
   {
     "id": "effect_895",
     "auto_desc": null,
-    "description": "",
+    "description": "排脓托毒、清热解毒，用于痈疽脓毒。",
     "mechanism": "",
     "name": "排脓解毒",
     "indications": [
@@ -56501,7 +56501,7 @@
   {
     "id": "effect_896",
     "auto_desc": null,
-    "description": "",
+    "description": "宣发肺气、通利气机，用于肺气郁闭。",
     "mechanism": "",
     "name": "宣肺利气",
     "indications": [
@@ -56519,7 +56519,7 @@
   {
     "id": "effect_897",
     "auto_desc": null,
-    "description": "",
+    "description": "缓急止痛、安养中焦，用于中虚挛急。",
     "mechanism": "",
     "name": "缓急安中",
     "indications": [
@@ -56536,7 +56536,7 @@
   {
     "id": "effect_898",
     "auto_desc": null,
-    "description": "",
+    "description": "杀虫止痒、止痛，用于虫积腹痛。",
     "mechanism": "",
     "name": "杀虫止痛",
     "indications": [
@@ -56553,7 +56553,7 @@
   {
     "id": "effect_899",
     "auto_desc": null,
-    "description": "",
+    "description": "调理冲任、安养胎元，用于胎漏胎动。",
     "mechanism": "",
     "name": "调经安胎",
     "indications": [
@@ -56571,7 +56571,7 @@
   {
     "id": "effect_900",
     "auto_desc": null,
-    "description": "",
+    "description": "温中散寒、补益中气，用于中虚里寒。",
     "mechanism": "",
     "name": "温中益气",
     "indications": [
@@ -56589,7 +56589,7 @@
   {
     "id": "effect_901",
     "auto_desc": null,
-    "description": "",
+    "description": "健运脾胃、渗利水湿，用于脾虚湿盛。",
     "mechanism": "",
     "name": "健脾渗湿",
     "indications": [
@@ -56606,7 +56606,7 @@
   {
     "id": "effect_902",
     "auto_desc": null,
-    "description": "",
+    "description": "养血和营、健运脾胃，用于血虚脾虚。",
     "mechanism": "",
     "name": "养血健脾",
     "indications": [
@@ -56624,7 +56624,7 @@
   {
     "id": "effect_903",
     "auto_desc": null,
-    "description": "",
+    "description": "清解邪热、安养胎元，用于胎热不安。",
     "mechanism": "",
     "name": "清热安胎",
     "indications": [
@@ -56642,7 +56642,7 @@
   {
     "id": "effect_904",
     "auto_desc": null,
-    "description": "",
+    "description": "健脾益气、温中散寒，用于脾胃虚寒。",
     "mechanism": "",
     "name": "健脾温中",
     "indications": [
@@ -56660,7 +56660,7 @@
   {
     "id": "effect_905",
     "auto_desc": null,
-    "description": "",
+    "description": "安养胎元、降逆止呕，用于妊娠恶阻。",
     "mechanism": "",
     "name": "安胎止呕",
     "indications": [
@@ -56678,7 +56678,7 @@
   {
     "id": "effect_906",
     "auto_desc": null,
-    "description": "",
+    "description": "补益正气、发汗解表，用于虚人外感。",
     "mechanism": "",
     "name": "扶正解表",
     "indications": [
@@ -56696,7 +56696,7 @@
   {
     "id": "effect_907",
     "auto_desc": null,
-    "description": "",
+    "description": "清解邪热、安养中焦，用于热犯中焦。",
     "mechanism": "",
     "name": "清热安中",
     "indications": [
@@ -56714,7 +56714,7 @@
   {
     "id": "effect_908",
     "auto_desc": null,
-    "description": "",
+    "description": "滋养阴液、除烦安神，用于阴虚烦热。",
     "mechanism": "",
     "name": "养阴除烦",
     "indications": [
@@ -56732,7 +56732,7 @@
   {
     "id": "effect_909",
     "auto_desc": null,
-    "description": "",
+    "description": "破血逐瘀、消散癥积，用于血瘀癥积。",
     "mechanism": "",
     "name": "破瘀消癥",
     "indications": [
@@ -56749,7 +56749,7 @@
   {
     "id": "effect_910",
     "auto_desc": null,
-    "description": "",
+    "description": "破血逐瘀、攻逐水饮，用于血瘀水结。",
     "mechanism": "",
     "name": "破血逐水",
     "indications": [
@@ -56767,7 +56767,7 @@
   {
     "id": "effect_911",
     "auto_desc": null,
-    "description": "",
+    "description": "养血和营、扶助正气，用于血虚正虚。",
     "mechanism": "",
     "name": "养血扶正",
     "indications": [
@@ -56785,7 +56785,7 @@
   {
     "id": "effect_912",
     "auto_desc": null,
-    "description": "",
+    "description": "活血化瘀、行气化滞，用于瘀血气滞。",
     "mechanism": "",
     "name": "活血行滞",
     "indications": [
@@ -56803,7 +56803,7 @@
   {
     "id": "effect_913",
     "auto_desc": null,
-    "description": "",
+    "description": "温补阳气、填补虚损，用于阳虚羸弱。",
     "mechanism": "",
     "name": "温阳补虚",
     "indications": [
@@ -56820,7 +56820,7 @@
   {
     "id": "effect_914",
     "auto_desc": null,
-    "description": "",
+    "description": "宣肺利气、开窍醒神，用于肺气闭窍。",
     "mechanism": "",
     "name": "宣肺开窍",
     "indications": [
@@ -56838,7 +56838,7 @@
   {
     "id": "effect_915",
     "auto_desc": null,
-    "description": "",
+    "description": "解表开窍、回苏醒神，用于表闭神昏。",
     "mechanism": "",
     "name": "解表回苏",
     "indications": [
@@ -56856,7 +56856,7 @@
   {
     "id": "effect_916",
     "auto_desc": null,
-    "description": "",
+    "description": "温里通阳、泻下通便，用于寒积便秘。",
     "mechanism": "",
     "name": "温通泻下",
     "indications": [
@@ -56874,7 +56874,7 @@
   {
     "id": "effect_917",
     "auto_desc": null,
-    "description": "",
+    "description": "开窍醒神、行气止痛，用于窍闭疼痛。",
     "mechanism": "",
     "name": "开窍止痛",
     "indications": [

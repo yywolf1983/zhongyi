@@ -1696,7 +1696,7 @@
     "name": "独活",
     "nature": "微温",
     "pinyin": "Du Huo",
-    "subcategory": "",
+    "subcategory": "祛风寒湿药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -1742,7 +1742,7 @@
     "name": "威灵仙",
     "nature": "温",
     "pinyin": "Wei Ling Xian",
-    "subcategory": "",
+    "subcategory": "祛风寒湿药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -1794,7 +1794,7 @@
     "name": "木瓜",
     "nature": "温",
     "pinyin": "Mu Gua",
-    "subcategory": "",
+    "subcategory": "祛风寒湿药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -2016,7 +2016,7 @@
     "name": "茯苓",
     "nature": "平",
     "pinyin": "Fu Ling",
-    "subcategory": "",
+    "subcategory": "利水消肿药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -2069,7 +2069,7 @@
     "name": "薏苡仁",
     "nature": "凉",
     "pinyin": "Yi Yi Ren",
-    "subcategory": "",
+    "subcategory": "利水消肿药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -2128,7 +2128,7 @@
     "name": "泽泻",
     "nature": "寒",
     "pinyin": "Ze Xie",
-    "subcategory": "",
+    "subcategory": "利水消肿药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -2178,7 +2178,7 @@
     "name": "附子",
     "nature": "大热",
     "pinyin": "Fu Zi",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -2229,7 +2229,7 @@
     "name": "干姜",
     "nature": "热",
     "pinyin": "Gan Jiang",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -2295,7 +2295,7 @@
     "name": "肉桂",
     "nature": "大热",
     "pinyin": "Rou Gui",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -3065,7 +3065,7 @@
     "name": "丹参",
     "nature": "微寒",
     "pinyin": "Dan Shen",
-    "subcategory": "",
+    "subcategory": "活血调经药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -3672,7 +3672,7 @@
     "name": "天麻",
     "nature": "平",
     "pinyin": "Tian Ma",
-    "subcategory": "",
+    "subcategory": "息风止痉药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -3731,7 +3731,7 @@
     "name": "钩藤",
     "nature": "凉",
     "pinyin": "Gou Teng",
-    "subcategory": "",
+    "subcategory": "息风止痉药",
     "classic_excerpts": [
       {
         "source": "《名医别录》",
@@ -3792,7 +3792,7 @@
     "name": "麝香",
     "nature": "温",
     "pinyin": "She Xiang",
-    "subcategory": "",
+    "subcategory": "开窍药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -4451,7 +4451,7 @@
     "name": "五味子",
     "nature": "温",
     "pinyin": "Wu Wei Zi",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -4503,7 +4503,7 @@
     "name": "山茱萸",
     "nature": "微温",
     "pinyin": "Shan Zhu Yu",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -7539,7 +7539,7 @@
     "name": "花椒",
     "nature": "温",
     "pinyin": "Hua Jiao",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -7591,7 +7591,7 @@
     "name": "丁香",
     "nature": "温",
     "pinyin": "Ding Xiang",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11203,7 +11203,7 @@
     "name": "石决明",
     "nature": "寒",
     "pinyin": "Shi Jue Ming",
-    "subcategory": "",
+    "subcategory": "平抑肝阳药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11260,7 +11260,7 @@
     "name": "珍珠母",
     "nature": "寒",
     "pinyin": "Zhen Zhu Mu",
-    "subcategory": "",
+    "subcategory": "平抑肝阳药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11336,7 +11336,7 @@
     "name": "蒺藜",
     "nature": "平",
     "pinyin": "Ji Li",
-    "subcategory": "",
+    "subcategory": "平抑肝阳药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11458,7 +11458,7 @@
     "name": "僵蚕",
     "nature": "平",
     "pinyin": "Jiang Can",
-    "subcategory": "",
+    "subcategory": "息风止痉药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -11524,7 +11524,7 @@
     "name": "全蝎",
     "nature": "平",
     "pinyin": "Quan Xie",
-    "subcategory": "",
+    "subcategory": "息风止痉药",
     "classic_excerpts": [
       {
         "source": "《开宝本草》",
@@ -11570,7 +11570,7 @@
     "name": "蜈蚣",
     "nature": "温",
     "pinyin": "Wu Gong",
-    "subcategory": "",
+    "subcategory": "息风止痉药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -11616,7 +11616,7 @@
     "name": "地龙",
     "nature": "寒",
     "pinyin": "Di Long",
-    "subcategory": "",
+    "subcategory": "息风止痉药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -11680,7 +11680,7 @@
     "name": "冰片",
     "nature": "微寒",
     "pinyin": "Bing Pian",
-    "subcategory": "",
+    "subcategory": "开窍药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11732,7 +11732,7 @@
     "name": "苏合香",
     "nature": "温",
     "pinyin": "Su He Xiang",
-    "subcategory": "",
+    "subcategory": "开窍药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11828,7 +11828,7 @@
     "name": "乌梅",
     "nature": "平",
     "pinyin": "Wu Mei",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11889,7 +11889,7 @@
     "name": "诃子",
     "nature": "平",
     "pinyin": "He Zi",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11935,7 +11935,7 @@
     "name": "肉豆蔻",
     "nature": "温",
     "pinyin": "Rou Dou Kou",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -11986,7 +11986,7 @@
     "name": "赤石脂",
     "nature": "温",
     "pinyin": "Chi Shi Zhi",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12033,7 +12033,7 @@
     "name": "莲子",
     "nature": "平",
     "pinyin": "Lian Zi",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12110,7 +12110,7 @@
     "name": "芡实",
     "nature": "平",
     "pinyin": "Qian Shi",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12162,7 +12162,7 @@
     "name": "海螵蛸",
     "nature": "微温",
     "pinyin": "Hai Piao Xiao",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12213,7 +12213,7 @@
     "name": "金樱子",
     "nature": "平",
     "pinyin": "Jin Ying Zi",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12267,7 +12267,7 @@
     "name": "桑螵蛸",
     "nature": "平",
     "pinyin": "Sang Piao Xiao",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12319,7 +12319,7 @@
     "name": "覆盆子",
     "nature": "温",
     "pinyin": "Fu Pen Zi",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12371,7 +12371,7 @@
     "name": "小茴香",
     "nature": "温",
     "pinyin": "Xiao Hui Xiang",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12431,7 +12431,7 @@
     "name": "荜茇",
     "nature": "热",
     "pinyin": "Bi Ba",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -12493,7 +12493,7 @@
     "name": "荜澄茄",
     "nature": "温",
     "pinyin": "Bi Cheng Qie",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -18326,7 +18326,7 @@
     "name": "高良姜",
     "nature": "热",
     "pinyin": "Gao Liang Jiang",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -18392,7 +18392,7 @@
     "name": "吴茱萸",
     "nature": "热",
     "pinyin": "Wu Zhu Yu",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -18463,7 +18463,7 @@
     "name": "胡椒",
     "nature": "热",
     "pinyin": "Hu Jiao",
-    "subcategory": "",
+    "subcategory": "温里药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -19230,7 +19230,7 @@
     "name": "珍珠",
     "nature": "寒",
     "pinyin": "Zhen Zhu",
-    "subcategory": "",
+    "subcategory": "安神药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -19292,7 +19292,7 @@
     "name": "牡蛎",
     "nature": "微寒",
     "pinyin": "Mu Li",
-    "subcategory": "",
+    "subcategory": "平抑肝阳药",
     "classic_excerpts": [
       {
         "source": "《神农本草经》",
@@ -19363,7 +19363,7 @@
     "name": "代赭石",
     "nature": "寒",
     "pinyin": "Dai Zhe Shi",
-    "subcategory": "",
+    "subcategory": "平抑肝阳药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -19494,7 +19494,7 @@
     "name": "安息香",
     "nature": "平",
     "pinyin": "An Xi Xiang",
-    "subcategory": "",
+    "subcategory": "开窍药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -20291,7 +20291,7 @@
     "name": "麻黄根",
     "nature": "平",
     "pinyin": "Ma Huang Gen",
-    "subcategory": "",
+    "subcategory": "固表止汗药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -20344,7 +20344,7 @@
     "name": "浮小麦",
     "nature": "凉",
     "pinyin": "Fu Xiao Mai",
-    "subcategory": "",
+    "subcategory": "固表止汗药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -20399,7 +20399,7 @@
     "name": "五倍子",
     "nature": "寒",
     "pinyin": "Wu Bei Zi",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -20461,7 +20461,7 @@
     "name": "石榴皮",
     "nature": "温",
     "pinyin": "Shi Liu Pi",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -20515,7 +20515,7 @@
     "name": "禹余粮",
     "nature": "微寒",
     "pinyin": "Yu Yu Liang",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -20562,7 +20562,7 @@
     "name": "糯稻根",
     "nature": "平",
     "pinyin": "Nuo Dao Gen",
-    "subcategory": "",
+    "subcategory": "固表止汗药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -20792,7 +20792,7 @@
     "name": "樟脑",
     "nature": "热",
     "pinyin": "Zhang Nao",
-    "subcategory": "",
+    "subcategory": "开窍药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -22125,7 +22125,7 @@
     "name": "罂粟壳",
     "nature": "平",
     "pinyin": "Ying Su Ke",
-    "subcategory": "",
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -22173,7 +22173,7 @@
     "name": "刺猬皮",
     "nature": "平",
     "pinyin": "Ci Wei Pi",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -24687,7 +24687,7 @@
     "name": "没食子",
     "nature": "温",
     "pinyin": "Mo Shi Zi",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -24745,7 +24745,7 @@
     "name": "椿皮",
     "nature": "寒",
     "pinyin": "Chun Pi",
-    "subcategory": "",
+    "subcategory": "固精缩尿止带药",
     "classic_excerpts": [
       {
         "source": "《本草纲目》",
@@ -27906,7 +27906,7 @@
   },
   {
     "id": "medicine_525",
-    "category": "固涩药",
+    "category": "收涩药",
     "classic": "《本草纲目》",
     "dosage": "6-9g",
     "functions": null,
@@ -28052,7 +28052,7 @@
   },
   {
     "id": "medicine_528",
-    "category": "理血药",
+    "category": "活血化瘀药",
     "classic": "《本草纲目》",
     "dosage": "3-9g",
     "functions": null,
@@ -28196,7 +28196,7 @@
   },
   {
     "id": "medicine_531",
-    "category": "平肝息风药",
+    "category": "平肝熄风药",
     "classic": "《本草纲目》",
     "dosage": "6-10g",
     "functions": null,
@@ -28484,7 +28484,7 @@
   },
   {
     "id": "medicine_537",
-    "category": "理血药",
+    "category": "活血化瘀药",
     "classic": "《本草纲目》",
     "dosage": "6-9g",
     "functions": null,
@@ -28667,7 +28667,7 @@
   },
   {
     "id": "medicine_541",
-    "category": "理血药",
+    "category": "活血化瘀药",
     "classic": "《本草纲目》",
     "dosage": "6-12g",
     "functions": null,
@@ -28808,7 +28808,7 @@
   },
   {
     "id": "medicine_544",
-    "category": "理血药",
+    "category": "活血化瘀药",
     "classic": "《本草纲目》",
     "dosage": "15-30g",
     "functions": null,
@@ -28897,7 +28897,7 @@
   },
   {
     "id": "medicine_546",
-    "category": "理血药",
+    "category": "活血化瘀药",
     "classic": "《本草纲目》",
     "dosage": "9-15g",
     "functions": null,
@@ -29034,7 +29034,7 @@
   },
   {
     "id": "medicine_549",
-    "category": "理血药",
+    "category": "活血化瘀药",
     "classic": "《本草纲目》",
     "dosage": "3-9g",
     "functions": null,
@@ -29127,7 +29127,7 @@
   },
   {
     "id": "medicine_551",
-    "category": "平肝息风药",
+    "category": "平肝熄风药",
     "classic": "《本草纲目》",
     "dosage": "1-3g",
     "functions": null,
@@ -29515,7 +29515,7 @@
   },
   {
     "id": "medicine_559",
-    "category": "补益药",
+    "category": "补虚药",
     "classic": "《本草纲目》",
     "dosage": "15-30g",
     "functions": null,
@@ -29613,7 +29613,7 @@
   },
   {
     "id": "medicine_561",
-    "category": "补益药",
+    "category": "补虚药",
     "classic": "《本草纲目》",
     "dosage": "5-15g",
     "functions": null,
@@ -29662,7 +29662,7 @@
   },
   {
     "id": "medicine_562",
-    "category": "补益药",
+    "category": "补虚药",
     "classic": "《本草纲目》",
     "dosage": "10-15g",
     "functions": null,
@@ -30593,7 +30593,7 @@
   },
   {
     "id": "medicine_587",
-    "category": "其他",
+    "category": "补阴药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -30601,7 +30601,7 @@
     "name": "天门冬",
     "nature": "",
     "pinyin": "tian men dong",
-    "subcategory": null,
+    "subcategory": "",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -30698,7 +30698,7 @@
   },
   {
     "id": "medicine_592",
-    "category": "其他",
+    "category": "温里药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -30706,7 +30706,7 @@
     "name": "大附子",
     "nature": "",
     "pinyin": "da fu zi",
-    "subcategory": null,
+    "subcategory": "",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -30740,7 +30740,7 @@
   },
   {
     "id": "medicine_594",
-    "category": "其他",
+    "category": "温里药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -30748,7 +30748,7 @@
     "name": "天雄",
     "nature": "",
     "pinyin": "tian xiong",
-    "subcategory": null,
+    "subcategory": "",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -30761,7 +30761,7 @@
   },
   {
     "id": "medicine_595",
-    "category": "其他",
+    "category": "清热药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -30769,7 +30769,7 @@
     "name": "干地黄",
     "nature": "",
     "pinyin": "gan di huang",
-    "subcategory": null,
+    "subcategory": "清热凉血药",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -30790,7 +30790,7 @@
     "name": "干漆",
     "nature": "",
     "pinyin": "gan qi",
-    "subcategory": null,
+    "subcategory": "破血消癥药",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -30971,7 +30971,7 @@
   },
   {
     "id": "medicine_605",
-    "category": "其他",
+    "category": "理气药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -30979,7 +30979,7 @@
     "name": "橘皮",
     "nature": "",
     "pinyin": "ju pi",
-    "subcategory": null,
+    "subcategory": "",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -30992,7 +30992,7 @@
   },
   {
     "id": "medicine_606",
-    "category": "其他",
+    "category": "补阳药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31000,7 +31000,7 @@
     "name": "羊肉",
     "nature": "",
     "pinyin": "yang rou",
-    "subcategory": null,
+    "subcategory": "",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -31013,7 +31013,7 @@
   },
   {
     "id": "medicine_607",
-    "category": "其他",
+    "category": "解表药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31021,7 +31021,7 @@
     "name": "葱",
     "nature": "",
     "pinyin": "cong",
-    "subcategory": null,
+    "subcategory": "辛温解表药",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -31055,7 +31055,7 @@
   },
   {
     "id": "medicine_609",
-    "category": "其他",
+    "category": "补气药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31063,7 +31063,7 @@
     "name": "薯蓣",
     "nature": "",
     "pinyin": "shu yu",
-    "subcategory": null,
+    "subcategory": "",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -31118,7 +31118,7 @@
   },
   {
     "id": "medicine_612",
-    "category": "其他",
+    "category": "利水渗湿药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31126,7 +31126,7 @@
     "name": "茵陈蒿",
     "nature": "",
     "pinyin": "yin chen hao",
-    "subcategory": null,
+    "subcategory": "利湿退黄药",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -31181,7 +31181,7 @@
   },
   {
     "id": "medicine_615",
-    "category": "其他",
+    "category": "解表药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31189,7 +31189,7 @@
     "name": "生姜汁",
     "nature": "",
     "pinyin": "sheng jiang zhi",
-    "subcategory": null,
+    "subcategory": "辛温解表药",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -31202,7 +31202,7 @@
   },
   {
     "id": "medicine_616",
-    "category": "其他",
+    "category": "收涩药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31210,7 +31210,7 @@
     "name": "诃梨勒",
     "nature": "",
     "pinyin": "he li lei",
-    "subcategory": null,
+    "subcategory": "敛肺涩肠药",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
@@ -31265,7 +31265,7 @@
   },
   {
     "id": "medicine_619",
-    "category": "其他",
+    "category": "温里药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31273,7 +31273,7 @@
     "name": "川椒",
     "nature": "",
     "pinyin": "chuan jiao",
-    "subcategory": null,
+    "subcategory": "",
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,

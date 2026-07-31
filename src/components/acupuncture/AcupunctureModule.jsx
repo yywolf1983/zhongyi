@@ -697,7 +697,7 @@ export default function AcupunctureModule() {
           {!selectedMeridian && (
             <GroupedList
               items={filteredAcupoints}
-              getGroup={(a) => a.meridian || a.category || '其他'}
+              getGroup={(a) => a.meridian === '经外奇穴' ? `经外奇穴·${a.subcategory || '其他奇穴'}` : (a.meridian || a.category || '其他')}
               getKey={(a) => a.id}
               emptyMessage="未找到匹配的穴位"
               renderItem={(acupoint) => (
@@ -755,7 +755,7 @@ export default function AcupunctureModule() {
 
           <GroupedList
             items={filteredPrescs}
-            getGroup={(p) => isNeedleDept(p.category) ? '其他病证' : (p.category || '未分类')}
+            getGroup={(p) => isNeedleDept(p.category) ? (p.subcategory || '其他病证') : (p.category || '未分类')}
             getKey={(p) => p.id}
             emptyMessage="未找到匹配的针方"
             renderItem={(presc) => (
