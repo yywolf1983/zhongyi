@@ -389,6 +389,14 @@ export default function SyndromeModule() {
 
   return (
     <div>
+      <div className="module-page-header">
+        <span className="module-page-icon">🩺</span>
+        <div className="module-page-text">
+          <span className="module-page-title">中医辨证</span>
+          <span className="module-page-sub">八纲辨证 · 审证求因</span>
+        </div>
+        <span className="module-page-count">共 {allSyndromes.length} 证</span>
+      </div>
       {/* 八纲(大类) + 辨证方法(子类) 两级筛选，与方剂/针灸同款 */}
       <div className="cat-filter">
         <button

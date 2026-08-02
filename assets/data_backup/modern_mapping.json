@@ -3885,27 +3885,6 @@
     ]
   },
   {
-    "id": "mapping_177",
-    "category": "疾病",
-    "chinese_term": "痔疮",
-    "modern_term": "痔 (Hemorrhoids)",
-    "related_syndrome": "syndrome_088",
-    "comparison": [
-      {
-        "aspect": "病因",
-        "classic": "《黄帝内经》",
-        "tcm": "饮食不节、湿热下注肛肠",
-        "western": "肛垫病理性肥大、移位及血管丛扩张"
-      },
-      {
-        "aspect": "病理机制",
-        "classic": "《黄帝内经》",
-        "tcm": "过食辛辣→湿热内生→下迫肛肠→血络瘀滞",
-        "western": "肛垫支持结构破坏→痔静脉丛曲张→充血水肿→脱出"
-      }
-    ]
-  },
-  {
     "id": "mapping_178",
     "category": "症状",
     "chinese_term": "便秘·气秘",
@@ -3944,27 +3923,6 @@
         "classic": "《金匮要略》",
         "tcm": "外邪犯肺或胆火上炎→鼻窍不利→浊涕不止",
         "western": "窦口堵塞→引流不畅→细菌增殖→黏膜化脓性炎症"
-      }
-    ]
-  },
-  {
-    "id": "mapping_180",
-    "category": "疾病",
-    "chinese_term": "面神经麻痹",
-    "modern_term": "面神经麻痹 (Facial Nerve Palsy)",
-    "related_syndrome": "syndrome_112",
-    "comparison": [
-      {
-        "aspect": "病因",
-        "classic": "《黄帝内经》",
-        "tcm": "脉络空虚、风邪乘虚入中面部经络",
-        "western": "面神经非特异性炎症导致面部表情肌瘫痪"
-      },
-      {
-        "aspect": "病理机制",
-        "classic": "《黄帝内经》",
-        "tcm": "正气不足→风邪中络→气血痹阻→口眼㖞斜",
-        "western": "面神经管内水肿→压迫缺血→神经传导阻滞→面部肌肉瘫痪"
       }
     ]
   }

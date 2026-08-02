@@ -77,6 +77,14 @@ export default function RhymeModule() {
 
   return (
     <div className="rhyme-container">
+      <div className="module-page-header">
+        <span className="module-page-icon">📜</span>
+        <div className="module-page-text">
+          <span className="module-page-title">方歌 · 汤头歌诀</span>
+          <span className="module-page-sub">诵记名方 · 配伍精义</span>
+        </div>
+        <span className="module-page-count">共 {rhymes.length} 首</span>
+      </div>
       {/* 一级分类（可折叠，默认收起，选中自动收起） */}
       <div className="cat-filter">
         <button

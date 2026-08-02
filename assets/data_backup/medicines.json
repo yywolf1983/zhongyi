@@ -30416,7 +30416,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "泻火除烦",
+      "清热利湿"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30437,7 +30440,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "清热解毒",
+      "消肿散结"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30479,7 +30485,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "滋阴降火",
+      "止血消瘀"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30500,7 +30509,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "清热解毒",
+      "清肺化痰",
+      "润燥通便"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30521,7 +30534,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "滋阴润燥",
+      "润肺止咳"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30563,7 +30579,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "散瘀",
+      "止血",
+      "解毒"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30584,7 +30604,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "养阴润燥",
+      "生津止渴"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30593,7 +30616,7 @@
   },
   {
     "id": "medicine_587",
-    "category": "补阴药",
+    "category": "补虚药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -30605,7 +30628,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "养阴润燥",
+      "清肺生津"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30647,7 +30673,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "涌吐痰涎",
+      "截疟"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30668,7 +30697,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "纳气坠痰",
+      "镇惊止血"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30689,7 +30721,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "涩肠止泻",
+      "收敛止血"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30710,7 +30745,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "回阳救逆",
+      "补火助阳"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30752,7 +30790,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "回阳救逆",
+      "补火助阳"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30773,7 +30814,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "清热凉血",
+      "养阴生津"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30794,7 +30838,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "破瘀通经",
+      "消积杀虫"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30815,7 +30862,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "破瘀",
+      "散结",
+      "明目"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30857,7 +30908,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "破血通经",
+      "利水消肿",
+      "解毒"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30920,7 +30975,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "破瘀定惊",
+      "通便",
+      "攻毒"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30941,7 +31000,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "凉血止血",
+      "清热解毒"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30962,7 +31024,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "利水消肿",
+      "化痰止咳",
+      "解毒散结"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30983,7 +31049,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "理气健脾",
+      "燥湿化痰"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -30992,7 +31061,7 @@
   },
   {
     "id": "medicine_606",
-    "category": "补阳药",
+    "category": "补虚药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31004,7 +31073,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "温中暖肾",
+      "益气补虚"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31025,7 +31097,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "发汗解表",
+      "散寒通阳"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31046,7 +31121,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "活血止血",
+      "解郁"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31055,7 +31133,7 @@
   },
   {
     "id": "medicine_609",
-    "category": "补气药",
+    "category": "补虚药",
     "classic": null,
     "dosage": "",
     "functions": "",
@@ -31067,7 +31145,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "补脾养胃",
+      "生津益肺",
+      "补肾涩精"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31088,7 +31170,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "开胃消食",
+      "利水"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31130,7 +31215,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "清热利湿",
+      "利胆退黄"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31172,7 +31260,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "补中润燥",
+      "止痛解毒"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31193,7 +31284,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "发散风寒",
+      "温中止呕"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31214,7 +31308,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "涩肠止泻",
+      "敛肺止咳"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31256,7 +31353,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "泻肺平喘",
+      "利水消肿"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31277,7 +31377,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "温中止痛",
+      "杀虫止痒"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31298,7 +31401,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "利水泄热",
+      "祛风止痛"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31319,7 +31425,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "消肿",
+      "解毒",
+      "散结"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31340,7 +31450,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "攻毒",
+      "敛疮",
+      "坠痰"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31361,7 +31475,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "补中润燥",
+      "止痛解毒"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31382,7 +31499,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "清热化痰",
+      "除烦止呕"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31424,7 +31544,11 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "清热解毒",
+      "杀虫",
+      "止痢"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31445,7 +31569,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "温肺平喘",
+      "安神"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",
@@ -31466,7 +31593,10 @@
     "classic_excerpts": null,
     "contraindications": "",
     "effect_ids": null,
-    "effects": null,
+    "effects": [
+      "清热解毒",
+      "祛痰散结"
+    ],
     "flavor": "",
     "indications": "",
     "meridian": "",

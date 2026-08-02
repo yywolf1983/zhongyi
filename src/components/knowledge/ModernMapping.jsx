@@ -112,6 +112,14 @@ export default function ModernMapping() {
 
   return (
     <div>
+      <div className="module-page-header">
+        <span className="module-page-icon">🔬</span>
+        <div className="module-page-text">
+          <span className="module-page-title">中西对照</span>
+          <span className="module-page-sub">中医术语 · 现代病理释义</span>
+        </div>
+        <span className="module-page-count">共 {filteredMappings.length} 条</span>
+      </div>
       <div className="view-toggle" style={{ marginBottom: '20px', flexWrap: 'wrap' }}>
         {categories.map(cat => (
           <button

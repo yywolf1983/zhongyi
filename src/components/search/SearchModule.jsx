@@ -268,6 +268,14 @@ export default function SearchModule() {
   if (!keyword) {
     return (
       <div>
+        <div className="module-page-header">
+          <span className="module-page-icon">🔎</span>
+          <div className="module-page-text">
+            <span className="module-page-title">全库检索</span>
+            <span className="module-page-sub">病证 · 方药 · 针灸 · 对照</span>
+          </div>
+          <span className="module-page-count">{searchHistory.length > 0 ? `${searchHistory.length} 条历史` : '待检索'}</span>
+        </div>
         {searchHistory.length > 0 ? (
           <div className="card">
             <div className="card-title">

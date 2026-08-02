@@ -47,9 +47,13 @@ export default function BookmarksModule() {
 
   return (
     <div>
-      <div className="bookmarks-header">
-        <h2>我的收藏</h2>
-        <span className="bookmarks-count">共 {bookmarks.length} 项</span>
+      <div className="module-page-header">
+        <span className="module-page-icon">⭐</span>
+        <div className="module-page-text">
+          <span className="module-page-title">我的收藏</span>
+          <span className="module-page-sub">研读所得 · 随身参阅</span>
+        </div>
+        <span className="module-page-count">共 {bookmarks.length} 项</span>
       </div>
 
       {Object.entries(grouped).map(([type, items]) => (

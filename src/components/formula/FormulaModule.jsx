@@ -537,6 +537,14 @@ export default function FormulaModule() {
 
   return (
     <div>
+      <div className="module-page-header">
+        <span className="module-page-icon">💊</span>
+        <div className="module-page-text">
+          <span className="module-page-title">方剂 · 中药</span>
+          <span className="module-page-sub">经方配伍 · 本草性味</span>
+        </div>
+        <span className="module-page-count">方 {allFormulas.length} · 药 {allMedicines.length}</span>
+      </div>
       <div className="view-toggle">
         <button
           className={`toggle-btn ${viewMode === 'formulas' ? 'active' : ''}`}

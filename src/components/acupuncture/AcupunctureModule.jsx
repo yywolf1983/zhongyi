@@ -573,6 +573,14 @@ export default function AcupunctureModule() {
 
   return (
     <div>
+      <div className="module-page-header">
+        <span className="module-page-icon">📍</span>
+        <div className="module-page-text">
+          <span className="module-page-title">经络 · 针灸</span>
+          <span className="module-page-sub">腧穴定位 · 针方治法</span>
+        </div>
+        <span className="module-page-count">穴 {acupoints.length} · 方 {prescriptions.length}</span>
+      </div>
       <div className="view-toggle">
         <button
           className={`toggle-btn ${viewMode === 'acupoints' ? 'active' : ''}`}
