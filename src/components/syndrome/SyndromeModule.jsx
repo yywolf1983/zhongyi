@@ -7,7 +7,6 @@ import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
-import FloatingBackButton from '../common/FloatingBackButton.jsx'
 import GroupedList from '../common/GroupedList.jsx'
 import { useAppContext } from '../../context/AppContext.jsx'
 
@@ -182,8 +181,6 @@ export default function SyndromeModule() {
 
     return (
       <div className="detail-container">
-        <FloatingBackButton onClick={handleBack} />
-
         <div className="detail-header-row">
           <div className="detail-header">
             <h1 className="detail-title">{syndrome.name}</h1>

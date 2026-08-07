@@ -9,7 +9,6 @@ import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
-import FloatingBackButton from '../common/FloatingBackButton.jsx'
 import GroupedList from '../common/GroupedList.jsx'
 import { FORMULA_CAT_ALIAS, MEDICINE_CAT_ALIAS, canonCat } from '../../data/categories.js'
 
@@ -233,8 +232,6 @@ export default function FormulaModule() {
 
     return (
       <div className="detail-container">
-      <FloatingBackButton onClick={handleBack} />
-
 
         <div className="detail-header-row">
           <div className="detail-header">
@@ -400,8 +397,6 @@ export default function FormulaModule() {
 
     return (
       <div className="detail-container">
-      <FloatingBackButton onClick={handleBack} />
-
 
         <div className="detail-header-row">
           <div className="detail-header">

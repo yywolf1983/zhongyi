@@ -194,8 +194,7 @@ select,
 .view-toggle,
 .category-tag,
 .clickable-tag,
-.scroll-top-btn,
-.back-fab {
+.scroll-top-btn {
   -webkit-user-select: none;
   user-select: none;
 }
@@ -971,49 +970,6 @@ mark,
   transform: scale(0.96);
 }
 
-/* 详情页返回：浮动圆形图标（绝对定位于内容区左上角，不占用内容行，避开底部系统导航/手势区） */
-.back-fab {
-  position: fixed;
-  top: calc(var(--safe-top) + 56px);
-  left: var(--space-md);
-  z-index: 200;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  padding: 0;
-  background-color: var(--color-primary);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  border: 1px solid color-mix(in srgb, #ffffff 28%, transparent);
-  border-radius: 50%;
-  cursor: pointer;
-  transition: transform var(--transition-normal), box-shadow var(--transition-normal), background var(--transition-normal), opacity var(--transition-normal);
-  color: #fff;
-  box-shadow: var(--shadow-xs);
-  -webkit-appearance: none;
-  -webkit-tap-highlight-color: transparent;
-  animation: back-fab-in 0.28s ease both;
-}
-/* 返回按钮（Portal 到 body，fixed 常驻左上）浮于内容左上角，其后内容向右让出空间，与标题共处一行 */
-.detail-container > :first-child {
-  padding-left: 52px;
-}
-.back-fab:active {
-  transform: scale(0.92);
-  background: var(--color-primary-dark, #244c69);
-  box-shadow: var(--shadow-sm);
-}
-.back-fab svg {
-  width: 22px;
-  height: 22px;
-  display: block;
-}
-@keyframes back-fab-in {
-  from { opacity: 0; transform: translateY(-6px); }
-  to { opacity: 1; transform: translateY(0); }
-}
 .detail-title {
   font-size: var(--font-size-2xl);
   color: var(--color-text-primary);

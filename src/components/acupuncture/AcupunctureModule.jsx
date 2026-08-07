@@ -7,7 +7,6 @@ import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import BookmarkButton from '../common/BookmarkButton.jsx'
 import DetailSection from '../common/DetailSection.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
-import FloatingBackButton from '../common/FloatingBackButton.jsx'
 import GroupedList from '../common/GroupedList.jsx'
 import { isNeedleDept } from '../../data/categories.js'
 import { useAppContext } from '../../context/AppContext.jsx'
@@ -272,8 +271,6 @@ export default function AcupunctureModule() {
 
     return (
       <div className="detail-container">
-        <FloatingBackButton onClick={handleBack} />
-
         <div className="detail-header-row">
           <div className="detail-header">
             <h1 className="detail-title">{acupoint.name}</h1>
@@ -420,8 +417,6 @@ export default function AcupunctureModule() {
 
     return (
       <div className="detail-container">
-        <FloatingBackButton onClick={handleBack} />
-
         <div className="detail-header-row">
           <div className="detail-header">
             <h1 className="detail-title">{presc.name}</h1>

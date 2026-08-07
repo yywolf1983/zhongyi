@@ -3,7 +3,6 @@ import { useNavigate, useSearchParams } from 'react-router-dom'
 import { SearchService } from '../../services/SearchService.js'
 import EmptyState from '../common/EmptyState.jsx'
 import { navigateToEntity } from '../../services/EntityRoute.js'
-import FloatingBackButton from '../common/FloatingBackButton.jsx'
 
 const typeLabels = {
   syndromes: '证型',
@@ -312,8 +311,6 @@ export default function SearchModule() {
   // Results loaded
   return (
     <div className="detail-container">
-      <FloatingBackButton onClick={handleBack} />
-
       <div className="search-results-header">
         搜索 "<strong>{searchResults.keyword}</strong>" 共找到 <strong>{searchResults.total}</strong> 条结果
       </div>

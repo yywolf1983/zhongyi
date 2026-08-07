@@ -58,7 +58,6 @@ function ScrollTopButton() {
 // Android 返回键处理 + 状态栏
 function useCapacitorNative() {
   const navigate = useNavigate()
-  const location = useLocation()
 
   useEffect(() => {
     // 设置 Android 状态栏颜色
@@ -74,21 +73,21 @@ function useCapacitorNative() {
       }
     }
 
-    // 处理 Android 返回键
+    // 处理 Android 系统返回键（官方推荐模式）：
+    // canGoBack 由 Capacitor 依据 webview 历史计算——能返回则走浏览器历史，不能返回（已在首页）则退出应用。
+    // 使用 window.history.back() 而非 react-router 的 navigate(-1)，保证与 Capacitor 跟踪的历史栈一致。
+    let removeListener = () => {}
     const setupBackButton = async () => {
       try {
         const { App } = await import('@capacitor/app')
-        App.addListener('backButton', ({ canGoBack }) => {
-          if (!canGoBack) {
-            // 如果已经在首页（歌诀），按返回键退出应用
-            if (location.pathname === '/' || location.pathname === '/syndromes') {
-              App.exitApp()
-            } else {
-              // 否则返回上一页
-              navigate(-1)
-            }
+        const handle = await App.addListener('backButton', ({ canGoBack }) => {
+          if (canGoBack) {
+            window.history.back()
+          } else {
+            App.exitApp()
           }
         })
+        removeListener = () => handle.remove()
       } catch {
         // App plugin not available on this platform (web)
       }
@@ -96,7 +95,8 @@ function useCapacitorNative() {
 
     setupStatusBar()
     setupBackButton()
-  }, [navigate, location.pathname])
+    return () => removeListener()
+  }, [navigate])
 }
 
 // 应用启动时初始化数据，显示加载状态
