@@ -2,7 +2,6 @@ import { useEffect, useState, useCallback } from 'react'
 import { createPortal } from 'react-dom'
 import { BrowserRouter, Routes, Route, useLocation, useNavigate } from 'react-router-dom'
 import { AppProvider } from '../context/AppContext'
-import Header from '../components/common/Header'
 import Navigation from '../components/common/Navigation'
 import GlobalSearchBar from '../components/common/GlobalSearchBar'
 import ErrorBoundary from '../components/common/ErrorBoundary'
@@ -142,19 +141,19 @@ function DataLoader({ children }) {
   }, [])
 
   if (dataState === 'loading') {
+    const cardCount = 8
     return (
-      <div style={{
-        display: 'flex', flexDirection: 'column', alignItems: 'center',
-        justifyContent: 'center', minHeight: '50vh', padding: '40px 20px'
-      }}>
-        <div className="loading-spinner" style={{
-          width: '40px', height: '40px', border: '3px solid var(--color-border)',
-          borderTopColor: 'var(--color-primary)', borderRadius: '50%',
-          animation: 'spin 0.8s linear infinite', marginBottom: '16px'
-        }} />
-        <p style={{ color: 'var(--color-text-hint)', fontSize: '0.95rem' }}>
-          {children.props?.loadingText || '正在加载数据...'}
-        </p>
+      <div className="loading-skeleton" role="status" aria-label="加载中">
+        <div className="skeleton skeleton-banner" />
+        <div className="skeleton-grid">
+          {Array.from({ length: cardCount }).map((_, i) => (
+            <div className="skeleton-card" key={i}>
+              <div className="skeleton skeleton-line w-60" />
+              <div className="skeleton skeleton-line w-40" />
+              <div className="skeleton skeleton-line w-80" />
+            </div>
+          ))}
+        </div>
       </div>
     )
   }
@@ -191,14 +190,18 @@ function DataLoader({ children }) {
 // App Shell：独立滚动区（.app-scroll）+ 底部固定导航（flex 子项，不依赖 position:fixed）
 function Layout({ children }) {
   useCapacitorNative()
+  const location = useLocation()
+
+  // 进入具体详情页（带 id 的路由）时隐藏顶部全局搜索栏，减少重复、聚焦内容
+  const isDetail = /^\/(syndromes|acupuncture|formulas|medicines)\/.+/.test(location.pathname)
 
   return (
     <div className="app-shell">
       <div className="app-scroll">
-        <Header />
-        <GlobalSearchBar />
+        {!isDetail && <GlobalSearchBar />}
         <main className="main-content">
-          <div className="page-enter">
+          {/* 按路由 key 重挂，使每次跳转都重放淡入动画 */}
+          <div className="page-enter" key={location.pathname}>
             <ErrorBoundary>
               <DataLoader>{children}</DataLoader>
             </ErrorBoundary>
