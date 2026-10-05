@@ -17,7 +17,7 @@ const TYPE_LABEL = {
 
 export default function HomeModule() {
   const navigate = useNavigate()
-  const { recent, bookmarks } = useAppContext()
+  const { recent } = useAppContext()
 
   const stats = useMemo(() => ({
     syndromes: DataManager.getAll(DATA_TYPES.SYNDROMES).length,
@@ -68,20 +68,6 @@ export default function HomeModule() {
             </button>
           ))}
         </div>
-      </section>
-
-      <section>
-        <div className="home-section-head">
-          <h2 className="home-section-title">我的</h2>
-          <button className="home-link" onClick={() => navigate('/bookmarks')} type="button">查看全部</button>
-        </div>
-        <button className="home-card" style={{ width: '100%' }} onClick={() => navigate('/bookmarks')} type="button">
-          <span className="home-card-icon">⭐</span>
-          <span className="home-card-body">
-            <span className="home-card-title">我的收藏</span>
-            <span className="home-card-count">已收藏 {bookmarks.length} 条</span>
-          </span>
-        </button>
       </section>
 
       {recent.length > 0 && (

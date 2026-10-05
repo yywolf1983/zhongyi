@@ -3,9 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom'
 const tabs = [
   { id: 'formulas', path: '/formulas', label: '方剂', icon: '📜' },
   { id: 'acupuncture', path: '/acupuncture', label: '针灸', icon: '💉' },
-  { id: 'syndrome', path: '/', label: '辨证', icon: '☯' },
-  { id: 'rhyme', path: '/syndromes', label: '歌诀', icon: '📖' },
-  { id: 'bookmarks', path: '/bookmarks', label: '我的', icon: '👤' }
+  { id: 'syndrome', path: '/', label: '辨证', icon: '☯' }
 ]
 
 export default function Navigation() {
@@ -16,8 +14,6 @@ export default function Navigation() {
   const isActive = (tab) => {
     const { pathname } = location
     if (tab.path === '/') return pathname === '/' || pathname.startsWith('/syndromes/')
-    // 歌诀：仅在精确的 /syndromes 高亮，避免与辨证详情 /syndromes/:id 冲突
-    if (tab.id === 'rhyme') return pathname === '/syndromes'
     if (tab.id === 'formulas') return pathname.startsWith('/formulas') || pathname.startsWith('/medicines')
     return pathname.startsWith(tab.path)
   }

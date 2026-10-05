@@ -5,12 +5,11 @@ import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
 import { navigateToEntityByName } from '../../services/EntityRoute.js'
 import { useAppContext } from '../../context/AppContext.jsx'
-import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
 import GroupedList from '../common/GroupedList.jsx'
-import { FORMULA_CAT_ALIAS, MEDICINE_CAT_ALIAS, canonCat } from '../../data/categories.js'
+import { FORMULA_CAT_ALIAS, MEDICINE_CAT_ALIAS, FORMULA_CAT_ORDER, canonCat } from '../../data/categories.js'
 
 // 横滑 chip 行（手机友好）：一行展示分类/子类，带数量，超出横向滚动
 function CatRow({ options, active, onSelect, small }) {
@@ -59,14 +58,16 @@ export default function FormulaModule() {
 
   // 分类归并映射统一维护在 src/data/categories.js（数据库已同步归并，此处为兜底）
 
-  // 大类选项（带数量，按数量降序，便于手机上优先看到常用类）
+  // 大类选项（带数量，按《方剂学》传统顺序，便于按治法体系浏览）
   const formulaCatOpts = useMemo(() => {
     const m = {}
     allFormulas.forEach(f => {
       const c = canonCat(f.category, FORMULA_CAT_ALIAS)
       m[c] = (m[c] || 0) + 1
     })
-    const entries = Object.entries(m).sort((a, b) => b[1] - a[1])
+    const ordered = FORMULA_CAT_ORDER.filter(k => m[k])
+    const others = Object.keys(m).filter(k => !FORMULA_CAT_ORDER.includes(k)).sort((a, b) => m[b] - m[a])
+    const entries = [...ordered, ...others].map(k => [k, m[k]])
     return [
       { value: 'all', label: '全部', count: allFormulas.length },
       ...entries.map(([k, v]) => ({ value: k, label: k, count: v })),
@@ -242,7 +243,6 @@ export default function FormulaModule() {
               {formula.subcategory && <span className="category-tag">{Array.isArray(formula.subcategory) ? formula.subcategory.join('、') : formula.subcategory}</span>}
             </div>
           </div>
-          <BookmarkButton item={formula} type="formula" />
         </div>
 
         <div className="section">
@@ -407,7 +407,6 @@ export default function FormulaModule() {
               {medicine.subcategory && <span className="category-tag">{Array.isArray(medicine.subcategory) ? medicine.subcategory.join('、') : medicine.subcategory}</span>}
             </div>
           </div>
-          <BookmarkButton item={medicine} type="medicine" />
         </div>
 
         <div className="section">

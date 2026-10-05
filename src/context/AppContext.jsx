@@ -1,15 +1,13 @@
 import { createContext, useContext } from 'react'
-import { useBookmarks } from '../hooks/useBookmarks'
 import { useRecent } from '../hooks/useRecent'
 
 const AppContext = createContext(null)
 
 export function AppProvider({ children }) {
-  const bookmarkHook = useBookmarks()
   const recentHook = useRecent()
 
   return (
-    <AppContext.Provider value={{ ...bookmarkHook, ...recentHook }}>
+    <AppContext.Provider value={recentHook}>
       {children}
     </AppContext.Provider>
   )

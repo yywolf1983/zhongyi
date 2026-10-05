@@ -3,12 +3,12 @@ import { useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { DataManager } from '../../services/DataManager.js'
 import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
-import BookmarkButton from '../common/BookmarkButton.jsx'
 import EmptyState from '../common/EmptyState.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import ComparisonItems from '../common/ComparisonItems.jsx'
 import GroupedList from '../common/GroupedList.jsx'
 import { useAppContext } from '../../context/AppContext.jsx'
+import { SYNDROME_PRINCIPLES, getClassifDimensions } from '../../data/categories.js'
 
 function CatRow({ options, active, onSelect, small }) {
   return (
@@ -37,37 +37,44 @@ export default function SyndromeModule() {
   const allSyndromes = useMemo(() => DataManager.getAll(DATA_TYPES.SYNDROMES), [])
   const [selectedSyndrome, setSelectedSyndrome] = useState(null)
   const [expandedTreatment, setExpandedTreatment] = useState(null)
-  // 八纲(大类) + 辨证方法(子类) 两级筛选，列表按辨证方法扁平分组（与方剂/针灸同款）
+  // 辨证纲领(大类) + 具体证型(子类) 两级筛选，列表按纲领扁平分组（与方剂/针灸同款）
   const [syndromeCatFilter, setSyndromeCatFilter] = useState('all')
   const [syndromeCatOpen, setSyndromeCatOpen] = useState(false)
   const [syndromeSubFilter, setSyndromeSubFilter] = useState('all')
   const [syndromeSubOpen, setSyndromeSubOpen] = useState(false)
 
-  // 八纲大类选项 + 数量
+  // 辨证纲领(大类)选项 + 数量，按传统体系顺序
   const syndromeCatOpts = useMemo(() => {
     const m = {}
     allSyndromes.forEach(s => {
-      (s.classification || []).forEach(c => { if (c) m[c] = (m[c] || 0) + 1 })
+      (s.category || []).forEach(c => { if (c) m[c] = (m[c] || 0) + 1 })
     })
-    const entries = Object.entries(m).sort((a, b) => b[1] - a[1])
+    const ordered = SYNDROME_PRINCIPLES.filter(p => m[p])
+    const others = Object.keys(m).filter(k => !SYNDROME_PRINCIPLES.includes(k)).sort((a, b) => m[b] - m[a])
+    const entries = [...ordered, ...others].map(k => [k, m[k]])
     return [
-      { value: 'all', label: '全部八纲', count: allSyndromes.length },
+      { value: 'all', label: '全部纲领', count: allSyndromes.length },
       ...entries.map(([k, v]) => ({ value: k, label: k, count: v })),
     ]
   }, [allSyndromes])
 
-  // 辨证方法子类选项（随大类联动）
+  // 具体证型(子类)选项（随大类联动，并限定在所选纲领维度内，避免混入其他纲领标签）
   const syndromeSubOpts = useMemo(() => {
     const base = syndromeCatFilter === 'all'
       ? allSyndromes
-      : allSyndromes.filter(s => (s.classification || []).includes(syndromeCatFilter))
+      : allSyndromes.filter(s => (s.category || []).includes(syndromeCatFilter))
     const m = {}
     base.forEach(s => {
-      (s.category || []).forEach(c => { if (c) m[c] = (m[c] || 0) + 1 })
+      ;(s.classification || []).forEach(c => {
+        if (!c) return
+        // 仅保留属于当前纲领维度的细分（全量时不过滤）
+        if (syndromeCatFilter !== 'all' && !getClassifDimensions(c).includes(syndromeCatFilter)) return
+        m[c] = (m[c] || 0) + 1
+      })
     })
     const entries = Object.entries(m).sort((a, b) => b[1] - a[1])
     return [
-      { value: 'all', label: '全部辨证方法', count: base.length },
+      { value: 'all', label: '全部证型', count: base.length },
       ...entries.map(([k, v]) => ({ value: k, label: k, count: v })),
     ]
   }, [allSyndromes, syndromeCatFilter])
@@ -76,10 +83,10 @@ export default function SyndromeModule() {
   const syndromes = useMemo(() => {
     let list = allSyndromes
     if (syndromeCatFilter !== 'all') {
-      list = list.filter(s => (s.classification || []).includes(syndromeCatFilter))
+      list = list.filter(s => (s.category || []).includes(syndromeCatFilter))
     }
     if (syndromeSubFilter !== 'all') {
-      list = list.filter(s => (s.category || []).includes(syndromeSubFilter))
+      list = list.filter(s => (s.classification || []).includes(syndromeSubFilter))
     }
     return list
   }, [allSyndromes, syndromeCatFilter, syndromeSubFilter])
@@ -186,25 +193,38 @@ export default function SyndromeModule() {
             <h1 className="detail-title">{syndrome.name}</h1>
             <p className="detail-pinyin">{syndrome.pinyin}</p>
             <div className="detail-category">
-              {syndrome.category?.length > 0 && syndrome.category.map((cat, i) => (
-                <span key={i} className="category-tag">{cat}</span>
-              ))}
+              {(() => {
+                const cats = syndromeCatFilter !== 'all'
+                  ? syndrome.category.filter(c => c === syndromeCatFilter)
+                  : syndrome.category
+                const shown = cats.length ? cats : syndrome.category
+                return shown.map((cat, i) => (
+                  <span key={i} className="category-tag">{cat}</span>
+                ))
+              })()}
             </div>
-            {syndrome.classification?.length > 0 && (
-              <div className="detail-meta-row">
-                <span className="detail-meta-label">八纲</span>
-                <div className="tag-list">
-                  {syndrome.classification.map(c => (
-                    <span key={c}
-                      className={`tag-item ${(c === '阴证' || c === '阳证' || c === '阴阳错杂') ? 'primary' : ''}`}>
-                      {c}
-                    </span>
-                  ))}
+            {syndrome.classification?.length > 0 && (() => {
+              const shown = syndromeSubFilter !== 'all'
+                ? syndrome.classification.filter(c => c === syndromeSubFilter)
+                : syndromeCatFilter === 'all'
+                  ? syndrome.classification
+                  : syndrome.classification.filter(c => getClassifDimensions(c).includes(syndromeCatFilter))
+              if (!shown.length) return null
+              return (
+                <div className="detail-meta-row">
+                  <span className="detail-meta-label">具体证型</span>
+                  <div className="tag-list">
+                    {shown.map(c => (
+                      <span key={c}
+                        className={`tag-item ${(c === '阴证' || c === '阳证' || c === '阴阳错杂') ? 'primary' : ''}`}>
+                        {c}
+                      </span>
+                    ))}
+                  </div>
                 </div>
-              </div>
-            )}
+              )
+            })()}
           </div>
-          <BookmarkButton item={syndrome} type="syndrome" />
         </div>
 
         {anchorSections.length > 1 && (
@@ -390,20 +410,20 @@ export default function SyndromeModule() {
         <span className="module-page-icon">🩺</span>
         <div className="module-page-text">
           <span className="module-page-title">中医辨证</span>
-          <span className="module-page-sub">八纲辨证 · 审证求因</span>
+          <span className="module-page-sub">辨证纲领 · 审证求因</span>
         </div>
         <span className="module-page-count">共 {allSyndromes.length} 证</span>
       </div>
-      {/* 八纲(大类) + 辨证方法(子类) 两级筛选，与方剂/针灸同款 */}
+      {/* 辨证纲领(大类) + 具体证型(子类) 两级筛选，与方剂/针灸同款 */}
       <div className="cat-filter">
         <button
           type="button"
           className="cat-filter-toggle"
           onClick={() => setSyndromeCatOpen(o => !o)}
         >
-          <span className="cat-filter-title">八纲</span>
+          <span className="cat-filter-title">辨证纲领</span>
           <span className="cat-filter-summary">
-            {syndromeCatFilter === 'all' ? '全部八纲' : syndromeCatFilter}
+            {syndromeCatFilter === 'all' ? '全部纲领' : syndromeCatFilter}
           </span>
           <span className={`cat-filter-caret ${syndromeCatOpen ? 'open' : ''}`}>▾</span>
         </button>
@@ -422,9 +442,9 @@ export default function SyndromeModule() {
           className="cat-filter-toggle"
           onClick={() => setSyndromeSubOpen(o => !o)}
         >
-          <span className="cat-filter-title">辨证方法</span>
+          <span className="cat-filter-title">具体证型</span>
           <span className="cat-filter-summary">
-            {syndromeSubFilter === 'all' ? '全部辨证方法' : syndromeSubFilter}
+            {syndromeSubFilter === 'all' ? '全部证型' : syndromeSubFilter}
           </span>
           <span className={`cat-filter-caret ${syndromeSubOpen ? 'open' : ''}`}>▾</span>
         </button>
@@ -432,14 +452,28 @@ export default function SyndromeModule() {
           <CatRow
             options={syndromeSubOpts}
             active={syndromeSubFilter}
-            onSelect={(v) => { setSyndromeSubFilter(v); setSyndromeSubOpen(false) }}
+            onSelect={(v) => {
+              // 选了具体细分后，自动把纲领收敛到该细分所属维度，避免混入其他分类
+              if (v !== 'all') {
+                const dims = getClassifDimensions(v)
+                if (dims.length > 0) setSyndromeCatFilter(dims[0])
+              }
+              setSyndromeSubFilter(v); setSyndromeSubOpen(false)
+            }}
           />
         )}
       </div>
 
       <GroupedList
         items={syndromes}
-        getGroup={(s) => s.category?.[0] || s.classification?.[0] || '其他'}
+        getGroup={(s) => {
+          if (syndromeSubFilter !== 'all') return syndromeSubFilter
+          if (syndromeCatFilter !== 'all') {
+            const sub = (s.classification || []).find(c => getClassifDimensions(c).includes(syndromeCatFilter))
+            return sub || syndromeCatFilter
+          }
+          return s.category?.[0] || s.classification?.[0] || '其他'
+        }}
         getKey={(s) => s.id}
         emptyMessage="未找到匹配的证型"
         renderItem={(syndrome) => (
@@ -450,21 +484,36 @@ export default function SyndromeModule() {
           >
             <div className="list-item-title">
               {syndrome.name}
-              {syndrome.category && syndrome.category.length > 0 && (
-                <span className="list-item-cat">{syndrome.category.slice(0, 2).join('·')}</span>
-              )}
+              {syndrome.category && syndrome.category.length > 0 && (() => {
+                // 选定具体证型时显示该标签；仅纲领时显示当前纲领；否则取首要纲领
+                const cats = syndromeSubFilter !== 'all'
+                  ? [syndromeSubFilter]
+                  : syndromeCatFilter !== 'all'
+                    ? [syndromeCatFilter]
+                    : syndrome.category.slice(0, 1)
+                if (!cats.length) return null
+                return <span className="list-item-cat">{cats.join('·')}</span>
+              })()}
             </div>
             <div className="list-item-pinyin">{syndrome.pinyin}</div>
-            {syndrome.classification && syndrome.classification.length > 0 && (
-              <div className="tag-list list-item-tags">
-                {syndrome.classification.map((c) => (
-                  <span
-                    key={c}
-                    className={`tag-item ${(c === '阴证' || c === '阳证' || c === '阴阳错杂') ? 'primary' : ''}`}
-                  >{c}</span>
-                ))}
-              </div>
-            )}
+            {syndrome.classification && syndrome.classification.length > 0 && (() => {
+              const shown = syndromeSubFilter !== 'all'
+                ? syndrome.classification.filter(c => c === syndromeSubFilter)
+                : syndromeCatFilter === 'all'
+                  ? syndrome.classification
+                  : syndrome.classification.filter(c => getClassifDimensions(c).includes(syndromeCatFilter))
+              if (!shown.length) return null
+              return (
+                <div className="tag-list list-item-tags">
+                  {shown.map((c) => (
+                    <span
+                      key={c}
+                      className={`tag-item ${(c === '阴证' || c === '阳证' || c === '阴阳错杂') ? 'primary' : ''}`}
+                    >{c}</span>
+                  ))}
+                </div>
+              )
+            })()}
             <div className="list-item-desc">
               {syndrome.pathogenesis?.substring(0, 80)}{syndrome.pathogenesis && syndrome.pathogenesis.length > 80 ? '...' : ''}
             </div>

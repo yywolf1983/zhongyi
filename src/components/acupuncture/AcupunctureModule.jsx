@@ -4,11 +4,10 @@ import { DataManager } from '../../services/DataManager.js'
 import { RelationService } from '../../services/RelationService.js'
 import { DATA_TYPES } from '../../services/DataManager.js'
 import { navigateToEntityByName } from '../../services/EntityRoute.js'
-import BookmarkButton from '../common/BookmarkButton.jsx'
 import DetailSection from '../common/DetailSection.jsx'
 import ClassicExcerpts from '../common/ClassicExcerpts.jsx'
 import GroupedList from '../common/GroupedList.jsx'
-import { isNeedleDept } from '../../data/categories.js'
+import { isNeedleDept, NEEDLE_FUNC_ALIAS, canonCat } from '../../data/categories.js'
 import { useAppContext } from '../../context/AppContext.jsx'
 
 // 两列网格分类 chip 行（与方剂模块一致：带数量、选中高亮）
@@ -52,10 +51,14 @@ export default function AcupunctureModule() {
   const [acupointSubOpen, setAcupointSubOpen] = useState(false)
   const [prescFuncOpen, setPrescFuncOpen] = useState(false)
 
-  // 功效(治法)维度选项：排除中医病证科目（内/妇/儿等），按功效筛选
+  // 功效(治法)维度选项：排除中医病证科目（内/妇/儿等），按功效筛选并归并别名
   const prescFuncOpts = useMemo(() => {
     const m = {}
-    prescriptions.forEach(n => { if (n.category && !isNeedleDept(n.category)) m[n.category] = (m[n.category] || 0) + 1 })
+    prescriptions.forEach(n => {
+      if (!n.category || isNeedleDept(n.category)) return
+      const c = canonCat(n.category, NEEDLE_FUNC_ALIAS)
+      m[c] = (m[c] || 0) + 1
+    })
     const entries = Object.entries(m).sort((a, b) => b[1] - a[1])
     return [
       { value: 'all', label: '全部功效', count: prescriptions.filter(n => n.category && !isNeedleDept(n.category)).length },
@@ -65,7 +68,9 @@ export default function AcupunctureModule() {
 
   const filteredPrescs = useMemo(() => {
     let list = prescriptions
-    if (prescFuncFilter !== 'all') list = list.filter(p => !isNeedleDept(p.category) && p.category === prescFuncFilter)
+    if (prescFuncFilter !== 'all') {
+      list = list.filter(p => !isNeedleDept(p.category) && canonCat(p.category, NEEDLE_FUNC_ALIAS) === prescFuncFilter)
+    }
     return list
   }, [prescriptions, prescFuncFilter])
 
@@ -279,7 +284,6 @@ export default function AcupunctureModule() {
               <span className="category-tag">{acupoint.meridian}</span>
             </div>
           </div>
-          <BookmarkButton item={acupoint} type="acupoint" />
         </div>
 
         <DetailSection title="位置描述">
@@ -434,7 +438,6 @@ export default function AcupunctureModule() {
               )}
             </div>
           </div>
-          <BookmarkButton item={presc} type="needle" />
         </div>
 
         {presc.effects && presc.effects.length > 0 && (

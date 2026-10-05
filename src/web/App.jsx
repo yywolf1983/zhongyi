@@ -12,8 +12,6 @@ import AcupunctureModule from '../components/acupuncture/AcupunctureModule'
 import FormulaModule from '../components/formula/FormulaModule'
 import SearchModule from '../components/search/SearchModule'
 import ModernMapping from '../components/knowledge/ModernMapping'
-import BookmarksModule from '../components/bookmarks/BookmarksModule'
-import RhymeModule from '../components/rhyme/RhymeModule'
 
 // 路由变化自动滚动到顶部（滚动容器为 .app-scroll）
 function ScrollToTop() {
@@ -220,7 +218,6 @@ export default function App() {
         <ScrollToTop />
         <Routes>
           <Route element={<Layout><SyndromeModule /></Layout>} path="/" />
-          <Route element={<Layout><RhymeModule /></Layout>} path="/syndromes" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="/syndromes/:syndromeId" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture" />
           <Route element={<Layout><AcupunctureModule /></Layout>} path="/acupuncture/:acupointId" />
@@ -234,7 +231,6 @@ export default function App() {
           <Route element={<Layout><FormulaModule /></Layout>} path="/medicines/:medicineId" />
           <Route element={<Layout><SearchModule /></Layout>} path="/search" />
           <Route element={<Layout><ModernMapping /></Layout>} path="/modern-mapping" />
-          <Route element={<Layout><BookmarksModule /></Layout>} path="/bookmarks" />
           <Route element={<Layout><SyndromeModule /></Layout>} path="*" />
         </Routes>
       </AppProvider>
